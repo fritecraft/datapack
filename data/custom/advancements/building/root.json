@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bricks"
+        },
+        "title": "Construction",
+        "description": "La limite est votre imagination... et les ressources",
+        "background": "minecraft:textures/block/bricks.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "place_block": {
+            "trigger": "minecraft:placed_block"
+        }
+    }
+}

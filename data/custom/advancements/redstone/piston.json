@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:piston"
+        },
+        "title": "Faut pas pousser",
+        "description": "Fabriquer et placer un piston"
+    },
+    "parent": "custom:redstone/root",
+    "criteria": {
+        "piston": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:piston"
+            }
+        }
+    }
+}

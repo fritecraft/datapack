@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:filled_map"
+		},
+		"title": "Trésor caché",
+		"description": "Utiliser une carte au trésor"
+	},
+	"parent": "custom:ocean/shipwreck",
+	"criteria": {
+		"buried_treasure": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"feature": "Buried_Treasure"
+			}
+		}
+	}
+}

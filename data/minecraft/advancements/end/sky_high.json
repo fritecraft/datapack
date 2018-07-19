@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:feather"
+        },
+        "title": "Toucher le ciel",
+        "description": "Voler plus haut que la limite du monde",
+        "frame": "goal"
+    },
+    "parent": "minecraft:end/elytra",
+    "rewards": {
+        "function": "bc_rewards:end/sky_high"
+    },
+    "criteria": {
+        "world_height": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"position": {
+					"y": {
+						"min": 260.0
+					}
+				}
+            }
+        }
+    }
+}

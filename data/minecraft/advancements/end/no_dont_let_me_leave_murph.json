@@ -1,0 +1,66 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:chorus_plant"
+        },
+        "title": "Un peu loin non ?",
+        "description": "Voyager trop loin dans l'End",
+        "frame": "challenge",
+		"hidden": "true"
+    },
+    "parent": "minecraft:end/im_coming_back_murph",
+    "criteria": {
+        "outer_pos_x": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"x": {
+						"min": 10000.0
+					}
+				}
+            }
+        },
+        "outer_pos_z": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"z": {
+						"min": 10000.0
+					}
+				}
+            }
+        },
+        "outer_neg_x": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"x": {
+						"max": -10000.0
+					}
+				}
+            }
+        },
+        "outer_neg_z": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"z": {
+						"max": -10000.0
+					}
+				}
+            }
+        }
+    },
+    "requirements": [
+        [
+            "outer_pos_x",
+            "outer_pos_z",
+            "outer_neg_x",
+            "outer_neg_z"
+        ]
+    ]
+}

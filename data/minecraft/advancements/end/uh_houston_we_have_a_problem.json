@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:firework_rocket"
+        },
+        "title": "Programme Spatial",
+        "description": "Voler jusqu'à une hauteur relativement stupide",
+        "frame": "challenge"
+    },
+    "parent": "minecraft:end/sky_high",
+    "rewards": {
+		"experience": 500,
+    },
+    "criteria": {
+        "world_height": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"position": {
+					"y": {
+						"min": 1000.0
+					}
+				}
+            }
+        }
+    }
+}

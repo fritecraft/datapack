@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:redstone_lamp"
+        },
+        "title": "Ampoule",
+        "description": "Illuminer un endroit avec une lampe redstone"
+    },
+    "parent": "custom:building/glowstone",
+    "criteria": {
+        "redstone_lamp": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:redstone_lamp"
+            }
+        }
+    }
+}

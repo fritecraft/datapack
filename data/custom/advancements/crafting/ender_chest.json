@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_chest"
+        },
+        "title": "Interdimensional",
+		"description": "Craft an Enderchest"
+    },
+    "parent": "yanis48:crafting/anvil",
+    "criteria": {
+        "ender_chest": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:ender_chest"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bed",
+			"data": 14
+        },
+        "title": "On a bed of roses",
+        "description": "Make beds of all colors",
+		"frame": "goal"
+    },
+    "parent": "yanis48:crafting/all_dyes",
+	"rewards": {
+        "experience": 20
+    },
+    "criteria": {
+        "bed0": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 0
+                    }
+                ]
+            }
+        },
+		"bed1": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 1
+                    }
+                ]
+            }
+        },
+		"bed2": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 2
+                    }
+                ]
+            }
+        },
+		"bed3": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 3
+                    }
+                ]
+            }
+        },
+		"bed4": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 4
+                    }
+                ]
+            }
+        },
+		"bed5": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 5
+                    }
+                ]
+            }
+        },
+		"bed6": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 6
+                    }
+                ]
+            }
+        },
+		"bed7": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 7
+                    }
+                ]
+            }
+        },
+		"bed8": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 8
+                    }
+                ]
+            }
+        },
+		"bed9": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 9
+                    }
+                ]
+            }
+        },
+		"bed10": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 10
+                    }
+                ]
+            }
+        },
+		"bed11": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 11
+                    }
+                ]
+            }
+        },
+		"bed12": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 12
+                    }
+                ]
+            }
+        },
+		"bed13": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 13
+                    }
+                ]
+            }
+        },
+		"bed14": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 14
+                    }
+                ]
+            }
+        },
+		"bed15": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bed",
+						"data": 15
+                    }
+                ]
+            }
+        }
+    }
+}

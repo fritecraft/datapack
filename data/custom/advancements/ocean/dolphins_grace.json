@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cod"
+        },
+        "title": "Natation Olympique",
+        "description": "Nager avec des dauphins"
+    },
+    "parent": "custom:ocean/frost_walker",
+    "criteria": {
+        "dolphins_grace": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:dolphins_grace": {}
+                }
+            }
+        }
+    }
+}

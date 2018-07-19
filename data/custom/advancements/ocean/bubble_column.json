@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:magma_block"
+        },
+        "title": "Jacuzzi",
+        "description": "Pénétrer dans une colonne à bulles"
+    },
+	"parent": "custom:ocean/dolphins_grace",
+    "criteria": {
+        "bubble_column": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:bubble_column"
+            }
+        }
+    }
+}

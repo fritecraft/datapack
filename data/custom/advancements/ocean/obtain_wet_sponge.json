@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:sponge",
+			"data": 1
+        },
+        "title": "Exceptionnelle Absorption",
+        "description": "Ramasser des éponges"
+    },
+    "parent": "custom:ocean/enter_monument",
+	"rewards": {
+        "experience": 20
+    },
+    "criteria": {
+        "wet_sponge": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:sponge",
+						"data": 1,
+						"count": {
+							"min": 3
+						}
+                    }
+                ]
+            }
+        }
+    }
+}

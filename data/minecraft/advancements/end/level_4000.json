@@ -1,0 +1,26 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:firework_rocket"
+		},
+		"title": "Niveau 4000",
+		"description": "Mieux vaut prévoir un parachute au cas où",
+		"frame": "challenge"
+	},
+	"parent": "minecraft:end/elytra",
+	"rewards": {
+        "experience": 100
+    },
+	"criteria": {
+		"4000": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"position": {
+					"y": {
+						"min": 4000
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:detector_rail"
+        },
+        "title": "La puissance du chariot",
+        "description": "Fabriquer et placer un rail de détection"
+    },
+    "parent": "custom:redstone/pressure_plate",
+    "criteria": {
+        "detector_rail": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:detector_rail"
+            }
+        }
+    }
+}

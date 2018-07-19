@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:oak_planks"
+		},
+		"title": "Air vicié",
+		"description": "Entrer dans une mine abandonnée"
+	},
+	"parent": "custom:caving/root",
+	"criteria": {
+		"mineshaft": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"feature": "Mineshaft"
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:soul_sand"
+        },
+        "title": "Sable Hanté",
+        "description": "Rien à voir avec la forme"
+    },
+    "parent": "minecraft:nether/obtain_blaze_rod",
+    "criteria": {
+        "soul_sand": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:soul_sand"
+                    }
+                ]
+            }
+        }
+    }
+}

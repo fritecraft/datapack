@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:chest"
+        },
+        "title": "Stockage",
+        "description": "Fabriquer un coffre pour ranger votre équipement"
+    },
+    "parent": "custom:forestry/planks",
+    "criteria": {
+        "chest": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:chest"
+                    }
+                ]
+            }
+        }
+    }
+}

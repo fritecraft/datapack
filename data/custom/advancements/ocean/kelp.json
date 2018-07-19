@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:kelp"
+		},
+		"title": "Végétation aquatique",
+		"description": "Récuperer des algues"
+	},
+	"parent": "custom:ocean/green_in_the_blue",
+	"criteria": {
+		"kelp": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:kelp"
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra",
+			"durability": 1
+        },
+        "title": "Tout cassé",
+        "description": "Utiliser des elytrs jusqu'à les casser",
+        "frame": "goal"
+    },
+    "parent": "minecraft:end/elytra",
+    "criteria": {
+        "broken_elytra": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:elytra",
+						"durability": 1
+                    }
+                ]
+            }
+        }
+    }
+}

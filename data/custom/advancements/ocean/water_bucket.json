@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:water_bucket"
+        },
+        "title": "H2O",
+		"description": "Remplir un sceau d'eau"
+    },
+    "parent": "custom:ocean/root",
+    "criteria": {
+        "water_bucket": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:water_bucket"
+                    }
+                ]
+            }
+        }
+    }
+}

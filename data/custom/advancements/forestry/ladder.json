@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ladder"
+        },
+        "title": "Gravir les échelons",
+        "description": "Placer une échelle"
+    },
+    "parent": "custom:forestry/stick",
+    "criteria": {
+        "ladder": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:ladder"
+            }
+        }
+    }
+}

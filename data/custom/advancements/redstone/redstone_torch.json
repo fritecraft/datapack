@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:redstone_torch"
+        },
+        "title": "Photons actifs",
+        "description": "Fabriquer et placer une torche redstone"
+    },
+    "parent": "custom:redstone/root",
+    "criteria": {
+        "redstone_torch": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:redstone_torch"
+			}
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:spectral_arrow"
+        },
+        "title": "Tu ne peux plus te cacher !",
+        "description": "Toucher quelque chose avec une flèche spectrale"
+    },
+    "parent": "custom:combat/special_arrow",
+    "criteria": {
+        "spectral_arrow": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "is_projectile": true,
+                        "direct_entity": {
+                            "type": "minecraft:spectral_arrow"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

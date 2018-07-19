@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bread"
+        },
+        "title": "Smoke Wheat Everyday",
+		"description": "Bake bread"
+    },
+    "parent": "yanis48:crafting/root",
+    "criteria": {
+        "bread": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bread"
+                    }
+                ]
+            }
+        }
+    }
+}

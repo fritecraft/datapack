@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cooked_porkchop"
+        },
+        "title": "Déclaration de guerre",
+        "description": "Ils sont solidaires"
+    },
+    "parent": "minecraft:nether/root",
+    "criteria": {
+        "hurt_pigman": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:zombie_pigman"
+                }
+            }
+        }
+    }
+}

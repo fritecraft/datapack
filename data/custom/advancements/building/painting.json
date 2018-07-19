@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:painting"
+        },
+        "title": "Le chef-d'oeuvre",
+        "description": "Fabriquer une peinture"
+    },
+    "parent": "custom:building/sign",
+    "criteria": {
+        "painting": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:painting"
+                    }
+                ]
+            }
+        }
+    }
+}

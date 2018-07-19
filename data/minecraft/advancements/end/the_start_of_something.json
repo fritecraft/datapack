@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:end_crystal"
+        },
+        "title": "Renaissance ?",
+        "description": "Fabriquer un cristal de l'End"
+    },
+    "parent": "minecraft:end/kill_dragon",
+    "criteria": {
+        "end_crystal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:end_crystal"
+                    }
+                ]
+            }
+        }
+    }
+}

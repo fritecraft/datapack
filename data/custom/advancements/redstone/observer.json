@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:observer"
+        },
+        "title": "Regarde moi ça",
+        "description": "Fabriquer et placer un observateur"
+    },
+    "parent": "custom:redstone/dispenser",
+    "criteria": {
+        "observer": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:observer"
+            }
+        }
+    }
+}

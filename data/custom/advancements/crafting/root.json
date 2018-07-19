@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "title": "Crafting",
+        "description": "Combine the elements",
+        "background": "minecraft:textures/blocks/planks_spruce.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "crafting_table": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:crafting_table"
+            }
+        }
+    }
+}

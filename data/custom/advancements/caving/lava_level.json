@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lava_bucket"
+		},
+		"title": "Il fait chaud ici non ?",
+		"description": "Atteindre les lacs de lave"
+	},
+	"parent": "custom:caving/niamond_level",
+	"criteria": {
+		"10": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"position": {
+					"y": {
+						"max": 10
+					}
+				}
+			}
+		}
+	}
+}

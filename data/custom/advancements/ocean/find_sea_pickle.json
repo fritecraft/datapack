@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:sea_pickle"
+		},
+		"title": "Sans cornichons s'il vous plait",
+		"description": "Trouver un cornichon des mers"
+	},
+	"parent": "custom:ocean/root",
+	"criteria": {
+		"sea_pickle": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:sea_pickle"
+					}
+				]
+			}
+		}
+	}
+}

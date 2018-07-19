@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:rabbit_stew"
+        },
+        "title": "Killer Bunny",
+		"description": "Prepare a rabbit stew"
+    },
+    "parent": "yanis48:crafting/bread",
+    "criteria": {
+        "rabbit_stew": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:rabbit_stew"
+                    }
+                ]
+            }
+        }
+    }
+}

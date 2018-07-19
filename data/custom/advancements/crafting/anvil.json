@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:anvil"
+        },
+        "title": "Blacksmith",
+		"description": "Forge an anvil"
+    },
+    "parent": "yanis48:crafting/root",
+    "criteria": {
+        "anvil": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:anvil"
+                    }
+                ]
+            }
+        }
+    }
+}

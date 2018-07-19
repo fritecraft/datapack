@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "title": "Pyromaniac",
+		"description": "Assemble a fire charge"
+    },
+    "parent": "yanis48:crafting/root",
+    "criteria": {
+        "fire_charge": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:fire_charge"
+                    }
+                ]
+            }
+        }
+    }
+}

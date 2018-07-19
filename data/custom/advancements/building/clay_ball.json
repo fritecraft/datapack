@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:clay_ball"
+        },
+        "title": "Argilement",
+        "description": "Creuser de l'argile"
+    },
+    "parent": "custom:building/root",
+    "criteria": {
+        "clay_ball": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:clay_ball"
+                    }
+                ]
+            }
+        }
+    }
+}

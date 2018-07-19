@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:diamond_ore"
+		},
+		"title": "Je sens les diamants ...",
+		"description": "Atteindre le niveau des diamants"
+	},
+	"parent": "custom:caving/root",
+	"criteria": {
+		"16": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"position": {
+					"y": {
+						"max": 16
+					}
+				}
+			}
+		}
+	}
+}

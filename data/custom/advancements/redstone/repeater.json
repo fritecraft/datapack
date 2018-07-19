@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:repeater"
+        },
+        "title": "Vous pouvez répéter ?",
+        "description": "Fabriquer et placer un relai"
+    },
+    "parent": "custom:redstone/redstone_torch",
+    "criteria": {
+        "repeater": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:repeater"
+            }
+        }
+    }
+}

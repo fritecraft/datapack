@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"title": "Suivez le guide !",
+		"description": "Fabriquer une laisse pour le bétail"
+	},
+	"parent": "custom:livestock/root",
+	"criteria": {
+		"lead": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:lead"
+					}
+				]
+			}
+		}
+	}
+}

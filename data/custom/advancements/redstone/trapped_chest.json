@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:trapped_chest"
+        },
+        "title": "Mimic",
+        "description": "Fabriquer un coffre piégé"
+    },
+    "parent": "custom:redstone/tripwire_hook",
+    "criteria": {
+        "trapped_chest": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:trapped_chest"
+                    }
+                ]
+            }
+        }
+    }
+}

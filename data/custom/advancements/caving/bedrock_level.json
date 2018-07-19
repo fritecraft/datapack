@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:bedrock"
+		},
+		"title": "Incasable",
+		"description": "Vous ne passerez pas !"
+	},
+	"parent": "custom:caving/lava_level",
+	"criteria": {
+		"5": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"position": {
+					"y": {
+						"max": 5
+					}
+				}
+			}
+		}
+	}
+}

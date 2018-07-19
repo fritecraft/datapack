@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:daylight_detector"
+        },
+        "title": "Energie solaire",
+        "description": "Fabriquer et placer un détecteur de lumière"
+    },
+    "parent": "custom:redstone/observer",
+    "criteria": {
+        "daylight_detector": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:daylight_detector"
+            }
+        }
+    }
+}

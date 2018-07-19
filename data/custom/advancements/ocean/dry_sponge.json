@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:sponge"
+		},
+		"title": "Bob n'a pas besoin d'eau",
+		"description": "Faire sécher une éponge"
+	},
+	"parent": "custom:ocean/kill_elder_guardian",
+	"criteria": {
+		"sponge": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:sponge"
+					}
+				]
+			}
+		}
+	}
+}

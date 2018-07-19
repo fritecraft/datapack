@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cake"
+        },
+        "title": "The Lie",
+		"description": "Make a cake",
+		"frame": "challenge"
+    },
+    "parent": "yanis48:crafting/bread",
+	"rewards": {
+        "experience": 20
+    },
+    "criteria": {
+        "cake": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:cake"
+                    }
+                ]
+            }
+        }
+    }
+}

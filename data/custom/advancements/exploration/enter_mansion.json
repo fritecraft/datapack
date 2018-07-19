@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:dark_oak_planks"
+		},
+		"title": "Les parias",
+		"description": "Pénétrer dans un manoir"
+	},
+	"parent": "custom:exploration/village",
+	"criteria": {
+		"mansion": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"feature": "Mansion"
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:leather_boots"
+		},
+		"title": "Un peu cliché",
+		"description": "Pécher des bottes"
+	},
+	"parent": "custom:ocean/real_fish",
+	"criteria": {
+		"leather_boots": {
+			"trigger": "minecraft:fishing_rod_hooked",
+			"conditions": {
+				"item": {
+					"item": "minecraft:leather_boots"
+				}
+			}
+		}
+	}
+}

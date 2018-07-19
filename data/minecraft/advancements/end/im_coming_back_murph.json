@@ -1,0 +1,65 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:chorus_flower"
+        },
+        "title": "Je reviendrai !",
+        "description": "Aller loin dans l'End",
+        "frame": "goal"
+    },
+    "parent": "minecraft:end/void_walker",
+    "criteria": {
+        "outer_pos_x": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"x": {
+						"min": 2000.0
+					}
+				}
+            }
+        },
+        "outer_pos_z": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"z": {
+						"min": 2000.0
+					}
+				}
+            }
+        },
+        "outer_neg_x": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"x": {
+						"max": -2000.0
+					}
+				}
+            }
+        },
+        "outer_neg_z": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"dimension": "the_end",
+				"position": {
+					"z": {
+						"max": -2000.0
+					}
+				}
+            }
+        }
+    },
+    "requirements": [
+        [
+            "outer_pos_x",
+            "outer_pos_z",
+            "outer_neg_x",
+            "outer_neg_z"
+        ]
+    ]
+}

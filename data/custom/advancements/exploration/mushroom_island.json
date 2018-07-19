@@ -1,0 +1,30 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:mycelium"
+		},
+    "title": "Ca pue",
+    "description": "Trouver un biome champi"
+	},
+	"parent": "custom:exploration/make_map",
+	"criteria": {
+		"mushroom_biome": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:mushroom_fields"
+			}
+		},
+		"mushroom_shore": {
+			"trigger": "minecraft:location",
+			"conditions": {
+				"biome": "minecraft:mushroom_field_shore"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"mushroom_biome",
+			"mushroom_shore"
+		]
+	]
+}

@@ -1,0 +1,116 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:emerald_block"
+        },
+        "title": "Optimization",
+        "description": "Create all the possible storage blocks",
+		"frame": "goal"
+    },
+    "parent": "yanis48:crafting/anvil",
+	"rewards": {
+        "experience": 20
+    },
+    "criteria": {
+        "coal": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:coal_block"
+                    }
+                ]
+            }
+        },
+		"iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_block"
+                    }
+                ]
+            }
+        },
+		"gold": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:gold_block"
+                    }
+                ]
+            }
+        },
+		"diamond": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond_block"
+                    }
+                ]
+            }
+        },
+		"emerald": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:emerald_block"
+                    }
+                ]
+            }
+        },
+		"lapis": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:lapis_block"
+                    }
+                ]
+            }
+        },
+		"redstone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:redstone_block"
+                    }
+                ]
+            }
+        },
+		"bone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:bone_block"
+                    }
+                ]
+            }
+        },
+		"wheat": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:hay_block"
+                    }
+                ]
+            }
+        },
+		"slime": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:slime"
+                    }
+                ]
+            }
+        }
+    }
+}

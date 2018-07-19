@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stick"
+        },
+        "title": "Le meilleur baton",
+        "description": "Frabriquer un baton"
+    },
+    "parent": "custom:forestry/planks",
+    "criteria": {
+        "stick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stick"
+                    }
+                ]
+            }
+        }
+    }
+}

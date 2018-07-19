@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:tnt_minecart"
+        },
+        "title": "Explosion Mobile",
+        "description": "Placer un TNT dans un wagonnet"
+    },
+    "parent": "custom:redstone/tnt",
+    "criteria": {
+        "tnt_minecart": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:tnt_minecart"
+                    }
+                ]
+            }
+        }
+    }
+}

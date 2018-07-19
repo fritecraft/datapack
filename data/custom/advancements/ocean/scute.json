@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:scute"
+		},
+		"title": "Sors de ta coquille !",
+		"description": "Ramasser une écaille de tortue"
+	},
+	"parent": "custom:ocean/turtle_egg",
+	"criteria": {
+		"scute": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:scute"
+					}
+				]
+			}
+		}
+	}
+}

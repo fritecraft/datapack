@@ -1,0 +1,22 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:tripwire_hook"
+		},
+		"title": "Attention les pieds",
+		"description": "Fabriquer un crochet"
+	},
+	"parent": "custom:redstone/pressure_plate",
+	"criteria": {
+		"tripwire": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:tripwire_hook"
+					}
+				]
+			}
+		}
+	}
+}
