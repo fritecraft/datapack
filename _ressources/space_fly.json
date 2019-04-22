@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:feather"
+        },
+        "title": "Can you fly in void?",
+        "description": "Pour the elytra in void",
+        "frame": "challenge"
+    },
+    "parent": "minecraft:end/nice_view",
+    "rewards": {
+         
+        "experience": 500
+    
+
+    },		
+    "criteria": {
+        "world_height": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"position": {
+					"y": {
+						"max": -20.0
+					},
+					"location": {
+                        "dimension": "the_end"
+                    }
+				}
+            }
+        }	
+    }
+}
