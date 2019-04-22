@@ -1,0 +1,44 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:acacia_log"
+        },
+        "title": {"translate":"Travelling Merchant"},
+        "description": {"translate":"Travel to every type of village"},
+		"frame": "goal"
+    },
+    "parent": "minecraft:adventure/trade",
+    "rewards": {
+        "function": "bc_rewards:adventure/travelling_merchant"
+    },		
+    "criteria": {
+        "plains": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Village",
+				"biome": "minecraft:plains"
+            }
+        },
+        "desert": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Village",
+				"biome": "minecraft:desert"
+            }
+        },
+        "savanna": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Village",
+				"biome": "minecraft:savanna"
+            }
+        },
+        "taiga": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Village",
+				"biome": "minecraft:taiga"
+            }
+        }		
+    }
+}
