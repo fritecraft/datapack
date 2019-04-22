@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:nether_wart"
         },
-        "title": "La base",
+        "title": "La base des potions",
         "description": "Récuperer des verrues du Nether"
     },
     "parent": "minecraft:nether/soul_sand",

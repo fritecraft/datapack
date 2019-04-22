@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:splash_potion"
         },
-        "title": "Quand on joue avec le feu",
+        "title": "Quand on joue avec le feu...",
         "description": "Tuer une sorcière avec une potion",
         "frame": "goal"
     },

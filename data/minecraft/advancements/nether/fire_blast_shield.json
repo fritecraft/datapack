@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": "Bouclier anti-explosion",
+        "title": "Anti-explosion",
         "description": "Bloquer l'explosion d'une boule de feu de ghast",
     "parent": "blazeandcave:nether/giant_floating_jellyfish",
     "criteria": {

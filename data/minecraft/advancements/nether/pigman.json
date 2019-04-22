@@ -4,7 +4,7 @@
             "item": "minecraft:cooked_porkchop"
         },
         "title": "Déclaration de guerre",
-        "description": "Ils sont solidaires"
+        "description": "Déclencher une guerre de gang au Nether"
     },
     "parent": "minecraft:nether/root",
     "criteria": {

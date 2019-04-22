@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:spider_eye"
 		},
-		"title": "Desperate Times",
-		"description": "Eat everything bad for you",
+		"title": "Les temps sont durs",
+		"description": "Manger toutes les choses mauvaises pour la santé",
 		"frame": "goal"
 	},
 	"parent": "minecraft:husbandry/plant_seed",

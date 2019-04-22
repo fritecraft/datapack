@@ -3,8 +3,8 @@
 		"icon": {
 			"item": "minecraft:cookie"
 		},
-		"title": "Fat and Lazy",
-		"description": "Eat every dessert",
+		"title": "Douceurs",
+		"description": "Déguster les desserts",
 		"frame": "goal"
 	},
 	"parent": "minecraft:husbandry/make_cake",

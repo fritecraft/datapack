@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:magma_cream"
         },
-        "title": "Rester frai",
+        "title": "Fraicheur Garantie",
         "description": "Boire une potion de résistance au feu"
     },
     "parent": "minecraft:nether/brew_potion",

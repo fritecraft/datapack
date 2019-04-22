@@ -4,7 +4,7 @@
 			"item": "minecraft:poppy"
 		},
 		"title": "Flower Power",
-		"description": "Pick a flower"
+		"description": "Récolter une fleur"
 	},
 	"parent": "minecraft:husbandry/root",
 	"criteria": {

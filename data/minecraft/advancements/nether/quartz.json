@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:quartz"
         },
-        "title": "Collection de cristaux",
+        "title": "Quartz",
         "description": "Miner du quartz"
     },
     "parent": "minecraft:nether/root",

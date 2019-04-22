@@ -5,7 +5,7 @@
 			"durability": 1
         },
         "title": "Tout cassé",
-        "description": "Utiliser des elytrs jusqu'à les casser",
+        "description": "Utiliser des elytres jusqu'à les casser",
         "frame": "goal"
     },
     "parent": "minecraft:end/elytra",
