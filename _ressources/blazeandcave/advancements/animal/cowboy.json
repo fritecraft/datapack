@@ -6,7 +6,7 @@
         "title": {"translate":"Cowboy"},
         "description": {"translate":"Tame a horse by jumping on it over and over again"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
 	"rewards": {
 		"function": "bc_rewards:animal/cowboy"
     },		

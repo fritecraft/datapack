@@ -6,7 +6,7 @@
         "title": {"translate":"Tactical Fishing"},
         "description": {"translate":"Catch a fish... without a fishing rod!"}
     },
-    "parent": "minecraft:husbandry/fishy_business",
+    "parent": "fritecraft:husbandry/fishy_business",
 	"rewards": {
 		"function": "bc_rewards:animal/tactical_fishing"
     },		

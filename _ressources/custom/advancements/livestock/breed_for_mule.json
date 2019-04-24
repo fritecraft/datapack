@@ -6,7 +6,7 @@
 		"title": "Sélection artifificelle",
 		"description": "Faire se reproduire un cheval et un âne"
 	},
-	"parent": "custom:livestock/tame_horse",
+	"parent": "fritecraft:livestock/tame_horse",
 	"criteria": {
 		"mule": {
 			"trigger": "minecraft:bred_animals",

@@ -6,7 +6,7 @@
         "title": "Le projet",
         "description": "Construire avec des briques"
     },
-    "parent": "custom:building/brick",
+    "parent": "fritecraft:building/brick",
     "criteria": {
         "bricks": {
             "trigger": "minecraft:placed_block",

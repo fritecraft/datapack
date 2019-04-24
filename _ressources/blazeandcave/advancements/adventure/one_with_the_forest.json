@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every forest biome"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:adventure/kilometre_walk",	
+    "parent": "fritecraft:adventure/kilometre_walk",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/one_with_the_forest"

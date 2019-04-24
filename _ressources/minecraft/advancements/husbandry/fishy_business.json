@@ -6,7 +6,7 @@
         "title": {"translate":"Fishy Business"},
         "description": {"translate":"Catch a fish"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
 	"rewards": {
 		"function": "bc_rewards:animal/fishy_business"
     },		

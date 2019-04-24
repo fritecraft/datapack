@@ -7,7 +7,7 @@
         "description": {"translate":"Lure a Phantom into the Nether and then kill it"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:combat/anti_air",
+    "parent": "fritecraft:combat/anti_air",
 	"rewards": {
         "experience": 100,
 		"function": "bc_rewards:combat/well_handle_this"

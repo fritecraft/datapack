@@ -6,7 +6,7 @@
 		"title": "Parents protectifs",
 		"description": "Faire se reproduire des tortues"
 	},
-	"parent": "custom:ocean/green_in_the_blue",
+	"parent": "fritecraft:ocean/green_in_the_blue",
 	"criteria": {
 		"breed_turtles": {
 			"trigger": "minecraft:bred_animals",

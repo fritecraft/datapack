@@ -8,7 +8,7 @@
   ],
   "key": {
     "#": {
-      "tag": "custom:terracotta"
+      "tag": "fritecraft:terracotta"
     },
     "X": {
       "item": "minecraft:rose_red"

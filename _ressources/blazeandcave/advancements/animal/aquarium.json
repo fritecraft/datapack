@@ -7,7 +7,7 @@
         "description": {"translate":"Catch all four types of fish and set them free in an aquarium"},
 		"frame": "goal"
     },
-    "parent": "minecraft:husbandry/tactical_fishing",
+    "parent": "fritecraft:husbandry/tactical_fishing",
 	"rewards": {
 		"function": "bc_rewards:animal/aquarium"
     },		

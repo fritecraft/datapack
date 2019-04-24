@@ -6,7 +6,7 @@
         "title": {"translate":"Benchmarking"},
         "description": {"translate":"Construct a crafting bench with four wooden planks"}
     },
-    "parent": "blazeandcave:beginning/getting_wood",
+    "parent": "fritecraft:beginning/getting_wood",
 	"rewards": {
 		"function": "bc_rewards:beginning/benchmarking"
     },		

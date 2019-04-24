@@ -10,7 +10,7 @@
             "translate": "advancements.husbandry.tame_an_animal.description"
         }
     },
-    "parent": "custom:livestock/root",
+    "parent": "fritecraft:livestock/root",
     "criteria": {
         "tamed_animal": {
             "trigger": "minecraft:tame_animal"

@@ -6,7 +6,7 @@
         "title": {"translate":"Solar Power"},
         "description": {"translate":"Craft a daylight sensor"}
     },
-    "parent": "blazeandcave:redstone/comparing_comparator",
+    "parent": "fritecraft:redstone/comparing_comparator",
 	"rewards": {
 		"function": "bc_rewards:redstone/solar_power"
     },	

@@ -6,7 +6,7 @@
         "title": {"translate":"Enchanter"},
         "description": {"translate":"Craft an enchanting table"}
     },
-    "parent": "minecraft:story/form_obsidian",
+    "parent": "fritecraft:story/form_obsidian",
     "rewards": {
 		"function": "bc_rewards:mining/enchanter"
     },		

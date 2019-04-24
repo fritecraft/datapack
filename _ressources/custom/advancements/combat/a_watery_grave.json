@@ -6,7 +6,7 @@
         "title": {"translate":"A Watery Grave"},
         "description": {"translate":"Defeat a drowned in the briny depths. ","extra":[{"italic":"true","translate":"Gurgle"}]}
     },
-    "parent": "blazeandcave:combat/iron_belly",
+    "parent": "fritecraft:combat/iron_belly",
     "rewards": {
         "function": "bc_rewards:combat/a_watery_grave"
     },		

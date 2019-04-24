@@ -6,7 +6,7 @@
         "title": "Jacuzzi",
         "description": "Pénétrer dans une colonne à bulles"
     },
-	"parent": "custom:ocean/dolphins_grace",
+	"parent": "fritecraft:ocean/dolphins_grace",
     "criteria": {
         "bubble_column": {
             "trigger": "minecraft:enter_block",

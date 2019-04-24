@@ -7,7 +7,7 @@
         "description": {"translate":"Build, light and enter a Nether Portal"},
 		"frame": "goal"
     },
-    "parent": "minecraft:story/form_obsidian",
+    "parent": "fritecraft:story/form_obsidian",
 	"rewards": {
 		"function": "bc_rewards:mining/we_need_to_go_deeper"
     },

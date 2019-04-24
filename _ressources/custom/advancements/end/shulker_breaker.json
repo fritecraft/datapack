@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of shulker shells"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:end/shouldnt_my_shield_levitate_too",
+    "parent": "fritecraft:end/shouldnt_my_shield_levitate_too",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:end/shulker_breaker"

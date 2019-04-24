@@ -11,7 +11,7 @@
         },
 		"frame": "goal"
     },
-    "parent": "minecraft:nether/find_fortress",
+    "parent": "fritecraft:nether/find_fortress",
     "criteria": {
         "wither_skull": {
             "trigger": "minecraft:inventory_changed",

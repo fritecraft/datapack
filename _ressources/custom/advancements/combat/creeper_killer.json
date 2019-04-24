@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of gunpowder"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:combat/fireworks_display",
+    "parent": "fritecraft:combat/fireworks_display",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:combat/creeper_killer"

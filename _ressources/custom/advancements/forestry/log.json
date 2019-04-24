@@ -6,7 +6,7 @@
         "title": "Prmière buche",
         "description": "Récuperer du bois"
     },
-    "parent": "custom:forestry/root",
+    "parent": "fritecraft:forestry/root",
     "criteria": {
         "oak_log": {
             "trigger": "minecraft:inventory_changed",

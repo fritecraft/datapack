@@ -7,7 +7,7 @@
         "description": {"translate":"Enter the End Portal"},
         "frame": "goal"
     },
-    "parent": "minecraft:story/follow_ender_eye",
+    "parent": "fritecraft:story/follow_ender_eye",
 	"rewards": {
 		"function": "bc_rewards:nether/the_end"
     },	

@@ -6,7 +6,7 @@
         "title": {"translate":"Moving Parts"},
         "description": {"translate":"Craft a piston so you can push things"}
     },
-    "parent": "blazeandcave:redstone/root",
+    "parent": "fritecraft:redstone/root",
 	"rewards": {
 		"function": "bc_rewards:redstone/moving_parts"
     },

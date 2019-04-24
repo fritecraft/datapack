@@ -6,7 +6,7 @@
 		"title": "En selle",
 		"description": "Apprivoiser un cheval"
 	},
-	"parent": "custom:livestock/tame_a_mob",
+	"parent": "fritecraft:livestock/tame_a_mob",
 	"criteria": {
 		"tame_horse": {
 			"trigger": "minecraft:tame_animal",

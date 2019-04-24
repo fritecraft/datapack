@@ -6,7 +6,7 @@
 		"title": "Tout sec",
 		"description": "Tuer du corail"
 	},
-	"parent": "custom:ocean/coral_block",
+	"parent": "fritecraft:ocean/coral_block",
 	"criteria": {
 		"dead_tube": {
 			"trigger": "minecraft:inventory_changed",

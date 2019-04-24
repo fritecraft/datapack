@@ -6,7 +6,7 @@
         "title": {"translate":"The Tribal Snouts"},
         "description": {"translate":"Kill a zombie pigman"}
     },
-    "parent": "minecraft:nether/root",
+    "parent": "fritecraft:nether/root",
     "rewards": {
         "function": "bc_rewards:nether/the_tribal_snouts"
     },		

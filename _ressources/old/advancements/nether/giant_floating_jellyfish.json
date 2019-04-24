@@ -5,7 +5,7 @@
         },
         "title": "Méduse Volante",
         "description": "Tuer un ghast",
-    "parent": "minecraft:nether/root",
+    "parent": "fritecraft:nether/root",
     "criteria": {
         "ghast": {
             "trigger": "minecraft:player_killed_entity",

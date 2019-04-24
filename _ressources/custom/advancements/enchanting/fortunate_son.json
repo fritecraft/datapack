@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Fortune III"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/super_efficient",
+    "parent": "fritecraft:enchanting/super_efficient",
     "rewards": {
 		"function": "bc_rewards:enchanting/fortunate_son"
     },			

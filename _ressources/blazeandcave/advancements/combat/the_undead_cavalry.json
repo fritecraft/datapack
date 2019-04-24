@@ -7,7 +7,7 @@
         "description": {"translate":"Encounter and defeat a skeleton horse in a thunderstorm"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:combat/skeleton_smiter",
+    "parent": "fritecraft:combat/skeleton_smiter",
     "rewards": {
         "function": "bc_rewards:combat/the_undead_cavalry"
     },		

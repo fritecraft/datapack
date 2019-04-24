@@ -7,7 +7,7 @@
 	],
 	"key": {
 		"#": {
-			"tag": "custom:stones"
+			"tag": "fritecraft:stones"
 		},
 		"X": {
 			"item": "minecraft:stick"

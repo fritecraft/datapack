@@ -6,7 +6,7 @@
 		"title": "Darude, Sandstorm",
 		"description": "Collectionner les 3 types de sable"
 	},
-	"parent": "custom:collection/all_dye",
+	"parent": "fritecraft:collection/all_dye",
 	"criteria": {
 		"sand": {
 			"trigger": "minecraft:inventory_changed",

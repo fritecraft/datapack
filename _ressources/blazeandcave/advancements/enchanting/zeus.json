@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Channeling on a trident"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/do_a_barrel_roll",
+    "parent": "fritecraft:enchanting/do_a_barrel_roll",
     "rewards": {
 		"function": "bc_rewards:enchanting/zeus"
     },			

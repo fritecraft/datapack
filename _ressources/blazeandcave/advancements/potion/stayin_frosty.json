@@ -6,7 +6,7 @@
         "title": {"translate":"Stayin' Frosty"},
         "description": {"translate":"Drink a fire resistance potion so you can go swimming in lava"}
     },
-    "parent": "blazeandcave:potion/root",
+    "parent": "fritecraft:potion/root",
 	"rewards": {
 		"function": "bc_rewards:potion/stayin_frosty"
     },	

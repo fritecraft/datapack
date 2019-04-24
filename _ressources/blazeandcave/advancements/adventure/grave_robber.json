@@ -6,7 +6,7 @@
         "title": {"translate":"Grave Robber"},
         "description": {"translate":"Enter a pyramid in a desert"}
     },
-    "parent": "blazeandcave:adventure/kilometre_walk",
+    "parent": "fritecraft:adventure/kilometre_walk",
     "rewards": {
         "function": "bc_rewards:adventure/grave_robber"
     },		

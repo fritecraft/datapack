@@ -7,7 +7,7 @@
         "description": "Frabiquer toutes les dalles",
 		"frame": "goal"
     },
-    "parent": "custom:building/all_stairs",
+    "parent": "fritecraft:building/all_stairs",
 	"rewards": {
 		"experience": 50
 	},

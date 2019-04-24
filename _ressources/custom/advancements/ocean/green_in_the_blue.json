@@ -6,7 +6,7 @@
 		"title": "Thalassaphobie",
 		"description": "Nager aux travers des algues"
 	},
-	"parent": "custom:ocean/root",
+	"parent": "fritecraft:ocean/root",
 	 "criteria": {
         "seagrass": {
             "trigger": "minecraft:enter_block",

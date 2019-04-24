@@ -6,7 +6,7 @@
 		"title": "Petit cuir véritable ?",
 		"description": "Tuer un lapin pour sa peau"
 	},
-	"parent": "custom:livestock/leather",
+	"parent": "fritecraft:livestock/leather",
 	"criteria": {
 		"rabbit_hide": {
 			"trigger": "minecraft:inventory_changed",

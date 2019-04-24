@@ -6,7 +6,7 @@
         "title": {"translate":"Change of Sheets"},
         "description": {"translate":"Dye your bed a different color than white"}
     },
-    "parent": "minecraft:adventure/sleep_in_bed",
+    "parent": "fritecraft:adventure/sleep_in_bed",
 	"rewards": {
 		"function": "bc_rewards:building/change_of_sheets"
     },		

@@ -7,7 +7,7 @@
         "description": "Tuer le Wither",
 		"frame": "challenge"
     },
-    "parent": "minecraft:nether/get_wither_skull",
+    "parent": "fritecraft:nether/get_wither_skull",
 	"rewards": {
         "experience": 1000
     },

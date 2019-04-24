@@ -6,7 +6,7 @@
         "title": {"translate":"A Masterpiece!"},
         "description": {"translate":"Put up a painting"}
     },
-    "parent": "blazeandcave:building/its_a_sign",
+    "parent": "fritecraft:building/its_a_sign",
 	"rewards": {
 		"function": "bc_rewards:building/a_masterpiece"
     },		

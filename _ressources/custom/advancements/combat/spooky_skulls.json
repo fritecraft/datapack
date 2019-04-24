@@ -7,7 +7,7 @@
         "description": {"translate":"Blow up a skeleton with a charged creeper to get a skeleton skull"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:combat/melting",
+    "parent": "fritecraft:combat/melting",
     "rewards": {
 		"experience": 250,
         "function": "bc_rewards:combat/spooky_skulls"

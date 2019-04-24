@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every item made out of birch wood"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/spruce_lee",
+    "parent": "fritecraft:building/spruce_lee",
     "rewards": {
 		"function": "bc_rewards:building/professor_birch"
     },		

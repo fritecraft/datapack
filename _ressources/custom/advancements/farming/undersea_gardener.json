@@ -7,7 +7,7 @@
         "description": {"translate":"Craft a stack of dried kelp blocks"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:farming/aquatic_biofuel",
+    "parent": "fritecraft:farming/aquatic_biofuel",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:farming/undersea_gardener"

@@ -6,7 +6,7 @@
         "title": {"translate":"Iconic Merchandising Prop"},
         "description": {"translate":"Create a pickaxe of the highest calibre"}
     },
-    "parent": "minecraft:story/mine_diamond",
+    "parent": "fritecraft:story/mine_diamond",
     "rewards": {
 		"function": "bc_rewards:mining/iconic_merchandising_prop"
     },			

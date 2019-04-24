@@ -7,7 +7,7 @@
         "description": {"translate":"Craft a full suit of iron armor"},
 		"frame": "goal"
     },
-    "parent": "minecraft:story/obtain_armor",
+    "parent": "fritecraft:story/obtain_armor",
 	"rewards": {
 		"function": "bc_rewards:mining/iron_man"
     },

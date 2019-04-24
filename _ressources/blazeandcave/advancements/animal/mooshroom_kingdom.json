@@ -6,7 +6,7 @@
         "title": {"translate":"Mooshroom Kingdom"},
         "description": {"translate":"Find mooshrooms on a mushroom island"}
     },
-    "parent": "blazeandcave:animal/true_cow_tipper",	
+    "parent": "fritecraft:animal/true_cow_tipper",	
     "rewards": {
         "experience": 50,	
 		"function": "bc_rewards:animal/mooshroom_kingdom"

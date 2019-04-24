@@ -6,7 +6,7 @@
         "title": {"translate":"Electric!"},
         "description": {"translate":"Light up the area with some redstone lamps"}
     },
-    "parent": "blazeandcave:building/glowing",
+    "parent": "fritecraft:building/glowing",
 	"rewards": {
 		"function": "bc_rewards:building/electric"
     },		

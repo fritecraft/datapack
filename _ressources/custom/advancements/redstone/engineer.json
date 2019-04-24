@@ -7,7 +7,7 @@
         "description": {"translate":"Craft all types of redstone component"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:redstone/sticky_parts",
+    "parent": "fritecraft:redstone/sticky_parts",
 	"rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:redstone/engineer"

@@ -6,7 +6,7 @@
 		"title": "Sors de ta coquille !",
 		"description": "Ramasser une écaille de tortue"
 	},
-	"parent": "custom:ocean/turtle_egg",
+	"parent": "fritecraft:ocean/turtle_egg",
 	"criteria": {
 		"scute": {
 			"trigger": "minecraft:inventory_changed",

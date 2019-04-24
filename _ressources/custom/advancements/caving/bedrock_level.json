@@ -6,7 +6,7 @@
 		"title": "Incasable",
 		"description": "Vous ne passerez pas !"
 	},
-	"parent": "custom:caving/lava_level",
+	"parent": "fritecraft:caving/lava_level",
 	"criteria": {
 		"5": {
 			"trigger": "minecraft:location",

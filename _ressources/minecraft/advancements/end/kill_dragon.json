@@ -6,7 +6,7 @@
         "title": {"translate":"Free the End"},
         "description": {"translate":"Good luck"}
     },
-    "parent": "minecraft:end/root",
+    "parent": "fritecraft:end/root",
 	"rewards": {
 		"function": "bc_rewards:end/free_the_end"
     },	

@@ -7,7 +7,7 @@
 		"description": "Etre pote avec tous les animaux",
 		"frame": "challenge"
 	},
-	"parent": "custom:livestock/tame_horse",
+	"parent": "fritecraft:livestock/tame_horse",
 	"rewards": {
         "experience": 100
     },

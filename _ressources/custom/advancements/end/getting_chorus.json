@@ -6,7 +6,7 @@
         "title": {"translate":"Getting Chorus"},
         "description": {"translate":"Attack a chorus tree until it collapses"}
     },
-    "parent": "minecraft:end/enter_end_gateway",
+    "parent": "fritecraft:end/enter_end_gateway",
 	"rewards": {
 		"function": "bc_rewards:end/getting_chorus"
     },	

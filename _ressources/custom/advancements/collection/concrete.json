@@ -6,7 +6,7 @@
 		"title": "Architecture colorée",
 		"description": "Collectionner les 16 couleurs de béton"
 	},
-	"parent": "custom:collection/concrete_powder",
+	"parent": "fritecraft:collection/concrete_powder",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

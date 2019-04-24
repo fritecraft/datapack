@@ -6,7 +6,7 @@
 		"title": "Le journal du capitaine",
 		"description": "Fabriquer un livre éditable"
 	},
-	"parent": "custom:exploration/make_map",
+	"parent": "fritecraft:exploration/make_map",
 	"criteria": {
 		"book_and_quill": {
 			"trigger": "minecraft:inventory_changed",

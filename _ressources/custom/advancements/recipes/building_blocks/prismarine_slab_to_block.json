@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "fritecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "custom:prismarine_slab_to_block"
+      "fritecraft:prismarine_slab_to_block"
     ]
   },
   "criteria": {
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "custom:prismarine_slab_to_block"
+        "recipe": "fritecraft:prismarine_slab_to_block"
       }
     }
   },

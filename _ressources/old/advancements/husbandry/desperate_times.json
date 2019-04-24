@@ -7,7 +7,7 @@
 		"description": "Manger toutes les choses mauvaises pour la santé",
 		"frame": "goal"
 	},
-	"parent": "minecraft:husbandry/plant_seed",
+	"parent": "fritecraft:husbandry/plant_seed",
 	"criteria": {
 		"chicken": {
 			"trigger": "minecraft:consume_item",

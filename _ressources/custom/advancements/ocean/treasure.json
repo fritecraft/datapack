@@ -6,7 +6,7 @@
 		"title": "Trésor caché",
 		"description": "Utiliser une carte au trésor"
 	},
-	"parent": "custom:ocean/shipwreck",
+	"parent": "fritecraft:ocean/shipwreck",
 	"criteria": {
 		"buried_treasure": {
 			"trigger": "minecraft:location",

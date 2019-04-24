@@ -6,7 +6,7 @@
         "title": {"translate":"Iron Belly"},
         "description": {"translate":"Stop starvation using rotten flesh"}
     },
-    "parent": "blazeandcave:combat/there_has_to_be_another_way",
+    "parent": "fritecraft:combat/there_has_to_be_another_way",
     "rewards": {
         "function": "bc_rewards:combat/iron_belly"
     },		

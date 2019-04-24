@@ -6,7 +6,7 @@
 		"title": "Expert en cartographie",
 		"description": "Fabriquer une carte"
 	},
-	"parent": "custom:exploration/root",
+	"parent": "fritecraft:exploration/root",
 	"criteria": {
 		"map": {
 			"trigger": "minecraft:inventory_changed",

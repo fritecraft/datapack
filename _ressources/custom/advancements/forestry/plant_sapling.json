@@ -6,7 +6,7 @@
 		"title": "Eco-responsable",
 		"description": "Aider une forêt en plantant un arbre"
 	},
-	"parent": "custom:forestry/sapling",
+	"parent": "fritecraft:forestry/sapling",
 	"criteria": {
 		"oak": {
 			"trigger": "minecraft:placed_block",

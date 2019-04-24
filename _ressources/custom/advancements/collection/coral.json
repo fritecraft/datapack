@@ -6,7 +6,7 @@
 		"title": "Destruction écologique",
 		"description": "Collectionner les 5 couleurs de corail"
 	},
-	"parent": "custom:collection/coral_block",
+	"parent": "fritecraft:collection/coral_block",
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

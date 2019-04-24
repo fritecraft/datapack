@@ -6,7 +6,7 @@
         "title": "Le meilleur baton",
         "description": "Frabriquer un baton"
     },
-    "parent": "custom:forestry/planks",
+    "parent": "fritecraft:forestry/planks",
     "criteria": {
         "stick": {
             "trigger": "minecraft:inventory_changed",

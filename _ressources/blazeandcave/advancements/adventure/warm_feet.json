@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every dry biome"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:adventure/cold_feet",	
+    "parent": "fritecraft:adventure/cold_feet",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/warm_feet"

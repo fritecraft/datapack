@@ -6,7 +6,7 @@
         "title": {"translate":"Repeating Repeater"},
         "description": {"translate":"Craft a redstone repeater for delaying signals"}
     },
-    "parent": "blazeandcave:redstone/powerful_light",
+    "parent": "fritecraft:redstone/powerful_light",
 	"rewards": {
 		"function": "bc_rewards:redstone/repeating_repeater"
     },

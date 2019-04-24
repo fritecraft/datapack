@@ -6,7 +6,7 @@
 		"title": "Gardien de prison",
 		"description": "Fabriquer des barrières pour un enclos"
 	},
-	"parent": "custom:livestock/find_lead",
+	"parent": "fritecraft:livestock/find_lead",
 	"criteria": {
 		"oak": {
 			"trigger": "minecraft:inventory_changed",

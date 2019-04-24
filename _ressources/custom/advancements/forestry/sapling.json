@@ -6,7 +6,7 @@
         "title": "Arboriste",
         "description": "Récuperer une pousse d'arbre"
     },
-    "parent": "custom:forestry/log",
+    "parent": "fritecraft:forestry/log",
     "criteria": {
         "oak_sapling": {
             "trigger": "minecraft:inventory_changed",

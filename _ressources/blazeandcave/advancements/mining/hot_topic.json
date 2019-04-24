@@ -6,7 +6,7 @@
         "title": {"translate":"Hot Topic"},
         "description": {"translate":"Construct a furnace out of eight stone blocks"}
     },
-    "parent": "blazeandcave:mining/fossil_fuel",
+    "parent": "fritecraft:mining/fossil_fuel",
 	"rewards": {
 		"function": "bc_rewards:mining/hot_topic"
     },		

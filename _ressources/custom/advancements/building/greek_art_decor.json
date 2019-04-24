@@ -6,7 +6,7 @@
         "title": {"translate":"Greek Art Decor"},
         "description": {"translate":"Craft quartz blocks, stairs, slabs, pillars and chiseled"}
     },
-    "parent": "blazeandcave:building/fake_fortress",
+    "parent": "fritecraft:building/fake_fortress",
     "rewards": {
         "function": "bc_rewards:building/greek_art_decor"
     },		

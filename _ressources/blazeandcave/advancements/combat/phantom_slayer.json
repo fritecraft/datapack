@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of phantom membranes"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:combat/ricochet_swoop",
+    "parent": "fritecraft:combat/ricochet_swoop",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:combat/phantom_slayer"

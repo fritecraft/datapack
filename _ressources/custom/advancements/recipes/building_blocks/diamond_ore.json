@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "fritecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "custom:diamond_ore"
+      "fritecraft:diamond_ore"
     ]
   },
   "criteria": {
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "custom:diamond_ore"
+        "recipe": "fritecraft:diamond_ore"
       }
     }
   },

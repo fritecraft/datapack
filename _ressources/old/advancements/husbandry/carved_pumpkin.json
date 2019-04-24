@@ -6,7 +6,7 @@
 		"title": "Sculpture sur citrouille",
 		"description": "Créer une citrouille décorative"
 	},
-	"parent": "minecraft:husbandry/pumpkin",
+	"parent": "fritecraft:husbandry/pumpkin",
 	"criteria": {
 		"carved_pumpkin": {
 			"trigger": "minecraft:inventory_changed",

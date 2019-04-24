@@ -6,7 +6,7 @@
 		"title": "Stockage d'outre-monde",
 		"description": "Fabriquer un enderchest"
 	},
-	"parent": "custom:exploration/root",
+	"parent": "fritecraft:exploration/root",
 	"criteria": {
 		"ender_chest": {
 			"trigger": "minecraft:inventory_changed",

@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain boots enchanted with Feather Falling"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/root",
+    "parent": "fritecraft:enchanting/root",
     "rewards": {
 		"function": "bc_rewards:enchanting/like_a_cat"
     },			

@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "fritecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "custom:notch_apple"
+      "fritecraft:notch_apple"
     ]
   },
   "criteria": {
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "custom:notch_apple"
+        "recipe": "fritecraft:notch_apple"
       }
     }
   },

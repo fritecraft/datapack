@@ -7,7 +7,7 @@
 		"description": "Trouver toutes les fleurs",
 		"frame": "goal"
 	},
-	"parent": "minecraft:husbandry/flower",
+	"parent": "fritecraft:husbandry/flower",
 	"rewards": {
 		"experience": 50
 	},

@@ -7,7 +7,7 @@
         "title": {"translate":"Shouldn't my shield levitate too?"},
         "description": {"translate":"Block a Shulker's bullet with your shield"}
     },
-    "parent": "blazeandcave:end/for_mother_clarence",
+    "parent": "fritecraft:end/for_mother_clarence",
 	"rewards": {
 		"function": "bc_rewards:end/shouldnt_my_shield_levitate_too"
     },

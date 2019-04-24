@@ -6,7 +6,7 @@
 		"title": "Division cellulaire",
 		"description": "'Tuer' un slime"
 	},
-	"parent": "custom:combat/root",
+	"parent": "fritecraft:combat/root",
 	"criteria": {
 		"slime": {
 			"trigger": "minecraft:player_killed_entity",

@@ -6,7 +6,7 @@
         "title": {"translate":"Puppies! Yipe!"},
         "description": {"translate":"Breed two wolves together to get a puppy!"}
     },
-    "parent": "minecraft:husbandry/tame_an_animal",
+    "parent": "fritecraft:husbandry/tame_an_animal",
 	"rewards": {
 		"function": "bc_rewards:animal/puppies_yipe"
     },		

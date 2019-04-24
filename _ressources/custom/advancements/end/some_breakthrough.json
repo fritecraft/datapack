@@ -8,7 +8,7 @@
         "description": {"translate":"Exhaust your elytra"},
         "frame": "challenge"
     },
-    "parent": "minecraft:end/elytra",
+    "parent": "fritecraft:end/elytra",
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:end/some_breakthrough"

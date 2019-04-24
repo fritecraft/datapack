@@ -6,7 +6,7 @@
         "title": {"translate":"Moving Storage"},
         "description": {"translate":"Put a chest in a minecart"}
     },
-    "parent": "blazeandcave:redstone/completely_useless_fuel_engine",
+    "parent": "fritecraft:redstone/completely_useless_fuel_engine",
     "rewards": {
 		"function": "bc_rewards:redstone/moving_storage"
     },			

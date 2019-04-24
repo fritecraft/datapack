@@ -6,7 +6,7 @@
         "title": {"translate":"Shrooms"},
         "description": {"translate":"Gather both types of mushroom"}
     },
-    "parent": "blazeandcave:farming/root",
+    "parent": "fritecraft:farming/root",
 	"rewards": {
 		"function": "bc_rewards:farming/shrooms"
     },		

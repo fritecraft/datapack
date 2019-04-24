@@ -6,7 +6,7 @@
         "title": "Amphibie",
         "description": "Boire une potion de respiration"
     },
-    "parent": "custom:ocean/find_monument",
+    "parent": "fritecraft:ocean/find_monument",
     "criteria": {
         "potion": {
             "trigger": "minecraft:consume_item",

@@ -6,7 +6,7 @@
 		"title": "Patissier",
 		"description": "Préparer un bon pain"
 	},
-	"parent": "minecraft:husbandry/plant_seed",
+	"parent": "fritecraft:husbandry/plant_seed",
 	"criteria": {
 		"bread": {
 			"trigger": "minecraft:inventory_changed",

@@ -6,7 +6,7 @@
 		"title": "Essence de couleur",
 		"description": "Collectionner les 16 teintures"
 	},
-	"parent": "custom:collection/root",
+	"parent": "fritecraft:collection/root",
 	"criteria": {
 		"ink": {
 			"trigger": "minecraft:inventory_changed",

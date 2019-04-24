@@ -7,7 +7,7 @@
         "description": "Voler plus haut que la limite du monde",
         "frame": "goal"
     },
-    "parent": "minecraft:end/elytra",
+    "parent": "fritecraft:end/elytra",
     "rewards": {
         "function": "bc_rewards:end/sky_high"
     },

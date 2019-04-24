@@ -6,7 +6,7 @@
         "title": "Magma",
         "description": "Récupérer du magma"
     },
-    "parent": "blazeandcave:nether/quicksand",
+    "parent": "fritecraft:nether/quicksand",
 	"rewards": {
 		"function": "bc_rewards:nether/dont_step_on_it"
     },

@@ -6,7 +6,7 @@
 		"title": "Représentez vos couleurs !",
 		"description": "Collectionner les 16 couleurs de bannière"
 	},
-	"parent": "custom:collection/wool",
+	"parent": "fritecraft:collection/wool",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

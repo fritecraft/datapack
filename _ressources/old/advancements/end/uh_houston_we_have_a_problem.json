@@ -7,7 +7,7 @@
         "description": "Voler jusqu'à une hauteur relativement stupide",
         "frame": "challenge"
     },
-    "parent": "minecraft:end/sky_high",
+    "parent": "fritecraft:end/sky_high",
     "rewards": {
 		"experience": 500,
     },

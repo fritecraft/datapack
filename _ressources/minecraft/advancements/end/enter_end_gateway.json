@@ -6,7 +6,7 @@
         "title": {"translate":"Remote Getaway"},
         "description": {"translate":"Escape the island"}
     },
-    "parent": "minecraft:end/kill_dragon",
+    "parent": "fritecraft:end/kill_dragon",
 	"rewards": {
 		"function": "bc_rewards:end/remote_getaway"
     },	

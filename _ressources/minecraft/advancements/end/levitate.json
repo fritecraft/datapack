@@ -7,7 +7,7 @@
         "description": {"translate":"Levitate up a distance of 50 metres"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:end/shulker_breaker",
+    "parent": "fritecraft:end/shulker_breaker",
 	"rewards": {
         "experience": 50,
 		"function": "bc_rewards:end/great_view_from_up_here"

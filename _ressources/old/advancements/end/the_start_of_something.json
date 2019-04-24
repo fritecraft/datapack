@@ -6,7 +6,7 @@
         "title": "Renaissance ?",
         "description": "Fabriquer un cristal de l'End"
     },
-    "parent": "minecraft:end/kill_dragon",
+    "parent": "fritecraft:end/kill_dragon",
     "criteria": {
         "end_crystal": {
             "trigger": "minecraft:inventory_changed",

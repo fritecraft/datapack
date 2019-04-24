@@ -6,7 +6,7 @@
         "title": {"translate":"Time to Mine!"},
         "description": {"translate":"Use planks and sticks to make a pickaxe"}
     },
-    "parent": "minecraft:story/root",
+    "parent": "fritecraft:story/root",
 	"rewards": {
 		"function": "bc_rewards:beginning/time_to_mine"
     },		

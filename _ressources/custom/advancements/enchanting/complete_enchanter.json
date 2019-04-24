@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain every enchantment throughout your enchanting career"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:enchanting/fiery",
+    "parent": "fritecraft:enchanting/fiery",
     "rewards": {
         "experience": 100,	
 		"function": "bc_rewards:enchanting/complete_enchanter"

@@ -6,7 +6,7 @@
         "title": {"translate":"Getting Into a Stew"},
         "description": {"translate":"Make and eat some rabbit stew"}
     },
-    "parent": "blazeandcave:animal/lucky_charm",
+    "parent": "fritecraft:animal/lucky_charm",
 	"rewards": {
 		"function": "bc_rewards:animal/getting_into_a_stew"
     },		

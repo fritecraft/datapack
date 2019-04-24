@@ -7,7 +7,7 @@
         "title": {"translate":"Poison Dart"},
         "description": {"translate":"Craft tipped arrows of poison"}
     },
-    "parent": "blazeandcave:end/noxious_fumes",
+    "parent": "fritecraft:end/noxious_fumes",
 	"rewards": {
 		"function": "bc_rewards:end/poison_dart"
     },	

@@ -7,7 +7,7 @@
         "description": {"translate":"Hunt all types of aquatic creatures with your trident"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:combat/underwater_duel",
+    "parent": "fritecraft:combat/underwater_duel",
     "rewards": {
         "experience": 100,
         "function": "bc_rewards:combat/the_aquatic_hunter"

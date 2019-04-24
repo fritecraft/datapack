@@ -6,7 +6,7 @@
         "title": "Energie solaire",
         "description": "Fabriquer et placer un détecteur de lumière"
     },
-    "parent": "custom:redstone/observer",
+    "parent": "fritecraft:redstone/observer",
     "criteria": {
         "daylight_detector": {
             "trigger": "minecraft:placed_block",

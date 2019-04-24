@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of slimeballs"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:combat/trampoline",
+    "parent": "fritecraft:combat/trampoline",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:combat/slime_squisher"

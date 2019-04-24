@@ -7,7 +7,7 @@
         "description": {"translate":"A full suit of diamond armor saves even more lives"},
 		"frame": "goal"
     },
-    "parent": "minecraft:story/shiny_gear",
+    "parent": "fritecraft:story/shiny_gear",
     "rewards": {
 		"function": "bc_rewards:mining/diamond_clad"
     },			

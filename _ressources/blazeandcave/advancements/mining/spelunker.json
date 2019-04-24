@@ -6,7 +6,7 @@
         "title": {"translate":"Spelunker"},
         "description": {"translate":"Enter a cave"}
     },
-    "parent": "minecraft:story/mine_stone",
+    "parent": "fritecraft:story/mine_stone",
 	"rewards": {
 		"function": "bc_rewards:mining/spelunker"
     },

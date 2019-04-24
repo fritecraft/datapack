@@ -6,7 +6,7 @@
         "title": "Pilier de lumière",
         "description": "Illuminer un endroit avec un baton de l'end"
     },
-    "parent": "custom:building/sea_lantern",
+    "parent": "fritecraft:building/sea_lantern",
     "criteria": {
         "end_rod": {
             "trigger": "minecraft:placed_block",

@@ -7,7 +7,7 @@
         "description": {"translate":"Trade with every type of villager career"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:adventure/travelling_merchant",
+    "parent": "fritecraft:adventure/travelling_merchant",
     "rewards": {
         "function": "bc_rewards:adventure/businessman"
     },		

@@ -6,7 +6,7 @@
         "title": "Sous pression",
         "description": "Fabriquer une plaque de pression"
     },
-    "parent": "custom:redstone/root",
+    "parent": "fritecraft:redstone/root",
     "criteria": {
         "stone": {
             "trigger": "minecraft:placed_block",

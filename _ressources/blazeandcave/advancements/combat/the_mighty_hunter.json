@@ -7,7 +7,7 @@
         "description": {"translate":"Hunt all types of animals with your bow"},
         "frame": "challenge"
     },
-    "parent": "minecraft:adventure/sniper_duel",
+    "parent": "fritecraft:adventure/sniper_duel",
     "rewards": {
         "experience": 100,
         "function": "bc_rewards:combat/the_mighty_hunter"

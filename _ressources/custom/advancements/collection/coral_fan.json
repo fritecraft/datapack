@@ -6,7 +6,7 @@
 		"title": "Fanatique",
 		"description": "Collectionner les 5 couleurs d'éventail de mer"
 	},
-	"parent": "custom:collection/coral",
+	"parent": "fritecraft:collection/coral",
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

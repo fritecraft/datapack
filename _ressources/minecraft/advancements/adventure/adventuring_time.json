@@ -7,11 +7,11 @@
         "description": {"translate":"Discover every biome"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:adventure/wet_feet",	
+    "parent": "fritecraft:adventure/wet_feet",
     "rewards": {
         "experience": 500,
 		"function": "bc_rewards:adventure/adventuring_time"
-    },	
+    },
     "criteria": {
         "minecraft:birch_forest_hills": {
       "trigger": "minecraft:location",

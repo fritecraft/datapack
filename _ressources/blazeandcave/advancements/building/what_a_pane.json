@@ -6,7 +6,7 @@
         "title": {"translate":"What a pane"},
         "description": {"translate":"Craft some glass panes"}
     },
-    "parent": "blazeandcave:building/classy_glassy",
+    "parent": "fritecraft:building/classy_glassy",
 	"rewards": {
 		"function": "bc_rewards:building/what_a_pane"
     },		

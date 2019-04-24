@@ -6,7 +6,7 @@
 		"title": "Marcheur des profondeurs",
 		"description": "Utiliser l'enchantement agilité aquatique"
 	},
-	"parent": "custom:ocean/boat",
+	"parent": "fritecraft:ocean/boat",
 	"criteria": {
 		"leather": {
 			"trigger": "minecraft:inventory_changed",

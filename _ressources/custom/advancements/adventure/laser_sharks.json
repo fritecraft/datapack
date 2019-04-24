@@ -6,7 +6,7 @@
         "title": {"translate":"Laser Sharks!"},
         "description": {"translate":"Defeat a Guardian"}
     },
-    "parent": "blazeandcave:adventure/monumental",
+    "parent": "fritecraft:adventure/monumental",
     "rewards": {
         "function": "bc_rewards:adventure/laser_sharks"
     },		

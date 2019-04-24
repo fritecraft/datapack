@@ -6,7 +6,7 @@
         "title": {"translate":"Even MOAR Tools"},
         "description": {"translate":"Craft a full diamond tools set"}
     },
-    "parent": "blazeandcave:mining/stabcraft",
+    "parent": "fritecraft:mining/stabcraft",
     "rewards": {
 		"function": "bc_rewards:mining/even_moar_tools"
     },			

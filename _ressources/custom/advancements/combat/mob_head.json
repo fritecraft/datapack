@@ -7,7 +7,7 @@
         "description": "Obtenir une tête de mob",
 		"frame": "goal"
     },
-    "parent": "custom:combat/kill_a_mob",
+    "parent": "fritecraft:combat/kill_a_mob",
     "criteria": {
         "skeleton": {
             "trigger": "minecraft:inventory_changed",

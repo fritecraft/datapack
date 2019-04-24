@@ -6,7 +6,7 @@
 		"title": "Bébé de plage",
 		"description": "Ramasser un oeuf de tortue"
 	},
-	"parent": "custom:ocean/breed_turtle",
+	"parent": "fritecraft:ocean/breed_turtle",
 	"criteria": {
 		"turtle_egg": {
 			"trigger": "minecraft:inventory_changed",

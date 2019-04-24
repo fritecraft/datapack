@@ -6,7 +6,7 @@
         "title": {"translate":"Do You Want to Trade?"},
         "description": {"translate":"Find an NPC village"}
     },
-    "parent": "minecraft:adventure/root",
+    "parent": "fritecraft:adventure/root",
     "rewards": {
         "function": "bc_rewards:adventure/do_you_want_to_trade"
     },		

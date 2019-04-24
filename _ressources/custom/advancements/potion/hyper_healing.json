@@ -6,7 +6,7 @@
         "title": {"translate":"Hyper-Healing"},
         "description": {"translate":"Brew and drink a regeneration potion"}
     },
-    "parent": "blazeandcave:potion/i_need_healing",
+    "parent": "fritecraft:potion/i_need_healing",
 	"rewards": {
 		"function": "bc_rewards:potion/hyper_healing"
     },	

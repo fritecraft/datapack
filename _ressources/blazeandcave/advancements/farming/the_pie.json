@@ -6,7 +6,7 @@
         "title": {"translate":"The Pie"},
         "description": {"translate":"Bake a pumpkin pie"}
     },
-    "parent": "blazeandcave:farming/naturally_carved",
+    "parent": "fritecraft:farming/naturally_carved",
 	"rewards": {
 		"function": "bc_rewards:farming/the_pie"
     },		

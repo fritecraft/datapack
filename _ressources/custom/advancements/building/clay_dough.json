@@ -6,7 +6,7 @@
         "title": {"translate":"Clay-Dough!"},
         "description": {"translate":"Dig up some clay from a lake"}
     },
-    "parent": "blazeandcave:building/root",
+    "parent": "fritecraft:building/root",
 	"rewards": {
 		"function": "bc_rewards:building/clay_dough"
     },		

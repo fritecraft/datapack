@@ -6,7 +6,7 @@
         "title": {"translate":"Trampoline"},
         "description": {"translate":"Craft a slime block using slimeballs"}
     },
-    "parent": "blazeandcave:combat/gelatinous_cube",
+    "parent": "fritecraft:combat/gelatinous_cube",
     "rewards": {
         "function": "bc_rewards:combat/trampoline"
     },		

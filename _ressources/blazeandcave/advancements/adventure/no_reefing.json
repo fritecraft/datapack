@@ -7,7 +7,7 @@
         "description": {"translate":"Collect all colors of coral blocks, plants and fans (including dead ones)"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:adventure/just_a_sample",
+    "parent": "fritecraft:adventure/just_a_sample",
 	"rewards": {
 		"experience": 50,
 		"function": "bc_rewards:adventure/no_reefing"

@@ -6,7 +6,7 @@
         "title": {"translate":"Jailhouse Block"},
         "description": {"translate":"Craft or find iron bars"}
     },
-    "parent": "blazeandcave:building/fake_stronghold",
+    "parent": "fritecraft:building/fake_stronghold",
 	"rewards": {
 		"function": "bc_rewards:building/jailhouse_block"
     },		

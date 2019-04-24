@@ -6,7 +6,7 @@
         "title": "Ecorce",
         "description": "Créer un bloc d'écorce"
     },
-    "parent": "custom:forestry/log",
+    "parent": "fritecraft:forestry/log",
     "criteria": {
         "oak_wood": {
             "trigger": "minecraft:inventory_changed",

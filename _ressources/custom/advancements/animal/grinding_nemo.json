@@ -7,7 +7,7 @@
         "description": {"translate":"Skewer a tropical fish"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:animal/direct_fishing",
+    "parent": "fritecraft:animal/direct_fishing",
     "rewards": {
         "function": "bc_rewards:animal/grinding_nemo"
     },		

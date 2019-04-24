@@ -7,7 +7,7 @@
         "description": {"translate":"Find a music disc"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:adventure/i_hereby_dub_thee",
+    "parent": "fritecraft:adventure/i_hereby_dub_thee",
     "rewards": {
         "function": "bc_rewards:adventure/music_to_my_ears"
     },		

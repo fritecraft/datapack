@@ -7,7 +7,7 @@
         "description": {"translate":"Trade for an Explorer Map"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:adventure/mapmaker",
+    "parent": "fritecraft:adventure/mapmaker",
     "rewards": {
         "function": "bc_rewards:adventure/treasure_map"
     },		

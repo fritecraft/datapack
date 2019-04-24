@@ -6,7 +6,7 @@
         "title": {"translate":"Electric Rails"},
         "description": {"translate":"Making furnace minecarts completely useless"}
     },
-    "parent": "blazeandcave:redstone/completely_useless_fuel_engine",
+    "parent": "fritecraft:redstone/completely_useless_fuel_engine",
     "rewards": {
 		"function": "bc_rewards:redstone/electric_rails"
     },		

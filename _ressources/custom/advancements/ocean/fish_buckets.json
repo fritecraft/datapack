@@ -7,7 +7,7 @@
 		"description": "Attrapez tous les types de poisson",
 		"frame": "goal"
 	},
-	"parent": "custom:ocean/tactical_fishing",
+	"parent": "fritecraft:ocean/tactical_fishing",
 	"criteria": {
 		"cod": {
 			"trigger": "minecraft:inventory_changed",

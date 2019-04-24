@@ -6,7 +6,7 @@
         "title": {"translate":"Snowball Fight"},
         "description": {"translate":"The spirit of Christmas... quickly drowned out by a battle"}
     },
-    "parent": "blazeandcave:combat/root",
+    "parent": "fritecraft:combat/root",
     "rewards": {
         "function": "bc_rewards:combat/snowball_fight"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"You Need a Mint"},
         "description": {"translate":"Collect dragon's breath in a glass bottle"}
     },
-    "parent": "minecraft:end/root",
+    "parent": "fritecraft:end/root",
 	"rewards": {
 		"function": "bc_rewards:end/you_need_a_mint"
     },	

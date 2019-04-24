@@ -6,7 +6,7 @@
         "title": {"translate":"Barking Mad"},
         "description": {"translate":"Craft a bark block"}
     },
-    "parent": "blazeandcave:building/root",
+    "parent": "fritecraft:building/root",
     "rewards": {
         "function": "bc_rewards:building/barking_mad"
     },		

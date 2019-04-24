@@ -6,7 +6,7 @@
         "title": {"translate":"It's a cactus!"},
         "description": {"translate":"Break down a cactus in a desert"}
     },
-    "parent": "blazeandcave:farming/root",
+    "parent": "fritecraft:farming/root",
 	"rewards": {
 		"function": "bc_rewards:farming/its_a_cactus"
     },		

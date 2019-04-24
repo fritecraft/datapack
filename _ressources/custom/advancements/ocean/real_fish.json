@@ -6,7 +6,7 @@
 		"title": "Pêche véritable !",
 		"description": "Attraper un vrai poisson"
 	},
-	"parent": "custom:ocean/fishy_business",
+	"parent": "fritecraft:ocean/fishy_business",
 	"criteria": {
 		"cod": {
 			"trigger": "minecraft:fishing_rod_hooked",

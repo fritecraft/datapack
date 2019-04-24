@@ -7,7 +7,7 @@
 		"description": "Get one of every tool and weapon",
 		"frame": "goal"
 	},
-	"parent": "minecraft:story/smelt_iron",
+	"parent": "fritecraft:story/smelt_iron",
 	"criteria": {
 		"wood_shovel": {
 			"trigger": "minecraft:inventory_changed",

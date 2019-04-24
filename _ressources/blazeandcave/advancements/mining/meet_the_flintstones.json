@@ -6,7 +6,7 @@
         "title": {"translate":"Meet The Flintstones"},
         "description": {"translate":"Dig up some flint from a patch of gravel"}
     },
-    "parent": "blazeandcave:mining/moar_tools",
+    "parent": "fritecraft:mining/moar_tools",
     "rewards": {	
 		"function": "bc_rewards:mining/meet_the_flintstones"
     },		

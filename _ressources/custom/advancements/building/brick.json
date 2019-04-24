@@ -6,7 +6,7 @@
         "title": "Futur maçon",
         "description": "Obtenir une brique"
     },
-    "parent": "custom:building/clay_ball",
+    "parent": "fritecraft:building/clay_ball",
     "criteria": {
         "brick": {
             "trigger": "minecraft:inventory_changed",

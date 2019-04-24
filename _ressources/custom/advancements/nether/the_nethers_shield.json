@@ -7,7 +7,7 @@
         "title": {"translate":"The Nether's Shield"},
         "description": {"translate":"Block some blaze fireballs"}
     },
-    "parent": "minecraft:nether/obtain_blaze_rod",
+    "parent": "fritecraft:nether/obtain_blaze_rod",
 	"rewards": {
 		"function": "bc_rewards:nether/the_nethers_shield"
     },

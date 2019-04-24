@@ -6,7 +6,7 @@
         "title": "Quartz",
         "description": "Miner du quartz"
     },
-    "parent": "minecraft:nether/root",
+    "parent": "fritecraft:nether/root",
     "criteria": {
         "quartz": {
             "trigger": "minecraft:inventory_changed",

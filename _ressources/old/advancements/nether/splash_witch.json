@@ -7,7 +7,7 @@
         "description": "Tuer une sorcière avec une potion",
         "frame": "goal"
     },
-    "parent": "minecraft:nether/brew_potion",
+    "parent": "fritecraft:nether/brew_potion",
     "criteria": {
         "splashed_witch": {
             "trigger": "minecraft:player_killed_entity",

@@ -6,7 +6,7 @@
         "title": {"translate":"Stay Calmer"},
         "description": {"translate":"Tame a llama"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
 	"rewards": {
 		"function": "bc_rewards:animal/stay_calmer"
     },		

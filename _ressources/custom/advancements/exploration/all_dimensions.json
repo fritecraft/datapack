@@ -7,7 +7,7 @@
 		"description": "Voyager dans les 3 dimensions",
 		"frame": "goal"
 	},
-	"parent": "custom:exploration/root",
+	"parent": "fritecraft:exploration/root",
 	"criteria": {
 		"overworld": {
 			"trigger": "minecraft:changed_dimension",

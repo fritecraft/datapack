@@ -6,7 +6,7 @@
 		"title": "Nyan Mouton ?",
 		"description": "Collectionner les 16 couleurs de laine"
 	},
-	"parent": "custom:collection/all_dye",
+	"parent": "fritecraft:collection/all_dye",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

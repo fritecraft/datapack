@@ -6,7 +6,7 @@
         "title": {"translate":"Troll Chest"},
         "description": {"translate":"Craft a trapped chest to troll your friends"}
     },
-    "parent": "blazeandcave:redstone/tripping_over",
+    "parent": "fritecraft:redstone/tripping_over",
 	"rewards": {
 		"function": "bc_rewards:redstone/troll_chest"
     },

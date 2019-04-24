@@ -6,7 +6,7 @@
     "title": "Ca pue",
     "description": "Trouver un biome champi"
 	},
-	"parent": "custom:exploration/make_map",
+	"parent": "fritecraft:exploration/make_map",
 	"criteria": {
 		"mushroom_biome": {
 			"trigger": "minecraft:location",

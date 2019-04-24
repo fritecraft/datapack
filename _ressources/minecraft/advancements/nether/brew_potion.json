@@ -6,7 +6,7 @@
         "title": {"translate":"Local Brewery"},
         "description": {"translate":"Craft a Brewing Stand for brewing potions"}
     },
-    "parent": "blazeandcave:nether/basis_of_brewing",
+    "parent": "fritecraft:nether/basis_of_brewing",
 	"rewards": {
 		"function": "bc_rewards:nether/local_brewery"
     },	

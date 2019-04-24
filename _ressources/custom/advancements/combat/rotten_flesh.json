@@ -6,7 +6,7 @@
 		"title": "Un estomac solide",
 		"description": "Manger de la viande pourrie"
 	},
-	"parent": "custom:combat/root",
+	"parent": "fritecraft:combat/root",
 	"criteria": {
 		"rotten_flesh": {
 			"trigger": "minecraft:consume_item",

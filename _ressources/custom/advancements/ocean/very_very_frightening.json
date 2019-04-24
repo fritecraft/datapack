@@ -1,5 +1,5 @@
 {
-	"parent": "custom:ocean/throw_trident",
+	"parent": "fritecraft:ocean/throw_trident",
 	"display": {
 		"icon": {
 			"item": "minecraft:emerald"

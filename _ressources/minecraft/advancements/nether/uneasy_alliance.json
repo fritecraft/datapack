@@ -7,7 +7,7 @@
         "description": {"translate":"Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:nether/ghast_slayer",
+    "parent": "fritecraft:nether/ghast_slayer",
 	"rewards": {
         "experience": 100,
 		"function": "bc_rewards:nether/uneasy_alliance"

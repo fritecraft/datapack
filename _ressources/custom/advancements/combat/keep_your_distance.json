@@ -6,7 +6,7 @@
         "title": {"translate":"Keep Your Distance"},
         "description": {"translate":"Kill a Creeper with arrows"}
     },
-    "parent": "blazeandcave:combat/what_a_creep",
+    "parent": "fritecraft:combat/what_a_creep",
     "rewards": {
         "function": "bc_rewards:combat/keep_your_distance"
     },	

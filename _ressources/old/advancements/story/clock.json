@@ -6,7 +6,7 @@
 		"title": "What Time Is It?",
 		"description": "Time for you to get a watch!"
 	},
-	"parent": "minecraft:story/iron_tools",
+	"parent": "fritecraft:story/iron_tools",
 	"criteria": {
 		"clock": {
 			"trigger": "minecraft:inventory_changed",

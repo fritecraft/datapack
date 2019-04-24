@@ -6,7 +6,7 @@
         "title": {"translate":"Termite Control"},
         "description": {"translate":"Kill a silverfish"}
     },
-    "parent": "minecraft:adventure/kill_a_mob",
+    "parent": "fritecraft:adventure/kill_a_mob",
     "rewards": {
         "function": "bc_rewards:combat/termite_control"
     },		

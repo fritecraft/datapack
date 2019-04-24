@@ -6,7 +6,7 @@
         "title": "Beauté intérieure",
         "description": "Retirer l'écorce d'une buche"
     },
-    "parent": "custom:forestry/log",
+    "parent": "fritecraft:forestry/log",
     "criteria": {
         "stripped_oak_log": {
             "trigger": "minecraft:inventory_changed",

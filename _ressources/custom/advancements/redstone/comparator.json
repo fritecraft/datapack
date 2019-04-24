@@ -6,7 +6,7 @@
         "title": "Comparaison",
         "description": "Fabriquer et placer un comparateur"
     },
-    "parent": "custom:redstone/repeater",
+    "parent": "fritecraft:redstone/repeater",
     "criteria": {
         "comparator": {
             "trigger": "minecraft:placed_block",

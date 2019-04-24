@@ -6,7 +6,7 @@
         "title": {"translate":"Quicksand"},
         "description": {"translate":"You sink like quicksand and move slow like mud"}
     },
-    "parent": "minecraft:nether/root",
+    "parent": "fritecraft:nether/root",
 	"rewards": {
 		"function": "bc_rewards:nether/quicksand"
     },		

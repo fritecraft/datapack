@@ -7,7 +7,7 @@
         "description": "Tuer un enderman dans les 3 dimensions",
         "frame": "goal"
     },
-    "parent": "custom:exploration/all_dimensions",
+    "parent": "fritecraft:exploration/all_dimensions",
     "criteria": {
         "overworld": {
             "trigger": "minecraft:player_killed_entity",

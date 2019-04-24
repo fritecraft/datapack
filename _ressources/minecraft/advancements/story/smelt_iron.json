@@ -6,7 +6,7 @@
         "title": {"translate":"Acquire Hardware"},
         "description": {"translate":"Smelt an iron ingot"}
     },
-    "parent": "blazeandcave:mining/hot_topic",
+    "parent": "fritecraft:mining/hot_topic",
     "rewards": {
 		"function": "bc_rewards:mining/acquire_hardware"
     },		

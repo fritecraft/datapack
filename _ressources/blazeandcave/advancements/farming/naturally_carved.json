@@ -6,7 +6,7 @@
         "title": {"translate":"Naturally Carved"},
         "description": {"translate":"Harvest some spooky pumpkins"}
     },
-    "parent": "minecraft:husbandry/plant_seed",
+    "parent": "fritecraft:husbandry/plant_seed",
 	"rewards": {
 		"function": "bc_rewards:farming/naturally_carved"
     },		

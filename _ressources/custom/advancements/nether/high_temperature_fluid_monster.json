@@ -6,7 +6,7 @@
         "title": {"translate":"High Temperature Fluid Monster"},
         "description": {"translate":"Kill a magma cube"}
     },
-    "parent": "blazeandcave:nether/the_tribal_snouts",
+    "parent": "fritecraft:nether/the_tribal_snouts",
     "rewards": {
         "function": "bc_rewards:nether/high_temperature_fluid_monster"
     },		

@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every type of mineral block"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:mining/diamond_miner",
+    "parent": "fritecraft:mining/diamond_miner",
     "rewards": {
 		"function": "bc_rewards:mining/mineral_collection"
     },			

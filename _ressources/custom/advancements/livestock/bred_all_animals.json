@@ -11,7 +11,7 @@
         },
         "frame": "challenge"
     },
-    "parent": "custom:livestock/breed_an_animal",
+    "parent": "fritecraft:livestock/breed_an_animal",
 	"rewards": {
         "experience": 100
     },

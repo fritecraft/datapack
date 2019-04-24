@@ -6,7 +6,7 @@
         "title": "Délicatesse",
         "description": "Fabriquer et placer un dropper"
     },
-    "parent": "custom:redstone/hopper",
+    "parent": "fritecraft:redstone/hopper",
     "criteria": {
         "dropper": {
             "trigger": "minecraft:placed_block",

@@ -6,7 +6,7 @@
 		"title": "Le Rituel",
 		"description": "Manger une pomme dorée"
 	},
-	"parent": "custom:combat/shield",
+	"parent": "fritecraft:combat/shield",
 	"criteria": {
 		"golden_apple":{
 			"trigger": "minecraft:consume_item",

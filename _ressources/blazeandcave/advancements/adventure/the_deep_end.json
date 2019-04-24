@@ -7,7 +7,7 @@
         "description": {"translate":"Defeat an Elder Guardian"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:adventure/laser_sharks",
+    "parent": "fritecraft:adventure/laser_sharks",
     "rewards": {
         "function": "bc_rewards:adventure/the_deep_end"
     },	

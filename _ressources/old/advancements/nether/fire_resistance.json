@@ -6,7 +6,7 @@
         "title": "Fraicheur Garantie",
         "description": "Boire une potion de résistance au feu"
     },
-    "parent": "minecraft:nether/brew_potion",
+    "parent": "fritecraft:nether/brew_potion",
     "criteria": {
         "fire_resistance": {
             "trigger": "minecraft:effects_changed",

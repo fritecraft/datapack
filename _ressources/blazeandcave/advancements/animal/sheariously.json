@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of white wool"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:animal/have_a_shearful_day",
+    "parent": "fritecraft:animal/have_a_shearful_day",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:animal/sheariously"

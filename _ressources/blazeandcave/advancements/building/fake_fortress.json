@@ -6,7 +6,7 @@
         "title": {"translate":"Fake fortress"},
         "description": {"translate":"Craft or collect all forms of nether brick, red nether brick, and nether wart blocks"}
     },
-    "parent": "blazeandcave:building/fake_stronghold",
+    "parent": "fritecraft:building/fake_stronghold",
     "rewards": {
         "function": "bc_rewards:building/fake_fortress"
     },		

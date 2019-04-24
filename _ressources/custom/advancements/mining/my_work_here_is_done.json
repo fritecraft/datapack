@@ -7,7 +7,7 @@
         "description": {"translate":"Get caught in a cave-in of gravel"},
 		"hidden": "true"
     },
-    "parent": "blazeandcave:mining/spelunker",
+    "parent": "fritecraft:mining/spelunker",
 	"rewards": {
 		"function": "bc_rewards:mining/my_work_here_is_done"
     },

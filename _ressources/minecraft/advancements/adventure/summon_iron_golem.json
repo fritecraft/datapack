@@ -7,7 +7,7 @@
         "description": {"translate":"Summon an Iron Golem to help defend a village"},
         "frame": "goal"
     },
-    "parent": "minecraft:adventure/trade",
+    "parent": "fritecraft:adventure/trade",
     "rewards": {
         "function": "bc_rewards:adventure/body_guard"
     },		

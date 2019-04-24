@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every color of bed"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/change_of_sheets",
+    "parent": "fritecraft:building/change_of_sheets",
     "rewards": {
 		"function": "bc_rewards:building/rainbow_dreams"
     },		

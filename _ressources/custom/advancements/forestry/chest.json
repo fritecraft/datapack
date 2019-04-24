@@ -6,7 +6,7 @@
         "title": "Stockage",
         "description": "Fabriquer un coffre pour ranger votre équipement"
     },
-    "parent": "custom:forestry/planks",
+    "parent": "fritecraft:forestry/planks",
     "criteria": {
         "chest": {
             "trigger": "minecraft:inventory_changed",

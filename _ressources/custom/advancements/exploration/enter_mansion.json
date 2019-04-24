@@ -6,7 +6,7 @@
 		"title": "Les parias",
 		"description": "Pénétrer dans un manoir"
 	},
-	"parent": "custom:exploration/village",
+	"parent": "fritecraft:exploration/village",
 	"criteria": {
 		"mansion": {
 			"trigger": "minecraft:location",

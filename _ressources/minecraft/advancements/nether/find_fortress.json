@@ -6,7 +6,7 @@
         "title": {"translate":"A Terrible Fortress"},
         "description": {"translate":"Break your way into a Nether Fortress"}
     },
-    "parent": "minecraft:nether/root",
+    "parent": "fritecraft:nether/root",
     "rewards": {
 		"function": "bc_rewards:nether/a_terrible_fortress"
     },		

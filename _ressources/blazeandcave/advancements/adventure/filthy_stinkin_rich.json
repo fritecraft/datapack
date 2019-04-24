@@ -7,7 +7,7 @@
         "description": {"translate":"Make 64 emerald blocks"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:adventure/filthy_rich",	
+    "parent": "fritecraft:adventure/filthy_rich",	
     "rewards": {
         "experience": 250,
 		"function": "bc_rewards:adventure/filthy_stinkin_rich"

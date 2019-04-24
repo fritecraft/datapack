@@ -7,7 +7,7 @@
         "description": {"translate":"Summon the Wither"},
         "frame": "goal"
     },
-    "parent": "minecraft:nether/get_wither_skull",
+    "parent": "fritecraft:nether/get_wither_skull",
 	"rewards": {
 		"function": "bc_rewards:nether/withering_heights"
     },	

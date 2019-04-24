@@ -7,7 +7,7 @@
         "description": {"translate":"Cut down a full stack of logs of all types"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:building/stripper",
+    "parent": "fritecraft:building/stripper",
     "rewards": {
         "function": "bc_rewards:building/master_logger"
     },		

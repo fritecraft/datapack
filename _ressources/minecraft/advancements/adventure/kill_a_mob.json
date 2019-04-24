@@ -6,7 +6,7 @@
         "title": {"translate":"Monster Hunter"},
         "description": {"translate":"Kill any hostile monster"}
     },
-    "parent": "blazeandcave:combat/root",
+    "parent": "fritecraft:combat/root",
     "rewards": {
         "function": "bc_rewards:combat/monster_hunter"
     },		

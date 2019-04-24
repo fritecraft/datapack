@@ -6,7 +6,7 @@
         "title": "Automatisation",
         "description": "Fabriquer et placer un distributeur"
     },
-    "parent": "custom:redstone/dropper",
+    "parent": "fritecraft:redstone/dropper",
     "criteria": {
         "dispenser": {
             "trigger": "minecraft:placed_block",

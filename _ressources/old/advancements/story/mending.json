@@ -7,7 +7,7 @@
 		"description": "Obtain Mending on any item",
 		"frame": "goal"
 	},
-	"parent": "minecraft:story/anvil",
+	"parent": "fritecraft:story/anvil",
 	"criteria": {
 		"mending": {
 			"trigger": "minecraft:inventory_changed",

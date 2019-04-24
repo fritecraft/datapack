@@ -7,7 +7,7 @@
         "description": {"translate":"Blow up a zombie with a charged creeper to get a zombie head"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:combat/freezing",
+    "parent": "fritecraft:combat/freezing",
     "rewards": {
 		"experience": 250,
         "function": "bc_rewards:combat/still_talking"

@@ -6,7 +6,7 @@
         "title": {"translate":"It's a Trap!"},
         "description": {"translate":"Craft and place down a trapdoor"}
     },
-    "parent": "blazeandcave:building/ladder_climbers_inc",
+    "parent": "fritecraft:building/ladder_climbers_inc",
 	"rewards": {
 		"function": "bc_rewards:building/its_a_trap"
     },		

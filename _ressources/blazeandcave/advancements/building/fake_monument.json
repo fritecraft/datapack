@@ -6,7 +6,7 @@
         "title": {"translate":"Fake monument"},
         "description": {"translate":"Craft or collect all forms of prismarine blocks"}
     },
-    "parent": "blazeandcave:building/greek_art_decor",
+    "parent": "fritecraft:building/greek_art_decor",
     "rewards": {
         "function": "bc_rewards:building/fake_monument"
     },		

@@ -6,7 +6,7 @@
 		"title": "Berk berk berk !",
 		"description": "Tuer une araignée des cavernes"
 	},
-	"parent": "custom:caving/mineshaft",
+	"parent": "fritecraft:caving/mineshaft",
 	"criteria": {
 		"cave_spider": {
 			"trigger": "minecraft:player_killed_entity",

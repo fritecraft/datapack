@@ -7,7 +7,7 @@
         "description": {"translate":"Collect all types of flowers"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:adventure/enchanted_forest",
+    "parent": "fritecraft:adventure/enchanted_forest",
     "rewards": {
         "experience": 50,
 		"function": "bc_rewards:adventure/flower_power"

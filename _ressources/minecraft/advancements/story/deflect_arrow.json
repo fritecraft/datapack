@@ -7,7 +7,7 @@
         "title": {"translate":"Not Today, Thank You"},
         "description": {"translate":"Deflect an arrow with a shield"}
     },
-    "parent": "blazeandcave:combat/boned",
+    "parent": "fritecraft:combat/boned",
 	"rewards": {
 		"function": "bc_rewards:combat/not_today_thank_you"
     },

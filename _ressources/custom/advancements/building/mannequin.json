@@ -6,7 +6,7 @@
         "title": {"translate":"Mannequin"},
         "description": {"translate":"Craft an armor stand for displaying your armor"}
     },
-    "parent": "blazeandcave:building/a_masterpiece",
+    "parent": "fritecraft:building/a_masterpiece",
 	"rewards": {
 		"function": "bc_rewards:building/mannequin"
     },		

@@ -10,7 +10,7 @@
             "translate": "advancements.story.smelt_iron.description"
         }
     },
-    "parent": "minecraft:story/furnace",
+    "parent": "fritecraft:story/furnace",
     "criteria": {
         "iron": {
             "trigger": "minecraft:inventory_changed",

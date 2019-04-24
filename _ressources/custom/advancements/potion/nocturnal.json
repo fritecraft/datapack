@@ -6,7 +6,7 @@
         "title": {"translate":"Nocturnal"},
         "description": {"translate":"Brew and drink a night vision potion"}
     },
-    "parent": "blazeandcave:potion/hyper_healing",
+    "parent": "fritecraft:potion/hyper_healing",
 	"rewards": {
 		"function": "bc_rewards:potion/nocturnal"
     },	

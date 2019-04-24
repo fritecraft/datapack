@@ -7,7 +7,7 @@
         "description": "Pour the elytra in void",
         "frame": "challenge"
     },
-    "parent": "minecraft:end/nice_view",
+    "parent": "fritecraft:end/nice_view",
     "rewards": {
          
         "experience": 500

@@ -7,7 +7,7 @@
         "description": {"translate":"Bring a husk to a tundra biome and then kill it"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:combat/zombie_slayer",
+    "parent": "fritecraft:combat/zombie_slayer",
 	"rewards": {
         "experience": 100,
 		"function": "bc_rewards:combat/freezing"

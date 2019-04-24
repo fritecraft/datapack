@@ -6,7 +6,7 @@
         "title": {"translate":"Bake Bread"},
         "description": {"translate":"Grow wheat and use it to bake bread"}
     },
-    "parent": "minecraft:husbandry/plant_seed",
+    "parent": "fritecraft:husbandry/plant_seed",
 	"rewards": {
 		"function": "bc_rewards:farming/bake_bread"
     },		

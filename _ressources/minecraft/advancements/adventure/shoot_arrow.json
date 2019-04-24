@@ -6,7 +6,7 @@
         "title": {"translate":"Take Aim"},
         "description": {"translate":"Shoot something with a bow and arrow"}
     },
-    "parent": "blazeandcave:combat/spooky_skeleton",
+    "parent": "fritecraft:combat/spooky_skeleton",
     "rewards": {
         "function": "bc_rewards:combat/take_aim"
     },		

@@ -6,7 +6,7 @@
 		"title": "Pour la cathédrale !",
 		"description": "Collectionner les 17 vitraux"
 	},
-	"parent": "custom:collection/glass",
+	"parent": "fritecraft:collection/glass",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

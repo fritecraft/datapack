@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of raw chicken and feathers"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:animal/feeding_the_chickens",
+    "parent": "fritecraft:animal/feeding_the_chickens",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:animal/chicken_cooper"

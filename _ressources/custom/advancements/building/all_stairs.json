@@ -7,7 +7,7 @@
         "description": "Frabiquer tous les escaliers",
 		"frame": "goal"
     },
-    "parent": "custom:building/root",
+    "parent": "fritecraft:building/root",
 	"rewards": {
 		"experience": 50
 	},

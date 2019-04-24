@@ -6,7 +6,7 @@
         "title": {"translate":"Heavy Metal"},
         "description": {"translate":"Craft an anvil"}
     },
-    "parent": "blazeandcave:enchanting/root",
+    "parent": "fritecraft:enchanting/root",
 	"rewards": {
 		"function": "bc_rewards:enchanting/old_cartoon_joke"
     },

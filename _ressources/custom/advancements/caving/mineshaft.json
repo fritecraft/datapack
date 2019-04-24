@@ -6,7 +6,7 @@
 		"title": "Air vicié",
 		"description": "Entrer dans une mine abandonnée"
 	},
-	"parent": "custom:caving/root",
+	"parent": "fritecraft:caving/root",
 	"criteria": {
 		"mineshaft": {
 			"trigger": "minecraft:location",

@@ -6,7 +6,7 @@
         "title": {"translate":"Mobile Explosion"},
         "description": {"translate":"Put TNT in a minecart"}
     },
-    "parent": "blazeandcave:redstone/moving_moving_storage",
+    "parent": "fritecraft:redstone/moving_moving_storage",
     "rewards": {
 		"function": "bc_rewards:redstone/mobile_explosion"
     },			

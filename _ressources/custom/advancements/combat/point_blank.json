@@ -6,7 +6,7 @@
         "title": {"translate":"Point Blank"},
         "description": {"translate":"Shoot a mob from point-blank range"}
     },
-    "parent": "minecraft:adventure/shoot_arrow",
+    "parent": "fritecraft:adventure/shoot_arrow",
     "rewards": {
         "function": "bc_rewards:combat/point_blank"
     },		

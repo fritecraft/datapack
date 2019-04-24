@@ -7,7 +7,7 @@
         "description": {"translate":"Craft all 16 colors of concrete"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/concrete_evidence",
+    "parent": "fritecraft:building/concrete_evidence",
     "rewards": {
 		"function": "bc_rewards:building/the_rainbow_you_always_wanted"
     },		

@@ -6,7 +6,7 @@
         "title": "Regarde moi ça",
         "description": "Fabriquer et placer un observateur"
     },
-    "parent": "custom:redstone/dispenser",
+    "parent": "fritecraft:redstone/dispenser",
     "criteria": {
         "observer": {
             "trigger": "minecraft:placed_block",

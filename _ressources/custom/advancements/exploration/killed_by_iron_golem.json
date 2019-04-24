@@ -7,7 +7,7 @@
 		"description": "Décedez aux mains d'un golem",
 		"frame": "goal"
 	},
-	"parent": "custom:exploration/build_iron_golem",
+	"parent": "fritecraft:exploration/build_iron_golem",
 	"criteria": {
 		"iron_golem": {
 			"trigger": "minecraft:entity_killed_player",

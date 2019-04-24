@@ -7,7 +7,7 @@
         "description": {"translate":"Craft a full turtle shell"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:animal/scuttler",
+    "parent": "fritecraft:animal/scuttler",
 	"rewards": {
 		"function": "bc_rewards:animal/turtle_soldier"
     },		

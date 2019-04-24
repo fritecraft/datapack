@@ -8,7 +8,7 @@
         "description": {"translate":"Have a diamond sword with Fire Aspect II"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/bane_of_one_shotting_spiders",
+    "parent": "fritecraft:enchanting/bane_of_one_shotting_spiders",
     "rewards": {
 		"function": "bc_rewards:enchanting/newtons_flaming_laser_sword"
     },			

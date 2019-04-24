@@ -6,7 +6,7 @@
         "title": {"translate":"Repopulation"},
         "description": {"translate":"Breed two cows with wheat"}
     },
-    "parent": "blazeandcave:animal/high_steaks",
+    "parent": "fritecraft:animal/high_steaks",
 	"rewards": {
 		"function": "bc_rewards:animal/repopulation"
     },		

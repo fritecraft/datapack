@@ -6,7 +6,7 @@
         "title": "Plancher sur le problème",
         "description": "Fabriquer des planches"
     },
-    "parent": "custom:forestry/log",
+    "parent": "fritecraft:forestry/log",
     "criteria": {
         "oak_planks": {
             "trigger": "minecraft:inventory_changed",

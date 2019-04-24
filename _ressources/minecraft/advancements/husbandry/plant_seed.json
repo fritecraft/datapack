@@ -6,7 +6,7 @@
         "title": {"translate":"A Seedy Place"},
         "description": {"translate":"Plant a seed and watch it grow"}
     },
-    "parent": "blazeandcave:farming/root",
+    "parent": "fritecraft:farming/root",
 	"rewards": {
 		"function": "bc_rewards:farming/a_seedy_place"
     },		

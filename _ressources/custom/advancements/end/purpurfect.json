@@ -6,7 +6,7 @@
         "title": {"translate":"Purpurfect!"},
         "description": {"translate":"Craft or collect purpur blocks, slabs, pillars and stairs"}
     },
-    "parent": "blazeandcave:end/extrabiologist",
+    "parent": "fritecraft:end/extrabiologist",
     "rewards": {
         "function": "bc_rewards:end/purpurfect"
     },		

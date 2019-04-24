@@ -7,7 +7,7 @@
         "description": {"translate":"Kill one of every hostile monster"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:combat/dungeon_crawler",
+    "parent": "fritecraft:combat/dungeon_crawler",
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:combat/monsters_hunted"

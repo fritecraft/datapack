@@ -6,7 +6,7 @@
         "title": {"translate":"Mushroom, Mushroom, Mushroom, Mushroom!"},
         "description": {"translate":"Slurp some mushroom stew"}
     },
-    "parent": "blazeandcave:farming/shrooms",
+    "parent": "fritecraft:farming/shrooms",
 	"rewards": {
 		"function": "bc_rewards:farming/mushroom_mushroom_mushroom_mushroom"
     },		

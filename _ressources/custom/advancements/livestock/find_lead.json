@@ -6,7 +6,7 @@
 		"title": "Suivez le guide !",
 		"description": "Fabriquer une laisse pour le bétail"
 	},
-	"parent": "custom:livestock/root",
+	"parent": "fritecraft:livestock/root",
 	"criteria": {
 		"lead": {
 			"trigger": "minecraft:inventory_changed",

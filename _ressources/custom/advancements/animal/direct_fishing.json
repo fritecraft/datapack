@@ -6,7 +6,7 @@
         "title": {"translate":"Direct Fishing"},
         "description": {"translate":"Catch a fish by directly skewering it with a sword"}
     },
-    "parent": "minecraft:husbandry/fishy_business",
+    "parent": "fritecraft:husbandry/fishy_business",
     "rewards": {
         "function": "bc_rewards:animal/direct_fishing"
     },		

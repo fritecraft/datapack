@@ -10,7 +10,7 @@
             "translate": "advancements.story.obtain_armor.description"
         }
     },
-    "parent": "minecraft:story/smelt_iron",
+    "parent": "fritecraft:story/smelt_iron",
     "criteria": {
         "iron_helmet": {
             "trigger": "minecraft:inventory_changed",

@@ -7,7 +7,7 @@
         "description": {"translate":"Use the Nether to travel 7km in the Overworld"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:nether/limbo_walker",
+    "parent": "fritecraft:nether/limbo_walker",
 	"rewards": {
         "experience": 100,
 		"function": "bc_rewards:nether/subspace_bubble"

@@ -6,7 +6,7 @@
         "title": {"translate":"The Invisible Player"},
         "description": {"translate":"Brew and drink an invisibility potion"}
     },
-    "parent": "blazeandcave:potion/nocturnal",
+    "parent": "fritecraft:potion/nocturnal",
 	"rewards": {
 		"function": "bc_rewards:potion/the_invisible_player"
     },	

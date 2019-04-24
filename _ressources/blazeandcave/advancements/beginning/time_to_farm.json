@@ -6,7 +6,7 @@
         "title": {"translate":"Time to Farm!"},
         "description": {"translate":"Use planks and sticks to make a hoe"}
     },
-    "parent": "minecraft:story/root",
+    "parent": "fritecraft:story/root",
 	"rewards": {
 		"function": "bc_rewards:beginning/time_to_farm"
     },		

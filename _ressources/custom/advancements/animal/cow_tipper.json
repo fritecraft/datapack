@@ -6,7 +6,7 @@
         "title": {"translate":"Cow Tipper"},
         "description": {"translate":"Harvest some leather"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
 	"rewards": {
 		"function": "bc_rewards:animal/cow_tipper"
     },		

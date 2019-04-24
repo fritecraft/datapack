@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of blaze rods"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:nether/the_nethers_shield",
+    "parent": "fritecraft:nether/the_nethers_shield",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:nether/blaze_extinguisher"

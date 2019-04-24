@@ -6,7 +6,7 @@
         "title": "Toc toc",
         "description": "Fabriquer une porte"
     },
-    "parent": "custom:forestry/planks",
+    "parent": "fritecraft:forestry/planks",
     "criteria": {
         "oak_door": {
             "trigger": "minecraft:inventory_changed",

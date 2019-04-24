@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Channeling on a trident"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/boomerang",
+    "parent": "fritecraft:enchanting/boomerang",
     "rewards": {
 		"function": "bc_rewards:enchanting/zeus"
     },			

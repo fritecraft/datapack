@@ -7,7 +7,7 @@
         "description": "Obtenir tous les effets différents durant votre vie",
 		"frame": "challenge"
     },
-    "parent": "minecraft:nether/all_potions",
+    "parent": "fritecraft:nether/all_potions",
     "rewards": {
 		"experience": 200
     },

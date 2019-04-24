@@ -5,7 +5,7 @@
         },
         "title": "Anti-explosion",
         "description": "Bloquer l'explosion d'une boule de feu de ghast",
-    "parent": "blazeandcave:nether/giant_floating_jellyfish",
+    "parent": "fritecraft:nether/giant_floating_jellyfish",
     "criteria": {
         "deflected_explosion": {
             "trigger": "minecraft:entity_hurt_player",

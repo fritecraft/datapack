@@ -6,7 +6,7 @@
 		"title": "Stockage portatif",
 		"description": "Fabriquer une boite shulker"
 	},
-	"parent": "minecraft:end/find_end_city",
+	"parent": "fritecraft:end/find_end_city",
 	"criteria": {
 		"shulkerbox": {
 			"trigger": "minecraft:inventory_changed",

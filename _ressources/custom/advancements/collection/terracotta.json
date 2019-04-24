@@ -6,7 +6,7 @@
 		"title": "Ca ne se mange pas par contre",
 		"description": "Collectionner les 17 couleurs de terre cuite"
 	},
-	"parent": "custom:collection/all_dye",
+	"parent": "fritecraft:collection/all_dye",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

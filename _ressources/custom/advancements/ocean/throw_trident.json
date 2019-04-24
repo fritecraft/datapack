@@ -1,5 +1,5 @@
 {
-	"parent": "custom:ocean/drowned",
+	"parent": "fritecraft:ocean/drowned",
 	"display": {
 		"icon": {
 			"item": "minecraft:trident"

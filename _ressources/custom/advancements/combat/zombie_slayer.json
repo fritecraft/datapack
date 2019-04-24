@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of rotten flesh"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:combat/desert_nomad",
+    "parent": "fritecraft:combat/desert_nomad",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:combat/zombie_slayer"

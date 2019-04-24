@@ -1,4 +1,4 @@
-tellraw @s {"color":"gray","italic":"true","text":"This world is using BlazeandCave's Advancements Pack!"}
+tellraw @s {"color":"gray","italic":"true","text":"This world is using fritecraft's Advancements Pack!"}
 scoreboard objectives add Reward dummy
 scoreboard objectives add Advancements dummy
 gamerule commandBlockOutput false

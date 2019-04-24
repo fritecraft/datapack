@@ -6,7 +6,7 @@
         "title": {"translate":"Bricks!"},
         "description": {"translate":"Fire up that clay!"}
     },
-    "parent": "blazeandcave:building/clay_dough",
+    "parent": "fritecraft:building/clay_dough",
 	"rewards": {
 		"function": "bc_rewards:building/bricks"
     },		

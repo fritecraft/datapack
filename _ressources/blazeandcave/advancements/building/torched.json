@@ -6,7 +6,7 @@
         "title": {"translate":"Torched!"},
         "description": {"translate":"Light up the area with some torches"}
     },
-    "parent": "blazeandcave:building/stationary_storage",
+    "parent": "fritecraft:building/stationary_storage",
 	"rewards": {
 		"function": "bc_rewards:building/torched"
     },		

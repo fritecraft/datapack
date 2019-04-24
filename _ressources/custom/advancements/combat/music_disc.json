@@ -7,7 +7,7 @@
         "description": "Obtenir un disque",
         "frame": "goal"
     },
-    "parent": "custom:combat/deflect_arrow",
+    "parent": "fritecraft:combat/deflect_arrow",
     "criteria": {
         "music_disc_cat": {
             "trigger": "minecraft:inventory_changed",

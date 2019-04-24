@@ -6,7 +6,7 @@
 		"title": "Confort pour les pieds",
 		"description": "Collecttionner les 16 couleurs de tapis"
 	},
-	"parent": "custom:collection/wool",
+	"parent": "fritecraft:collection/wool",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

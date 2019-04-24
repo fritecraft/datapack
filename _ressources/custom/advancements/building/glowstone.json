@@ -6,7 +6,7 @@
         "title": "Go la glow",
         "description": "Illuminer un endroit avec de la glowstone"
     },
-    "parent": "custom:building/torch",
+    "parent": "fritecraft:building/torch",
     "criteria": {
         "glowstone": {
             "trigger": "minecraft:placed_block",

@@ -6,7 +6,7 @@
 		"title": "Infusion magique",
 		"description": "Obtenir des munitions spéciales"
 	},
-	"parent": "custom:combat/shoot_arrow",
+	"parent": "fritecraft:combat/shoot_arrow",
 	"criteria": {
 		"tipped": {
 			"trigger": "minecraft:inventory_changed",

@@ -6,7 +6,7 @@
         "title": "Ampoule",
         "description": "Illuminer un endroit avec une lampe redstone"
     },
-    "parent": "custom:building/glowstone",
+    "parent": "fritecraft:building/glowstone",
     "criteria": {
         "redstone_lamp": {
             "trigger": "minecraft:placed_block",

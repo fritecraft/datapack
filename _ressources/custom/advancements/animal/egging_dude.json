@@ -6,7 +6,7 @@
         "title": {"translate":"Egging, Dude!"},
         "description": {"translate":"Vandalise something with eggs"}
     },
-    "parent": "blazeandcave:animal/so_good",
+    "parent": "fritecraft:animal/so_good",
     "rewards": {
         "function": "bc_rewards:animal/egging_dude"
     },		

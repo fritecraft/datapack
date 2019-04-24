@@ -7,7 +7,7 @@
         "description": {"translate":"A journey that long begins with a single step"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:adventure/kilometre_walk",
+    "parent": "fritecraft:adventure/kilometre_walk",
     "rewards": {
         "function": "bc_rewards:adventure/ten_thousand_blocks"
     },		

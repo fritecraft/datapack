@@ -6,7 +6,7 @@
 		"title": "Un peu cliché",
 		"description": "Pécher des bottes"
 	},
-	"parent": "custom:ocean/real_fish",
+	"parent": "fritecraft:ocean/real_fish",
 	"criteria": {
 		"leather_boots": {
 			"trigger": "minecraft:fishing_rod_hooked",

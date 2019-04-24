@@ -7,7 +7,7 @@
         "description": {"translate":"Explore every end biome"},
         "frame": "goal"
     },
-    "parent": "minecraft:end/enter_end_gateway",	
+    "parent": "fritecraft:end/enter_end_gateway",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:end/void_walker"

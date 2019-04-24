@@ -7,7 +7,7 @@
         "title": {"translate":"Blast Shield"},
         "description": {"translate":"Survive a creeper's blast with your shield"}
     },
-    "parent": "blazeandcave:combat/keep_your_distance",
+    "parent": "fritecraft:combat/keep_your_distance",
 	"rewards": {
 		"function": "bc_rewards:combat/blast_shield"
     },

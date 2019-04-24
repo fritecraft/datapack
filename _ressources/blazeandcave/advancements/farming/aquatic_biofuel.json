@@ -6,7 +6,7 @@
         "title": {"translate":"Aquatic Biofuel"},
         "description": {"translate":"Craft a dried kelp block for use as a great fuel source"}
     },
-    "parent": "blazeandcave:farming/kelp_me",
+    "parent": "fritecraft:farming/kelp_me",
 	"rewards": {
 		"function": "bc_rewards:farming/aquatic_biofuel"
     },		

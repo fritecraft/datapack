@@ -6,7 +6,7 @@
         "title": {"translate":"En Garde"},
         "description": {"translate":"Erect some fencing"}
     },
-    "parent": "blazeandcave:building/your_door_was_locked",
+    "parent": "fritecraft:building/your_door_was_locked",
 	"rewards": {
 		"function": "bc_rewards:building/en_garde"
     },		

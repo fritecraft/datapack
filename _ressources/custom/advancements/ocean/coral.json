@@ -6,7 +6,7 @@
 		"title": "Cooorrraaiillll",
 		"description": "Trouver du corail"
 	},
-	"parent": "custom:ocean/green_in_the_blue",
+	"parent": "fritecraft:ocean/green_in_the_blue",
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

@@ -6,7 +6,7 @@
 		"title": "Naufrage",
 		"description": "Trouver une épave"
 	},
-	"parent": "custom:ocean/root",
+	"parent": "fritecraft:ocean/root",
 	"criteria": {
 		"shipwreck": {
 			"trigger": "minecraft:location",

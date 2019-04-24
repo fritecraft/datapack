@@ -7,7 +7,7 @@
         "description": "Aller loin dans l'End",
         "frame": "goal"
     },
-    "parent": "minecraft:end/void_walker",
+    "parent": "fritecraft:end/void_walker",
     "criteria": {
         "outer_pos_x": {
             "trigger": "minecraft:location",

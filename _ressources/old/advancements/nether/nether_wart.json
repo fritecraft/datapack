@@ -6,7 +6,7 @@
         "title": "La base des potions",
         "description": "Récuperer des verrues du Nether"
     },
-    "parent": "minecraft:nether/soul_sand",
+    "parent": "fritecraft:nether/soul_sand",
     "criteria": {
         "nether_wart": {
             "trigger": "minecraft:inventory_changed",

@@ -6,7 +6,7 @@
         "title": {"translate":"Ultra Hardcore"},
         "description": {"translate":"Craft and eat a normal golden apple"}
     },
-    "parent": "blazeandcave:farming/bapple",
+    "parent": "fritecraft:farming/bapple",
 	"rewards": {
 		"function": "bc_rewards:farming/ultra_hardcore"
     },		

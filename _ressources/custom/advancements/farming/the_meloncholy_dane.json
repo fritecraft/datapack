@@ -7,7 +7,7 @@
         "description": {"translate":"Craft a stack of melon blocks"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:farming/breaking_the_law_of_conservation_of_matter",
+    "parent": "fritecraft:farming/breaking_the_law_of_conservation_of_matter",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:farming/the_meloncholy_dane"

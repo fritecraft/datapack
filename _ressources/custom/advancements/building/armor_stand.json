@@ -6,7 +6,7 @@
         "title": "Grande Exposition",
         "description": "Frabiquer un mannequin pour exposer une armure"
     },
-    "parent": "custom:building/item_frame",
+    "parent": "fritecraft:building/item_frame",
     "criteria": {
         "armor_stand": {
             "trigger": "minecraft:inventory_changed",

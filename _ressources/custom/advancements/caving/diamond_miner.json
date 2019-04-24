@@ -7,7 +7,7 @@
         "description": {"translate":"Mine a stack of diamonds. Good luck!"},
 		"frame": "goal"
     },
-    "parent": "minecraft:story/mine_diamond",
+    "parent": "fritecraft:story/mine_diamond",
     "rewards": {
 		"function": "bc_rewards:mining/diamond_miner"
     },		

@@ -6,7 +6,7 @@
 		"title": "Cuir véritable",
 		"description": "Tuer un animal pour son cuir"
 	},
-	"parent": "custom:livestock/kill_an_animal",
+	"parent": "fritecraft:livestock/kill_an_animal",
 	"criteria": {
 		"leather": {
 			"trigger": "minecraft:inventory_changed",

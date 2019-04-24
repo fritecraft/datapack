@@ -6,7 +6,7 @@
         "title": {"translate":"Trimming the Treetops"},
         "description": {"translate":"Use shears to obtain leaf blocks"}
     },
-    "parent": "blazeandcave:animal/have_a_shearful_day",
+    "parent": "fritecraft:animal/have_a_shearful_day",
 	"rewards": {
 		"function": "bc_rewards:animal/trimming_the_treetops"
     },		

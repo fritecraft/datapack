@@ -6,7 +6,7 @@
 		"title": "MEURTRE !",
 		"description": "Assassiner un villageois innocent"
 	},
-	"parent": "custom:exploration/trade",
+	"parent": "fritecraft:exploration/trade",
 	"criteria": {
 		"kill_villager": {
 			"trigger": "minecraft:player_killed_entity",

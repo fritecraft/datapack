@@ -7,7 +7,7 @@
         "description": {"translate":"Mine a stack of iron ore"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:mining/iron_man",
+    "parent": "fritecraft:mining/iron_man",
     "rewards": {
 		"function": "bc_rewards:mining/iron_miner"
     },		

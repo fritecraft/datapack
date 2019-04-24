@@ -7,7 +7,7 @@
 		"description": "Pécher chaque type de poisson",
 		"frame": "goal"
 	},
-	"parent": "custom:ocean/cooked_fish",
+	"parent": "fritecraft:ocean/cooked_fish",
 	"criteria": {
 		"cod": {
 			"trigger": "minecraft:inventory_changed",

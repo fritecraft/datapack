@@ -10,7 +10,7 @@
             "translate": "advancements.husbandry.plant_seed.description"
         }
     },
-    "parent": "minecraft:husbandry/time_to_farm",
+    "parent": "fritecraft:husbandry/time_to_farm",
     "criteria": {
         "wheat": {
             "trigger": "minecraft:placed_block",

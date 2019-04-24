@@ -6,7 +6,7 @@
         "title": "Présentations",
         "description": "Frabiquer un cadre pour exposer un item"
     },
-    "parent": "custom:building/sign",
+    "parent": "fritecraft:building/sign",
     "criteria": {
         "item_frame": {
             "trigger": "minecraft:inventory_changed",

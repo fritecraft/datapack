@@ -6,7 +6,7 @@
         "title": {"translate":"Display your items for all to see..."},
         "description": {"translate":"Craft an item frame for displaying your items"}
     },
-    "parent": "blazeandcave:building/its_a_sign",
+    "parent": "fritecraft:building/its_a_sign",
 	"rewards": {
 		"function": "bc_rewards:building/display_your_items_for_all_to_see"
     },		

@@ -6,7 +6,7 @@
 		"title": "The Lie",
 		"description": "Bake a cake"
 	},
-	"parent": "minecraft:husbandry/plant_seed",
+	"parent": "fritecraft:husbandry/plant_seed",
 	"criteria": {
 		"cake": {
 			"trigger": "minecraft:inventory_changed",

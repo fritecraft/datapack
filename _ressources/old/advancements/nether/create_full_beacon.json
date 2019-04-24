@@ -11,7 +11,7 @@
         },
         "frame": "challenge"
     },
-    "parent": "minecraft:nether/create_beacon",
+    "parent": "fritecraft:nether/create_beacon",
 	"rewards": {
 		"experience": 100
 	},

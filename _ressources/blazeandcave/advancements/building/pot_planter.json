@@ -6,7 +6,7 @@
         "title": {"translate":"Pot Planter"},
         "description": {"translate":"Craft and place a flower pot"}
     },
-    "parent": "blazeandcave:building/bricks",
+    "parent": "fritecraft:building/bricks",
 	"rewards": {
 		"function": "bc_rewards:building/pot_planter"
     },		

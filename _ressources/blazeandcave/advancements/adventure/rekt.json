@@ -7,7 +7,7 @@
         "description": {"translate":"Get killed by a natural iron golem defending its village"},
 		"hidden": "true"
     },
-    "parent": "blazeandcave:adventure/murderer",
+    "parent": "fritecraft:adventure/murderer",
     "rewards": {
         "function": "bc_rewards:adventure/rekt"
     },		

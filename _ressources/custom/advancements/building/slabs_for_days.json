@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every type of slab"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/fake_monument",
+    "parent": "fritecraft:building/fake_monument",
     "rewards": {
         "function": "bc_rewards:building/slabs_for_days"
     },		

@@ -6,7 +6,7 @@
         "title": "Photons actifs",
         "description": "Fabriquer et placer une torche redstone"
     },
-    "parent": "custom:redstone/root",
+    "parent": "fritecraft:redstone/root",
     "criteria": {
         "redstone_torch": {
             "trigger": "minecraft:placed_block",

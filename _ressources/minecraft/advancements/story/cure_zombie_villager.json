@@ -7,7 +7,7 @@
         "description": {"translate":"Cure a zombie villager"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:potion/a_weak_brew",
+    "parent": "fritecraft:potion/a_weak_brew",
 	"rewards": {
 		"function": "bc_rewards:potion/zombie_doctor"
     },		

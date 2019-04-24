@@ -6,7 +6,7 @@
 		"title": "Coeur chaud",
 		"description": "Tuer un cube de magma"
 	},
-	"parent": "minecraft:nether/find_fortress",
+	"parent": "fritecraft:nether/find_fortress",
 	"criteria": {
 		"magma_cube": {
 			"trigger": "minecraft:player_killed_entity",

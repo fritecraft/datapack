@@ -7,7 +7,7 @@
         "title": "Exceptionnelle Absorption",
         "description": "Ramasser des éponges"
     },
-    "parent": "custom:ocean/enter_monument",
+    "parent": "fritecraft:ocean/enter_monument",
 	"rewards": {
         "experience": 20
     },

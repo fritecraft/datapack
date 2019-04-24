@@ -6,7 +6,7 @@
         "title": {"translate":"Tridented Shield"},
         "description": {"translate":"Block a trident thrown by a Drowned"}
     },
-    "parent": "blazeandcave:combat/a_watery_grave",
+    "parent": "fritecraft:combat/a_watery_grave",
 	"rewards": {
 		"function": "bc_rewards:combat/tridented_shield"
     },

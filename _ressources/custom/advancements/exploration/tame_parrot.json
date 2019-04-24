@@ -6,7 +6,7 @@
 		"title": "Yarr moussaillon !",
 		"description": "Adopter un perroquet"
 	},
-	"parent": "custom:exploration/book_and_quill",
+	"parent": "fritecraft:exploration/book_and_quill",
 	"criteria": {
 		"parrot": {
 			"trigger": "minecraft:tame_animal",

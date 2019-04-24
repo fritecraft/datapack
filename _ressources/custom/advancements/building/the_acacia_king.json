@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every item made out of acacia wood"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/the_jungler",
+    "parent": "fritecraft:building/the_jungler",
     "rewards": {
 		"function": "bc_rewards:building/the_acacia_king"
     },		

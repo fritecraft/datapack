@@ -7,7 +7,7 @@
         "description": {"translate":"Mine or craft a stack of glowstone blocks"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:nether/glows_in_the_dark",
+    "parent": "fritecraft:nether/glows_in_the_dark",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:nether/glowstone_miner"

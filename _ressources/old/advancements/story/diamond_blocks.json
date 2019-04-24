@@ -7,7 +7,7 @@
 		"description": "Obtain one stack of diamond blocks",
 		"frame": "challenge"
 	},
-	"parent": "minecraft:story/mine_diamond",
+	"parent": "fritecraft:story/mine_diamond",
 	"rewards": {
         "experience": 250
     },

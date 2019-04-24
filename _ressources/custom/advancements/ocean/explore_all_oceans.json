@@ -7,7 +7,7 @@
 		"description": "Explorer tous les biomes marins",
 		"frame": "challenge"
 	},
-	"parent": "custom:ocean/riptide",
+	"parent": "fritecraft:ocean/riptide",
 	"rewards": {
 		"experience": 250
 	},

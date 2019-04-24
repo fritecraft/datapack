@@ -6,7 +6,7 @@
         "title": "C'est un signe !",
         "description": "Fabriquer et placer une pancarte"
     },
-    "parent": "custom:building/root",
+    "parent": "fritecraft:building/root",
     "criteria": {
         "sign": {
             "trigger": "minecraft:placed_block",

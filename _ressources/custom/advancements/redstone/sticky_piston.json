@@ -6,7 +6,7 @@
         "title": "Tirez !",
         "description": "Fabriquer et placer un piston collant"
     },
-    "parent": "custom:redstone/piston",
+    "parent": "fritecraft:redstone/piston",
     "criteria": {
         "piston": {
             "trigger": "minecraft:placed_block",

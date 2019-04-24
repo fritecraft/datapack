@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of bones"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:combat/frosty",
+    "parent": "fritecraft:combat/frosty",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:combat/skeleton_smiter"

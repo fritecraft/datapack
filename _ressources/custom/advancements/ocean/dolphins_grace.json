@@ -6,7 +6,7 @@
         "title": "Natation Olympique",
         "description": "Nager avec des dauphins"
     },
-    "parent": "custom:ocean/frost_walker",
+    "parent": "fritecraft:ocean/frost_walker",
     "criteria": {
         "dolphins_grace": {
             "trigger": "minecraft:effects_changed",

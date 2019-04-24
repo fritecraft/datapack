@@ -7,7 +7,7 @@
         "description": "Obtenir les 12 disques",
         "frame": "challenge"
     },
-    "parent": "custom:combat/music_disc",
+    "parent": "fritecraft:combat/music_disc",
 	"rewards": {
 		"experience": 100
 	},

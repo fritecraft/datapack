@@ -7,7 +7,7 @@
 		"description": "Deal nine hearts of damage",
 		"frame": "challenge"
 	},
-	"parent": "minecraft:story/fire_aspect",
+	"parent": "fritecraft:story/fire_aspect",
 	"rewards": {
         "experience": 50
     },

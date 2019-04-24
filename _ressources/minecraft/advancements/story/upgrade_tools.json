@@ -6,7 +6,7 @@
         "title": {"translate":"Getting an Upgrade"},
         "description": {"translate":"Construct a better pickaxe"}
     },
-    "parent": "minecraft:story/mine_stone",
+    "parent": "fritecraft:story/mine_stone",
     "rewards": {
 		"function": "bc_rewards:mining/getting_an_upgrade"
     },			

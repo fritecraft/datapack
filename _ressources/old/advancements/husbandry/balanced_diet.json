@@ -11,7 +11,7 @@
 		},
 		"frame": "challenge"
 	},
-	"parent": "minecraft:husbandry/bake_bread",
+	"parent": "fritecraft:husbandry/bake_bread",
 	"rewards": {
 		"experience": 100
 	},

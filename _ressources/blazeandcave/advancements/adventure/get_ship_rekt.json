@@ -6,7 +6,7 @@
         "title": {"translate":"Get Ship-rekt!"},
         "description": {"translate":"Come across a sunken ship"}
     },
-    "parent": "blazeandcave:adventure/atlantis",
+    "parent": "fritecraft:adventure/atlantis",
     "rewards": {
         "function": "bc_rewards:adventure/get_ship_rekt"
     },		

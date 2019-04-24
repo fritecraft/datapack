@@ -8,7 +8,7 @@
         "frame": "challenge",
 		"hidden": "true"
     },
-    "parent": "minecraft:end/im_coming_back_murph",
+    "parent": "fritecraft:end/im_coming_back_murph",
     "criteria": {
         "outer_pos_x": {
             "trigger": "minecraft:location",

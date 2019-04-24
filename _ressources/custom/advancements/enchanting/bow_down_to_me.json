@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Power V"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/librarian",
+    "parent": "fritecraft:enchanting/librarian",
     "rewards": {
 		"function": "bc_rewards:enchanting/bow_down_to_me"
     },			

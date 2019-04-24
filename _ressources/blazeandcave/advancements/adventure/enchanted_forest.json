@@ -6,7 +6,7 @@
         "title": {"translate":"Enchanted Forest"},
         "description": {"translate":"Find a flower forest"}
     },
-    "parent": "blazeandcave:adventure/theres_a_zombie_on_the_lawn",	
+    "parent": "fritecraft:adventure/theres_a_zombie_on_the_lawn",	
     "rewards": {
 		"function": "bc_rewards:adventure/enchanted_forest"
     },	

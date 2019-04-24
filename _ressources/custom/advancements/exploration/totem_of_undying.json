@@ -11,7 +11,7 @@
         },
         "frame": "goal"
     },
-    "parent": "custom:exploration/enter_mansion",
+    "parent": "fritecraft:exploration/enter_mansion",
     "criteria": {
         "totem_of_undying": {
             "trigger": "minecraft:used_totem",

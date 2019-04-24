@@ -6,7 +6,7 @@
         "title": {"translate":"Rainbow Sand"},
         "description": {"translate":"Craft concrete powder using sand, gravel and dye"}
     },
-    "parent": "blazeandcave:building/root",
+    "parent": "fritecraft:building/root",
 	"rewards": {
 		"function": "bc_rewards:building/rainbow_sand"
     },		

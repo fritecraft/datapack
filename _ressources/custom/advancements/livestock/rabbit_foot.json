@@ -6,7 +6,7 @@
 		"title": "Mon porte bonheur",
 		"description": "Trouver une patte de lapin"
 	},
-	"parent": "custom:livestock/rabbit_hide",
+	"parent": "fritecraft:livestock/rabbit_hide",
 	"criteria": {
 		"rabbit_foot": {
 			"trigger": "minecraft:inventory_changed",

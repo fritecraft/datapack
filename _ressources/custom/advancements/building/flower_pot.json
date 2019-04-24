@@ -6,7 +6,7 @@
         "title": "Mon pote le pot",
         "description": "Frabriquer et placer un pot"
     },
-    "parent": "custom:building/brick",
+    "parent": "fritecraft:building/brick",
     "criteria": {
         "flower_pot": {
             "trigger": "minecraft:placed_block",

@@ -6,7 +6,7 @@
 		"title": "Béton en sachet",
 		"description": "Collectionner les 16 couleurs de poudre de béton"
 	},
-	"parent": "custom:collection/sand",
+	"parent": "fritecraft:collection/sand",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

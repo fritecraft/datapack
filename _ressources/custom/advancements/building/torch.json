@@ -6,7 +6,7 @@
         "title": "Attention au bois !",
         "description": "Illuminer un endroit avec une torche"
     },
-    "parent": "custom:building/root",
+    "parent": "fritecraft:building/root",
     "criteria": {
         "torch": {
             "trigger": "minecraft:placed_block",

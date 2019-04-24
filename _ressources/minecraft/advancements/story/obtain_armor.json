@@ -6,7 +6,7 @@
         "title": {"translate":"Suit Up"},
         "description": {"translate":"Protect yourself with a piece of iron armor"}
     },
-    "parent": "minecraft:story/smelt_iron",
+    "parent": "fritecraft:story/smelt_iron",
 	"rewards": {
 		"function": "bc_rewards:mining/suit_up"
     },

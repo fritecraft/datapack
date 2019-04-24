@@ -6,7 +6,7 @@
         "title": "La puissance du chariot",
         "description": "Fabriquer et placer un rail de détection"
     },
-    "parent": "custom:redstone/pressure_plate",
+    "parent": "fritecraft:redstone/pressure_plate",
     "criteria": {
         "detector_rail": {
             "trigger": "minecraft:placed_block",

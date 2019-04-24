@@ -6,7 +6,7 @@
 		"title": "Cubes vivants",
 		"description": "Est-ce un mob ou un bloc ?"
 	},
-	"parent": "custom:ocean/coral_fan",
+	"parent": "fritecraft:ocean/coral_fan",
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

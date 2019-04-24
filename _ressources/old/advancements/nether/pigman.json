@@ -6,7 +6,7 @@
         "title": "Déclaration de guerre",
         "description": "Déclencher une guerre de gang au Nether"
     },
-    "parent": "minecraft:nether/root",
+    "parent": "fritecraft:nether/root",
     "criteria": {
         "hurt_pigman": {
             "trigger": "minecraft:player_hurt_entity",

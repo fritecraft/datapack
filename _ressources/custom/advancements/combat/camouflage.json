@@ -7,7 +7,7 @@
         "description": {"translate":"Kill a mob while wearing the same type of mob head"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:combat/creepy_heads",
+    "parent": "fritecraft:combat/creepy_heads",
     "rewards": {
         "function": "bc_rewards:combat/camouflage"
     },		

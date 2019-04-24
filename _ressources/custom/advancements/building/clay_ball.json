@@ -6,7 +6,7 @@
         "title": "Argilement",
         "description": "Creuser de l'argile"
     },
-    "parent": "custom:building/root",
+    "parent": "fritecraft:building/root",
     "criteria": {
         "clay_ball": {
             "trigger": "minecraft:inventory_changed",

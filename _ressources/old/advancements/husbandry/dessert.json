@@ -7,7 +7,7 @@
 		"description": "Déguster les desserts",
 		"frame": "goal"
 	},
-	"parent": "minecraft:husbandry/make_cake",
+	"parent": "fritecraft:husbandry/make_cake",
 	"criteria": {
 		"cake": {
 			"trigger": "minecraft:placed_block",

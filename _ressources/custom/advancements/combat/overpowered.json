@@ -7,7 +7,7 @@
 		"description": "Manger une pomme de Fritegirl",
 		"frame": "challenge"
 	},
-	"parent": "custom:combat/eat_golden_apple",
+	"parent": "fritecraft:combat/eat_golden_apple",
 	"rewards": {
         "experience": 50
     },

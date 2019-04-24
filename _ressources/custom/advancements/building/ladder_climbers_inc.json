@@ -6,7 +6,7 @@
         "title": {"translate":"Ladder Climbers Inc."},
         "description": {"translate":"Climb the ladder!"}
     },
-    "parent": "blazeandcave:building/your_door_was_locked",
+    "parent": "fritecraft:building/your_door_was_locked",
 	"rewards": {
 		"function": "bc_rewards:building/ladder_climbers_inc"
     },

@@ -6,7 +6,7 @@
         "title": {"translate":"Lucky Charm"},
         "description": {"translate":"Get a rabbit's foot"}
     },
-    "parent": "blazeandcave:animal/theyre_breeding_like_rabbits",
+    "parent": "fritecraft:animal/theyre_breeding_like_rabbits",
 	"rewards": {
 		"function": "bc_rewards:animal/lucky_charm"
     },		

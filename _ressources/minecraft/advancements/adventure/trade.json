@@ -6,7 +6,7 @@
         "title": {"translate":"What a Deal!"},
         "description": {"translate":"Successfully trade with a Villager"}
     },
-    "parent": "blazeandcave:adventure/do_you_want_to_trade",
+    "parent": "fritecraft:adventure/do_you_want_to_trade",
     "rewards": {
         "function": "bc_rewards:adventure/what_a_deal"
     },		

@@ -6,7 +6,7 @@
 		"title": "Coral",
 		"description": "Trouver un éventail de mer"
 	},
-	"parent": "custom:ocean/coral",
+	"parent": "fritecraft:ocean/coral",
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

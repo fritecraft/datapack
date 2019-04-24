@@ -7,7 +7,7 @@
         "description": {"translate":"Strip the bark off of all six types of logs then pick them up"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/yay_i_got_my_wood",
+    "parent": "fritecraft:building/yay_i_got_my_wood",
     "rewards": {
         "function": "bc_rewards:building/stripper"
     },		

@@ -6,7 +6,7 @@
         "title": "Le trophée de guerre",
         "description": "Récuperer une tête de dragon"
     },
-    "parent": "minecraft:end/find_end_city",
+    "parent": "fritecraft:end/find_end_city",
     "criteria": {
         "dragon_head": {
             "trigger": "minecraft:inventory_changed",

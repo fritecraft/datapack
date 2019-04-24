@@ -7,7 +7,7 @@
         "description": {"translate":"Collect all 22 of the common types of tropical fish"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:animal/aquarium",
+    "parent": "fritecraft:animal/aquarium",
 	"rewards": {
 		"function": "bc_rewards:animal/tropical_collection"
     },		

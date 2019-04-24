@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "fritecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "custom:saddle"
+      "fritecraft:saddle"
     ]
   },
   "criteria": {
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "custom:saddle"
+        "recipe": "fritecraft:saddle"
       }
     }
   },

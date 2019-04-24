@@ -7,7 +7,7 @@
         "description": {"translate":"Accidentally hit a bat underground"},
 		"hidden": "true"
     },
-    "parent": "blazeandcave:mining/my_work_here_is_done",
+    "parent": "fritecraft:mining/my_work_here_is_done",
     "rewards": {
         "function": "bc_rewards:mining/nananananananana"
     },		

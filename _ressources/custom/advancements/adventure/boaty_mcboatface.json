@@ -6,7 +6,7 @@
         "title": {"translate":"Boaty McBoatface"},
         "description": {"translate":"Craft a boat for sailing on the high seas"}
     },
-    "parent": "blazeandcave:adventure/the_sea_calls_you",
+    "parent": "fritecraft:adventure/the_sea_calls_you",
     "rewards": {
         "function": "bc_rewards:adventure/boaty_mcboatface"
     },		

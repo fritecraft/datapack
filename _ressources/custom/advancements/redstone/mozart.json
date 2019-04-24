@@ -6,7 +6,7 @@
         "title": "Mozart",
         "description": "Fabriquer un bloc musical"
     },
-    "parent": "custom:redstone/root",
+    "parent": "fritecraft:redstone/root",
     "criteria": {
         "noteblock": {
             "trigger": "minecraft:inventory_changed",

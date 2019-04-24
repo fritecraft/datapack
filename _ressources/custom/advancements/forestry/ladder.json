@@ -6,7 +6,7 @@
         "title": "Gravir les échelons",
         "description": "Placer une échelle"
     },
-    "parent": "custom:forestry/stick",
+    "parent": "fritecraft:forestry/stick",
     "criteria": {
         "ladder": {
             "trigger": "minecraft:placed_block",

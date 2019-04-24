@@ -6,7 +6,7 @@
 		"title": "Monument marin",
 		"description": "Pénétrer dans un monument marin"
 	},
-	"parent": "custom:ocean/ocean_ruins",
+	"parent": "fritecraft:ocean/ocean_ruins",
 	"criteria": {
 		"monument": {
 			"trigger": "minecraft:location",

@@ -1,5 +1,5 @@
 {
-	"parent": "custom:ocean/fishy_business",
+	"parent": "fritecraft:ocean/fishy_business",
 	"display": {
 		"icon": {
 			"item": "minecraft:cod_bucket"

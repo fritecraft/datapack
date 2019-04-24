@@ -10,7 +10,7 @@
             "translate": "Successfully trade with a villager"
         }
     },
-    "parent": "custom:exploration/village",
+    "parent": "fritecraft:exploration/village",
     "criteria": {
         "trade": {
             "trigger": "minecraft:villager_trade"

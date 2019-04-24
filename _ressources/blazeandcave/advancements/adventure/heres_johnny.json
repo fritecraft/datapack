@@ -6,7 +6,7 @@
         "title": {"translate":"Heeere's Johnny!"},
         "description": {"translate":"Kill a Vindicator"}
     },
-    "parent": "blazeandcave:adventure/house_of_psychos",
+    "parent": "fritecraft:adventure/house_of_psychos",
     "rewards": {
         "function": "bc_rewards:adventure/heres_johnny"
     },		

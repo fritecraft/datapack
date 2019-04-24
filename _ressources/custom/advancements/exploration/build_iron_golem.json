@@ -10,7 +10,7 @@
             "translate": "Invoquez golem de fer pour protéger un village"
         }
     },
-    "parent": "custom:exploration/trade",
+    "parent": "fritecraft:exploration/trade",
     "criteria": {
         "summoned_golem": {
             "trigger": "minecraft:summoned_entity",

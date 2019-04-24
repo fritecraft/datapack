@@ -6,7 +6,7 @@
         "title": {"translate":"Tele-Morph"},
         "description": {"translate":"Damage a mob by teleporting into it"}
     },
-    "parent": "blazeandcave:combat/ender_worm",
+    "parent": "fritecraft:combat/ender_worm",
     "rewards": {
         "function": "bc_rewards:combat/tele_morph"
     },		

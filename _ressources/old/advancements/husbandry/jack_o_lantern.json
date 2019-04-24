@@ -6,7 +6,7 @@
 		"title": "Trick or Treat!",
 		"description": "Light up a carved pumpkin"
 	},
-	"parent": "minecraft:husbandry/carved_pumpkin",
+	"parent": "fritecraft:husbandry/carved_pumpkin",
 	"criteria": {
 		"jack_o_lantern": {
 			"trigger": "minecraft:inventory_changed",

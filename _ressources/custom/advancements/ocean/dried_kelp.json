@@ -6,7 +6,7 @@
 		"title": "Crouistillant",
 		"description": "Manger des algues séchées"
 	},
-	"parent": "custom:ocean/kelp",
+	"parent": "fritecraft:ocean/kelp",
 	"criteria": {
 		"dried_kelp": {
 			"trigger": "minecraft:consume_item",

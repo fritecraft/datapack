@@ -10,7 +10,7 @@
             "translate": "advancements.adventure.shoot_arrow.description"
         }
     },
-    "parent": "custom:combat/kill_a_mob",
+    "parent": "fritecraft:combat/kill_a_mob",
     "criteria": {
         "shot_arrow": {
             "trigger": "minecraft:player_hurt_entity",

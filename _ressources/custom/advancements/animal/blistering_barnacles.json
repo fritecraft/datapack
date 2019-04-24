@@ -7,7 +7,7 @@
         "description": {"translate":"Get spat at by a llama"},
 		"hidden": "true"
     },
-    "parent": "blazeandcave:animal/so_i_got_that_going_for_me",
+    "parent": "fritecraft:animal/so_i_got_that_going_for_me",
     "rewards": {
         "function": "bc_rewards:animal/blistering_barnacles"
     },		

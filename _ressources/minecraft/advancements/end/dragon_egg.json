@@ -7,7 +7,7 @@
         "description": {"translate":"Hold the Dragon Egg"},
         "frame": "goal"
     },
-    "parent": "minecraft:end/kill_dragon",
+    "parent": "fritecraft:end/kill_dragon",
 	"rewards": {
 		"function": "bc_rewards:end/the_next_generation"
     },	

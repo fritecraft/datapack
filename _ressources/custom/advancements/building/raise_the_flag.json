@@ -6,7 +6,7 @@
         "title": {"translate":"Raise the flag!"},
         "description": {"translate":"Craft and place a banner"}
     },
-    "parent": "blazeandcave:building/display_your_items_for_all_to_see",
+    "parent": "fritecraft:building/display_your_items_for_all_to_see",
 	"rewards": {
 		"function": "bc_rewards:building/raise_the_flag"
     },		

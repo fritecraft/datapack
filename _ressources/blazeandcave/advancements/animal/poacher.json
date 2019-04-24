@@ -6,7 +6,7 @@
         "title": {"translate":"Poacher"},
         "description": {"translate":"Kill a turtle for their shells only to find they don't actually drop any when killed"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
     "rewards": {
         "function": "bc_rewards:animal/poacher"
     },		

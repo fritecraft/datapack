@@ -6,7 +6,7 @@
         "title": "Enderchest",
         "description": "Fabriquer un enderchest"
     },
-    "parent": "minecraft:nether/obtain_blaze_rod",	
+    "parent": "fritecraft:nether/obtain_blaze_rod",	
     "criteria": {
         "ender_chest": {
             "trigger": "minecraft:inventory_changed",

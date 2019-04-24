@@ -6,7 +6,7 @@
 		"title": "Navigateur oublié",
 		"description": "Achever un noyé"
 	},
-	"parent": "custom:ocean/shipwreck",
+	"parent": "fritecraft:ocean/shipwreck",
 	"criteria": {
 		"drowned": {
 			"trigger": "minecraft:player_killed_entity",

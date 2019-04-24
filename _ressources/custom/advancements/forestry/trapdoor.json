@@ -6,7 +6,7 @@
         "title": "A la trappe !",
         "description": "Fabriquer une trappe"
     },
-    "parent": "custom:forestry/door",
+    "parent": "fritecraft:forestry/door",
     "criteria": {
         "oak_trapdoor": {
             "trigger": "minecraft:inventory_changed",

@@ -6,7 +6,7 @@
         "title": {"translate":"Living Like Kings"},
         "description": {"translate":"Make yourself shiny with golden armor"}
     },
-    "parent": "blazeandcave:mining/gold_rush",
+    "parent": "fritecraft:mining/gold_rush",
 	"rewards": {
 		"function": "bc_rewards:mining/living_like_kings"
     },

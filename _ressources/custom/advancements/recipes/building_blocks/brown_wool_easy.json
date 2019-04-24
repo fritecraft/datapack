@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:recipes/root",
+  "parent": "fritecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "custom:brown_wool_easy"
+      "fritecraft:brown_wool_easy"
     ]
   },
   "criteria": {
@@ -19,7 +19,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "custom:brown_wool_easy"
+        "recipe": "fritecraft:brown_wool_easy"
       }
     }
   },

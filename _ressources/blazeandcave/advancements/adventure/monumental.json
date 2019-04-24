@@ -6,7 +6,7 @@
         "title": {"translate":"Monumental"},
         "description": {"translate":"Find an Ocean Monument"}
     },
-    "parent": "blazeandcave:adventure/treasure_map",
+    "parent": "fritecraft:adventure/treasure_map",
     "rewards": {
         "function": "bc_rewards:adventure/monumental"
     },		

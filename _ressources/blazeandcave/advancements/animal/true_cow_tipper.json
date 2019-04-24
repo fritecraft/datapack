@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of raw beef and leather"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:animal/milk_does_your_body_good",
+    "parent": "fritecraft:animal/milk_does_your_body_good",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:animal/true_cow_tipper"

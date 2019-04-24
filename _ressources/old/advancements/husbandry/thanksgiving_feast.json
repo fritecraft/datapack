@@ -7,7 +7,7 @@
 		"description": "Eat turkey, potatoes, rolls, and pie for your feast",
 		"frame": "goal"
 	},
-	"parent": "minecraft:husbandry/pumpkin_pie",
+	"parent": "fritecraft:husbandry/pumpkin_pie",
 	"criteria": {
 		"pie": {
 			"trigger": "minecraft:consume_item",

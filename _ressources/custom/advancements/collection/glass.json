@@ -6,7 +6,7 @@
 		"title": "Couleurs claires",
 		"description": "Collectionner les 17 couleurs de verre"
 	},
-	"parent": "custom:collection/sand",
+	"parent": "fritecraft:collection/sand",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

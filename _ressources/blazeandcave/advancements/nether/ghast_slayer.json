@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of ghast tears"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:nether/bring_down_the_beast",
+    "parent": "fritecraft:nether/bring_down_the_beast",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:nether/ghast_slayer"

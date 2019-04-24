@@ -6,7 +6,7 @@
         "title": "Aspirateur",
         "description": "Placer un entonnoir dans un wagonnet"
     },
-    "parent": "custom:redstone/hopper",
+    "parent": "fritecraft:redstone/hopper",
     "criteria": {
         "hopper_minecart": {
             "trigger": "minecraft:inventory_changed",

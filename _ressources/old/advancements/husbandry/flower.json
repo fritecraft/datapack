@@ -6,7 +6,7 @@
 		"title": "Flower Power",
 		"description": "Récolter une fleur"
 	},
-	"parent": "minecraft:husbandry/root",
+	"parent": "fritecraft:husbandry/root",
 	"criteria": {
 		"dandelion": {
 			"trigger": "minecraft:inventory_changed",

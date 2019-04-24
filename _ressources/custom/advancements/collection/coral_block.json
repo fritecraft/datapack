@@ -6,7 +6,7 @@
 		"title": "Grande barrière de corail",
 		"description": "Collectionner les 10 couleurs de bloc de corail"
 	},
-	"parent": "custom:collection/root",
+	"parent": "fritecraft:collection/root",
 	"criteria": {
 		"tube": {
 			"trigger": "minecraft:inventory_changed",

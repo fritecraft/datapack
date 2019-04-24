@@ -7,7 +7,7 @@
 		"description": "Collectionner tous les types de viande",
 		"frame": "goal"
 	},
-	"parent": "custom:livestock/protein_please",
+	"parent": "fritecraft:livestock/protein_please",
 	"criteria": {
 		"porkchop": {
 			"trigger": "minecraft:inventory_changed",

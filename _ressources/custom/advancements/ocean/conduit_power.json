@@ -6,7 +6,7 @@
         "title": "Ascension Marine",
         "description": "Activater un conduit"
     },
-    "parent": "custom:ocean/treasure",
+    "parent": "fritecraft:ocean/treasure",
     "criteria": {
         "conduit_power": {
             "trigger": "minecraft:effects_changed",

@@ -6,7 +6,7 @@
         "title": "Débrouissallage",
         "description": "Récuperer des feuilles"
     },
-    "parent": "custom:forestry/sapling",
+    "parent": "fritecraft:forestry/sapling",
     "criteria": {
         "oak_leaves": {
             "trigger": "minecraft:inventory_changed",

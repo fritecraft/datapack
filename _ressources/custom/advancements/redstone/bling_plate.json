@@ -6,7 +6,7 @@
         "title": {"translate":"Bling Plate"},
         "description": {"translate":"Dine in style! (No, not really)"}
     },
-    "parent": "blazeandcave:redstone/metal_plate",
+    "parent": "fritecraft:redstone/metal_plate",
 	"rewards": {
 		"function": "bc_rewards:redstone/bling_plate"
     },

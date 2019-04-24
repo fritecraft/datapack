@@ -6,7 +6,7 @@
         "title": "H2O",
 		"description": "Remplir un sceau d'eau"
     },
-    "parent": "custom:ocean/root",
+    "parent": "fritecraft:ocean/root",
     "criteria": {
         "water_bucket": {
             "trigger": "minecraft:inventory_changed",

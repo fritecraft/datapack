@@ -6,7 +6,7 @@
 		"title": "Splaf !",
 		"description": "Récuperer de l'encre"
 	},
-	"parent": "custom:ocean/root",
+	"parent": "fritecraft:ocean/root",
 	"criteria": {
 		"ink_sac": {
 			"trigger": "minecraft:inventory_changed",

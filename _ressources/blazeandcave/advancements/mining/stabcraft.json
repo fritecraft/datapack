@@ -6,7 +6,7 @@
         "title": {"translate":"Stabcraft"},
         "description": {"translate":"Do you like my sword sword"}
     },
-    "parent": "blazeandcave:mining/iconic_merchandising_prop",
+    "parent": "fritecraft:mining/iconic_merchandising_prop",
     "rewards": {
 		"function": "bc_rewards:mining/stabcraft"
     },			

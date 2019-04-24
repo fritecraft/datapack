@@ -6,7 +6,7 @@
         "title": {"translate":"Leader of the Pack"},
         "description": {"translate":"Befriend a wolf"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
 	"rewards": {
 		"function": "bc_rewards:animal/leader_of_the_pack"
     },		

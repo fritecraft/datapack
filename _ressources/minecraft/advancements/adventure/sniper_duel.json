@@ -7,7 +7,7 @@
         "description": {"translate":"Kill a skeleton with an arrow from more than 50 meters"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:combat/bow_spammer",
+    "parent": "fritecraft:combat/bow_spammer",
     "rewards": {
         "experience": 50,
         "function": "bc_rewards:combat/sniper_duel"

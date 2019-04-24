@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every structure type"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:adventure/secret_of_the_igloo",
+    "parent": "fritecraft:adventure/secret_of_the_igloo",
     "rewards": {
 		"experience": 100,
         "function": "bc_rewards:adventure/raidin_master"

@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of raw rabbit and rabbit hide"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:animal/getting_into_a_stew",
+    "parent": "fritecraft:animal/getting_into_a_stew",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:animal/in_a_hole_there_lived_a_rabbit"

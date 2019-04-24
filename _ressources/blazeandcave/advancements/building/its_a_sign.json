@@ -6,7 +6,7 @@
         "title": {"translate":"It's a Sign!"},
         "description": {"translate":"Craft and place a sign"}
     },
-    "parent": "blazeandcave:building/stationary_storage",
+    "parent": "fritecraft:building/stationary_storage",
 	"rewards": {
 		"function": "bc_rewards:building/its_a_sign"
     },		

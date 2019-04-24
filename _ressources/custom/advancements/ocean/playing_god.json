@@ -7,7 +7,7 @@
 		"description": "Canaliser la foudre sur toutes les entités transformables",
 		"frame": "goal"
 	},
-	"parent": "custom:ocean/very_very_frightening",
+	"parent": "fritecraft:ocean/very_very_frightening",
 	"criteria": {
 		"struck_villager": {
 			"trigger": "minecraft:channeled_lightning",

@@ -6,7 +6,7 @@
         "title": {"translate":"The Hunt Begins"},
         "description": {"translate":"Kill a wither skeleton"}
     },
-    "parent": "minecraft:nether/find_fortress",
+    "parent": "fritecraft:nether/find_fortress",
     "rewards": {
         "function": "bc_rewards:nether/the_hunt_begins"
     },		

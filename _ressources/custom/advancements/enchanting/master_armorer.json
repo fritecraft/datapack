@@ -7,7 +7,7 @@
         "description": {"translate":"Create a full suit of armor with all possible enchantments at max level"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:enchanting/master_miner",
+    "parent": "fritecraft:enchanting/master_miner",
     "rewards": {
         "experience": 200,
 		"function": "bc_rewards:enchanting/master_armorer"

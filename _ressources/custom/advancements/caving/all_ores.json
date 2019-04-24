@@ -7,7 +7,7 @@
 		"description": "Trouver tous les blocs de minerais",
 		"frame": "goal"
 	},
-	"parent": "custom:caving/niamond_level",
+	"parent": "fritecraft:caving/niamond_level",
 	"rewards": {
 		"experience": 50
 	},

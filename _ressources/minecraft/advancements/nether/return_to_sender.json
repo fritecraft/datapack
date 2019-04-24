@@ -7,7 +7,7 @@
         "description": {"translate":"Destroy a Ghast with its fireball"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:nether/fire_blast_shield",
+    "parent": "fritecraft:nether/fire_blast_shield",
 	"rewards": {
         "experience": 50,
 		"function": "bc_rewards:nether/return_to_sender"

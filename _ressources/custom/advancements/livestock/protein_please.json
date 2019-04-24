@@ -6,7 +6,7 @@
 		"title": "Protéines !",
 		"description": "Tuer un animal pour sa viande"
 	},
-	"parent": "custom:livestock/kill_an_animal",
+	"parent": "fritecraft:livestock/kill_an_animal",
 	"criteria": {
 		"porkchop": {
 			"trigger": "minecraft:inventory_changed",

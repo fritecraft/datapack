@@ -6,7 +6,7 @@
         "title": {"translate":"Care For the Environment"},
         "description": {"translate":"Plant down a sapling"}
     },
-    "parent": "blazeandcave:farming/root",
+    "parent": "fritecraft:farming/root",
 	"rewards": {
 		"function": "bc_rewards:farming/care_for_the_environment"
     },

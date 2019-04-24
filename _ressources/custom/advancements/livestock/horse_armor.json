@@ -6,7 +6,7 @@
 		"title": "Prêt pour la guerre",
 		"description": "Trouver une armure pour votre cheval"
 	},
-	"parent": "custom:livestock/tame_horse",
+	"parent": "fritecraft:livestock/tame_horse",
 	"criteria": {
 		"iron": {
 			"trigger": "minecraft:inventory_changed",

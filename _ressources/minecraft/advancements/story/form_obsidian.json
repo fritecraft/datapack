@@ -6,7 +6,7 @@
         "title": {"translate":"Ice Bucket Challenge"},
         "description": {"translate":"Form and mine a block of Obsidian"}
     },
-    "parent": "minecraft:story/lava_bucket",
+    "parent": "fritecraft:story/lava_bucket",
     "rewards": {
 		"function": "bc_rewards:mining/ice_bucket_challenge"
     },			

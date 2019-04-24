@@ -6,7 +6,7 @@
         "title": {"translate":"What's the time, Mr Wolf?"},
         "description": {"translate":"Time to clean your clocks! (Or, craft them!)"}
     },
-    "parent": "blazeandcave:mining/the_way_to_spawn",
+    "parent": "fritecraft:mining/the_way_to_spawn",
     "rewards": {
 		"function": "bc_rewards:mining/whats_the_time_mr_wolf"
     },		

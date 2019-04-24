@@ -6,7 +6,7 @@
         "title": "Sable Hanté",
         "description": "Rien à voir avec la forme"
     },
-    "parent": "minecraft:nether/obtain_blaze_rod",
+    "parent": "fritecraft:nether/obtain_blaze_rod",
     "criteria": {
         "soul_sand": {
             "trigger": "minecraft:inventory_changed",

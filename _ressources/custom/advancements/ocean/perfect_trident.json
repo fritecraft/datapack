@@ -7,7 +7,7 @@
 		"description": "Fabriquer le trident parfait",
 		"frame": "challenge"
 	},
-	"parent": "custom:ocean/throw_trident",
+	"parent": "fritecraft:ocean/throw_trident",
 	"rewards": {
 		"experience": 100
 	},

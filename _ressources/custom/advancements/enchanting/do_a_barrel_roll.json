@@ -7,7 +7,7 @@
         "description": {"translate":"Get Riptide on a trident so you can shoot yourself through the water"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/boomerang",
+    "parent": "fritecraft:enchanting/boomerang",
     "rewards": {
 		"function": "bc_rewards:enchanting/do_a_barrel_roll"
     },			

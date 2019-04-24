@@ -7,7 +7,7 @@
         "description": {"translate":"Kill a drowned using a trident from at least 30 metres"},
         "frame": "challenge"
     },
-    "parent": "minecraft:adventure/throw_trident",
+    "parent": "fritecraft:adventure/throw_trident",
     "rewards": {
         "experience": 50,
         "function": "bc_rewards:combat/underwater_duel"

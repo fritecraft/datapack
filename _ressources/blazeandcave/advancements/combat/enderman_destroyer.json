@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of ender pearls"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:combat/tele_morph",
+    "parent": "fritecraft:combat/tele_morph",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:combat/enderman_destroyer"

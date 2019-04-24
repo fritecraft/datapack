@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Bane of Arthropods V"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:enchanting/undead_slayer",
+    "parent": "fritecraft:enchanting/undead_slayer",
     "rewards": {
 		"function": "bc_rewards:enchanting/bane_of_one_shotting_spiders"
     },			

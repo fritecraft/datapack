@@ -6,7 +6,7 @@
 		"title": "Delicieux Poisson",
 		"description": "Cuire un poisson"
 	},
-	"parent": "custom:ocean/fishy_business",
+	"parent": "fritecraft:ocean/fishy_business",
 	"criteria": {
 		"cooked_cod": {
 			"trigger": "minecraft:inventory_changed",

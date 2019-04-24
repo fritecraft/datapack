@@ -6,7 +6,7 @@
 		"title": "Bloc de sushi",
 		"description": "Fabriquer un bloc d'algues séchées"
 	},
-	"parent": "custom:ocean/dried_kelp",
+	"parent": "fritecraft:ocean/dried_kelp",
 	"criteria": {
 		"dried_kelp_block": {
 			"trigger": "minecraft:inventory_changed",

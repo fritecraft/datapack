@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every type of stairs"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/slabs_for_days",
+    "parent": "fritecraft:building/slabs_for_days",
     "rewards": {
         "function": "bc_rewards:building/ah_my_old_enemy"
     },		

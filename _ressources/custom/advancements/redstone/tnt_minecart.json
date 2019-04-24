@@ -6,7 +6,7 @@
         "title": "Explosion Mobile",
         "description": "Placer un TNT dans un wagonnet"
     },
-    "parent": "custom:redstone/tnt",
+    "parent": "fritecraft:redstone/tnt",
     "criteria": {
         "tnt_minecart": {
             "trigger": "minecraft:inventory_changed",

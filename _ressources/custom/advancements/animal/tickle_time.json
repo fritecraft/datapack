@@ -6,7 +6,7 @@
         "title": {"translate":"Tickle Time!"},
         "description": {"translate":"Pluck some feathers from a chicken"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
 	"rewards": {
 		"function": "bc_rewards:animal/tickle_time"
     },		

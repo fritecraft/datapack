@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every item made out of spruce wood"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/professor_oak",
+    "parent": "fritecraft:building/professor_oak",
     "rewards": {
 		"function": "bc_rewards:building/spruce_lee"
     },		

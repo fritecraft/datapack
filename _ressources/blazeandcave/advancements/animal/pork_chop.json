@@ -6,7 +6,7 @@
         "title": {"translate":"Pork Chop"},
         "description": {"translate":"You know kung fu, how about pork chop?"}
     },
-    "parent": "blazeandcave:animal/bacon",
+    "parent": "fritecraft:animal/bacon",
 	"rewards": {
 		"function": "bc_rewards:animal/pork_chop"
     },		

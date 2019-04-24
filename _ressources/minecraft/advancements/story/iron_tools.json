@@ -6,7 +6,7 @@
         "title": {"translate":"Isn't It Iron Pick"},
         "description": {"translate":"Upgrade your pickaxe"}
     },
-    "parent": "minecraft:story/smelt_iron",
+    "parent": "fritecraft:story/smelt_iron",
     "rewards": {
 		"function": "bc_rewards:mining/isnt_it_iron_pick"
     },			

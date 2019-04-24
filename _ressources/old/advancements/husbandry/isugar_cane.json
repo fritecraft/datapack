@@ -6,7 +6,7 @@
 		"title": "Water Dependent",
 		"description": "Harvest sugar cane"
 	},
-	"parent": "minecraft:husbandry/root",
+	"parent": "fritecraft:husbandry/root",
 	"criteria": {
 		"sugar_cane": {	
 			"trigger": "minecraft:inventory_changed",

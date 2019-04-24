@@ -6,7 +6,7 @@
 		"title": "Attention les pieds",
 		"description": "Fabriquer un crochet"
 	},
-	"parent": "custom:redstone/pressure_plate",
+	"parent": "fritecraft:redstone/pressure_plate",
 	"criteria": {
 		"tripwire": {
 			"trigger": "minecraft:inventory_changed",

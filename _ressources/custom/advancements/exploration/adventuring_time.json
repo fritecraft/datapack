@@ -11,7 +11,7 @@
 		},
 		"frame": "challenge"
 	},
-	"parent": "custom:exploration/mushroom_island",
+	"parent": "fritecraft:exploration/mushroom_island",
 	"rewards": {
 		"experience": 500
 	},

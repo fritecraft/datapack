@@ -7,7 +7,7 @@
         "description": {"translate":"Kill an invisible spider"},
         "frame": "challenge"
     },
-    "parent": "blazeandcave:combat/spider_smasher",
+    "parent": "fritecraft:combat/spider_smasher",
 	"rewards": {
         "experience": 50,
 		"function": "bc_rewards:combat/the_ghastly_eyes"

@@ -11,7 +11,7 @@
         },
         "frame": "challenge"
     },
-    "parent": "custom:combat/shoot_arrow",
+    "parent": "fritecraft:combat/shoot_arrow",
 	"rewards": {
         "experience": 50
     },

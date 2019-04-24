@@ -6,7 +6,7 @@
         "title": "Le jeu du caillou",
         "description": "Trouver les quatre types de pierre"
     },
-    "parent": "custom:caving/root",
+    "parent": "fritecraft:caving/root",
     "criteria": {
         "stone": {
             "trigger": "minecraft:inventory_changed",

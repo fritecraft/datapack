@@ -6,7 +6,7 @@
         "title": "Alchimiste",
         "description": "Fabriquer un alambic"
     },
-    "parent": "minecraft:nether/obtain_blaze_rod",
+    "parent": "fritecraft:nether/obtain_blaze_rod",
     "criteria": {
         "brewing_stand": {
             "trigger": "minecraft:inventory_changed",

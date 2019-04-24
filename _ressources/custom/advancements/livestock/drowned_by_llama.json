@@ -7,7 +7,7 @@
 		"description": "Se noyer dans la bave",
 		"frame": "goal"
 	},
-	"parent": "custom:livestock/tame_a_mob",
+	"parent": "fritecraft:livestock/tame_a_mob",
 	"criteria": {
 		"llama": {
 			"trigger": "entity_killed_player",

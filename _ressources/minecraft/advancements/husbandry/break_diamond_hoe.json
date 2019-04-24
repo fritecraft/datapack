@@ -7,7 +7,7 @@
         "description": {"translate":"Completely use up a diamond hoe, and then reevaluate your life choices"},
         "frame": "challenge"
     },
-    "parent": "minecraft:husbandry/plant_seed",
+    "parent": "fritecraft:husbandry/plant_seed",
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:farming/serious_dedication"

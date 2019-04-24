@@ -6,7 +6,7 @@
         "title": {"translate":"Feeding the §mDucks§r Chickens"},
         "description": {"translate":"Breed chickens by feeding them seeds"}
     },
-    "parent": "blazeandcave:animal/egging_dude",
+    "parent": "fritecraft:animal/egging_dude",
 	"rewards": {
 		"function": "bc_rewards:animal/feeding_the_chickens"
     },		

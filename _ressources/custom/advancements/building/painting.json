@@ -6,7 +6,7 @@
         "title": "Le chef-d'oeuvre",
         "description": "Fabriquer une peinture"
     },
-    "parent": "custom:building/sign",
+    "parent": "fritecraft:building/sign",
     "criteria": {
         "painting": {
             "trigger": "minecraft:inventory_changed",

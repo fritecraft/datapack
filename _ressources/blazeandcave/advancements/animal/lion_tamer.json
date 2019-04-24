@@ -6,7 +6,7 @@
         "title": {"translate":"Lion Tamer"},
         "description": {"translate":"Tame an Ocelot using fish"}
     },
-    "parent": "blazeandcave:animal/salmonella_poisoning",
+    "parent": "fritecraft:animal/salmonella_poisoning",
 	"rewards": {
 		"function": "bc_rewards:animal/lion_tamer"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"There's a zombie on the lawn"},
         "description": {"translate":"Find a sunflower plains"}
     },
-    "parent": "blazeandcave:adventure/tarzan",	
+    "parent": "fritecraft:adventure/tarzan",	
     "rewards": {
 		"function": "bc_rewards:adventure/theres_a_zombie_on_the_lawn"
     },	

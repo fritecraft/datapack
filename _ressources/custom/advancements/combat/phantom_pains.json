@@ -6,7 +6,7 @@
 		"title": "Douleur fantome",
 		"description": "Combattez un Phantom"
 	},
-	"parent": "custom:combat/root",
+	"parent": "fritecraft:combat/root",
 	"criteria": {
 		"phantom_hurt": {
 			"trigger": "minecraft:entity_hurt_player",

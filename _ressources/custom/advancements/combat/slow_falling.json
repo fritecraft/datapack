@@ -6,7 +6,7 @@
         "title": "Perdez du poids en une gorgée !",
         "description": "Boire une potion de chute ralentie"
     },
-    "parent": "custom:combat/phantom_pains",
+    "parent": "fritecraft:combat/phantom_pains",
     "criteria": {
         "slow_falling": {
             "trigger": "minecraft:effects_changed",

@@ -7,7 +7,7 @@
 		"description": "Equiper une carapace de tortue",
 		"frame": "goal"
 	},
-	"parent": "custom:ocean/scute",
+	"parent": "fritecraft:ocean/scute",
 	"criteria": {
 		"turtle_shell": {
 			"trigger": "minecraft:inventory_changed",

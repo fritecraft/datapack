@@ -7,7 +7,7 @@
         "description": {"translate":"Run into a cactus"},
 		"hidden": "true"
     },
-    "parent": "blazeandcave:farming/its_a_cactus",
+    "parent": "fritecraft:farming/its_a_cactus",
 	"rewards": {
 		"function": "bc_rewards:farming/spikey"
     },

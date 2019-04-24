@@ -6,7 +6,7 @@
         "title": {"translate":"Observer Buddy"},
         "description": {"translate":"Craft an observer"}
     },
-    "parent": "blazeandcave:redstone/solar_power",
+    "parent": "fritecraft:redstone/solar_power",
 	"rewards": {
 		"function": "bc_rewards:redstone/observer_buddy"
     },	

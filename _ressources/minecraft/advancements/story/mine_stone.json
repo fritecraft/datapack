@@ -6,7 +6,7 @@
         "title": {"translate":"Stone Age"},
         "description": {"translate":"Mine stone with your new pickaxe"}
     },
-    "parent": "blazeandcave:mining/root",
+    "parent": "fritecraft:mining/root",
     "rewards": {
 		"function": "bc_rewards:mining/stone_age"
     },		

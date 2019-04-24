@@ -6,7 +6,7 @@
 		"title": "C'est bateau",
 		"description": "Fabriquer un navire pour votre voyage"
 	},
-	"parent": "custom:ocean/root",
+	"parent": "fritecraft:ocean/root",
 	"criteria": {
 		"oak": {
 			"trigger": "minecraft:inventory_changed",

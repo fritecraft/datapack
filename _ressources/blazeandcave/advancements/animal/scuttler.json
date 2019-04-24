@@ -6,7 +6,7 @@
         "title": {"translate":"Scuttler"},
         "description": {"translate":"Get a scute from a baby turtle when it grows up"}
     },
-    "parent": "blazeandcave:animal/hey_look_mom",
+    "parent": "fritecraft:animal/hey_look_mom",
 	"rewards": {
 		"function": "bc_rewards:animal/scuttler"
     },		

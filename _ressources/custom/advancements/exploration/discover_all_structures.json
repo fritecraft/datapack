@@ -7,7 +7,7 @@
 		"description": "Découvrir tous les types de structure",
 		"frame": "challenge"
 	},
-	"parent": "custom:exploration/discover_a_structure",
+	"parent": "fritecraft:exploration/discover_a_structure",
 	"rewards": {
         "experience": 250
     },

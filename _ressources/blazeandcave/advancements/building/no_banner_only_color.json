@@ -7,7 +7,7 @@
         "description": {"translate":"Craft all 16 banner colors"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/raise_the_flag",
+    "parent": "fritecraft:building/raise_the_flag",
     "rewards": {
 		"function": "bc_rewards:building/no_banner_only_color"
     },		

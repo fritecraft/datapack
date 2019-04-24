@@ -6,7 +6,7 @@
         "title": {"translate":"Wooly!"},
         "description": {"translate":"Obtain wool from a sheep by killing it"}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
     "rewards": {
         "function": "bc_rewards:animal/wooly"
     },		

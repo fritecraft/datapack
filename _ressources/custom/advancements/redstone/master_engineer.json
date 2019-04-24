@@ -7,7 +7,7 @@
         "description": {"translate":"Craft a stack of all types of redstone component"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:redstone/engineer",
+    "parent": "fritecraft:redstone/engineer",
 	"rewards": {
 		"experience": 100,	
 		"function": "bc_rewards:redstone/master_engineer"

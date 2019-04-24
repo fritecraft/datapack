@@ -6,7 +6,7 @@
         "title": {"translate":"Sweet dreams"},
         "description": {"translate":"Change your respawn point"}
     },
-    "parent": "blazeandcave:building/your_door_was_locked",
+    "parent": "fritecraft:building/your_door_was_locked",
     "rewards": {
         "function": "bc_rewards:building/sweet_dreams"
     },		

@@ -6,7 +6,7 @@
 		"title": "Bourreau",
 		"description": "Tuer un animal"
 	},
-	"parent": "custom:livestock/breed_an_animal",
+	"parent": "fritecraft:livestock/breed_an_animal",
 	"criteria": {
 		"chicken": {
 			"trigger": "minecraft:player_killed_entity",

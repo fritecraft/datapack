@@ -7,7 +7,7 @@
         "description": {"translate":"Become nearly invincible to all damage using a Turtle Master Potion"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:potion/true_feather_falling",
+    "parent": "fritecraft:potion/true_feather_falling",
 	"rewards": {
 		"function": "bc_rewards:potion/tank"
     },	

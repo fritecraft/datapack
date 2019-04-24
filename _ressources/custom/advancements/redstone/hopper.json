@@ -6,7 +6,7 @@
         "title": "Déménagement",
         "description": "Fabriquer et placer un entonnoir"
     },
-    "parent": "custom:redstone/root",
+    "parent": "fritecraft:redstone/root",
     "criteria": {
         "hopper": {
             "trigger": "minecraft:placed_block",

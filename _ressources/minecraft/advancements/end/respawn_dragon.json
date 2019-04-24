@@ -7,7 +7,7 @@
         "description": {"translate":"Respawn the Ender Dragon"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:end/the_start_of_something",
+    "parent": "fritecraft:end/the_start_of_something",
 	"rewards": {
 		"function": "bc_rewards:end/the_end_again"
     },	

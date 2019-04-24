@@ -10,7 +10,7 @@
             "translate": "advancements.nether.brew_potion.description"
         }
     },
-    "parent": "minecraft:nether/brewing_stand",
+    "parent": "fritecraft:nether/brewing_stand",
     "criteria": {
         "brew_potion": {
             "trigger": "minecraft:brewed_potion"

@@ -7,7 +7,7 @@
         "description": {"translate":"Travel to every type of village"},
 		"frame": "goal"
     },
-    "parent": "minecraft:adventure/trade",
+    "parent": "fritecraft:adventure/trade",
     "rewards": {
         "function": "bc_rewards:adventure/travelling_merchant"
     },		

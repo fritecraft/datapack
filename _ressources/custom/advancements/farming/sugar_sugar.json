@@ -6,7 +6,7 @@
         "title": {"translate":"Sugar, Sugar"},
         "description": {"translate":"Harvest some sugar cane from a river or ocean"}
     },
-    "parent": "blazeandcave:farming/root",
+    "parent": "fritecraft:farming/root",
 	"rewards": {
 		"function": "bc_rewards:farming/sugar_sugar"
     },		

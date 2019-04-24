@@ -6,7 +6,7 @@
         "title": {"translate":"Under Pressure"},
         "description": {"translate":"Craft a pressure plate"}
     },
-    "parent": "blazeandcave:redstone/root",
+    "parent": "fritecraft:redstone/root",
 	"rewards": {
 		"function": "bc_rewards:redstone/under_pressure"
     },

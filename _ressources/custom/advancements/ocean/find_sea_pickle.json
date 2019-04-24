@@ -6,7 +6,7 @@
 		"title": "Sans cornichons s'il vous plait",
 		"description": "Trouver un cornichon des mers"
 	},
-	"parent": "custom:ocean/root",
+	"parent": "fritecraft:ocean/root",
 	"criteria": {
 		"sea_pickle": {
 			"trigger": "minecraft:inventory_changed",

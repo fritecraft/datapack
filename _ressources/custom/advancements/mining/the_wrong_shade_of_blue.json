@@ -6,7 +6,7 @@
         "title": {"translate":"DIAM- oh, wait, no."},
         "description": {"translate":"It's still useful for enchanting"}
     },
-    "parent": "minecraft:story/iron_tools",
+    "parent": "fritecraft:story/iron_tools",
     "rewards": {
 		"function": "bc_rewards:mining/the_wrong_shade_of_blue"
     },		

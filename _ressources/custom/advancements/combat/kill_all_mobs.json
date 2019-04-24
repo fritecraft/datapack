@@ -11,7 +11,7 @@
         },
         "frame": "challenge"
     },
-    "parent": "custom:combat/kill_a_mob",
+    "parent": "fritecraft:combat/kill_a_mob",
 	"rewards": {
         "experience": 100
     },

@@ -6,7 +6,7 @@
 		"title": "Atlantis",
 		"description": "Trouver des ruines inondées"
 	},
-	"parent": "custom:ocean/root",
+	"parent": "fritecraft:ocean/root",
 	"criteria": {
 		"ocean_ruin": {
 			"trigger": "minecraft:location",

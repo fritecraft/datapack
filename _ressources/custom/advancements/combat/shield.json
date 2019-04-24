@@ -6,7 +6,7 @@
 		"title": "Toujours sortir protégé",
 		"description": "Fabriquer un bouclier"
 	},
-	"parent": "custom:combat/root",
+	"parent": "fritecraft:combat/root",
 	"criteria": {
 		"shield": {
 			"trigger": "minecraft:inventory_changed",

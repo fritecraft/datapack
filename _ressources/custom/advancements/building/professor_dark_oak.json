@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every item made out of dark oak wood"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/the_acacia_king",
+    "parent": "fritecraft:building/the_acacia_king",
     "rewards": {
 		"function": "bc_rewards:building/professor_dark_oak"
     },		

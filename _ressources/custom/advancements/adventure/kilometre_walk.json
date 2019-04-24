@@ -7,7 +7,7 @@
         "description": {"translate":"It's not that far in real life"},
         "frame": "goal"
     },
-    "parent": "minecraft:adventure/root",
+    "parent": "fritecraft:adventure/root",
     "rewards": {
         "function": "bc_rewards:adventure/kilometre_walk"
     },		

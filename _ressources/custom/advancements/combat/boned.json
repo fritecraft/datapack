@@ -6,7 +6,7 @@
         "title": {"translate":"Boned"},
         "description": {"translate":"Grind up some bones into bonemeal"}
     },
-    "parent": "blazeandcave:combat/spooky_skeleton",
+    "parent": "fritecraft:combat/spooky_skeleton",
     "rewards": {
         "function": "bc_rewards:combat/boned"
     },		

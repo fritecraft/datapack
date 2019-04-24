@@ -6,7 +6,7 @@
         "title": {"translate":"Sticky Parts"},
         "description": {"translate":"Craft a sticky piston so you can pull things"}
     },
-    "parent": "blazeandcave:redstone/moving_parts",
+    "parent": "fritecraft:redstone/moving_parts",
 	"rewards": {
 		"function": "bc_rewards:redstone/sticky_parts"
     },

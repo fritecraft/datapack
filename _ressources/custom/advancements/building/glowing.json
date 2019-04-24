@@ -6,7 +6,7 @@
         "title": {"translate":"Glowing!"},
         "description": {"translate":"Light up the area with glowstone"}
     },
-    "parent": "blazeandcave:building/torched",
+    "parent": "fritecraft:building/torched",
 	"rewards": {
 		"function": "bc_rewards:building/glowing"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"Rabbit Season"},
         "description": {"translate":"Killing bunnies is cruel. Period."}
     },
-    "parent": "minecraft:husbandry/root",
+    "parent": "fritecraft:husbandry/root",
 	"rewards": {
 		"function": "bc_rewards:animal/rabbit_season"
     },		

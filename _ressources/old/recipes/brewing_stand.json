@@ -9,7 +9,7 @@
 			"item": "minecraft:blaze_rod"
 		},
 		"#": {
-			"tag": "custom:stones"
+			"tag": "fritecraft:stones"
 		}
 	},
 	"result": {

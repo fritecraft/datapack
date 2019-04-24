@@ -6,7 +6,7 @@
         "title": "Champis",
         "description": "Récolter les deux types de champignon"
     },
-    "parent": "custom:caving/root",
+    "parent": "fritecraft:caving/root",
     "criteria": {
         "brown": {
             "trigger": "minecraft:inventory_changed",

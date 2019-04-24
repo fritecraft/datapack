@@ -7,7 +7,7 @@
         "description": {"translate":"Strike a Villager with lightning"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:enchanting/zeus",
+    "parent": "fritecraft:enchanting/zeus",
     "rewards": {
 		"experience": 100,	
         "function": "bc_rewards:enchanting/very_very_frightening"

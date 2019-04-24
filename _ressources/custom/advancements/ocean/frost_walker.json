@@ -6,7 +6,7 @@
 		"title": "Les bateaux c'est ringard",
 		"description": "Marcher sur l'océan"
 	},
-	"parent": "custom:ocean/depth_strider",
+	"parent": "fritecraft:ocean/depth_strider",
 	"criteria": {
 		"leather": {
 			"trigger": "minecraft:inventory_changed",

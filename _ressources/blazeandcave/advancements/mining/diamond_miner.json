@@ -7,7 +7,7 @@
         "description": {"translate":"Mine a stack of diamonds. Good luck!"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:mining/diamond_clad",
+    "parent": "fritecraft:mining/diamond_clad",
     "rewards": {
 		"function": "bc_rewards:mining/diamond_miner"
     },		

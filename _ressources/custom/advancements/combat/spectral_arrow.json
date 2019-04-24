@@ -6,7 +6,7 @@
         "title": "Tu ne peux plus te cacher !",
         "description": "Toucher quelque chose avec une flèche spectrale"
     },
-    "parent": "custom:combat/special_arrow",
+    "parent": "fritecraft:combat/special_arrow",
     "criteria": {
         "spectral_arrow": {
             "trigger": "minecraft:player_hurt_entity",

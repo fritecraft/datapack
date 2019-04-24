@@ -7,7 +7,7 @@
 		"description": "Tuer un ancien gardien",
 		"frame": "goal"
 	},
-	"parent": "custom:ocean/enter_monument",
+	"parent": "fritecraft:ocean/enter_monument",
 	"criteria": {
 		"elder_guardian": {
 			"trigger": "minecraft:player_killed_entity",

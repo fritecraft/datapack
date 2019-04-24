@@ -6,7 +6,7 @@
 		"title": "Finition glacée",
 		"description": "Collectionner les 16 couleurs de terre cuite émaillée"
 	},
-	"parent": "custom:collection/terracotta",
+	"parent": "fritecraft:collection/terracotta",
 	"criteria": {
 		"white": {
 			"trigger": "minecraft:inventory_changed",

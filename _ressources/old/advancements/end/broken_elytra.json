@@ -8,7 +8,7 @@
         "description": "Utiliser des elytres jusqu'à les casser",
         "frame": "goal"
     },
-    "parent": "minecraft:end/elytra",
+    "parent": "fritecraft:end/elytra",
     "criteria": {
         "broken_elytra": {
             "trigger": "minecraft:inventory_changed",

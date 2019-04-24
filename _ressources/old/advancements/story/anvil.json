@@ -3,10 +3,10 @@
 		"icon": {
 			"item": "minecraft:anvil"
 		},
-		"title": "Customization",
+		"title": "fritecraftization",
 		"description": "Craft and place an anvil"
 	},
-	"parent": "minecraft:story/buy_book",
+	"parent": "fritecraft:story/buy_book",
 	"criteria": {
 		"anvil": {
 			"trigger": "minecraft:placed_block",

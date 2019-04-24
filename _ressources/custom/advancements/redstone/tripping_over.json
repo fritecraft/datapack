@@ -6,7 +6,7 @@
         "title": {"translate":"Tripping Over"},
         "description": {"translate":"Craft a tripwire hook for your traps"}
     },
-    "parent": "blazeandcave:redstone/root",
+    "parent": "fritecraft:redstone/root",
 	"rewards": {
 		"function": "bc_rewards:redstone/tripping_over"
     },

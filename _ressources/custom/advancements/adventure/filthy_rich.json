@@ -7,7 +7,7 @@
         "description": {"translate":"Make 64 emeralds"},
         "frame": "goal"
     },
-    "parent": "minecraft:adventure/trade",	
+    "parent": "fritecraft:adventure/trade",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/filthy_rich"

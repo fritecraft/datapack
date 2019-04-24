@@ -6,7 +6,7 @@
         "title": {"translate":"Dry Spell"},
         "description": {"translate":"Dry a sponge in a furnace"}
     },
-    "parent": "blazeandcave:adventure/the_deep_end",
+    "parent": "fritecraft:adventure/the_deep_end",
     "rewards": {
         "function": "bc_rewards:adventure/dry_spell"
     },		

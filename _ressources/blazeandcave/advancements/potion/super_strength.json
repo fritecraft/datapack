@@ -6,7 +6,7 @@
         "title": {"translate":"Super Strength"},
         "description": {"translate":"Brew a Strength Potion for cheating on weightlifting"}
     },
-    "parent": "blazeandcave:potion/performance_enhancing_drugs",
+    "parent": "fritecraft:potion/performance_enhancing_drugs",
 	"rewards": {
 		"function": "bc_rewards:potion/super_strength"
     },	

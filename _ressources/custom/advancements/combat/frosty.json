@@ -6,7 +6,7 @@
         "title": {"translate":"Frosty"},
         "description": {"translate":"Kill a stray"}
     },
-    "parent": "minecraft:story/deflect_arrow",
+    "parent": "fritecraft:story/deflect_arrow",
     "rewards": {
         "function": "bc_rewards:combat/frosty"
     },		

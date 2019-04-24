@@ -6,7 +6,7 @@
 		"title": "Je sens les diamants ...",
 		"description": "Atteindre le niveau des diamants"
 	},
-	"parent": "custom:caving/root",
+	"parent": "fritecraft:caving/root",
 	"criteria": {
 		"16": {
 			"trigger": "minecraft:location",

@@ -7,7 +7,7 @@
         "title": {"translate":"Ricochet Swoop"},
         "description": {"translate":"Deflect a Phantom's swoop with your shield"}
     },
-    "parent": "blazeandcave:combat/the_phantom_menace",
+    "parent": "fritecraft:combat/the_phantom_menace",
 	"rewards": {
 		"function": "bc_rewards:combat/ricochet_swoop"
     },

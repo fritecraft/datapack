@@ -6,7 +6,7 @@
 		"title": "Civilisation",
 		"description": "Trouver un village"
 	},
-	"parent": "custom:exploration/discover_a_structure",
+	"parent": "fritecraft:exploration/discover_a_structure",
 	"criteria": {
 		"village": {
 			"trigger": "minecraft:location",

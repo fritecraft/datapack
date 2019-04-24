@@ -6,7 +6,7 @@
         "title": {"translate":"Farrier"},
         "description": {"translate":"Breed a horse in an effort to get a better one"}
     },
-    "parent": "blazeandcave:animal/cowboy",
+    "parent": "fritecraft:animal/cowboy",
 	"rewards": {
 		"function": "bc_rewards:animal/farrier"
     },		

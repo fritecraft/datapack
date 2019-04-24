@@ -6,7 +6,7 @@
         "title": {"translate":"Poisonous Ew"},
         "description": {"translate":"Kill a cave spider"}
     },
-    "parent": "blazeandcave:combat/ew_ew_ew",
+    "parent": "fritecraft:combat/ew_ew_ew",
     "rewards": {
         "function": "bc_rewards:combat/poisonous_ew"
     },		

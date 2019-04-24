@@ -6,7 +6,7 @@
         "title": "Attaque surprise",
         "description": "Suffoquer dans du gravier"
     },
-	"parent": "custom:caving/root",
+	"parent": "fritecraft:caving/root",
     "criteria": {
         "gravel": {
             "trigger": "minecraft:enter_block",

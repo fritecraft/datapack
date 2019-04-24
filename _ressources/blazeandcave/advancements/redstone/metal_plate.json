@@ -6,7 +6,7 @@
         "title": {"translate":"Metal Plate"},
         "description": {"translate":"Dinner time!"}
     },
-    "parent": "blazeandcave:redstone/pressure_detector",
+    "parent": "fritecraft:redstone/pressure_detector",
 	"rewards": {
 		"function": "bc_rewards:redstone/metal_plate"
     },

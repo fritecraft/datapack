@@ -6,7 +6,7 @@
         "title": {"translate":"Getting Wood"},
         "description": {"translate":"Attack a tree until a block of wood pops out"}
     },
-    "parent": "blazeandcave:beginning/root",
+    "parent": "fritecraft:beginning/root",
 	"rewards": {
 		"function": "bc_rewards:beginning/getting_wood"
     },		

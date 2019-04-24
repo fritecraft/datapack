@@ -7,7 +7,7 @@
         "description": "Create a perfect bow",
 		"frame": "challenge"
     },
-    "parent": "minecraft:story/mending",
+    "parent": "fritecraft:story/mending",
     "rewards": {
         "experience": 100
     },		

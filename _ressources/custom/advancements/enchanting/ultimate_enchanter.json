@@ -8,7 +8,7 @@
         "description": {"translate":"Obtain every enchantment at every level throughout your enchanting career"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:enchanting/master_enchanter",
+    "parent": "fritecraft:enchanting/master_enchanter",
     "rewards": {
         "experience": 200,	
 		"function": "bc_rewards:enchanting/ultimate_enchanter"

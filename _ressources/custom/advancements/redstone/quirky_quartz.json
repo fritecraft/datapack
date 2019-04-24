@@ -6,7 +6,7 @@
         "title": {"translate":"Quirky Quartz"},
         "description": {"translate":"Mine Nether Quartz from the Nether"}
     },
-    "parent": "blazeandcave:redstone/repeating_repeater",
+    "parent": "fritecraft:redstone/repeating_repeater",
 	"rewards": {
 		"function": "bc_rewards:redstone/quirky_quartz"
     },	

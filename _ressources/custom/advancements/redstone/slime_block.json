@@ -6,7 +6,7 @@
         "title": "Superglue",
         "description": "Fabriquer et placer un bloc de slime"
     },
-    "parent": "custom:redstone/sticky_piston",
+    "parent": "fritecraft:redstone/sticky_piston",
     "criteria": {
         "slime_block": {
             "trigger": "minecraft:placed_block",

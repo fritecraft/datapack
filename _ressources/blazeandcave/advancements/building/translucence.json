@@ -7,7 +7,7 @@
         "description": {"translate":"Craft all 16 colors of stained glass"},
 		"frame": "goal"
     },
-    "parent": "blazeandcave:building/what_a_pane",
+    "parent": "fritecraft:building/what_a_pane",
     "rewards": {
 		"function": "bc_rewards:building/translucence"
     },		

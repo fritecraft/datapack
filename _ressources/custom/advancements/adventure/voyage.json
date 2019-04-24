@@ -8,7 +8,7 @@
         "frame": "challenge",
 		"hidden": "true"
     },
-    "parent": "blazeandcave:adventure/ten_thousand_blocks",
+    "parent": "fritecraft:adventure/ten_thousand_blocks",
     "rewards": {
         "experience": 500,
         "function": "bc_rewards:adventure/voyage"

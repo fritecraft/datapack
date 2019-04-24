@@ -6,7 +6,7 @@
         "title": {"translate":"Just Keep Swimming"},
         "description": {"translate":"Go for a swim"}
     },
-    "parent": "minecraft:adventure/root",
+    "parent": "fritecraft:adventure/root",
 	"rewards": {
 		"function": "bc_rewards:adventure/just_keep_swimming"
     },

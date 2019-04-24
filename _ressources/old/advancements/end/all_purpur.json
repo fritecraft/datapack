@@ -7,7 +7,7 @@
         "description": "Posséder toutes les variantes de purpur",
         "frame": "goal"
     },
-    "parent": "minecraft:end/chorus_fruit",
+    "parent": "fritecraft:end/chorus_fruit",
     "criteria": {
         "purpur_block": {
             "trigger": "minecraft:inventory_changed",

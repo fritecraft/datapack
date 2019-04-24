@@ -6,7 +6,7 @@
         "title": {"translate":"Classy Glassy"},
         "description": {"translate":"Smelt sand in a furnace to get glass"}
     },
-    "parent": "blazeandcave:building/root",
+    "parent": "fritecraft:building/root",
 	"rewards": {
 		"function": "bc_rewards:building/classy_glassy"
     },		

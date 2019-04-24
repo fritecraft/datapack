@@ -7,7 +7,7 @@
         "description": {"translate":"Bring a shulker into the overworld and let it give you anti-gravity"},
 		"frame": "challenge"
     },
-    "parent": "minecraft:end/levitate",
+    "parent": "fritecraft:end/levitate",
     "rewards": {
 		"experience": 100,
         "function": "bc_rewards:end/anti_gravity_generator"

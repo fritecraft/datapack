@@ -7,7 +7,7 @@
         "description": {"translate":"Blow up a creeper with a charged creeper to get a creeper head"},
 		"frame": "challenge"
     },
-    "parent": "blazeandcave:combat/creeper_killer",
+    "parent": "fritecraft:combat/creeper_killer",
     "rewards": {
 		"experience": 250,
         "function": "bc_rewards:combat/creepy_heads"

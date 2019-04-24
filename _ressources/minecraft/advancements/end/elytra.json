@@ -7,7 +7,7 @@
         "description": {"translate":"Find an Elytra"},
         "frame": "goal"
     },
-    "parent": "blazeandcave:end/off_with_his_head",
+    "parent": "fritecraft:end/off_with_his_head",
 	"rewards": {
 		"function": "bc_rewards:end/skys_the_limit"
     },	

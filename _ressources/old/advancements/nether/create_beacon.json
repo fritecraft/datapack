@@ -10,7 +10,7 @@
             "translate": "Construire une balise"
         }
     },
-    "parent": "minecraft:nether/summon_wither",
+    "parent": "fritecraft:nether/summon_wither",
     "criteria": {
         "create_beacon": {
             "trigger": "minecraft:construct_beacon",
