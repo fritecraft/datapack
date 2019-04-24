@@ -1,0 +1,73 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:leather_chestplate"
+        },
+        "title": "PROCHAINEMENT",
+        "description": "PROCHAINEMENT",
+        "background": "minecraft:textures/block/red_terracotta.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "leather_chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:leather_chestplate"
+                    }
+                ]
+            }
+        },
+        "chainmail_chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:chainmail_chestplate"
+                    }
+                ]
+            }
+        },
+        "iron_chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_chestplate"
+                    }
+                ]
+            }
+        },
+        "diamond_chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond_chestplate"
+                    }
+                ]
+            }
+        },
+        "golden_chestplate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:golden_chestplate"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+		[
+    "leather_chestplate",
+    "chainmail_chestplate",
+		"iron_chestplate",
+		"diamond_chestplate",
+		"golden_chestplate"
+		]
+    ]
+}
