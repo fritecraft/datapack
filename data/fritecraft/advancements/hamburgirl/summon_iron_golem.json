@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:adventure/trade",
+  "parent": "fritecraft:hamburgirl/trade",
   "display": {
     "icon": {
       "item": "minecraft:carved_pumpkin"

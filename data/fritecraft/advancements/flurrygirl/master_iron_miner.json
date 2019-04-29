@@ -7,7 +7,7 @@
         "description": {"translate":"Mine enough iron to make a stack of iron blocks"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:mining/iron_miner",
+    "parent": "fritecraft:flurrygirl/iron_miner",
     "rewards": {
 		"function": "bc_rewards:mining/master_iron_miner"
     },		

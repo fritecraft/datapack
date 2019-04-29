@@ -6,7 +6,7 @@
         "title": {"translate":"Space Hopper"},
         "description": {"translate":"Craft a hopper for item transportation"}
     },
-    "parent": "fritecraft:redstone/root",
+    "parent": "fritecraft:hamburgirl/root",
 	"rewards": {
 		"function": "bc_rewards:redstone/space_hopper"
     },

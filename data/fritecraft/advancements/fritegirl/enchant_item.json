@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/mine_diamond",
+  "parent": "fritecraft:fritegirl/mine_diamond",
   "display": {
     "icon": {
       "item": "minecraft:enchanted_book"

@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of prismarine shards and crystals"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:adventure/spear_fishing",
+    "parent": "fritecraft:sodagirl/spear_fishing",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:adventure/guardian_destroyer"

@@ -6,7 +6,7 @@
         "title": {"translate":"What a piece of junk!"},
         "description": {"translate":"Fish out a junk item"}
     },
-    "parent": "fritecraft:animal/catching_nemo",
+    "parent": "fritecraft:sodagirl/catching_nemo",
 	"rewards": {
 		"function": "bc_rewards:animal/what_a_piece_of_junk"
     },		

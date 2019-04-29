@@ -6,7 +6,7 @@
         "title": {"translate":"In a Pickle"},
         "description": {"translate":"Collect some sea pickles from a coral reef"}
     },
-    "parent": "fritecraft:adventure/the_great_blocky_reef",
+    "parent": "fritecraft:sodagirl/the_great_blocky_reef",
     "rewards": {
         "function": "bc_rewards:adventure/in_a_pickle"
     },		

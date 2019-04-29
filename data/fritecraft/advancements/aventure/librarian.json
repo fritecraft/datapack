@@ -6,7 +6,7 @@
         "title": {"translate":"Librarian"},
         "description": {"translate":"Build some bookshelves for your enchanting table"}
     },
-    "parent": "fritecraft:enchanting/root",
+    "parent": "fritecraft:aventure/root",
     "rewards": {
 		"function": "bc_rewards:enchanting/librarian"
     },

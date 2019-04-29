@@ -8,7 +8,7 @@
         "description": {"translate":"Craft every type of tipped arrow"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:end/poison_dart",
+    "parent": "fritecraft:chocogirl/poison_dart",
 	"rewards": {
 		"function": "bc_rewards:end/furious_ammunition"
     },	

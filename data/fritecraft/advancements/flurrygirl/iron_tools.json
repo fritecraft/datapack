@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/smelt_iron",
+  "parent": "fritecraft:flurrygirl/smelt_iron",
   "display": {
     "icon": {
       "item": "minecraft:iron_pickaxe"

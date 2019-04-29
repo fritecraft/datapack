@@ -7,7 +7,7 @@
         "description": {"translate":"Defeat all kinds of End mobs"},
         "frame": "goal"
     },
-    "parent": "fritecraft:combat/hell_hunter",
+    "parent": "fritecraft:candygirl/hell_hunter",
     "rewards": {
         "experience": 50,
 		"function": "bc_rewards:combat/void_ender"

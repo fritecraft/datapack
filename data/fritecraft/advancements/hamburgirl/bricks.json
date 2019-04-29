@@ -6,7 +6,7 @@
         "title": {"translate":"Bricks!"},
         "description": {"translate":"Fire up that clay!"}
     },
-    "parent": "fritecraft:building/clay_dough",
+    "parent": "fritecraft:hamburgirl/clay_dough",
 	"rewards": {
 		"function": "bc_rewards:building/bricks"
     },		

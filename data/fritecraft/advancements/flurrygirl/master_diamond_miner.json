@@ -7,7 +7,7 @@
         "description": {"translate":"Mine enough diamond to make a stack of diamond blocks"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:mining/mineral_collection",
+    "parent": "fritecraft:flurrygirl/mineral_collection",
     "rewards": {
 		"function": "bc_rewards:mining/master_diamond_miner"
     },		

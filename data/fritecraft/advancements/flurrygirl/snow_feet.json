@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every snowy biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:adventure/warm_feet",	
+    "parent": "fritecraft:flurrygirl/warm_feet",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/snow_feet"

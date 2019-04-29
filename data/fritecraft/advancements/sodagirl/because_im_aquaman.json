@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain a trident from a Drowned"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:combat/tridented_shield",
+    "parent": "fritecraft:sodagirl/tridented_shield",
     "rewards": {
         "function": "bc_rewards:combat/because_im_aquaman"
     },		

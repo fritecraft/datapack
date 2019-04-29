@@ -6,7 +6,7 @@
         "title": {"translate":"Fake stronghold"},
         "description": {"translate":"Craft or collect normal, cracked, mossy and chiseled stone bricks"}
     },
-    "parent": "fritecraft:building/rock_collection",
+    "parent": "fritecraft:fritegirl/rock_collection",
     "rewards": {
         "function": "bc_rewards:building/fake_stronghold"
     },		

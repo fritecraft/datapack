@@ -7,7 +7,7 @@
         "description": {"translate":"Fish out a ratty old pair of boots"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:animal/treasure_hunter",
+    "parent": "fritecraft:sodagirl/treasure_hunter",
 	"rewards": {
 		"function": "bc_rewards:animal/someones_been_here_before"
     },		

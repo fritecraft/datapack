@@ -6,7 +6,7 @@
         "title": {"translate":"Not Today!"},
         "description": {"translate":"Eat a poisonous potato"}
     },
-    "parent": "fritecraft:farming/die_potato",
+    "parent": "fritecraft:fritegirl/die_potato",
 	"rewards": {
 		"function": "bc_rewards:farming/not_today"
     },		

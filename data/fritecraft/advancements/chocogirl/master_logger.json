@@ -7,7 +7,7 @@
         "description": {"translate":"Cut down a full stack of logs of all types"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:building/stripper",
+    "parent": "fritecraft:chocogirl/stripper",
     "rewards": {
         "function": "bc_rewards:building/master_logger"
     },		

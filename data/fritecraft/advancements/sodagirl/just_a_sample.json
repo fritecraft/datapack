@@ -6,7 +6,7 @@
         "title": {"translate":"Just a sample"},
         "description": {"translate":"Collect some coral from a coral reef"}
     },
-    "parent": "fritecraft:adventure/in_a_pickle",
+    "parent": "fritecraft:sodagirl/in_a_pickle",
 	"rewards": {
 		"function": "bc_rewards:adventure/just_a_sample"
     },		

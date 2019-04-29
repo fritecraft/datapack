@@ -6,7 +6,7 @@
         "title": {"translate":"Thick Ice!"},
         "description": {"translate":"Craft or mine a blue ice block from an iceberg"}
     },
-    "parent": "fritecraft:adventure/spike_ice",
+    "parent": "fritecraft:flurrygirl/spike_ice",
     "rewards": {
         "function": "bc_rewards:adventure/thick_ice"
     },		

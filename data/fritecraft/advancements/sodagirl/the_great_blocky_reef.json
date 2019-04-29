@@ -6,7 +6,7 @@
         "title": {"translate":"The Great Blocky Reef"},
         "description": {"translate":"Come across a coral reef in the ocean"}
     },
-    "parent": "fritecraft:adventure/dolphin_dasher",	
+    "parent": "fritecraft:sodagirl/dolphin_dasher",	
     "rewards": {
 		"function": "bc_rewards:adventure/the_great_blocky_reef"
     },	

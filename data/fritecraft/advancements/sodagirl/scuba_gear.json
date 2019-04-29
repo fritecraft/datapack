@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain every water related enchantment"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/knocking_your_socks_off",
+    "parent": "fritecraft:sodagirl/knocking_your_socks_off",
     "rewards": {
 		"function": "bc_rewards:enchanting/scuba_gear"
     },			

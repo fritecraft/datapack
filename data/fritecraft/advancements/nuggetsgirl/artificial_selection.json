@@ -6,7 +6,7 @@
         "title": {"translate":"Artificial Selection"},
         "description": {"translate":"Breed a horse and a donkey to get a mule"}
     },
-    "parent": "fritecraft:animal/are_we_there_yet",
+    "parent": "fritecraft:nuggetsgirl/are_we_there_yet",
 	"rewards": {
 		"function": "bc_rewards:animal/artificial_selection"
     },		

@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Fortune III"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/super_efficient",
+    "parent": "fritecraft:flurrygirl/super_efficient",
     "rewards": {
 		"function": "bc_rewards:enchanting/fortunate_son"
     },			

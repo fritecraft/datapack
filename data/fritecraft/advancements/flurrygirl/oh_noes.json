@@ -7,7 +7,7 @@
         "description": {"translate":"Break your first tool"},
 		"hidden": "true"
     },
-    "parent": "fritecraft:story/mine_stone",
+    "parent": "fritecraft:flurrygirl/mine_stone",
     "rewards": {
 		"function": "bc_rewards:mining/oh_noes"
     },		

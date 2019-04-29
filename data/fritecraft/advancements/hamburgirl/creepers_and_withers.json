@@ -6,7 +6,7 @@
         "title": {"translate":"Creepers and Withers"},
         "description": {"translate":"Engrave sandstone with creeper and wither patterns"}
     },
-    "parent": "fritecraft:building/jailhouse_block",
+    "parent": "fritecraft:hamburgirl/jailhouse_block",
     "rewards": {
         "function": "bc_rewards:building/creepers_and_withers"
     },		

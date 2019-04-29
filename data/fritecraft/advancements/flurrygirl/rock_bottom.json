@@ -7,7 +7,7 @@
         "description": {"translate":"Dig down to the bottom of the world"},
         "frame": "goal"
     },
-    "parent": "fritecraft:story/iron_tools",
+    "parent": "fritecraft:flurrygirl/iron_tools",
     "rewards": {
 		"experience": 50,
         "function": "bc_rewards:mining/rock_bottom"

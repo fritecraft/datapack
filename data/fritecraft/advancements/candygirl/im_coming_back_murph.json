@@ -7,7 +7,7 @@
         "description": {"translate":"Travel far into the End dimension"},
         "frame": "goal"
     },
-    "parent": "fritecraft:end/void_walker",
+    "parent": "fritecraft:candygirl/void_walker",
     "rewards": {
         "function": "bc_rewards:end/im_coming_back_murph"
     },		

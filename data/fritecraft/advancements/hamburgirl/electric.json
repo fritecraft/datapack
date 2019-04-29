@@ -6,7 +6,7 @@
         "title": {"translate":"Electric!"},
         "description": {"translate":"Light up the area with some redstone lamps"}
     },
-    "parent": "fritecraft:building/glowing",
+    "parent": "fritecraft:hamburgirl/glowing",
 	"rewards": {
 		"function": "bc_rewards:building/electric"
     },		

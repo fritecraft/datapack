@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Smite V"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/needle_sharp",
+    "parent": "fritecraft:fritegirl/needle_sharp",
     "rewards": {
 		"function": "bc_rewards:enchanting/undead_slayer"
     },			

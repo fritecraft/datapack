@@ -7,7 +7,7 @@
         "description": {"translate":"Kill endermen in all three dimensions"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:combat/enderman_destroyer",
+    "parent": "fritecraft:candygirl/enderman_destroyer",
 	"rewards": {
         "experience": 50,
 		"function": "bc_rewards:combat/plane_walker"

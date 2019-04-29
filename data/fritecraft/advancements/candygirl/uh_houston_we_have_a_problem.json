@@ -7,7 +7,7 @@
         "description": {"translate":"Fly up to a ridiculous height"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:end/sky_high",
+    "parent": "fritecraft:candygirl/sky_high",
     "rewards": {
 		"experience": 50,
         "function": "bc_rewards:end/uh_houston_we_have_a_problem"

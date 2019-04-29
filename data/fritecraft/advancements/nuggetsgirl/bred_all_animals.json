@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:husbandry/breed_an_animal",
+  "parent": "fritecraft:nuggetsgirl/breed_an_animal",
   "display": {
     "icon": {
       "item": "minecraft:golden_carrot"

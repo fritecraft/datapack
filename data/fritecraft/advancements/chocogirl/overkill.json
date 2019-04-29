@@ -7,7 +7,7 @@
         "description": {"translate":"Deal eight hearts of damage in a single blow"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:enchanting/root",
+    "parent": "fritecraft:chocogirl/root",
     "rewards": {
         "experience": 50,
 		"function": "bc_rewards:enchanting/overkill"

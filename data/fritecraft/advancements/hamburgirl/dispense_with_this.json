@@ -6,7 +6,7 @@
         "title": {"translate":"Dispense With This"},
         "description": {"translate":"Construct a dispenser"}
     },
-    "parent": "fritecraft:redstone/space_dropper",
+    "parent": "fritecraft:hamburgirl/space_dropper",
     "rewards": {
 		"function": "bc_rewards:redstone/dispense_with_this"
     },			

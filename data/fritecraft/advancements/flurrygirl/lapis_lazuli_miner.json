@@ -7,7 +7,7 @@
         "description": {"translate":"Mine enough lapis lazuli to craft a stack of lapis lazuli blocks"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:mining/the_wrong_shade_of_blue",
+    "parent": "fritecraft:flurrygirl/the_wrong_shade_of_blue",
     "rewards": {
 		"function": "bc_rewards:mining/lapis_lazuli_miner"
     },		

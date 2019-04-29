@@ -7,7 +7,7 @@
         "description": {"translate":"Fall into the void"},
         "hidden": "true"
     },
-    "parent": "fritecraft:end/root",
+    "parent": "fritecraft:candygirl/root",
     "rewards": {
         "function": "bc_rewards:end/the_point_of_no_return"
     },		

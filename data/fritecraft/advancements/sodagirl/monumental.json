@@ -6,7 +6,7 @@
         "title": {"translate":"Monumental"},
         "description": {"translate":"Find an Ocean Monument"}
     },
-    "parent": "fritecraft:adventure/treasure_map",
+    "parent": "fritecraft:sodagirl/treasure_map",
     "rewards": {
         "function": "bc_rewards:adventure/monumental"
     },		

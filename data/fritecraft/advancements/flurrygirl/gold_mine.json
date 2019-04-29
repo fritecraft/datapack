@@ -6,7 +6,7 @@
         "title": {"translate":"Gold Mine!"},
         "description": {"translate":"Find a mineshaft on the surface of a mesa biome"}
     },
-    "parent": "fritecraft:mining/eeuuwww",
+    "parent": "fritecraft:flurrygirl/eeuuwww",
     "rewards": {
         "function": "bc_rewards:mining/gold_mine"
     },		

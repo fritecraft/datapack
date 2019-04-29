@@ -6,7 +6,7 @@
         "title": {"translate":"House of Psychos"},
         "description": {"translate":"Find a Woodland Mansion"}
     },
-    "parent": "fritecraft:adventure/treasure_map",
+    "parent": "fritecraft:aventure/treasure_map",
     "rewards": {
         "function": "bc_rewards:adventure/house_of_psychos"
     },		

@@ -7,11 +7,11 @@
         "description": {"translate":"Collect a stack of ghast tears"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:nether/bring_down_the_beast",
+    "parent": "fritecraft:soupegirl/bring_down_the_beast",
     "rewards": {
-		"experience": 50,	
+		"experience": 50,
 		"function": "bc_rewards:nether/ghast_slayer"
-    },		
+    },
     "criteria": {
         "ghast_tear": {
             "trigger": "minecraft:inventory_changed",
@@ -24,5 +24,5 @@
                 ]
             }
         }
-    }	
+    }
 }

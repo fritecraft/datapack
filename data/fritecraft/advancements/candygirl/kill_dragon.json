@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:end/root",
+  "parent": "fritecraft:candygirl/root",
   "display": {
     "icon": {
       "item": "minecraft:dragon_head"

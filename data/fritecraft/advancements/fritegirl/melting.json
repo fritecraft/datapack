@@ -7,7 +7,7 @@
         "description": {"translate":"Bring a stray to a desert biome and then kill it"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:combat/the_undead_cavalry",
+    "parent": "fritecraft:fritegirl/the_undead_cavalry",
 	"rewards": {
         "experience": 100,
 		"function": "bc_rewards:combat/melting"

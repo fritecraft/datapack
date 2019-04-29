@@ -6,7 +6,7 @@
         "title": {"translate":"Mushroom, Mushroom, Mushroom, Mushroom!"},
         "description": {"translate":"Slurp some mushroom stew"}
     },
-    "parent": "fritecraft:farming/shrooms",
+    "parent": "fritecraft:soupegirl/shrooms",
 	"rewards": {
 		"function": "bc_rewards:farming/mushroom_mushroom_mushroom_mushroom"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"Spike Ice!"},
         "description": {"translate":"Break down an ice spike using a silk touch pickaxe"}
     },
-    "parent": "fritecraft:adventure/thin_ice",
+    "parent": "fritecraft:flurrygirl/thin_ice",
     "rewards": {
         "function": "bc_rewards:adventure/spike_ice"
     },		

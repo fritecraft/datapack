@@ -6,7 +6,7 @@
         "title": {"translate":"Bacon!"},
         "description": {"translate":"Gotta kill this pig pig pig pig"}
     },
-    "parent": "fritecraft:husbandry/root",
+    "parent": "fritecraft:hamburgirl/root",
     "rewards": {
         "function": "bc_rewards:animal/bacon"
     },		

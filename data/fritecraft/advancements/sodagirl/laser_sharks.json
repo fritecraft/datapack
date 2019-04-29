@@ -6,7 +6,7 @@
         "title": {"translate":"Laser Sharks!"},
         "description": {"translate":"Defeat a Guardian"}
     },
-    "parent": "fritecraft:adventure/monumental",
+    "parent": "fritecraft:sodagirl/monumental",
     "rewards": {
         "function": "bc_rewards:adventure/laser_sharks"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"Concrete Evidence"},
         "description": {"translate":"Create concrete from concrete powder by dropping it into water"}
     },
-    "parent": "fritecraft:building/rainbow_sand",
+    "parent": "fritecraft:hamburgirl/rainbow_sand",
 	"rewards": {
 		"function": "bc_rewards:building/concrete_evidence"
     },		

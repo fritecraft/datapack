@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:adventure/shoot_arrow",
+  "parent": "fritecraft:chocogirl/shoot_arrow",
   "display": {
     "icon": {
       "item": "minecraft:arrow"

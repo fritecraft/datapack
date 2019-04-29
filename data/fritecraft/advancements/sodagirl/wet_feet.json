@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every water biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:adventure/overgrown",	
+    "parent": "fritecraft:sodagirl/overgrown",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/wet_feet"

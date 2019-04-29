@@ -6,7 +6,7 @@
         "title": {"translate":"There has to be another way..."},
         "description": {"translate":"Kill a zombie villager"}
     },
-    "parent": "fritecraft:combat/dead_dont_die",
+    "parent": "fritecraft:fritegirl/dead_dont_die",
     "rewards": {
         "function": "bc_rewards:combat/there_has_to_be_another_way"
     },		

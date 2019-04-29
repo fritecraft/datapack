@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every biome including special biomes"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:adventure/adventuring_time",	
+    "parent": "fritecraft:exploration/adventuring_time",	
     "rewards": {
         "experience": 1000,
 		"function": "bc_rewards:adventure/explorer_of_worlds"

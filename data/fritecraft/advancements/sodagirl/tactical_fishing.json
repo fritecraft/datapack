@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:husbandry/fishy_business",
+  "parent": "fritecraft:sodagirl/fishy_business",
   "display": {
     "icon": {
       "item": "minecraft:pufferfish_bucket"

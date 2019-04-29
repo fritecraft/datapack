@@ -6,7 +6,7 @@
         "title": {"translate":"Barking Mad"},
         "description": {"translate":"Craft a bark block"}
     },
-    "parent": "fritecraft:building/root",
+    "parent": "fritecraft:chocogirl/root",
     "rewards": {
         "function": "bc_rewards:building/barking_mad"
     },		

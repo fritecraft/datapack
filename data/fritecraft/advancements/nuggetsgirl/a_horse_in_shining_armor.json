@@ -6,7 +6,7 @@
         "title": {"translate":"A Horse in Shining Armor"},
         "description": {"translate":"Find diamond horse armor"}
     },
-    "parent": "fritecraft:animal/farrier",
+    "parent": "fritecraft:nuggetsgirl/farrier",
     "rewards": {
 		"function": "bc_rewards:animal/a_horse_in_shining_armor"
     },		

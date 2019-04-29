@@ -6,7 +6,7 @@
         "title": {"translate":"Atlantis"},
         "description": {"translate":"Explore some Underwater Ruins"}
     },
-    "parent": "fritecraft:adventure/pushed_around",
+    "parent": "fritecraft:sodagirl/pushed_around",
     "rewards": {
         "function": "bc_rewards:adventure/atlantis"
     },		

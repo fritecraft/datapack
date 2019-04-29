@@ -7,7 +7,7 @@
         "description": {"translate":"Craft every item made out of oak wood"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:building/lost_its_bark",
+    "parent": "fritecraft:chocogirl/lost_its_bark",
     "rewards": {
 		"function": "bc_rewards:building/professor_oak"
     },		

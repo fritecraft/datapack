@@ -7,7 +7,7 @@
         "description": {"translate":"Hunt all types of nether creatures with your trident"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:combat/underwater_duel",
+    "parent": "fritecraft:sodagirl/underwater_duel",
     "rewards": {
         "experience": 100,
         "function": "bc_rewards:combat/poseidon_vs_hades"

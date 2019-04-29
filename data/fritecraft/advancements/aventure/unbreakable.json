@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Mending on an item"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/old_cartoon_joke",
+    "parent": "fritecraft:aventure/old_cartoon_joke",
 	"rewards": {
 		"function": "bc_rewards:enchanting/unbreakable"
     },

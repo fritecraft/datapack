@@ -7,7 +7,7 @@
         "description": {"translate":"Defeat an Evoker"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:adventure/ghostbuster",
+    "parent": "fritecraft:fringirl/ghostbuster",
     "rewards": {
         "function": "bc_rewards:adventure/wololo"
     },		

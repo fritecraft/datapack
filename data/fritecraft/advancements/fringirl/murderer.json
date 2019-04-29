@@ -7,7 +7,7 @@
         "description": {"translate":"Kill a villager"},
 		"hidden": "true"
     },
-    "parent": "fritecraft:adventure/summon_iron_golem",
+    "parent": "fritecraft:fringirl/summon_iron_golem",
     "rewards": {
         "function": "bc_rewards:adventure/murderer"
     },		

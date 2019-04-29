@@ -6,7 +6,7 @@
         "title": {"translate":"Mannequin"},
         "description": {"translate":"Craft an armor stand for displaying your armor"}
     },
-    "parent": "fritecraft:building/a_masterpiece",
+    "parent": "fritecraft:hamburgirl/a_masterpiece",
 	"rewards": {
 		"function": "bc_rewards:building/mannequin"
     },		

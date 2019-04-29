@@ -6,7 +6,7 @@
         "title": {"translate":"Even MOAR Tools"},
         "description": {"translate":"Craft a full diamond tools set"}
     },
-    "parent": "fritecraft:mining/stabcraft",
+    "parent": "fritecraft:flurrygirl/stabcraft",
     "rewards": {
 		"function": "bc_rewards:mining/even_moar_tools"
     },			

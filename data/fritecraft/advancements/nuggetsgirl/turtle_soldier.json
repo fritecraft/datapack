@@ -7,7 +7,7 @@
         "description": {"translate":"Craft a full turtle shell"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:animal/scuttler",
+    "parent": "fritecraft:nuggetsgirl/scuttler",
 	"rewards": {
 		"function": "bc_rewards:animal/turtle_soldier"
     },		

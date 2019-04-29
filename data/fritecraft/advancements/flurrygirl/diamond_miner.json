@@ -7,7 +7,7 @@
         "description": {"translate":"Mine a stack of diamonds. Good luck!"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:mining/diamond_clad",
+    "parent": "fritecraft:flurrygirl/diamond_clad",
     "rewards": {
 		"function": "bc_rewards:mining/diamond_miner"
     },		

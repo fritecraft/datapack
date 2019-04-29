@@ -6,7 +6,7 @@
         "title": {"translate":"Comparing Comparator"},
         "description": {"translate":"Craft a redstone comparator"}
     },
-    "parent": "fritecraft:redstone/quirky_quartz",
+    "parent": "fritecraft:hamburgirl/quirky_quartz",
 	"rewards": {
 		"function": "bc_rewards:redstone/comparing_comparator"
     },	

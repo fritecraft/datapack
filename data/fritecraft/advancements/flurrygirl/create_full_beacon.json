@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/create_beacon",
+  "parent": "fritecraft:flurrygirl/create_beacon",
   "display": {
     "icon": {
       "item": "minecraft:beacon"

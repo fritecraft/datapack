@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain boots enchanted with Feather Falling"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/root",
+    "parent": "fritecraft:nuggetsgirl/root",
     "rewards": {
 		"function": "bc_rewards:enchanting/like_a_cat"
     },			

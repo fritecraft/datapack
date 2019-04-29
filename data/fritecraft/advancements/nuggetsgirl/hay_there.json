@@ -7,7 +7,7 @@
         "description": {"translate":"Craft a stack of hay blocks"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:farming/the_lie",
+    "parent": "fritecraft:nuggetsgirl/the_lie",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:farming/hay_there"

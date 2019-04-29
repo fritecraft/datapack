@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of magma cream"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:nether/high_temperature_fluid_monster",
+    "parent": "fritecraft:soupegirl/high_temperature_fluid_monster",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:nether/magma_cube_squisher"

@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain boots enchanted with Frost Walker"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/old_cartoon_joke",
+    "parent": "fritecraft:flurrygirl/old_cartoon_joke",
     "rewards": {
 		"function": "bc_rewards:enchanting/let_it_go"
     },			

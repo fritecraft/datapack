@@ -6,7 +6,7 @@
         "title": {"translate":"Get Ship-rekt!"},
         "description": {"translate":"Come across a sunken ship"}
     },
-    "parent": "fritecraft:adventure/atlantis",
+    "parent": "fritecraft:sodagirl/atlantis",
     "rewards": {
         "function": "bc_rewards:adventure/get_ship_rekt"
     },		

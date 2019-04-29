@@ -7,7 +7,7 @@
         "description": {"translate":"Craft all 16 colors of carpet"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:animal/rainbow_collection",
+    "parent": "fritecraft:nuggetsgirl/rainbow_collection",
     "rewards": {
         "experience": 50,
 		"function": "bc_rewards:animal/fuzzy_feet"

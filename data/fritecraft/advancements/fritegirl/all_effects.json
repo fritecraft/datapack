@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/all_potions",
+  "parent": "fritecraft:fritegirl/all_potions",
   "display": {
     "icon": {
       "item": "minecraft:bucket"

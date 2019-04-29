@@ -7,7 +7,7 @@
         "title": {"translate":"Noxious Fumes"},
         "description": {"translate":"Use dragon's breath to brew a lingering potion"}
     },
-    "parent": "fritecraft:end/dragon_breath",
+    "parent": "fritecraft:candygirl/dragon_breath",
 	"rewards": {
 		"function": "bc_rewards:end/noxious_fumes"
     },	

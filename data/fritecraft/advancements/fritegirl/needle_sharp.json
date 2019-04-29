@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain Sharpness V"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/librarian",
+    "parent": "fritecraft:fritegirl/librarian",
     "rewards": {
 		"function": "bc_rewards:enchanting/needle_sharp"
     },			

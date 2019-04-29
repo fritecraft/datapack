@@ -7,7 +7,7 @@
         "description": {"translate":"Shoot down a phantom with a bow from 30 blocks away"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:combat/phantom_slayer",
+    "parent": "fritecraft:chocogirl/phantom_slayer",
     "rewards": {
         "experience": 50,
         "function": "bc_rewards:combat/anti_air"

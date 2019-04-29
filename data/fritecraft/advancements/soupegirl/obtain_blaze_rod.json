@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/find_fortress",
+  "parent": "fritecraft:soupegirl/find_fortress",
   "display": {
     "icon": {
       "item": "minecraft:blaze_rod"

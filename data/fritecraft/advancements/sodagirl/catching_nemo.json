@@ -7,7 +7,7 @@
         "description": {"translate":"Catch a clownfish"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:animal/salmonella_poisoning",
+    "parent": "fritecraft:sodagirl/salmonella_poisoning",
 	"rewards": {
 		"function": "bc_rewards:animal/catching_nemo"
     },		

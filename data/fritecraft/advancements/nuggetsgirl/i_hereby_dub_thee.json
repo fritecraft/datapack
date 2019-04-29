@@ -6,7 +6,7 @@
         "title": {"translate":"I hereby dub thee..."},
         "description": {"translate":"Obtain a name tag"}
     },
-    "parent": "fritecraft:adventure/root",
+    "parent": "fritecraft:nuggetsgirl/root",
     "rewards": {
         "function": "bc_rewards:adventure/i_hereby_dub_thee"
     },		

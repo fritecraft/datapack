@@ -6,7 +6,7 @@
         "title": {"translate":"24 Carrot Gold"},
         "description": {"translate":"Eat a golden carrot"}
     },
-    "parent": "fritecraft:farming/die_potato",
+    "parent": "fritecraft:fritegirl/die_potato",
 	"rewards": {
 		"function": "bc_rewards:farming/24_carrot_gold"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"Mozart"},
         "description": {"translate":"Craft a note block"}
     },
-    "parent": "fritecraft:redstone/root",
+    "parent": "fritecraft:hamburgirl/root",
 	"rewards": {
 		"function": "bc_rewards:redstone/mozart"
     },

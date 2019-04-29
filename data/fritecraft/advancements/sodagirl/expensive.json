@@ -6,7 +6,7 @@
         "title": {"translate":"Expensive!"},
         "description": {"translate":"Light up the area with some sea lanterns"}
     },
-    "parent": "fritecraft:building/glowing",
+    "parent": "fritecraft:sodagirl/glowing",
 	"rewards": {
 		"function": "bc_rewards:building/expensive"
     },		

@@ -7,7 +7,7 @@
         "description": {"translate":"Eat every type of meat, even if uncooked or rotten"},
         "frame": "goal"
     },
-    "parent": "fritecraft:farming/vegetarian",
+    "parent": "fritecraft:hamburgirl/vegetarian",
     "rewards": {
         "experience": 50,
 		"function": "bc_rewards:farming/meat_lovers"

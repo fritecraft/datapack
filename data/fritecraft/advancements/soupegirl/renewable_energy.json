@@ -6,7 +6,7 @@
         "title": {"translate":"Renewable Energy"},
         "description": {"translate":"Smelt wood trunks using charcoal to make more charcoal"}
     },
-    "parent": "fritecraft:mining/hot_topic",
+    "parent": "fritecraft:soupegirl/hot_topic",
 	"rewards": {
 		"function": "bc_rewards:mining/renewable_energy"
     },		

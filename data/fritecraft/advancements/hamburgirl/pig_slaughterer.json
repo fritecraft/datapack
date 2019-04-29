@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of raw porkchops"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:animal/when_pigs_used_to_fly",
+    "parent": "fritecraft:hamburgirl/when_pigs_used_to_fly",
     "rewards": {
 		"experience": 50,
 		"function": "bc_rewards:animal/pig_slaughterer"

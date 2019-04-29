@@ -7,7 +7,7 @@
         "description": {"translate":"Mine a stack of coal"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:mining/fossil_fuel",
+    "parent": "fritecraft:flurrygirl/fossil_fuel",
     "rewards": {
 		"function": "bc_rewards:mining/coal_miner"
     },		

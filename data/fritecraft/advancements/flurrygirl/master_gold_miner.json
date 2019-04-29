@@ -7,7 +7,7 @@
         "description": {"translate":"Mine enough gold to make a stack of gold blocks"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:mining/gold_miner",
+    "parent": "fritecraft:flurrygirl/gold_miner",
     "rewards": {
 		"function": "bc_rewards:mining/master_gold_miner"
     },		

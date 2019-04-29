@@ -7,7 +7,7 @@
         "description": {"translate":"Collect a stack of all four types of fish"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:animal/someones_been_here_before",
+    "parent": "fritecraft:sodagirl/someones_been_here_before",
 	"rewards": {
 		"experience": 100,	
 		"function": "bc_rewards:animal/master_angler"

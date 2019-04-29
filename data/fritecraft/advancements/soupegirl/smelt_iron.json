@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/upgrade_tools",
+  "parent": "fritecraft:soupegirl/upgrade_tools",
   "display": {
     "icon": {
       "item": "minecraft:iron_ingot"

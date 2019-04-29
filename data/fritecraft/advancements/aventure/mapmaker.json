@@ -6,7 +6,7 @@
         "title": {"translate":"Mapmaker"},
         "description": {"translate":"Craft or trade an empty map"}
     },
-    "parent": "fritecraft:adventure/magic_book",
+    "parent": "fritecraft:aventure/magic_book",
     "rewards": {
         "function": "bc_rewards:adventure/mapmaker"
     },		

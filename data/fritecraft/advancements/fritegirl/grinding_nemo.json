@@ -7,7 +7,7 @@
         "description": {"translate":"Skewer a tropical fish"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:animal/direct_fishing",
+    "parent": "fritecraft:fritegirl/direct_fishing",
     "rewards": {
         "function": "bc_rewards:animal/grinding_nemo"
     },		

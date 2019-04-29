@@ -6,7 +6,7 @@
         "title": {"translate":"For Mother, Clarence"},
         "description": {"translate":"Kill a shulker"}
     },
-    "parent": "fritecraft:end/find_end_city",
+    "parent": "fritecraft:candygirl/find_end_city",
     "rewards": {
         "function": "bc_rewards:end/for_mother_clarence"
     },		

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:husbandry/plant_seed",
+  "parent": "fritecraft:collection/plant_seed",
   "display": {
     "icon": {
       "item": "minecraft:apple"

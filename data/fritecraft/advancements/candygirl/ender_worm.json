@@ -6,7 +6,7 @@
         "title": {"translate":"Ender Worm"},
         "description": {"translate":"Prevent an endermite from maturing"}
     },
-    "parent": "fritecraft:combat/the_ender_of_ender",
+    "parent": "fritecraft:candygirl/the_ender_of_ender",
     "rewards": {
         "function": "bc_rewards:combat/ender_worm"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"Eeuuwww!"},
         "description": {"translate":"Get stuck in a cobweb"}
     },
-    "parent": "fritecraft:mining/this_is_mine_now",
+    "parent": "fritecraft:flurrygirl/this_is_mine_now",
 	"rewards": {
 		"function": "bc_rewards:mining/eeuuwww"
     },

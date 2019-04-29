@@ -6,7 +6,7 @@
         "title": {"translate":"Extrabiologist"},
         "description": {"translate":"Plant a chorus plant in the overworld for study"}
     },
-    "parent": "fritecraft:end/getting_chorus",
+    "parent": "fritecraft:candygirl/getting_chorus",
 	"rewards": {
 		"function": "bc_rewards:end/extrabiologist"
     },		

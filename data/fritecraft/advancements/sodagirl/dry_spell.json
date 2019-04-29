@@ -6,7 +6,7 @@
         "title": {"translate":"Dry Spell"},
         "description": {"translate":"Dry a sponge in a furnace"}
     },
-    "parent": "fritecraft:adventure/the_deep_end",
+    "parent": "fritecraft:sodagirl/the_deep_end",
     "rewards": {
         "function": "bc_rewards:adventure/dry_spell"
     },		

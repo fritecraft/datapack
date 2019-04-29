@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every dry biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:adventure/cold_feet",	
+    "parent": "fritecraft:hamburgirl/cold_feet",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/warm_feet"

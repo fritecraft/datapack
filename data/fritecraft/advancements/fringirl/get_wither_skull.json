@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/find_fortress",
+  "parent": "fritecraft:fringirl/find_fortress",
   "display": {
     "icon": {
       "item": "minecraft:wither_skeleton_skull"

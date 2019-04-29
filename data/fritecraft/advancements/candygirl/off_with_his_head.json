@@ -6,7 +6,7 @@
         "title": {"translate":"Off With His Head!"},
         "description": {"translate":"Collect a dragon's head from the bow of an end ship"}
     },
-    "parent": "fritecraft:end/find_end_city",
+    "parent": "fritecraft:candygirl/find_end_city",
 	"rewards": {
 		"function": "bc_rewards:end/off_with_his_head"
     },		

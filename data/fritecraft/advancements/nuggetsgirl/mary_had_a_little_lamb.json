@@ -6,7 +6,7 @@
         "title": {"translate":"Mary Had a Little Lamb..."},
         "description": {"translate":"Breed two sheep to get a lamb"}
     },
-    "parent": "fritecraft:animal/feeling_sheepish",
+    "parent": "fritecraft:nuggetsgirl/feeling_sheepish",
 	"rewards": {
 		"function": "bc_rewards:animal/mary_had_a_little_lamb"
     },		

@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/obtain_armor",
+  "parent": "fritecraft:hamburgirl/obtain_armor",
   "display": {
     "icon": {
       "item": "minecraft:shield"

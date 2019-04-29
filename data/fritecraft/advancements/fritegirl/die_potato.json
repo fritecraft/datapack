@@ -6,7 +6,7 @@
         "title": {"translate":"Die, Potato!"},
         "description": {"translate":"Squash and eat a potato"}
     },
-    "parent": "fritecraft:husbandry/plant_seed",
+    "parent": "fritecraft:fritegirl/plant_seed",
 	"rewards": {
 		"function": "bc_rewards:farming/die_potato"
     },		

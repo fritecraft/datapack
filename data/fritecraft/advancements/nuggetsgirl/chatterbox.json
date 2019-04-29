@@ -6,7 +6,7 @@
         "title": {"translate":"Chatterbox"},
         "description": {"translate":"Tame a Parrot using seeds. WARNING: Do not use a cookie!"}
     },
-    "parent": "fritecraft:animal/feeding_the_chickens",
+    "parent": "fritecraft:nuggetsgirl/feeding_the_chickens",
 	"rewards": {
 		"function": "bc_rewards:animal/chatterbox"
     },		

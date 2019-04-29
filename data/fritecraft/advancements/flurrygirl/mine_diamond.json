@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/iron_tools",
+  "parent": "fritecraft:flurrygirl/iron_tools",
   "display": {
     "icon": {
       "item": "minecraft:diamond"

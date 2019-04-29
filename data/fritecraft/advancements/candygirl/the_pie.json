@@ -6,7 +6,7 @@
         "title": {"translate":"The Pie"},
         "description": {"translate":"Bake a pumpkin pie"}
     },
-    "parent": "fritecraft:farming/naturally_carved",
+    "parent": "fritecraft:candygirl/naturally_carved",
 	"rewards": {
 		"function": "bc_rewards:farming/the_pie"
     },		

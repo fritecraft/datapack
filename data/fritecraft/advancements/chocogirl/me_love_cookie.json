@@ -6,7 +6,7 @@
         "title": {"translate":"Me Love Cookie"},
         "description": {"translate":"Bake some cookies... and then scoff them all yourself"}
     },
-    "parent": "fritecraft:farming/its_where_nutella_comes_from",
+    "parent": "fritecraft:chocogirl/its_where_nutella_comes_from",
 	"rewards": {
 		"function": "bc_rewards:farming/me_love_cookie"
     },		

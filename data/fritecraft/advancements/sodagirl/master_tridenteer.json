@@ -8,7 +8,7 @@
         "description": {"translate":"Create a trident with all possible enchantments at max level"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:enchanting/master_fisher",
+    "parent": "fritecraft:sodagirl/master_fisher",
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:enchanting/master_tridenteer"

@@ -6,7 +6,7 @@
         "title": {"translate":"Bapple!"},
         "description": {"translate":"Crunch into an apple"}
     },
-    "parent": "fritecraft:farming/care_for_the_environment",
+    "parent": "fritecraft:fritegirl/care_for_the_environment",
 	"rewards": {
 		"function": "bc_rewards:farming/bapple"
     },		

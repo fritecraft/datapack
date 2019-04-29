@@ -8,7 +8,7 @@
         "description": {"translate":"Create a pickaxe with all possible enchantments at max level"},
 		"frame": "challenge"
     },
-    "parent": "fritecraft:enchanting/unbreakable",
+    "parent": "fritecraft:flurrygirl/unbreakable",
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:enchanting/master_miner"

@@ -6,7 +6,7 @@
         "title": {"translate":"Pushed Around"},
         "description": {"translate":"Enter a bubble column"}
     },
-    "parent": "fritecraft:adventure/dolphin_dasher",
+    "parent": "fritecraft:sodagirl/dolphin_dasher",
 	"rewards": {
 		"function": "bc_rewards:adventure/pushed_around"
     },

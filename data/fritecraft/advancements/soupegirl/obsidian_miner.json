@@ -7,7 +7,7 @@
         "description": {"translate":"Mine a stack of obsidian. (This might take a while...)"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:story/enter_the_nether",
+    "parent": "fritecraft:soupegirl/enter_the_nether",
     "rewards": {
 		"experience": 50,	
 		"function": "bc_rewards:mining/obsidian_miner"

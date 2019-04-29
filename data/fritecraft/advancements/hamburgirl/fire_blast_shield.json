@@ -7,7 +7,7 @@
         "title": {"translate":"Fire Blast Shield"},
         "description": {"translate":"Block the explosion of a ghast's fireball"}
     },
-    "parent": "fritecraft:nether/giant_floating_jellyfish",
+    "parent": "fritecraft:hamburgirl/giant_floating_jellyfish",
 	"rewards": {
 		"function": "bc_rewards:nether/fire_blast_shield"
     },

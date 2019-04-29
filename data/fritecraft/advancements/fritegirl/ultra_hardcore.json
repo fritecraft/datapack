@@ -6,7 +6,7 @@
         "title": {"translate":"Ultra Hardcore"},
         "description": {"translate":"Craft and eat a normal golden apple"}
     },
-    "parent": "fritecraft:farming/bapple",
+    "parent": "fritecraft:fritegirl/bapple",
 	"rewards": {
 		"function": "bc_rewards:farming/ultra_hardcore"
     },		

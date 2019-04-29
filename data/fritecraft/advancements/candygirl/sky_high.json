@@ -7,7 +7,7 @@
         "description": {"translate":"Fly up beyond the world height limit"},
         "frame": "goal"
     },
-    "parent": "fritecraft:end/elytra",
+    "parent": "fritecraft:candygirl/elytra",
     "rewards": {
         "function": "bc_rewards:end/sky_high"
     },		

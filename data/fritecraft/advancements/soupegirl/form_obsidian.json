@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:story/lava_bucket",
+  "parent": "fritecraft:soupegirl/lava_bucket",
   "display": {
     "icon": {
       "item": "minecraft:obsidian"

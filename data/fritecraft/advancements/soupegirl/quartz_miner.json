@@ -7,7 +7,7 @@
         "description": {"translate":"Mine enough nether quartz to craft a stack of quartz blocks"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:redstone/quirky_quartz",
+    "parent": "fritecraft:soupegirl/quirky_quartz",
     "rewards": {
 		"function": "bc_rewards:redstone/quartz_miner"
     },		

@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every forest biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:adventure/kilometre_walk",	
+    "parent": "fritecraft:chocogirl/kilometre_walk",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/one_with_the_forest"

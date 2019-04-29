@@ -7,7 +7,7 @@
         "description": {"translate":"Mine a stack of gold ore"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:mining/gold_rush",
+    "parent": "fritecraft:flurrygirl/gold_rush",
     "rewards": {
 		"function": "bc_rewards:mining/gold_miner"
     },		

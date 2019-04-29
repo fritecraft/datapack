@@ -6,7 +6,7 @@
         "title": {"translate":"Breaking the Law of Conservation of Matter"},
         "description": {"translate":"Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back"}
     },
-    "parent": "fritecraft:farming/the_melon_the_melon_the_melon",
+    "parent": "fritecraft:candygirl/the_melon_the_melon_the_melon",
 	"rewards": {
 		"function": "bc_rewards:farming/breaking_the_law_of_conservation_of_matter"
     },		

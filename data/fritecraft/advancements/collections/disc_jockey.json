@@ -7,7 +7,7 @@
         "description": {"translate":"Collect all 12 music discs"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:adventure/music_to_my_ears",	
+    "parent": "fritecraft:collection/music_to_my_ears",	
     "rewards": {
         "experience": 250,
 		"function": "bc_rewards:adventure/disc_jockey"

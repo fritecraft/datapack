@@ -7,7 +7,7 @@
         "description": {"translate":"Turn your trident into a boomerang by getting Loyalty on it"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/librarian",
+    "parent": "fritecraft:sodagirl/librarian",
     "rewards": {
 		"function": "bc_rewards:enchanting/boomerang"
     },			

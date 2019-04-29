@@ -6,7 +6,7 @@
         "title": {"translate":"The Lie"},
         "description": {"translate":"Wheat, sugar, milk and eggs!"}
     },
-    "parent": "fritecraft:farming/bake_bread",
+    "parent": "fritecraft:flurrygirl/bake_bread",
 	"rewards": {
 		"function": "bc_rewards:farming/the_lie"
     },		

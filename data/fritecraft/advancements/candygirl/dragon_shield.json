@@ -7,7 +7,7 @@
         "title": {"translate":"Dragon Shield"},
         "description": {"translate":"Attempt to block the dragon's attacks"}
     },
-    "parent": "fritecraft:end/root",
+    "parent": "fritecraft:candygirl/root",
 	"rewards": {
 		"function": "bc_rewards:end/dragon_shield"
     },

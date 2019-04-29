@@ -7,7 +7,7 @@
         "description": {"translate":"Obtain every fire related enchantment"},
 		"frame": "goal"
     },
-    "parent": "fritecraft:enchanting/scuba_gear",
+    "parent": "fritecraft:soupegirl/scuba_gear",
     "rewards": {
 		"function": "bc_rewards:enchanting/fiery"
     },			

@@ -7,7 +7,7 @@
         "description": {"translate":"Discover every cold biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:adventure/one_with_the_forest",	
+    "parent": "fritecraft:flurrygirl/one_with_the_forest",	
     "rewards": {
         "experience": 100,
 		"function": "bc_rewards:adventure/cold_feet"

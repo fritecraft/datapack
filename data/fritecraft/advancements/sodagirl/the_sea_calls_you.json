@@ -6,7 +6,7 @@
         "title": {"translate":"The sea calls you..."},
         "description": {"translate":"Find an ocean"}
     },
-    "parent": "fritecraft:adventure/just_keep_swimming",	
+    "parent": "fritecraft:sodagirl/just_keep_swimming",	
     "rewards": {
 		"function": "bc_rewards:adventure/the_sea_calls_you"
     },	

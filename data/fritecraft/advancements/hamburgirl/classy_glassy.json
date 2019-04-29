@@ -6,7 +6,7 @@
         "title": {"translate":"Classy Glassy"},
         "description": {"translate":"Smelt sand in a furnace to get glass"}
     },
-    "parent": "fritecraft:building/root",
+    "parent": "fritecraft:hamburgirl/root",
 	"rewards": {
 		"function": "bc_rewards:building/classy_glassy"
     },		

@@ -6,7 +6,7 @@
         "title": {"translate":"Pork Chop"},
         "description": {"translate":"You know kung fu, how about pork chop?"}
     },
-    "parent": "fritecraft:animal/bacon",
+    "parent": "fritecraft:hamburgirl/bacon",
 	"rewards": {
 		"function": "bc_rewards:animal/pork_chop"
     },		

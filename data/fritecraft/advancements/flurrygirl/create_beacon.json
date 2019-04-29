@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:nether/summon_wither",
+  "parent": "fritecraft:flurrygirl/summon_wither",
   "display": {
     "icon": {
       "item": "minecraft:beacon"
