@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:sodagirl/underwater_duel",
     "rewards": {
-        "experience": 100,
-        "function": "bc_rewards:combat/poseidon_vs_hades"
+        "experience": 100
     },	
     "criteria": {
         "zombie_pigman": {
@@ -26,7 +25,7 @@
                     "type": "zombie_pigman"
                 }
             }
-        },	
+        },
         "ghast": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
@@ -99,6 +98,6 @@
                     "type": "blaze"
                 }
             }
-        }	
+        }
     }
 }

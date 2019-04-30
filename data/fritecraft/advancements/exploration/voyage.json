@@ -10,8 +10,7 @@
     },
     "parent": "fritecraft:exploration/ten_thousand_blocks",
     "rewards": {
-        "experience": 500,
-        "function": "bc_rewards:adventure/voyage"
+        "experience": 100
     },		
     "criteria": {
         "outer_pos_x": {
@@ -53,7 +52,7 @@
 					}
 				}
             }
-        }	
+        }
     },
     "requirements": [
         [

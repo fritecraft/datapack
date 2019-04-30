@@ -7,8 +7,8 @@
         "description": {"translate":"You know kung fu, how about pork chop?"}
     },
     "parent": "fritecraft:hamburgirl/bacon",
-	"rewards": {
-		"function": "bc_rewards:animal/pork_chop"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "cooked_porkchop": {

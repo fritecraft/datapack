@@ -7,9 +7,9 @@
         "description": {"translate":"Light up the area with some redstone lamps"}
     },
     "parent": "fritecraft:hamburgirl/glowing",
-	"rewards": {
-		"function": "bc_rewards:building/electric"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "redstone_lamp": {
             "trigger": "minecraft:placed_block",

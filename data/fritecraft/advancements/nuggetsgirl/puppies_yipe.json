@@ -7,8 +7,8 @@
         "description": {"translate":"Breed two wolves together to get a puppy!"}
     },
     "parent": "fritecraft:nuggetsgirl/tame_an_animal",
-	"rewards": {
-		"function": "bc_rewards:animal/puppies_yipe"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "wolf": {

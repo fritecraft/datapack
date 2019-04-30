@@ -10,9 +10,8 @@
     },
     "parent": "fritecraft:flurrygirl/unbreakable",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:enchanting/master_miner"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "perfect_pickaxe_fortune": {
             "trigger": "minecraft:inventory_changed",
@@ -36,7 +35,7 @@
 							{
 								"enchantment": "minecraft:mending",
 								"levels": 1
-							}	
+							}
 						]
                     }
                 ]
@@ -64,13 +63,13 @@
 							{
 								"enchantment": "minecraft:mending",
 								"levels": 1
-							}	
+							}
 						]
                     }
                 ]
             }
         }
-    },	
+    },
     "requirements": [
         [
             "perfect_pickaxe_fortune",

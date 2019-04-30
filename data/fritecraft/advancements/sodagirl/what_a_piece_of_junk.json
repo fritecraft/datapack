@@ -7,9 +7,9 @@
         "description": {"translate":"Fish out a junk item"}
     },
     "parent": "fritecraft:sodagirl/catching_nemo",
-	"rewards": {
-		"function": "bc_rewards:animal/what_a_piece_of_junk"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "bowl": {
             "trigger": "minecraft:fishing_rod_hooked",
@@ -100,7 +100,7 @@
                     "item": "minecraft:tripwire_hook"
                 }
             }
-        }		
+        }
     },
     "requirements": [
 		[
@@ -112,7 +112,7 @@
 		"string",
 		"potion",
 		"bone",
-		"ink_sac",		
+		"ink_sac",
 		"tripwire_hook"
 		]
     ]

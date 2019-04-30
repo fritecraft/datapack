@@ -16,8 +16,8 @@
     "hidden": false
   },
   "rewards": {
-    "experience": 100
-  },
+      "experience": 100
+  },	
   "criteria": {
     "all_effects": {
       "trigger": "minecraft:effects_changed",

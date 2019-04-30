@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:candygirl/kill_a_mob",
     "rewards": {
-        "function": "bc_rewards:combat/gelatinous_cube"
+        "experience": 100
     },		
     "criteria": {
         "slime": {

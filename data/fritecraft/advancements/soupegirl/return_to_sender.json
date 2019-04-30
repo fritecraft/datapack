@@ -16,6 +16,9 @@
     "hidden": false
   },
   "rewards": {
+      "experience": 100
+  },	
+  "rewards": {
     "experience": 50
   },
   "criteria": {

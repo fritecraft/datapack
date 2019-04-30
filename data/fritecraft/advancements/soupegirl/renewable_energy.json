@@ -7,8 +7,8 @@
         "description": {"translate":"Smelt wood trunks using charcoal to make more charcoal"}
     },
     "parent": "fritecraft:soupegirl/hot_topic",
-	"rewards": {
-		"function": "bc_rewards:mining/renewable_energy"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "charcoal": {

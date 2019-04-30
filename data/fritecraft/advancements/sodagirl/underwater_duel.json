@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/throw_trident",
     "rewards": {
-        "experience": 50,
-        "function": "bc_rewards:combat/underwater_duel"
-    },	
+        "experience": 100
+    },		
     "criteria": {
         "killed_drowned": {
             "trigger": "minecraft:player_killed_entity",

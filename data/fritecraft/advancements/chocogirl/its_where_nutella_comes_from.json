@@ -7,8 +7,8 @@
         "description": {"translate":"Obtain some cocoa beans from a jungle"}
     },
     "parent": "fritecraft:chocogirl/bake_bread",
-	"rewards": {
-		"function": "bc_rewards:farming/its_where_nutella_comes_from"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "cocoa_beans": {

@@ -9,9 +9,9 @@
 		"frame": "challenge"
     },
     "parent": "fritecraft:fritegirl/living_like_kings",
-	"rewards": {
-		"function": "bc_rewards:mining/the_mistake"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "golden_helmet": {
             "trigger": "minecraft:inventory_changed",

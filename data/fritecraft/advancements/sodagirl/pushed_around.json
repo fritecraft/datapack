@@ -7,9 +7,9 @@
         "description": {"translate":"Enter a bubble column"}
     },
     "parent": "fritecraft:sodagirl/dolphin_dasher",
-	"rewards": {
-		"function": "bc_rewards:adventure/pushed_around"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "enter_water": {
             "trigger": "minecraft:enter_block",

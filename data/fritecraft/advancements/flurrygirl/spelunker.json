@@ -7,9 +7,9 @@
         "description": {"translate":"Enter a cave"}
     },
     "parent": "fritecraft:flurrygirl/mine_stone",
-	"rewards": {
-		"function": "bc_rewards:mining/spelunker"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "enter_water": {
             "trigger": "minecraft:enter_block",

@@ -16,8 +16,8 @@
     "hidden": false
   },
   "rewards": {
-    "experience": 65
-  },
+      "experience": 100
+  },	
   "criteria": {
     "two_birds": {
       "trigger": "minecraft:killed_by_crossbow",

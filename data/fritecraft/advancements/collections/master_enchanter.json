@@ -10,8 +10,7 @@
     },
     "parent": "fritecraft:collection/complete_enchanter",
     "rewards": {
-        "experience": 200,	
-		"function": "bc_rewards:enchanting/master_enchanter"
+        "experience": 100
     },			
     "criteria": {
         "protection": {
@@ -28,7 +27,7 @@
 					}
 				]
 			}
-		},	
+		},
         "fire_protection": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -58,7 +57,7 @@
 					}
 				]
 			}
-		},		
+		},
         "blast_protection": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -118,7 +117,7 @@
 					}
 				]
 			}
-		},		
+		},
         "aqua_affinity": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -133,7 +132,7 @@
 					}
 				]
 			}
-		},	
+		},
         "thorns": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -148,7 +147,7 @@
 					}
 				]
 			}
-		},		
+		},
         "depth_strider": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -538,6 +537,6 @@
 					}
 				]
 			}
-		}		
+		}
     }
 }

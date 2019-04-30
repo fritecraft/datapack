@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:chocogirl/lost_its_bark",
     "rewards": {
-        "function": "bc_rewards:building/yay_i_got_my_wood"
+        "experience": 100
     },		
     "criteria": {
         "oak_log": {
@@ -72,5 +72,5 @@
                 ]
             }
         }
-	}		
+	}
 }

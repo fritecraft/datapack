@@ -8,9 +8,9 @@
         "description": {"translate":"Attempt to block the dragon's attacks"}
     },
     "parent": "fritecraft:candygirl/root",
-	"rewards": {
-		"function": "bc_rewards:end/dragon_shield"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "deflected_dragon": {
             "trigger": "minecraft:entity_hurt_player",

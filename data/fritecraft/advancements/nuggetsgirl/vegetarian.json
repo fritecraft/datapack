@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:nuggetsgirl/root",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:farming/vegetarian"
+        "experience": 100
     },		
     "criteria": {
         "apple": {

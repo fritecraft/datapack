@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/bling_bling_gone",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:mining/weve_broken_our_last_shovel"
+        "experience": 100
     },		
     "criteria": {
         "wooden_shovel": {
@@ -57,6 +56,6 @@
 				},
 				"durability": 0
             }
-        }		
+        }
     }
 }

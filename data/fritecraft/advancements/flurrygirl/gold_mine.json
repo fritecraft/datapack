@@ -8,81 +8,81 @@
     },
     "parent": "fritecraft:flurrygirl/eeuuwww",
     "rewards": {
-        "function": "bc_rewards:mining/gold_mine"
+        "experience": 100
     },		
     "criteria": {
         "mesa": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:badlands",				
+                "biome": "minecraft:badlands",
 				"position": {
 					"y": {
 						"min": 64.0
 					}
-				}				
+				}
             }
         },
         "mesa_clear_rock": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:badlands_plateau",				
+                "biome": "minecraft:badlands_plateau",
 				"position": {
 					"y": {
 						"min": 64.0
 					}
-				}				
+				}
             }
         },
         "mesa_rock": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:wooded_badlands_plateau",				
+                "biome": "minecraft:wooded_badlands_plateau",
 				"position": {
 					"y": {
 						"min": 64.0
 					}
-				}				
+				}
             }
-        },	
+        },
         "mutated_mesa": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:eroded_badlands",				
+                "biome": "minecraft:eroded_badlands",
 				"position": {
 					"y": {
 						"min": 64.0
 					}
-				}				
+				}
             }
         },
         "mutated_mesa_clear_rock": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:modified_badlands_plateau",				
+                "biome": "minecraft:modified_badlands_plateau",
 				"position": {
 					"y": {
 						"min": 64.0
 					}
-				}				
+				}
             }
         },
         "mutated_mesa_rock": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Mineshaft",
-                "biome": "minecraft:modified_wooded_badlands_plateau",				
+                "biome": "minecraft:modified_wooded_badlands_plateau",
 				"position": {
 					"y": {
 						"min": 64.0
 					}
-				}				
+				}
             }
-        }	
+        }
     },
     "requirements": [
 		[
@@ -93,5 +93,5 @@
 		"mutated_mesa_clear_rock",
 		"mutated_mesa_rock"
 		]
-    ]	
+    ]
 }

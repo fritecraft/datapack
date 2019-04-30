@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/get_ship_rekt",
     "rewards": {
-        "function": "bc_rewards:adventure/x_marks_the_spot"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "heart_of_the_sea": {
             "trigger": "minecraft:inventory_changed",
@@ -22,5 +22,5 @@
                 ]
             }
         }
-	}		
+	}
 }

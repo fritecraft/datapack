@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:soupegirl/the_nethers_shield",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:nether/blaze_extinguisher"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "blaze_rod": {
             "trigger": "minecraft:inventory_changed",
@@ -24,5 +23,5 @@
                 ]
             }
         }
-    }	
+    }
 }

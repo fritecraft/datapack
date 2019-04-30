@@ -16,8 +16,8 @@
     "hidden": false
   },
   "rewards": {
-    "experience": 50
-  },
+      "experience": 100
+  },	
   "criteria": {
     "killed_skeleton": {
       "trigger": "minecraft:player_killed_entity",

@@ -10,8 +10,7 @@
     },
     "parent": "fritecraft:fritegirl/unbreakable",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:enchanting/master_knight"
+        "experience": 100
     },		
     "criteria": {
         "perfect_sword": {
@@ -40,15 +39,15 @@
 							{
 								"enchantment": "minecraft:sweeping",
 								"levels": 3
-							},		
+							},
 							{
 								"enchantment": "minecraft:unbreaking",
 								"levels": 3
-							},	
+							},
 							{
 								"enchantment": "minecraft:mending",
 								"levels": 1
-							}		
+							}
 						]
                     }
                 ]

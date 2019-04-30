@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:candygirl/void_walker",
     "rewards": {
-        "function": "bc_rewards:end/im_coming_back_murph"
+        "experience": 100
     },		
     "criteria": {
         "outer_pos_x": {
@@ -55,7 +55,7 @@
 					}
 				}
             }
-        }	
+        }
     },
     "requirements": [
         [

@@ -7,8 +7,8 @@
         "description": {"translate":"Harvest some sugar cane from a river or ocean"}
     },
     "parent": "fritecraft:candygirl/root",
-	"rewards": {
-		"function": "bc_rewards:farming/sugar_sugar"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "sugar_cane": {

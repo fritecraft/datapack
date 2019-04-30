@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:sodagirl/librarian",
     "rewards": {
-		"function": "bc_rewards:enchanting/boomerang"
+        "experience": 100
     },			
     "criteria": {
         "power": {

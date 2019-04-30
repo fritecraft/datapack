@@ -1,5 +1,8 @@
 {
   "parent": "fritecraft:sodagirl/kill_a_mob",
+  "rewards": {
+      "experience": 100
+  },	
   "display": {
     "icon": {
       "item": "minecraft:trident"

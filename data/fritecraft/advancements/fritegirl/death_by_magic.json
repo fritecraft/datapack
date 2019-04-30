@@ -8,8 +8,8 @@
         "description": {"translate":"Kill a mob with a splash potion"}
     },
     "parent": "fritecraft:fritegirl/root",
-	"rewards": {
-		"function": "bc_rewards:potion/death_by_magic"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "kill_magic": {

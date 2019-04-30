@@ -7,8 +7,8 @@
         "description": {"translate":"Get a speed boost from your friendly underwater companions"}
     },
     "parent": "fritecraft:sodagirl/boaty_mcboatface",
-	"rewards": {
-		"function": "bc_rewards:adventure/dolphin_dasher"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "dolphins_grace": {

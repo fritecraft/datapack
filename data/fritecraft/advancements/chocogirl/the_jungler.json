@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:chocogirl/lost_its_bark",
     "rewards": {
-		"function": "bc_rewards:building/the_jungler"
+        "experience": 100
     },		
     "criteria": {
         "jungle_planks": {

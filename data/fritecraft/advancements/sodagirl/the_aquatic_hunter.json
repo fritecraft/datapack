@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:sodagirl/underwater_duel",
     "rewards": {
-        "experience": 100,
-        "function": "bc_rewards:combat/the_aquatic_hunter"
+        "experience": 100
     },	
     "criteria": {
         "guardian": {
@@ -26,7 +25,7 @@
                     "type": "guardian"
                 }
             }
-        },	
+        },
         "squid": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
@@ -138,6 +137,6 @@
                     "type": "drowned"
                 }
             }
-        }		
+        }
     }
 }

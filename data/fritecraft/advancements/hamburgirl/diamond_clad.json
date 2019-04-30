@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/shiny_gear",
     "rewards": {
-		"function": "bc_rewards:mining/diamond_clad"
+        "experience": 100
     },			
     "criteria": {
         "diamond_helmet": {

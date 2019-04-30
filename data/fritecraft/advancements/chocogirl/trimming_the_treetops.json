@@ -7,8 +7,8 @@
         "description": {"translate":"Use shears to obtain leaf blocks"}
     },
     "parent": "fritecraft:chocogirl/have_a_shearful_day",
-	"rewards": {
-		"function": "bc_rewards:animal/trimming_the_treetops"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "oak_leaves": {

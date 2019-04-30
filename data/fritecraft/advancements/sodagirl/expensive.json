@@ -7,9 +7,9 @@
         "description": {"translate":"Light up the area with some sea lanterns"}
     },
     "parent": "fritecraft:sodagirl/glowing",
-	"rewards": {
-		"function": "bc_rewards:building/expensive"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "sea_lantern": {
             "trigger": "minecraft:placed_block",

@@ -8,9 +8,9 @@
 		"frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/aquarium",
-	"rewards": {
-		"function": "bc_rewards:animal/tropical_collection"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "fish1": {
             "trigger": "minecraft:inventory_changed",
@@ -253,6 +253,6 @@
                     }
                 ]
             }
-        }		
+        }
     }
 }

@@ -7,8 +7,8 @@
         "description": {"translate":"Make and eat some rabbit stew"}
     },
     "parent": "fritecraft:soupegirl/lucky_charm",
-	"rewards": {
-		"function": "bc_rewards:animal/getting_into_a_stew"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "rabbit_stew": {

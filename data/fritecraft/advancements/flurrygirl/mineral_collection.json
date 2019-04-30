@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:flurrygirl/diamond_miner",
     "rewards": {
-		"function": "bc_rewards:mining/mineral_collection"
-    },			
+        "experience": 100
+    },				
     "criteria": {
         "coal_block": {
             "trigger": "minecraft:inventory_changed",

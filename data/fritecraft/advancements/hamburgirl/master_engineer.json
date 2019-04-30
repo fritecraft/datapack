@@ -8,10 +8,9 @@
 		"frame": "challenge"
     },
     "parent": "fritecraft:hamburgirl/engineer",
-	"rewards": {
-		"experience": 100,	
-		"function": "bc_rewards:redstone/master_engineer"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "dispenser": {
             "trigger": "minecraft:inventory_changed",
@@ -177,7 +176,7 @@
                     }
                 ]
             }
-        },		
+        },
         "oak_trapdoor": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -320,7 +319,7 @@
                     }
                 ]
             }
-        },	
+        },
         "tripwire_hook": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -606,6 +605,6 @@
                     }
                 ]
             }
-        }	
+        }
     }
 }

@@ -7,9 +7,9 @@
         "description": {"translate":"Finish writing in your book or get a book from another player"}
     },
     "parent": "fritecraft:nuggetsgirl/write_your_thoughts",
-	"rewards": {
-		"function": "bc_rewards:farming/an_amazing_story"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "written_book": {
             "trigger": "minecraft:inventory_changed",

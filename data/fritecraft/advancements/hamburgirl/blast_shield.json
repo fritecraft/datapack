@@ -8,9 +8,9 @@
         "description": {"translate":"Survive a creeper's blast with your shield"}
     },
     "parent": "fritecraft:hamburgirl/keep_your_distance",
-	"rewards": {
-		"function": "bc_rewards:combat/blast_shield"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "deflected_explosion": {
             "trigger": "minecraft:entity_hurt_player",

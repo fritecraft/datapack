@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:soupegirl/fake_stronghold",
     "rewards": {
-        "function": "bc_rewards:building/fake_fortress"
+        "experience": 100
     },		
     "criteria": {
         "nether_brick": {
@@ -71,5 +71,5 @@
                 ]
             }
         }
-	}		
+	}
 }

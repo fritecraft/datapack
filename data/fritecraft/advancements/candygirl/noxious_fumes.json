@@ -8,8 +8,8 @@
         "description": {"translate":"Use dragon's breath to brew a lingering potion"}
     },
     "parent": "fritecraft:candygirl/dragon_breath",
-	"rewards": {
-		"function": "bc_rewards:end/noxious_fumes"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "lingering_potion": {

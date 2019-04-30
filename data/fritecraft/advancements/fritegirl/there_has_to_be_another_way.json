@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:fritegirl/dead_dont_die",
     "rewards": {
-        "function": "bc_rewards:combat/there_has_to_be_another_way"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "zombie_villager": {
             "trigger": "minecraft:player_killed_entity",

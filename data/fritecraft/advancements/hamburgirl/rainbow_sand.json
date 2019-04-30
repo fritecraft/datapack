@@ -7,8 +7,8 @@
         "description": {"translate":"Craft concrete powder using sand, gravel and dye"}
     },
     "parent": "fritecraft:hamburgirl/root",
-	"rewards": {
-		"function": "bc_rewards:building/rainbow_sand"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "white_concrete_powder": {

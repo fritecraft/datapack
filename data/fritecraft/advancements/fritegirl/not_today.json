@@ -7,9 +7,9 @@
         "description": {"translate":"Eat a poisonous potato"}
     },
     "parent": "fritecraft:fritegirl/die_potato",
-	"rewards": {
-		"function": "bc_rewards:farming/not_today"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "poisonous_potato": {
             "trigger": "minecraft:consume_item",

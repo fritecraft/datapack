@@ -7,11 +7,10 @@
         "description": {"translate":"Make 64 emerald blocks"},
         "frame": "challenge"
     },
-    "parent": "fritecraft:aventure/filthy_rich",	
+    "parent": "fritecraft:aventure/filthy_rich",
     "rewards": {
-        "experience": 250,
-		"function": "bc_rewards:adventure/filthy_stinkin_rich"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "emerald_blocks": {
             "trigger": "minecraft:inventory_changed",

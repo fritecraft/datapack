@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:chocogirl/spruce_lee",
     "rewards": {
-		"function": "bc_rewards:building/professor_birch"
+        "experience": 100
     },		
     "criteria": {
         "birch_planks": {

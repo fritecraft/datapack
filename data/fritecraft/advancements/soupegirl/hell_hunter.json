@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:soupegirl/night_runner",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:combat/hell_hunter"
-    },	
+        "experience": 100
+    },		
     "criteria": {
         "zombie_pigman": {
             "trigger": "minecraft:player_killed_entity",

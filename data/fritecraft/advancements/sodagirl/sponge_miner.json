@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/dry_spell",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:adventure/sponge_miner"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "sponge": {
             "trigger": "minecraft:inventory_changed",
@@ -23,6 +22,6 @@
                     }
                 ]
             }
-        }		
-    }	
+        }
+    }
 }

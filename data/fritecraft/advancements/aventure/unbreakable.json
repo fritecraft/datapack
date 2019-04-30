@@ -8,9 +8,9 @@
 		"frame": "goal"
     },
     "parent": "fritecraft:aventure/old_cartoon_joke",
-	"rewards": {
-		"function": "bc_rewards:enchanting/unbreakable"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "mending": {
             "trigger": "minecraft:inventory_changed",

@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/feeding_the_chickens",
     "rewards": {
-		"experience": 50,
-		"function": "bc_rewards:animal/chicken_cooper"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "chicken": {
             "trigger": "minecraft:inventory_changed",
@@ -34,6 +33,6 @@
                     }
                 ]
             }
-        }	
-    }	
+        }
+    }
 }

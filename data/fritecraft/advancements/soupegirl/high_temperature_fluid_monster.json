@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:soupegirl/the_tribal_snouts",
     "rewards": {
-        "function": "bc_rewards:nether/high_temperature_fluid_monster"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "magma_cube": {
             "trigger": "minecraft:player_killed_entity",

@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:soupegirl/glows_in_the_dark",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:nether/glowstone_miner"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "glowstone": {
             "trigger": "minecraft:inventory_changed",
@@ -24,5 +23,5 @@
                 ]
             }
         }
-    }	
+    }
 }

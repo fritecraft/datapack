@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:fringirl/murderer",
     "rewards": {
-        "function": "bc_rewards:adventure/rekt"
+        "experience": 100
     },		
     "criteria": {
         "iron_golem": {

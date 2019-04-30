@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:aventure/travelling_merchant",
     "rewards": {
-        "function": "bc_rewards:adventure/businessman"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "farmer": {
             "trigger": "minecraft:villager_trade",
@@ -107,6 +107,6 @@
 					"nbt": "{Profession:4,Career:2}"
 				}
 			}
-        }		
+        }
     }
 }

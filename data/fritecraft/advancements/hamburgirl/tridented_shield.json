@@ -8,9 +8,9 @@
         "description": {"translate":"Block a trident thrown by a Drowned"}
     },
     "parent": "fritecraft:hamburgirl/a_watery_grave",
-	"rewards": {
-		"function": "bc_rewards:combat/tridented_shield"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "deflected_trident": {
             "trigger": "minecraft:entity_hurt_player",

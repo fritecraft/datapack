@@ -7,8 +7,8 @@
         "description": {"translate":"Mine some magma blocks"}
     },
     "parent": "fritecraft:soupegirl/quicksand",
-	"rewards": {
-		"function": "bc_rewards:nether/dont_step_on_it"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "magma": {

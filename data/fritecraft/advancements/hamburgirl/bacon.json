@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:hamburgirl/root",
     "rewards": {
-        "function": "bc_rewards:animal/bacon"
+        "experience": 100
     },		
     "criteria": {
         "pig": {

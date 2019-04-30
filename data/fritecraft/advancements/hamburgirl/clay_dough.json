@@ -7,8 +7,8 @@
         "description": {"translate":"Dig up some clay from a lake"}
     },
     "parent": "fritecraft:hamburgirl/root",
-	"rewards": {
-		"function": "bc_rewards:building/clay_dough"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "clay_ball": {

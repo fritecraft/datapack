@@ -7,8 +7,8 @@
         "description": {"translate":"Craft a redstone comparator"}
     },
     "parent": "fritecraft:hamburgirl/quirky_quartz",
-	"rewards": {
-		"function": "bc_rewards:redstone/comparing_comparator"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "comparator": {

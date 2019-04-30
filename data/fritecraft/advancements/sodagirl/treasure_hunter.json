@@ -7,8 +7,8 @@
         "description": {"translate":"Fish out a piece of treasure"}
     },
     "parent": "fritecraft:sodagirl/what_a_piece_of_junk",
-	"rewards": {
-		"function": "bc_rewards:animal/treasure_hunter"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "bow": {
@@ -64,7 +64,7 @@
                     "item": "minecraft:lily_pad"
                 }
             }
-        }	
+        }
     },
     "requirements": [
 		[

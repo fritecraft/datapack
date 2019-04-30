@@ -7,10 +7,9 @@
         "description": {"translate":"Discover every water biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:sodagirl/overgrown",	
+    "parent": "fritecraft:sodagirl/overgrown",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:adventure/wet_feet"
+        "experience": 100
     },	
     "criteria": {
         "river": {
@@ -84,6 +83,6 @@
             "conditions": {
                 "biome": "minecraft:warm_ocean"
             }
-        }	
+        }
     }
 }

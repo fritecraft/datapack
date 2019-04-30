@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/get_ship_rekt",
     "rewards": {
-		"experience": 50,
-        "function": "bc_rewards:adventure/titanic"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "iceberg": {
             "trigger": "minecraft:location",
@@ -20,5 +19,5 @@
                 "biome": "minecraft:deep_frozen_ocean"
             }
         }
-    }	
+    }
 }

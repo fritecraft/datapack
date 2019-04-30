@@ -8,8 +8,8 @@
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/salmonella_poisoning",
-	"rewards": {
-		"function": "bc_rewards:animal/catching_nemo"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "tropical_fish": {
@@ -20,6 +20,6 @@
                     "item": "minecraft:tropical_fish"
                 }
             }
-        }	
+        }
     }
 }

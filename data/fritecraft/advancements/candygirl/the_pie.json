@@ -7,9 +7,9 @@
         "description": {"translate":"Bake a pumpkin pie"}
     },
     "parent": "fritecraft:candygirl/naturally_carved",
-	"rewards": {
-		"function": "bc_rewards:farming/the_pie"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "pumpkin_pie": {
             "trigger": "minecraft:inventory_changed",

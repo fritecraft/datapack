@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:exploration/trade",
     "rewards": {
-        "function": "bc_rewards:adventure/travelling_merchant"
+        "experience": 100
     },		
     "criteria": {
         "plains": {
@@ -39,6 +39,6 @@
                 "feature": "Village",
 				"biome": "minecraft:taiga"
             }
-        }		
+        }
     }
 }

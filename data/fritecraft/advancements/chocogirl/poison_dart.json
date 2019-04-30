@@ -8,8 +8,8 @@
         "description": {"translate":"Craft tipped arrows of poison"}
     },
     "parent": "fritecraft:chocogirl/noxious_fumes",
-	"rewards": {
-		"function": "bc_rewards:end/poison_dart"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "normal_poison": {
@@ -44,7 +44,7 @@
                     }
                 ]
             }
-        }		
+        }
     },
     "requirements": [
         [

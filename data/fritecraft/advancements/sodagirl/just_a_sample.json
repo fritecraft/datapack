@@ -7,8 +7,8 @@
         "description": {"translate":"Collect some coral from a coral reef"}
     },
     "parent": "fritecraft:sodagirl/in_a_pickle",
-	"rewards": {
-		"function": "bc_rewards:adventure/just_a_sample"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "tube_coral": {
@@ -210,7 +210,7 @@
                     }
                 ]
             }
-        }	
+        }
     },
     "requirements": [
 		[
@@ -228,7 +228,7 @@
         "brain_coral_block",
         "bubble_coral_block",
         "fire_coral_block",
-        "horn_coral_block",		
+        "horn_coral_block",
         "dead_tube_coral_block",
         "dead_brain_coral_block",
         "dead_bubble_coral_block",

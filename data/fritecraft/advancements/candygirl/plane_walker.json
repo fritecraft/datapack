@@ -8,9 +8,8 @@
         "frame": "challenge"
     },
     "parent": "fritecraft:candygirl/enderman_destroyer",
-	"rewards": {
-        "experience": 50,
-		"function": "bc_rewards:combat/plane_walker"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "overworld": {

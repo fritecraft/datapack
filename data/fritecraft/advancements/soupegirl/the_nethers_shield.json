@@ -8,9 +8,9 @@
         "description": {"translate":"Block some blaze fireballs"}
     },
     "parent": "fritecraft:soupegirl/obtain_blaze_rod",
-	"rewards": {
-		"function": "bc_rewards:nether/the_nethers_shield"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "deflected_fireball": {
             "trigger": "minecraft:entity_hurt_player",

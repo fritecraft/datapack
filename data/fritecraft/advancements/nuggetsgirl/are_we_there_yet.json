@@ -7,8 +7,8 @@
         "description": {"translate":"Tame a donkey"}
     },
     "parent": "fritecraft:nuggetsgirl/a_horse_in_shining_armor",
-	"rewards": {
-		"function": "bc_rewards:animal/are_we_there_yet"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "tamed_animal": {

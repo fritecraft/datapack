@@ -7,8 +7,8 @@
         "description": {"translate":"Eat a golden carrot"}
     },
     "parent": "fritecraft:fritegirl/die_potato",
-	"rewards": {
-		"function": "bc_rewards:farming/24_carrot_gold"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "golden_carrot": {

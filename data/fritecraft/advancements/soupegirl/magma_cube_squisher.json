@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:soupegirl/high_temperature_fluid_monster",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:nether/magma_cube_squisher"
+        "experience": 100
     },		
     "criteria": {
         "magma_cream": {
@@ -24,5 +23,5 @@
                 ]
             }
         }
-    }	
+    }
 }

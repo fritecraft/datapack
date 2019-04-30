@@ -8,9 +8,9 @@
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/tactical_fishing",
-	"rewards": {
-		"function": "bc_rewards:animal/aquarium"
-    },		
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "cod_bucket": {
             "trigger": "minecraft:placed_block",
@@ -47,6 +47,6 @@
                     "item": "minecraft:tropical_fish_bucket"
                 }
             }
-        }		
+        }
     }
 }

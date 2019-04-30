@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:exploration/kilometre_walk",
     "rewards": {
-        "function": "bc_rewards:adventure/ten_thousand_blocks"
+        "experience": 100
     },		
     "criteria": {
         "outer_pos_x": {
@@ -51,7 +51,7 @@
 					}
 				}
             }
-        }	
+        }
     },
     "requirements": [
         [

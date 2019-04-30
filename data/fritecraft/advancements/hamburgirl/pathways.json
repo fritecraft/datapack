@@ -7,9 +7,9 @@
         "description": {"translate":"Use a shovel to create grass paths"}
     },
     "parent": "fritecraft:hamburgirl/root",
-	"rewards": {
-		"function": "bc_rewards:building/pathways"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "enter_grass_path": {
             "trigger": "minecraft:enter_block",

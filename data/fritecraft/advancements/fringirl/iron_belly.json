@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:fringirl/there_has_to_be_another_way",
     "rewards": {
-        "function": "bc_rewards:combat/iron_belly"
+        "experience": 100
     },		
 	"criteria": {
         "rotten_flesh": {

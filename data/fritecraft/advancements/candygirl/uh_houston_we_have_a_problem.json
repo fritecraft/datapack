@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:candygirl/sky_high",
     "rewards": {
-		"experience": 50,
-        "function": "bc_rewards:end/uh_houston_we_have_a_problem"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "world_height": {
             "trigger": "minecraft:location",
@@ -22,6 +21,6 @@
 					}
 				}
             }
-        }	
+        }
     }
 }

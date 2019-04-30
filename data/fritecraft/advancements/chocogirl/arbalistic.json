@@ -16,8 +16,8 @@
     "hidden": true
   },
   "rewards": {
-    "experience": 85
-  },
+      "experience": 100
+  },	
   "criteria": {
     "arbalistic": {
       "trigger": "minecraft:killed_by_crossbow",

@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:chocogirl/root",
     "rewards": {
-        "function": "bc_rewards:building/barking_mad"
+        "experience": 100
     },		
     "criteria": {
         "oak_wood": {
@@ -70,7 +70,7 @@
                     }
                 ]
             }
-        }	
+        }
 	},
     "requirements": [
 		[
@@ -79,7 +79,7 @@
 		"birch_wood",
         "jungle_wood",
         "acacia_wood",
-		"dark_oak_wood"		
+		"dark_oak_wood"
 		]
-    ]	
+    ]
 }

@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:nuggetsgirl/bombs_away",
     "rewards": {
-        "function": "bc_rewards:combat/fireworks_display"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "firework_rocket": {
             "trigger": "minecraft:inventory_changed",

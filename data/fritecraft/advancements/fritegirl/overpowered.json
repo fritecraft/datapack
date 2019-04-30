@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:fritegirl/music_to_my_ears",
     "rewards": {
-        "experience": 50,
-        "function": "bc_rewards:adventure/overpowered"
+        "experience": 100
     },		
     "criteria": {
         "golden_apple": {

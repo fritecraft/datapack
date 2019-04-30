@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:hamburgirl/vegetarian",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:farming/meat_lovers"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "porkchop": {
             "trigger": "consume_item",

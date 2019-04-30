@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:sodagirl/the_great_blocky_reef",
     "rewards": {
-        "function": "bc_rewards:adventure/in_a_pickle"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "sea_pickle": {
             "trigger": "minecraft:inventory_changed",
@@ -21,5 +21,5 @@
                 ]
             }
         }
-	}		
+	}
 }

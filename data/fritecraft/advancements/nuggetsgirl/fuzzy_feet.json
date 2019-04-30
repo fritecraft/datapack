@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:nuggetsgirl/rainbow_collection",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:animal/fuzzy_feet"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "white_carpet": {
             "trigger": "minecraft:inventory_changed",

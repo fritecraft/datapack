@@ -15,6 +15,9 @@
     "announce_to_chat": true,
     "hidden": false
   },
+  "rewards": {
+      "experience": 100
+  },	
   "criteria": {
     "entered_end_gateway": {
       "trigger": "minecraft:enter_block",

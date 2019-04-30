@@ -16,8 +16,8 @@
     "hidden": false
   },
   "rewards": {
-    "experience": 50
-  },
+      "experience": 100
+  },	
   "criteria": {
     "textures/entity/cat/tabby.png": {
       "trigger": "minecraft:tame_animal",

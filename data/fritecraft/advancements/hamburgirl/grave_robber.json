@@ -8,14 +8,14 @@
     },
     "parent": "fritecraft:hamburgirl/kilometre_walk",
     "rewards": {
-        "function": "bc_rewards:adventure/grave_robber"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "desert_pyramid": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "Desert_Pyramid"
             }
-        }		
+        }
     }
 }

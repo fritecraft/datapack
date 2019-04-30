@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/concrete_evidence",
     "rewards": {
-		"function": "bc_rewards:building/the_rainbow_you_always_wanted"
+        "experience": 100
     },		
     "criteria": {
         "white_concrete": {

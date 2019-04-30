@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:fritegirl/kill_a_mob",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:combat/night_runner"
-    },	
+        "experience": 100
+    },		
     "criteria": {
         "spider": {
             "trigger": "minecraft:player_killed_entity",
@@ -114,6 +113,6 @@
                     "type": "drowned"
                 }
             }
-        }		
+        }
     }
 }

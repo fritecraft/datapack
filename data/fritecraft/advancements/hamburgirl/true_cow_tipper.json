@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:hamburgirl/milk_does_your_body_good",
     "rewards": {
-		"experience": 50,
-		"function": "bc_rewards:animal/true_cow_tipper"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "beef": {
             "trigger": "minecraft:inventory_changed",
@@ -34,6 +33,6 @@
                     }
                 ]
             }
-        }		
-    }	
+        }
+    }
 }

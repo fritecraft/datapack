@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:flurrygirl/iron_tools",
     "rewards": {
-		"experience": 50,
-        "function": "bc_rewards:mining/rock_bottom"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "bedrock_level": {
             "trigger": "minecraft:location",
@@ -22,6 +21,6 @@
 					}
 				}
             }
-        }	
+        }
     }
 }

@@ -9,9 +9,8 @@
 		"frame": "challenge"
     },
     "parent": "fritecraft:fritegirl/witch",
-	"rewards": {
-		"experience": 50,
-		"function": "bc_rewards:combat/taste_of_your_own_medicine"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "kill_magic": {

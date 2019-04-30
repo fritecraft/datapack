@@ -7,8 +7,8 @@
         "description": {"translate":"Tame a Parrot using seeds. WARNING: Do not use a cookie!"}
     },
     "parent": "fritecraft:nuggetsgirl/feeding_the_chickens",
-	"rewards": {
-		"function": "bc_rewards:animal/chatterbox"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "tamed_animal": {

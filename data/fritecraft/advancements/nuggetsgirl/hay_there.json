@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:nuggetsgirl/the_lie",
     "rewards": {
-		"experience": 50,
-		"function": "bc_rewards:farming/hay_there"
+        "experience": 100
     },		
     "criteria": {
         "hay_block": {
@@ -23,6 +22,6 @@
                     }
                 ]
             }
-        }		
-    }	
+        }
+    }
 }

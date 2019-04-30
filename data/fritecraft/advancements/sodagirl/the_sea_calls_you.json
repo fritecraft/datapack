@@ -6,10 +6,10 @@
         "title": {"translate":"The sea calls you..."},
         "description": {"translate":"Find an ocean"}
     },
-    "parent": "fritecraft:sodagirl/just_keep_swimming",	
+    "parent": "fritecraft:sodagirl/just_keep_swimming",
     "rewards": {
-		"function": "bc_rewards:adventure/the_sea_calls_you"
-    },	
+        "experience": 100
+    },		
     "criteria": {
         "deep_ocean": {
             "trigger": "minecraft:location",
@@ -64,7 +64,7 @@
             "conditions": {
                 "biome": "minecraft:warm_ocean"
             }
-        }	
+        }
     },
     "requirements": [
 		[

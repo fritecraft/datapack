@@ -7,8 +7,8 @@
         "description": {"translate":"Craft an armor stand for displaying your armor"}
     },
     "parent": "fritecraft:hamburgirl/a_masterpiece",
-	"rewards": {
-		"function": "bc_rewards:building/mannequin"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "armor_stand": {

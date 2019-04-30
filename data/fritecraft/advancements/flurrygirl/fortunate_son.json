@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:flurrygirl/super_efficient",
     "rewards": {
-		"function": "bc_rewards:enchanting/fortunate_son"
+        "experience": 100
     },			
     "criteria": {
         "fortune": {

@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:soupegirl/root",
     "rewards": {
-        "function": "bc_rewards:nether/the_tribal_snouts"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "zombie_pigman": {
             "trigger": "minecraft:player_killed_entity",

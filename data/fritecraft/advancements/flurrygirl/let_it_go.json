@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:flurrygirl/old_cartoon_joke",
     "rewards": {
-		"function": "bc_rewards:enchanting/let_it_go"
+        "experience": 100
     },			
     "criteria": {
         "frost_walker": {

@@ -8,9 +8,9 @@
         "description": {"translate":"Block the explosion of a ghast's fireball"}
     },
     "parent": "fritecraft:hamburgirl/giant_floating_jellyfish",
-	"rewards": {
-		"function": "bc_rewards:nether/fire_blast_shield"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "deflected_explosion": {
             "trigger": "minecraft:entity_hurt_player",

@@ -8,9 +8,9 @@
 		"hidden": "true"
     },
     "parent": "fritecraft:flurrygirl/spelunker",
-	"rewards": {
-		"function": "bc_rewards:mining/my_work_here_is_done"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "enter_gravel": {
             "trigger": "minecraft:enter_block",

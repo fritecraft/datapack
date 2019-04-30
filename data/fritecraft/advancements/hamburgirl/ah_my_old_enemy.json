@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/slabs_for_days",
     "rewards": {
-        "function": "bc_rewards:building/ah_my_old_enemy"
+        "experience": 100
     },		
     "criteria": {
         "sandstone_stairs": {
@@ -182,5 +182,5 @@
                 ]
             }
         }
-	}		
+	}
 }

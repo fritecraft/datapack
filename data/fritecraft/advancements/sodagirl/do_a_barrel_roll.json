@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/boomerang",
     "rewards": {
-		"function": "bc_rewards:enchanting/do_a_barrel_roll"
-    },			
+        "experience": 100
+    },				
     "criteria": {
         "riptide": {
             "trigger": "minecraft:inventory_changed",

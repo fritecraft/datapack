@@ -7,8 +7,8 @@
         "description": {"translate":"Create concrete from concrete powder by dropping it into water"}
     },
     "parent": "fritecraft:hamburgirl/rainbow_sand",
-	"rewards": {
-		"function": "bc_rewards:building/concrete_evidence"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "white_concrete": {

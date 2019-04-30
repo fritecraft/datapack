@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:soupegirl/scuba_gear",
     "rewards": {
-		"function": "bc_rewards:enchanting/fiery"
-    },			
+        "experience": 100
+    },				
     "criteria": {
         "fire_protection": {
             "trigger": "minecraft:inventory_changed",

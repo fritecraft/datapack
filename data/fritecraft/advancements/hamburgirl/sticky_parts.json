@@ -7,9 +7,9 @@
         "description": {"translate":"Craft a sticky piston so you can pull things"}
     },
     "parent": "fritecraft:hamburgirl/moving_parts",
-	"rewards": {
-		"function": "bc_rewards:redstone/sticky_parts"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "sticky_piston": {
             "trigger": "minecraft:inventory_changed",

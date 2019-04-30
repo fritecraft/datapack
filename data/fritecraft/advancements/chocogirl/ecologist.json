@@ -7,9 +7,9 @@
         "description": {"translate":"Plant down all six types of sapling"}
     },
     "parent": "fritecraft:chocogirl/care_for_the_environment",
-	"rewards": {
-		"function": "bc_rewards:farming/ecologist"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "oak_sapling": {
             "trigger": "minecraft:placed_block",

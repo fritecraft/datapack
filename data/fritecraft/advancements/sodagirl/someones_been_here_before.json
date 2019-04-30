@@ -8,8 +8,8 @@
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/treasure_hunter",
-	"rewards": {
-		"function": "bc_rewards:animal/someones_been_here_before"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "leather_boots": {
@@ -20,6 +20,6 @@
                     "item": "minecraft:leather_boots"
                 }
             }
-        }	
+        }
     }
 }

@@ -7,8 +7,8 @@
         "description": {"translate":"Mine Nether Quartz from the Nether"}
     },
     "parent": "fritecraft:soupegirl/repeating_repeater",
-	"rewards": {
-		"function": "bc_rewards:redstone/quirky_quartz"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "quartz": {

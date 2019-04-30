@@ -10,8 +10,7 @@
     },
     "parent": "fritecraft:hamburgirl/master_miner",
     "rewards": {
-        "experience": 200,
-		"function": "bc_rewards:enchanting/master_armorer"
+        "experience": 100
     },		
     "criteria": {
         "perfect_suit_depth_strider": {
@@ -40,7 +39,7 @@
 							{
 								"enchantment": "minecraft:respiration",
 								"levels": 3
-							}	
+							}
 						]
                     },
 					{
@@ -61,7 +60,7 @@
 							{
 								"enchantment": "minecraft:thorns",
 								"levels": 3
-							}	
+							}
 						]
                     },
 					{
@@ -135,7 +134,7 @@
 							{
 								"enchantment": "minecraft:respiration",
 								"levels": 3
-							}	
+							}
 						]
                     },
 					{
@@ -156,7 +155,7 @@
 							{
 								"enchantment": "minecraft:thorns",
 								"levels": 3
-							}	
+							}
 						]
                     },
 					{

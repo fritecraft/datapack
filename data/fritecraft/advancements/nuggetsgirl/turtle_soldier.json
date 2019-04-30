@@ -8,8 +8,8 @@
 		"frame": "goal"
     },
     "parent": "fritecraft:nuggetsgirl/scuttler",
-	"rewards": {
-		"function": "bc_rewards:animal/turtle_soldier"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "turtle_helmet": {

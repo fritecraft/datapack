@@ -7,8 +7,8 @@
         "description": {"translate":"Craft and eat a normal golden apple"}
     },
     "parent": "fritecraft:fritegirl/bapple",
-	"rewards": {
-		"function": "bc_rewards:farming/ultra_hardcore"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "golden_apple": {

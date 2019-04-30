@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:chocogirl/root",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:enchanting/overkill"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "overkill": {
             "trigger": "minecraft:player_hurt_entity",

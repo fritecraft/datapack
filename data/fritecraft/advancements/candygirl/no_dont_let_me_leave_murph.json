@@ -10,7 +10,7 @@
     },
     "parent": "fritecraft:candygirl/im_coming_back_murph",
     "rewards": {
-        "function": "bc_rewards:end/no_dont_let_me_leave_murph"
+        "experience": 100
     },		
     "criteria": {
         "outer_pos_x": {
@@ -56,7 +56,7 @@
 					}
 				}
             }
-        }	
+        }
     },
     "requirements": [
         [

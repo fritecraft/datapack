@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:chocogirl/phantom_slayer",
     "rewards": {
-        "experience": 50,
-        "function": "bc_rewards:combat/anti_air"
+        "experience": 100
     },	
     "criteria": {
         "killed_phantom": {

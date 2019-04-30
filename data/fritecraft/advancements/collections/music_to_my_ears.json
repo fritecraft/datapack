@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:collection/i_hereby_dub_thee",
     "rewards": {
-        "function": "bc_rewards:adventure/music_to_my_ears"
+        "experience": 100
     },		
     "criteria": {
         "music_disc_cat": {
@@ -146,7 +146,7 @@
             "music_disc_strad",
             "music_disc_ward",
             "music_disc_11",
-            "music_disc_wait"			
+            "music_disc_wait"
         ]
     ]
 }

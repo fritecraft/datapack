@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:sodagirl/treasure_map",
     "rewards": {
-        "function": "bc_rewards:adventure/monumental"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "monument": {
             "trigger": "minecraft:location",

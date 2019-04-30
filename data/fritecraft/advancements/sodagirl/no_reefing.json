@@ -8,10 +8,9 @@
 		"frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/just_a_sample",
-	"rewards": {
-		"experience": 50,
-		"function": "bc_rewards:adventure/no_reefing"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "tube_coral": {
             "trigger": "minecraft:inventory_changed",
@@ -112,7 +111,7 @@
                     }
                 ]
             }
-        },		
+        },
         "tube_coral_fan": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -212,7 +211,7 @@
                     }
                 ]
             }
-        },		
+        },
         "tube_coral_block": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -312,6 +311,6 @@
                     }
                 ]
             }
-        }	
+        }
     }
 }

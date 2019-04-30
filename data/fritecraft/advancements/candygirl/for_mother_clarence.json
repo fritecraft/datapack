@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:candygirl/find_end_city",
     "rewards": {
-        "function": "bc_rewards:end/for_mother_clarence"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "shulker": {
             "trigger": "minecraft:player_killed_entity",

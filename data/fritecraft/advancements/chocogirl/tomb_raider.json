@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:chocogirl/grave_robber",
     "rewards": {
-        "function": "bc_rewards:adventure/tomb_raider"
+        "experience": 100
     },		
     "criteria": {
         "jungle_pyramid": {

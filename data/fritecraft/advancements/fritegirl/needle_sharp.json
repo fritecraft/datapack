@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:fritegirl/librarian",
     "rewards": {
-		"function": "bc_rewards:enchanting/needle_sharp"
+        "experience": 100
     },			
     "criteria": {
         "sharpness": {

@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:sodagirl/tridented_shield",
     "rewards": {
-        "function": "bc_rewards:combat/because_im_aquaman"
+        "experience": 100
     },		
     "criteria": {
         "trident": {

@@ -8,9 +8,8 @@
         "frame": "challenge"
     },
     "parent": "fritecraft:fritegirl/zombie_slayer",
-	"rewards": {
-        "experience": 100,
-		"function": "bc_rewards:combat/freezing"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "ice_flats": {

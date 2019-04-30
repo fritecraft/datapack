@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:candygirl/portable_storage",
     "rewards": {
-		"function": "bc_rewards:end/somewhere_over_the_rainbow"
+        "experience": 100
     },		
     "criteria": {
         "white_shulker_box": {

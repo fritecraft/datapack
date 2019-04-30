@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:hamburgirl/completely_useless_fuel_engine",
     "rewards": {
-		"function": "bc_rewards:redstone/electric_rails"
+        "experience": 100
     },		
     "criteria": {
         "powered_rail": {

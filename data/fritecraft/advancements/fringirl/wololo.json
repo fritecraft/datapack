@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:fringirl/ghostbuster",
     "rewards": {
-        "function": "bc_rewards:adventure/wololo"
+        "experience": 100
     },		
     "criteria": {
         "evoker": {

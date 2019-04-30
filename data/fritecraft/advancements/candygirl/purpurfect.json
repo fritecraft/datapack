@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:candygirl/extrabiologist",
     "rewards": {
-        "function": "bc_rewards:end/purpurfect"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "purpur_block": {
             "trigger": "minecraft:inventory_changed",
@@ -51,5 +51,5 @@
                 ]
             }
         }
-	}		
+	}
 }

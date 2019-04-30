@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/knocking_your_socks_off",
     "rewards": {
-		"function": "bc_rewards:enchanting/scuba_gear"
-    },			
+        "experience": 100
+    },				
     "criteria": {
         "respiration": {
             "trigger": "minecraft:inventory_changed",

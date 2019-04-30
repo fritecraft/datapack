@@ -7,8 +7,8 @@
         "description": {"translate":"Can't beat it, can't beat it"}
     },
     "parent": "fritecraft:nuggetsgirl/tickle_time",
-	"rewards": {
-		"function": "bc_rewards:animal/so_good"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "cooked_chicken": {

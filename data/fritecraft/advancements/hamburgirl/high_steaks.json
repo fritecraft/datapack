@@ -7,9 +7,9 @@
         "description": {"translate":"The steaks are high for this advancement!"}
     },
     "parent": "fritecraft:hamburgirl/cow_tipper",
-	"rewards": {
-		"function": "bc_rewards:animal/high_steaks"
-    },		
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "cooked_beef": {
             "trigger": "minecraft:consume_item",

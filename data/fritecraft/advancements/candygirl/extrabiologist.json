@@ -7,9 +7,9 @@
         "description": {"translate":"Plant a chorus plant in the overworld for study"}
     },
     "parent": "fritecraft:candygirl/getting_chorus",
-	"rewards": {
-		"function": "bc_rewards:end/extrabiologist"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "chorus_flower": {
             "trigger": "minecraft:placed_block",

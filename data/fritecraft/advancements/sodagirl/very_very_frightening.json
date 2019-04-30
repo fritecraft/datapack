@@ -1,5 +1,8 @@
 {
   "parent": "fritecraft:sodagirl/throw_trident",
+  "rewards": {
+      "experience": 100
+  },	  
   "display": {
     "icon": {
       "item": "minecraft:trident"

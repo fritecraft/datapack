@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:soupegirl/enter_the_nether",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:mining/obsidian_miner"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "obsidian": {
             "trigger": "minecraft:inventory_changed",

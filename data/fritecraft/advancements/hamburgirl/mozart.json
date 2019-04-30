@@ -7,9 +7,9 @@
         "description": {"translate":"Craft a note block"}
     },
     "parent": "fritecraft:hamburgirl/root",
-	"rewards": {
-		"function": "bc_rewards:redstone/mozart"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "noteblock": {
             "trigger": "minecraft:inventory_changed",

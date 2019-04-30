@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:flurrygirl/librarian",
     "rewards": {
-		"function": "bc_rewards:enchanting/super_efficient"
-    },			
+        "experience": 100
+    },		
     "criteria": {
         "efficiency": {
             "trigger": "minecraft:inventory_changed",

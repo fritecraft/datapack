@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:nuggetsgirl/root",
     "rewards": {
-		"function": "bc_rewards:enchanting/like_a_cat"
+        "experience": 100
     },			
     "criteria": {
         "feather_falling": {

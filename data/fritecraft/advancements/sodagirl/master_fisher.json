@@ -10,9 +10,8 @@
     },
     "parent": "fritecraft:sodagirl/unbreakable",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:enchanting/master_fisher"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "perfect_rod": {
             "trigger": "minecraft:inventory_changed",
@@ -28,15 +27,15 @@
 							{
 								"enchantment": "minecraft:luck_of_the_sea",
 								"levels": 3
-							},	
+							},
 							{
 								"enchantment": "minecraft:unbreaking",
 								"levels": 3
-							},	
+							},
 							{
 								"enchantment": "minecraft:mending",
 								"levels": 1
-							}		
+							}
 						]
                     }
                 ]

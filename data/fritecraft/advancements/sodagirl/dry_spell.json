@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:sodagirl/the_deep_end",
     "rewards": {
-        "function": "bc_rewards:adventure/dry_spell"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "sponge": {
             "trigger": "minecraft:inventory_changed",

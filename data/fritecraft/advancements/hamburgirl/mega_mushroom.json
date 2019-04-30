@@ -7,8 +7,8 @@
         "description": {"translate":"Grow a giant mushroom and then harvest it with silk touch"}
     },
     "parent": "fritecraft:hamburgirl/mushroom_mushroom_mushroom_mushroom",
-	"rewards": {
-		"function": "bc_rewards:farming/mega_mushroom"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "red_mushroom": {
@@ -40,7 +40,7 @@
                     }
                 ]
             }
-        }			
+        }
     },
     "requirements": [
 		[

@@ -7,9 +7,9 @@
         "description": {"translate":"Craft a piston so you can push things"}
     },
     "parent": "fritecraft:hamburgirl/root",
-	"rewards": {
-		"function": "bc_rewards:redstone/moving_parts"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "piston": {
             "trigger": "minecraft:inventory_changed",

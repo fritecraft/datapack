@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:candygirl/hell_hunter",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:combat/void_ender"
+        "experience": 100
     },	
     "criteria": {
         "enderman": {

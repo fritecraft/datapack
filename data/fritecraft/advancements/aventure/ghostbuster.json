@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:aventure/heres_johnny",
     "rewards": {
-        "function": "bc_rewards:adventure/ghostbuster"
+        "experience": 100
     },		
     "criteria": {
         "vex": {

@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:soupegirl/electric_rails",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:redstone/railwayman"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "rail": {
             "trigger": "minecraft:inventory_changed",
@@ -45,7 +44,7 @@
                     }
                 ]
             }
-        },		
+        },
         "activator_rail": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {

@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:nuggetsgirl/farrier",
     "rewards": {
-		"function": "bc_rewards:animal/a_horse_in_shining_armor"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "diamond_horse_armor": {
             "trigger": "minecraft:inventory_changed",

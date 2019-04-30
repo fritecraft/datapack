@@ -1,5 +1,8 @@
 {
   "parent": "fritecraft:sodagirl/fishy_business",
+  "rewards": {
+      "experience": 100
+  },	  
   "display": {
     "icon": {
       "item": "minecraft:pufferfish_bucket"

@@ -7,8 +7,8 @@
         "description": {"translate":"Harvest some nether wart from a nether fortress"}
     },
     "parent": "fritecraft:soupegirl/obtain_blaze_rod",
-	"rewards": {
-		"function": "bc_rewards:nether/basis_of_brewing"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "nether_wart": {

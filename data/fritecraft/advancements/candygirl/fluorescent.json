@@ -7,8 +7,8 @@
         "description": {"translate":"Light up the area with some end rods"}
     },
     "parent": "fritecraft:candygirl/glowing",
-	"rewards": {
-		"function": "bc_rewards:building/fluorescent"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "end_rod": {

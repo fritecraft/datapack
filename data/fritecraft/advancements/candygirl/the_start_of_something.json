@@ -7,8 +7,8 @@
         "description": {"translate":"Craft your first ender crystal"}
     },
     "parent": "fritecraft:candygirl/kill_dragon",
-	"rewards": {
-		"function": "bc_rewards:end/the_start_of_something"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "end_crystal": {

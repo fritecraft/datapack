@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:soupegirl/bring_down_the_beast",
     "rewards": {
-		"experience": 50,
-		"function": "bc_rewards:nether/ghast_slayer"
-    },
+        "experience": 100
+    },	
     "criteria": {
         "ghast_tear": {
             "trigger": "minecraft:inventory_changed",

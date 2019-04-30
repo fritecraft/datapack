@@ -6,10 +6,9 @@
         "title": {"translate":"Mooshroom Kingdom"},
         "description": {"translate":"Find mooshrooms on a mushroom island"}
     },
-    "parent": "fritecraft:hamburgirl/true_cow_tipper",	
+    "parent": "fritecraft:hamburgirl/true_cow_tipper",
     "rewards": {
-        "experience": 50,	
-		"function": "bc_rewards:animal/mooshroom_kingdom"
+        "experience": 100
     },	
     "criteria": {
         "mushroom_island_shore": {

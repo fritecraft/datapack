@@ -7,9 +7,9 @@
         "description": {"translate":"Craft a hopper for item transportation"}
     },
     "parent": "fritecraft:hamburgirl/root",
-	"rewards": {
-		"function": "bc_rewards:redstone/space_hopper"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "hopper": {
             "trigger": "minecraft:inventory_changed",

@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:sodagirl/do_a_barrel_roll",
     "rewards": {
-		"function": "bc_rewards:enchanting/zeus"
-    },			
+        "experience": 100
+    },				
     "criteria": {
         "power": {
             "trigger": "minecraft:inventory_changed",

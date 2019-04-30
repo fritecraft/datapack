@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:aventure/root",
     "rewards": {
-		"function": "bc_rewards:enchanting/librarian"
-    },
+        "experience": 100
+    },	
     "criteria": {
         "bookshelf": {
             "trigger": "minecraft:inventory_changed",

@@ -7,8 +7,8 @@
         "description": {"translate":"Fire up that clay!"}
     },
     "parent": "fritecraft:hamburgirl/clay_dough",
-	"rewards": {
-		"function": "bc_rewards:building/bricks"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "brick_block": {

@@ -7,8 +7,8 @@
         "description": {"translate":"Squash and eat a potato"}
     },
     "parent": "fritecraft:fritegirl/plant_seed",
-	"rewards": {
-		"function": "bc_rewards:farming/die_potato"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "potato": {
@@ -26,7 +26,7 @@
                     "item": "minecraft:baked_potato"
                 }
             }
-        }		
+        }
     },
     "requirements": [
 		[

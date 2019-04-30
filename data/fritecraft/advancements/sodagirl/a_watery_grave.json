@@ -3,13 +3,13 @@
         "icon": {
             "item": "minecraft:seagrass"
         },
-        "title": {"translate":"A Watery Grave"},
-        "description": {"translate":"Defeat a drowned in the briny depths. ","extra":[{"italic":"true","translate":"Gurgle"}]}
+        "title": "Tombeau sous-marin",
+        "description": "Tuer un noyé."
     },
     "parent": "fritecraft:sodagirl/iron_belly",
     "rewards": {
-        "function": "bc_rewards:combat/a_watery_grave"
-    },		
+        "experience": 100
+    },
     "criteria": {
         "drowned": {
             "trigger": "minecraft:player_killed_entity",

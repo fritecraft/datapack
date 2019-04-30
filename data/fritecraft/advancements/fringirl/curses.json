@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:fringirl/old_cartoon_joke",
     "rewards": {
-		"function": "bc_rewards:enchanting/curses"
+        "experience": 100
     },			
     "criteria": {
         "binding_curse": {

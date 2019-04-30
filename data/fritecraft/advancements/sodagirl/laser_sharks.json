@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:sodagirl/monumental",
     "rewards": {
-        "function": "bc_rewards:adventure/laser_sharks"
+        "experience": 100
     },		
     "criteria": {
         "guardian": {

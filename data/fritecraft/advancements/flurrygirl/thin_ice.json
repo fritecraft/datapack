@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:flurrygirl/boaty_mcboatface",
     "rewards": {
-        "function": "bc_rewards:adventure/thin_ice"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "ice": {
             "trigger": "minecraft:inventory_changed",

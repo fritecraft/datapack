@@ -7,9 +7,9 @@
         "description": {"translate":"Get stuck in a cobweb"}
     },
     "parent": "fritecraft:flurrygirl/this_is_mine_now",
-	"rewards": {
-		"function": "bc_rewards:mining/eeuuwww"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "cobweb": {
             "trigger": "minecraft:enter_block",

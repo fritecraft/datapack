@@ -6,9 +6,9 @@
         "title": {"translate":"Enchanted Forest"},
         "description": {"translate":"Find a flower forest"}
     },
-    "parent": "fritecraft:nuggetsgirl/theres_a_zombie_on_the_lawn",	
+    "parent": "fritecraft:nuggetsgirl/theres_a_zombie_on_the_lawn",
     "rewards": {
-		"function": "bc_rewards:adventure/enchanted_forest"
+        "experience": 100
     },	
     "criteria": {
         "flower_forest": {

@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:fritegirl/needle_sharp",
     "rewards": {
-		"function": "bc_rewards:enchanting/undead_slayer"
-    },			
+        "experience": 100
+    },				
     "criteria": {
         "smite": {
             "trigger": "minecraft:inventory_changed",

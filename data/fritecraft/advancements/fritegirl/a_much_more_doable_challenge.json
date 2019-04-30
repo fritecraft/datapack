@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:fritegirl/all_potions",
     "rewards": {
-		"experience": 200,
-		"function": "bc_rewards:potion/a_much_more_doable_challenge"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "speed": {
             "trigger": "minecraft:effects_changed",
@@ -156,7 +155,7 @@
                     "minecraft:hunger": {}
                 }
             }
-        },		
+        },
         "nausea": {
             "trigger": "minecraft:effects_changed",
             "conditions": {

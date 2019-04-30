@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:fritegirl/rock_collection",
     "rewards": {
-        "function": "bc_rewards:building/fake_stronghold"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "normal": {
             "trigger": "minecraft:inventory_changed",
@@ -51,5 +51,5 @@
                 ]
             }
         }
-	}		
+	}
 }

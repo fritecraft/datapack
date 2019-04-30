@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:candygirl/elytra",
     "rewards": {
-        "function": "bc_rewards:end/sky_high"
+        "experience": 100
     },		
     "criteria": {
         "world_height": {
@@ -21,6 +21,6 @@
 					}
 				}
             }
-        }	
+        }
     }
 }

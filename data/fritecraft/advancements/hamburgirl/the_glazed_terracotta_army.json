@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/the_terracotta_army",
     "rewards": {
-		"function": "bc_rewards:building/the_glazed_terracotta_army"
+        "experience": 100
     },		
     "criteria": {
         "white_glazed_terracotta": {

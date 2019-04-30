@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:flurrygirl/my_work_here_is_done",
     "rewards": {
-        "function": "bc_rewards:mining/nananananananana"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "bat": {
             "trigger": "minecraft:player_hurt_entity",

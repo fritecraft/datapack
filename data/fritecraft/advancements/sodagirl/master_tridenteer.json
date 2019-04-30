@@ -10,8 +10,7 @@
     },
     "parent": "fritecraft:sodagirl/master_fisher",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:enchanting/master_tridenteer"
+        "experience": 100
     },		
     "criteria": {
         "perfect_trident_loyalty": {
@@ -40,7 +39,7 @@
 							{
 								"enchantment": "minecraft:unbreaking",
 								"levels": 3
-							}	
+							}
 						]
                     }
                 ]
@@ -68,7 +67,7 @@
 							{
 								"enchantment": "minecraft:unbreaking",
 								"levels": 3
-							}	
+							}
 						]
                     }
                 ]

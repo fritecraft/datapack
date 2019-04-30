@@ -7,8 +7,8 @@
         "description": {"translate":"Tame a horse by jumping on it over and over again"}
     },
     "parent": "fritecraft:nuggetsgirl/root",
-	"rewards": {
-		"function": "bc_rewards:animal/cowboy"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "tamed_animal": {

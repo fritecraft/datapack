@@ -7,8 +7,8 @@
         "description": {"translate":"Light up the area with jack o'lanterns!"}
     },
     "parent": "fritecraft:candygirl/torched",
-	"rewards": {
-		"function": "bc_rewards:building/halloween"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "jack_o_lantern": {

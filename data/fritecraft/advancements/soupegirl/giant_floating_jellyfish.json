@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:soupegirl/root",
     "rewards": {
-        "function": "bc_rewards:nether/giant_floating_jellyfish"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "ghast": {
             "trigger": "minecraft:player_killed_entity",

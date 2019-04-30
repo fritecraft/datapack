@@ -9,8 +9,8 @@
     },
     "parent": "fritecraft:fringirl/summon_iron_golem",
     "rewards": {
-        "function": "bc_rewards:adventure/murderer"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "villager": {
             "trigger": "minecraft:player_killed_entity",

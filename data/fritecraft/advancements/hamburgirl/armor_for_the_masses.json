@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/like_a_cat",
     "rewards": {
-		"function": "bc_rewards:enchanting/armor_for_the_masses"
+        "experience": 100
     },			
     "criteria": {
         "protection": {
@@ -25,7 +25,7 @@
 					}
 				]
 			}
-		},	
+		},
         "fire_protection": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {

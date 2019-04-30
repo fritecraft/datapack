@@ -7,10 +7,9 @@
         "description": {"translate":"Explore every end biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:candygirl/enter_end_gateway",	
+    "parent": "fritecraft:candygirl/enter_end_gateway",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:end/void_walker"
+        "experience": 100
     },	
     "criteria": {
         "sky": {

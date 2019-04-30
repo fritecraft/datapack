@@ -9,9 +9,8 @@
     },
     "parent": "fritecraft:fritegirl/void_ender",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:combat/dungeon_crawler"
-    },	
+        "experience": 100
+    },		
     "criteria": {
         "cave_spider": {
             "trigger": "minecraft:player_killed_entity",

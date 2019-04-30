@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/when_pigs_used_to_fly",
     "rewards": {
-		"experience": 50,
-		"function": "bc_rewards:animal/pig_slaughterer"
+        "experience": 100
     },		
     "criteria": {
         "porkchop": {
@@ -23,6 +22,6 @@
                     }
                 ]
             }
-        }		
-    }	
+        }
+    }
 }

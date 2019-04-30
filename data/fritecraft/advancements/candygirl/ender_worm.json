@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:candygirl/the_ender_of_ender",
     "rewards": {
-        "function": "bc_rewards:combat/ender_worm"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "endermite": {
             "trigger": "minecraft:player_killed_entity",

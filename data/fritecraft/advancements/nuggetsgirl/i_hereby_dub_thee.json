@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:nuggetsgirl/root",
     "rewards": {
-        "function": "bc_rewards:adventure/i_hereby_dub_thee"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "name_tag": {
             "trigger": "minecraft:inventory_changed",

@@ -7,8 +7,8 @@
         "description": {"translate":"Breed chickens by feeding them seeds"}
     },
     "parent": "fritecraft:nuggetsgirl/egging_dude",
-	"rewards": {
-		"function": "bc_rewards:animal/feeding_the_chickens"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "chicken": {

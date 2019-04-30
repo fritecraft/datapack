@@ -7,8 +7,8 @@
         "description": {"translate":"Attack a chorus tree until it collapses"}
     },
     "parent": "fritecraft:candygirl/enter_end_gateway",
-	"rewards": {
-		"function": "bc_rewards:end/getting_chorus"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "chorus_fruit": {

@@ -7,8 +7,8 @@
         "description": {"translate":"Put up a painting"}
     },
     "parent": "fritecraft:nuggetsgirl/its_a_sign",
-	"rewards": {
-		"function": "bc_rewards:building/a_masterpiece"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "painting": {

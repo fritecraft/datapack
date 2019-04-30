@@ -7,8 +7,8 @@
         "description": {"translate":"Use a pumpkin and snow blocks to build a snow golem"}
     },
     "parent": "fritecraft:flurrygirl/the_pie",
-	"rewards": {
-		"function": "bc_rewards:farming/do_you_want_to_build_a_snowman"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "summoned": {

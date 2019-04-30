@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:sodagirl/atlantis",
     "rewards": {
-        "function": "bc_rewards:adventure/get_ship_rekt"
+        "experience": 100
     },		
     "criteria": {
         "shipwreck": {

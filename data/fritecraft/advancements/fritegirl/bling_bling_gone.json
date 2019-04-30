@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:fritegirl/gold_rush",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:mining/bling_bling_gone"
+        "experience": 100
     },		
     "criteria": {
         "break_pickaxe": {

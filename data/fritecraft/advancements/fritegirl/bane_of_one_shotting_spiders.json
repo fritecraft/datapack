@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:fritegirl/undead_slayer",
     "rewards": {
-		"function": "bc_rewards:enchanting/bane_of_one_shotting_spiders"
+        "experience": 100
     },			
     "criteria": {
         "bane_of_arthropods": {

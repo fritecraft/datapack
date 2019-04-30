@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:sodagirl/spear_fishing",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:adventure/guardian_destroyer"
+        "experience": 100
     },		
     "criteria": {
         "prismarine_shard": {
@@ -34,6 +33,6 @@
                     }
                 ]
             }
-        }		
-    }	
+        }
+    }
 }

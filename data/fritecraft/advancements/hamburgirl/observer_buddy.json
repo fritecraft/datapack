@@ -7,8 +7,8 @@
         "description": {"translate":"Craft an observer"}
     },
     "parent": "fritecraft:hamburgirl/solar_power",
-	"rewards": {
-		"function": "bc_rewards:redstone/observer_buddy"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "observer": {

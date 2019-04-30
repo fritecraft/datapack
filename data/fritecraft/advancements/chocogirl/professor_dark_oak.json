@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:chocogirl/the_acacia_king",
     "rewards": {
-		"function": "bc_rewards:building/professor_dark_oak"
+        "experience": 100
     },		
     "criteria": {
         "dark_oak_planks": {

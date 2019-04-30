@@ -7,10 +7,9 @@
         "description": {"translate":"Discover every overgrown biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:chocogirl/snow_feet",	
+    "parent": "fritecraft:chocogirl/snow_feet",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:adventure/overgrown"
+        "experience": 100
     },	
     "criteria": {
         "swampland": {

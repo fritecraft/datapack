@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:flurrygirl/thin_ice",
     "rewards": {
-        "function": "bc_rewards:adventure/spike_ice"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "packed_ice": {
             "trigger": "minecraft:inventory_changed",

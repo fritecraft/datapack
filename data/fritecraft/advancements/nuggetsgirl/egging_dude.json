@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:nuggetsgirl/so_good",
     "rewards": {
-        "function": "bc_rewards:animal/egging_dude"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "egg": {
             "trigger": "minecraft:player_hurt_entity",

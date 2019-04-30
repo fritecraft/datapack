@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:flurrygirl/root",
     "rewards": {
-        "function": "bc_rewards:combat/snowball_fight"
-    },		
+        "experience": 100
+    },	
     "criteria": {
         "snowball": {
             "trigger": "minecraft:player_hurt_entity",

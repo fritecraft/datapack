@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:chocogirl/sniper_duel",
     "rewards": {
-        "experience": 100,
-        "function": "bc_rewards:combat/the_mighty_hunter"
+        "experience": 100
     },	
     "criteria": {
         "chicken": {
@@ -26,7 +25,7 @@
                     "type": "chicken"
                 }
             }
-        },	
+        },
         "cow": {
             "trigger": "minecraft:player_killed_entity",
             "conditions": {
@@ -222,6 +221,6 @@
                     "type": "parrot"
                 }
             }
-        }		
+        }
     }
 }

@@ -10,8 +10,7 @@
     },
     "parent": "fritecraft:collection/master_enchanter",
     "rewards": {
-        "experience": 200,	
-		"function": "bc_rewards:enchanting/ultimate_enchanter"
+        "experience": 100
     },			
     "criteria": {
         "protection1": {
@@ -58,7 +57,7 @@
 					}
 				]
 			}
-		},		
+		},
         "protection4": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -73,7 +72,7 @@
 					}
 				]
 			}
-		},	
+		},
         "fire_protection1": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -118,7 +117,7 @@
 					}
 				]
 			}
-		},		
+		},
         "fire_protection4": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -148,7 +147,7 @@
 					}
 				]
 			}
-		},	
+		},
         "feather_falling2": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -163,7 +162,7 @@
 					}
 				]
 			}
-		},	
+		},
         "feather_falling3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -178,7 +177,7 @@
 					}
 				]
 			}
-		},			
+		},
         "feather_falling4": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -193,7 +192,7 @@
 					}
 				]
 			}
-		},	
+		},
         "blast_protection1": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -238,7 +237,7 @@
 					}
 				]
 			}
-		},		
+		},
         "blast_protection4": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -298,7 +297,7 @@
 					}
 				]
 			}
-		},		
+		},
         "projectile_protection4": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -328,7 +327,7 @@
 					}
 				]
 			}
-		},	
+		},
         "respiration2": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -343,7 +342,7 @@
 					}
 				]
 			}
-		},			
+		},
         "respiration3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -358,7 +357,7 @@
 					}
 				]
 			}
-		},		
+		},
         "aqua_affinity": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -373,7 +372,7 @@
 					}
 				]
 			}
-		},	
+		},
         "thorns1": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -388,7 +387,7 @@
 					}
 				]
 			}
-		},	
+		},
         "thorns2": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -403,7 +402,7 @@
 					}
 				]
 			}
-		},			
+		},
         "thorns3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -418,7 +417,7 @@
 					}
 				]
 			}
-		},		
+		},
         "depth_strider1": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -448,7 +447,7 @@
 					}
 				]
 			}
-		},		
+		},
         "depth_strider3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -568,7 +567,7 @@
 					}
 				]
 			}
-		},		
+		},
         "sharpness5": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -643,7 +642,7 @@
 					}
 				]
 			}
-		},		
+		},
         "smite5": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -718,7 +717,7 @@
 					}
 				]
 			}
-		},		
+		},
         "bane_of_arthropods5": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -748,7 +747,7 @@
 					}
 				]
 			}
-		},		
+		},
         "knockback2": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -778,7 +777,7 @@
 					}
 				]
 			}
-		},		
+		},
         "fire_aspect2": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -868,7 +867,7 @@
 					}
 				]
 			}
-		},		
+		},
         "sweeping3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -943,7 +942,7 @@
 					}
 				]
 			}
-		},		
+		},
         "efficiency5": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1003,7 +1002,7 @@
 					}
 				]
 			}
-		},		
+		},
         "unbreaking3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1048,7 +1047,7 @@
 					}
 				]
 			}
-		},		
+		},
         "fortune3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1138,7 +1137,7 @@
 					}
 				]
 			}
-		},		
+		},
         "punch1": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1168,7 +1167,7 @@
 					}
 				]
 			}
-		},		
+		},
         "flame": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1228,7 +1227,7 @@
 					}
 				]
 			}
-		},		
+		},
         "luck_of_the_sea3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1273,7 +1272,7 @@
 					}
 				]
 			}
-		},		
+		},
         "lure3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1348,7 +1347,7 @@
 					}
 				]
 			}
-		},		
+		},
         "loyalty3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1393,7 +1392,7 @@
 					}
 				]
 			}
-		},		
+		},
         "riptide3": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1468,7 +1467,7 @@
 					}
 				]
 			}
-		},		
+		},
         "impaling5": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
@@ -1498,6 +1497,6 @@
 					}
 				]
 			}
-		}		
+		}
     }
 }

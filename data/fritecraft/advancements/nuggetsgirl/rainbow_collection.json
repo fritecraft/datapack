@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:nuggetsgirl/sheariously",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:animal/rainbow_collection"
+        "experience": 100
     },		
     "criteria": {
         "white_wool": {

@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:hamburgirl/jailhouse_block",
     "rewards": {
-        "function": "bc_rewards:building/creepers_and_withers"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "sandstone": {
             "trigger": "minecraft:inventory_changed",
@@ -31,5 +31,5 @@
                 ]
             }
         }
-	}		
+	}
 }

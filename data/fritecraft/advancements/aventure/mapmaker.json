@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:aventure/magic_book",
     "rewards": {
-        "function": "bc_rewards:adventure/mapmaker"
+        "experience": 100
     },		
     "criteria": {
         "map": {

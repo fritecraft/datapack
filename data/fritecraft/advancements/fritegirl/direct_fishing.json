@@ -8,7 +8,7 @@
     },
     "parent": "fritecraft:fritegirl/fishy_business",
     "rewards": {
-        "function": "bc_rewards:animal/direct_fishing"
+        "experience": 100
     },		
     "criteria": {
         "cod": {
@@ -42,7 +42,7 @@
                     "type": "tropical_fish"
                 }
             }
-        }		
+        }
     },
     "requirements": [
 		[

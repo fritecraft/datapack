@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:flurrygirl/diamond_clad",
     "rewards": {
-		"function": "bc_rewards:mining/diamond_miner"
+        "experience": 100
     },		
     "criteria": {
         "diamond": {

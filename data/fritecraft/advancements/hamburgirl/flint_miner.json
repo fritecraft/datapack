@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:hamburgirl/meet_the_flintstones",
     "rewards": {
-		"experience": 50,	
-		"function": "bc_rewards:mining/flint_miner"
+        "experience": 100
     },		
     "criteria": {
         "flint": {

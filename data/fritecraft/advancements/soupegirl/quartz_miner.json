@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:soupegirl/quirky_quartz",
     "rewards": {
-		"function": "bc_rewards:redstone/quartz_miner"
+        "experience": 100
     },		
     "criteria": {
         "quartz_block": {

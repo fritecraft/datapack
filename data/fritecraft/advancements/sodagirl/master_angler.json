@@ -8,10 +8,9 @@
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/someones_been_here_before",
-	"rewards": {
-		"experience": 100,	
-		"function": "bc_rewards:animal/master_angler"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "cod": {
             "trigger": "minecraft:inventory_changed",
@@ -56,6 +55,6 @@
                     }
                 ]
             }
-        }		
+        }
     }
 }

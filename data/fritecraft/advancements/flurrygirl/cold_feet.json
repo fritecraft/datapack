@@ -7,11 +7,10 @@
         "description": {"translate":"Discover every cold biome"},
         "frame": "goal"
     },
-    "parent": "fritecraft:flurrygirl/one_with_the_forest",	
+    "parent": "fritecraft:flurrygirl/one_with_the_forest",
     "rewards": {
-        "experience": 100,
-		"function": "bc_rewards:adventure/cold_feet"
-    },	
+        "experience": 100
+    },		
     "criteria": {
         "redwood_taiga_hills": {
             "trigger": "minecraft:location",
@@ -48,6 +47,6 @@
             "conditions": {
                 "biome": "minecraft:wooded_mountains"
             }
-        }		
+        }
     }
 }

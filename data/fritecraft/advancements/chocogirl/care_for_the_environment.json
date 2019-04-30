@@ -7,9 +7,9 @@
         "description": {"translate":"Plant down a sapling"}
     },
     "parent": "fritecraft:chocogirl/root",
-	"rewards": {
-		"function": "bc_rewards:farming/care_for_the_environment"
-    },
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "oak_sapling": {
             "trigger": "minecraft:placed_block",

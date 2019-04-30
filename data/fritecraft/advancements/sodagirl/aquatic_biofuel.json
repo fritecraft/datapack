@@ -7,9 +7,9 @@
         "description": {"translate":"Craft a dried kelp block for use as a great fuel source"}
     },
     "parent": "fritecraft:sodagirl/kelp_me",
-	"rewards": {
-		"function": "bc_rewards:farming/aquatic_biofuel"
-    },		
+    "rewards": {
+        "experience": 100
+    },	
     "criteria": {
         "dried_kelp_block": {
             "trigger": "minecraft:inventory_changed",

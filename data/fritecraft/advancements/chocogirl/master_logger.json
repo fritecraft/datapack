@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:chocogirl/stripper",
     "rewards": {
-        "function": "bc_rewards:building/master_logger"
+        "experience": 100
     },		
     "criteria": {
         "oak_log": {
@@ -78,5 +78,5 @@
                 ]
             }
         }
-	}		
+	}
 }

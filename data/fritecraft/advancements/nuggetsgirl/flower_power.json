@@ -9,8 +9,7 @@
     },
     "parent": "fritecraft:nuggetsgirl/enchanted_forest",
     "rewards": {
-        "experience": 50,
-		"function": "bc_rewards:adventure/flower_power"
+        "experience": 100
     },		
     "criteria": {
         "dandelion": {

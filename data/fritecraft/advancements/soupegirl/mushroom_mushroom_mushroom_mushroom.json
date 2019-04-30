@@ -7,8 +7,8 @@
         "description": {"translate":"Slurp some mushroom stew"}
     },
     "parent": "fritecraft:soupegirl/shrooms",
-	"rewards": {
-		"function": "bc_rewards:farming/mushroom_mushroom_mushroom_mushroom"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "mushroom_stew": {

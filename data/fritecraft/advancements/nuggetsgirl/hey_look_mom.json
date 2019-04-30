@@ -7,8 +7,8 @@
         "description": {"translate":"Use sea grass to make a turtle lay some eggs"}
     },
     "parent": "fritecraft:nuggetsgirl/poacher",
-	"rewards": {
-		"function": "bc_rewards:animal/hey_look_mom"
+    "rewards": {
+        "experience": 100
     },		
     "criteria": {
         "turtle": {

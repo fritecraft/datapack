@@ -8,8 +8,8 @@
     },
     "parent": "fritecraft:sodagirl/the_sea_calls_you",
     "rewards": {
-        "function": "bc_rewards:adventure/boaty_mcboatface"
-    },		
+        "experience": 100
+    },			
     "criteria": {
         "oak_boat": {
             "trigger": "minecraft:inventory_changed",
@@ -81,5 +81,5 @@
 			"acacia_boat",
 			"dark_oak_boat"
 		]
-	]		
+	]
 }

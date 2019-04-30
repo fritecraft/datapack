@@ -16,8 +16,8 @@
     "hidden": false
   },
   "rewards": {
-    "experience": 500
-  },
+      "experience": 100
+  },	
   "criteria": {
     "minecraft:birch_forest_hills": {
       "trigger": "minecraft:location",

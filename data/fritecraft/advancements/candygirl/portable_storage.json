@@ -7,8 +7,8 @@
         "description": {"translate":"Use shulker shells to craft a shulker box"}
     },
     "parent": "fritecraft:candygirl/for_mother_clarence",
-	"rewards": {
-		"function": "bc_rewards:end/portable_storage"
+    "rewards": {
+        "experience": 100
     },	
     "criteria": {
         "shulker_box": {

@@ -7,9 +7,9 @@
         "description": {"translate":"You sink like quicksand and move slow like mud"}
     },
     "parent": "fritecraft:soupegirl/root",
-	"rewards": {
-		"function": "bc_rewards:nether/quicksand"
-    },		
+    "rewards": {
+        "experience": 100
+    },			
     "criteria": {
         "soul_sand": {
             "trigger": "minecraft:enter_block",
