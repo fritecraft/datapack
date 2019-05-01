@@ -1,49 +1,49 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:ender_eye"
-        },
-        "title": {"translate":"Plane Walker"},
-        "description": {"translate":"Kill endermen in all three dimensions"},
-        "frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_eye"
     },
-    "parent": "fritecraft:candygirl/enderman_destroyer",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "overworld": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:enderman",
-                    "location": {
-                        "dimension": "overworld"
-                    }
-                }
-            }
-        },
-        "nether": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:enderman",
-                    "location": {
-                        "dimension": "the_nether"
-                    }
-                }
-            }
-        },
-		"end": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:enderman",
-                    "location": {
-                        "dimension": "the_end"
-                    }
-                }
-            }
+    "title": "Promenade Dimensionnelle",
+    "description": "Tuer un enderman dans chaque dimension",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:candygirl/enderman_destroyer",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "overworld": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:enderman",
+          "location": {
+            "dimension": "overworld"
+          }
         }
+      }
+    },
+    "nether": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:enderman",
+          "location": {
+            "dimension": "the_nether"
+          }
+        }
+      }
+    },
+    "end": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:enderman",
+          "location": {
+            "dimension": "the_end"
+          }
+        }
+      }
     }
+  }
 }

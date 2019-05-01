@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:dragon_breath"
     },
-    "title": {
-      "translate": "advancements.end.dragon_breath.title"
-    },
-    "description": {
-      "translate": "advancements.end.dragon_breath.description"
-    },
+    "title": "À bout de souffle",
+    "description": "Récupérez du souffle de dragon dans une fiole.",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "dragon_breath": {
       "trigger": "minecraft:inventory_changed",

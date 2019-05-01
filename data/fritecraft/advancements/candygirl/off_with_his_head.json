@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:dragon_head"
-        },
-        "title": {"translate":"Off With His Head!"},
-        "description": {"translate":"Collect a dragon's head from the bow of an end ship"}
+  "display": {
+    "icon": {
+      "item": "minecraft:dragon_head"
     },
-    "parent": "fritecraft:candygirl/find_end_city",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "chorus_fruit": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dragon_head"
-                    }
-                ]
-            }
-        }
+    "title": "Trophée de chasse !",
+    "description": "Trouvez une tête de dragon."
+  },
+  "parent": "fritecraft:candygirl/find_end_city",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "chorus_fruit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dragon_head"
+          }
+        ]
+      }
     }
+  }
 }

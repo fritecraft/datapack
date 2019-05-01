@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:lingering_potion",
-			"nbt": "{Potion:\"minecraft:poison\"}"
-        },
-        "title": {"translate":"Noxious Fumes"},
-        "description": {"translate":"Use dragon's breath to brew a lingering potion"}
+  "display": {
+    "icon": {
+      "item": "minecraft:lingering_potion",
+      "nbt": "{Potion:\"minecraft:poison\"}"
     },
-    "parent": "fritecraft:candygirl/dragon_breath",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "lingering_potion": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:lingering_potion"
-                    }
-                ]
-            }
-        }
+    "title": "Vapeurs Nocives",
+    "description": "Préparez une potion persistente."
+  },
+  "parent": "fritecraft:candygirl/dragon_breath",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "lingering_potion": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lingering_potion"
+          }
+        ]
+      }
     }
+  }
 }

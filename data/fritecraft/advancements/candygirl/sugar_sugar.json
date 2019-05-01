@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:sugar_cane"
-        },
-        "title": {"translate":"Sugar, Sugar"},
-        "description": {"translate":"Harvest some sugar cane from a river or ocean"}
+  "display": {
+    "icon": {
+      "item": "minecraft:sugar_cane"
     },
-    "parent": "fritecraft:candygirl/root",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "sugar_cane": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:sugar_cane"
-                    }
-                ]
-            }
-        }
+    "title": "Saccharum",
+    "description": "Récoltez des cannes à sucre."
+  },
+  "parent": "fritecraft:candygirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sugar_cane": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:sugar_cane"
+          }
+        ]
+      }
     }
+  }
 }

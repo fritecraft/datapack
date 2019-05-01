@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:black_concrete_powder"
-        },
-        "title": {"translate":"The Point of No Return"},
-        "description": {"translate":"Fall into the void"},
-        "hidden": "true"
+  "display": {
+    "icon": {
+      "item": "minecraft:black_concrete_powder"
     },
-    "parent": "fritecraft:candygirl/root",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "world_height": {
-            "trigger": "minecraft:location",
-            "conditions": {
-				"position": {
-					"y": {
-						"max": 0.0
-					}
-				}
-            }
+    "title": "Le point de non retour",
+    "description": "Tombez dans la vide",
+    "hidden": "true"
+  },
+  "parent": "fritecraft:candygirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "world_height": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "position": {
+          "y": {
+            "max": 0
+          }
         }
+      }
     }
+  }
 }

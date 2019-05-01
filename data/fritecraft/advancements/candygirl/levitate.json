@@ -4,27 +4,23 @@
     "icon": {
       "item": "minecraft:shulker_shell"
     },
-    "title": {
-      "translate": "advancements.end.levitate.title"
-    },
-    "description": {
-      "translate": "advancements.end.levitate.description"
-    },
+    "title": "Superbe panorama",
+    "description": "Lévitez à 50 blocs de hauteur après l'attaque d'un Shulker.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "levitated": {
       "trigger": "minecraft:levitation",
       "conditions": {
         "distance": {
           "y": {
-            "min": 50.0
+            "min": 50
           }
         }
       }

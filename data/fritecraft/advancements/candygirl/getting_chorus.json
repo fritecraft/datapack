@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:chorus_fruit"
-        },
-        "title": {"translate":"Getting Chorus"},
-        "description": {"translate":"Attack a chorus tree until it collapses"}
+  "display": {
+    "icon": {
+      "item": "minecraft:chorus_fruit"
     },
-    "parent": "fritecraft:candygirl/enter_end_gateway",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "chorus_fruit": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:chorus_fruit"
-                    }
-                ]
-            }
-        }
+    "title": "Du Chorus",
+    "description": "Battez un arbre chorus au combat"
+  },
+  "parent": "fritecraft:candygirl/enter_end_gateway",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "chorus_fruit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:chorus_fruit"
+          }
+        ]
+      }
     }
+  }
 }

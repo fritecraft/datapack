@@ -4,12 +4,8 @@
     "icon": {
       "item": "minecraft:dragon_egg"
     },
-    "title": {
-      "translate": "advancements.end.dragon_egg.title"
-    },
-    "description": {
-      "translate": "advancements.end.dragon_egg.description"
-    },
+    "title": "La nouvelle génération",
+    "description": "Tenez l'œuf de dragon.",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
@@ -17,7 +13,7 @@
   },
   "rewards": {
       "experience": 100
-  },	
+  },
   "criteria": {
     "dragon_egg": {
       "trigger": "minecraft:inventory_changed",

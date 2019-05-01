@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:jack_o_lantern"
-        },
-        "title": {"translate":"Halloween!"},
-        "description": {"translate":"Light up the area with jack o'lanterns!"}
+  "display": {
+    "icon": {
+      "item": "minecraft:jack_o_lantern"
     },
-    "parent": "fritecraft:candygirl/torched",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "jack_o_lantern": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "block": "minecraft:jack_o_lantern"
-            }
-        }
+    "title": "Halloween !",
+    "description": "Décorez votre jardin avec des citrouilles lanternes."
+  },
+  "parent": "fritecraft:candygirl/torched",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "jack_o_lantern": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:jack_o_lantern"
+      }
     }
+  }
 }

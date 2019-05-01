@@ -4,12 +4,8 @@
     "icon": {
       "item": "minecraft:dragon_head"
     },
-    "title": {
-      "translate": "advancements.end.kill_dragon.title"
-    },
-    "description": {
-      "translate": "advancements.end.kill_dragon.description"
-    },
+    "title": "Libérez l'End !",
+    "description": "Bon courage.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
@@ -17,7 +13,7 @@
   },
   "rewards": {
       "experience": 100
-  },	
+  },
   "criteria": {
     "killed_dragon": {
       "trigger": "minecraft:player_killed_entity",

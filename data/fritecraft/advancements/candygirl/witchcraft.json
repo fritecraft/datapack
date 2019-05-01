@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cauldron"
-        },
-        "title": {"translate":"Witchcraft"},
-        "description": {"translate":"Find a witch hut in a swamp"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cauldron"
     },
-    "parent": "fritecraft:candygirl/tomb_raider",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "swamp_hut": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Swamp_Hut"
-            }
-        }
+    "title": "Sorcellerie",
+    "description": "Trouvez une cabane de sorcière"
+  },
+  "parent": "fritecraft:candygirl/tomb_raider",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "swamp_hut": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Swamp_Hut"
+      }
     }
+  }
 }

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:pumpkin"
-        },
-        "title": {"translate":"Naturally Carved"},
-        "description": {"translate":"Harvest some spooky pumpkins"}
+  "display": {
+    "icon": {
+      "item": "minecraft:pumpkin"
     },
-    "parent": "fritecraft:candygirl/plant_seed",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "pumpkin": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:pumpkin"
-                    }
-                ]
-            }
-        }
+    "title": "Cucurbitaceae",
+    "description": "Récoltez des citrouilles"
+  },
+  "parent": "fritecraft:candygirl/plant_seed",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "pumpkin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:pumpkin"
+          }
+        ]
+      }
     }
+  }
 }

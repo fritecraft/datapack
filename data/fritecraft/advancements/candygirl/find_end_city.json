@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:purpur_block"
     },
-    "title": {
-      "translate": "advancements.end.find_end_city.title"
-    },
-    "description": {
-      "translate": "advancements.end.find_end_city.description"
-    },
+    "title": "La cité du bout du monde",
+    "description": "Allez-y, que pourrait-il vous arriver ?",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "in_city": {
       "trigger": "minecraft:location",

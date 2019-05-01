@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:shulker_box"
-        },
-        "title": {"translate":"For Mother, Clarence"},
-        "description": {"translate":"Kill a shulker"}
+  "display": {
+    "icon": {
+      "item": "minecraft:shulker_box"
     },
-    "parent": "fritecraft:candygirl/find_end_city",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "shulker": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "shulker"
-                }
-            }
+    "title": "Braconnier de l'End",
+    "description": "Pour les fruits de Dame Nature"
+  },
+  "parent": "fritecraft:candygirl/find_end_city",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "shulker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "shulker"
         }
+      }
     }
+  }
 }

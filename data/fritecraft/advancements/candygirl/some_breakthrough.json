@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:elytra",
-			"nbt": "{Damage:432}"
-        },
-        "title": {"translate":"Some Breakthrough"},
-        "description": {"translate":"Exhaust your elytra"},
-        "frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:elytra",
+      "nbt": "{Damage:432}"
     },
-    "parent": "fritecraft:candygirl/elytra",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "exhaust_elytra": {
-            "trigger": "minecraft:item_durability_changed",
-            "conditions": {
-				"item": {
-					"item": "minecraft:elytra"
-				},
-				"durability": 1
-            }
-        }
+    "title": "Maintenance nécessaire",
+    "description": "Epuisez la solidité de vos elytres",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:candygirl/elytra",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "exhaust_elytra": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "item": "minecraft:elytra"
+        },
+        "durability": 1
+      }
     }
+  }
 }

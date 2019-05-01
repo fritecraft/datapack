@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:end_crystal"
-        },
-        "title": {"translate":"The Start of Something"},
-        "description": {"translate":"Craft your first ender crystal"}
+  "display": {
+    "icon": {
+      "item": "minecraft:end_crystal"
     },
-    "parent": "fritecraft:candygirl/kill_dragon",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "end_crystal": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:end_crystal"
-                    }
-                ]
-            }
-        }
+    "title": "Préparatif du Rituel",
+    "description": "Fabriquez un cristal de l'End"
+  },
+  "parent": "fritecraft:candygirl/kill_dragon",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "end_crystal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:end_crystal"
+          }
+        ]
+      }
     }
+  }
 }

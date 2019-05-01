@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:end_rod"
-        },
-        "title": {"translate":"Fluorescent!"},
-        "description": {"translate":"Light up the area with some end rods"}
+  "display": {
+    "icon": {
+      "item": "minecraft:end_rod"
     },
-    "parent": "fritecraft:candygirl/glowing",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "end_rod": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "block": "minecraft:end_rod"
-            }
-        }
+    "title": "Fluorescent",
+    "description": "Illuminez une zone avec des bâtons de l'End"
+  },
+  "parent": "fritecraft:candygirl/glowing",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "end_rod": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:end_rod"
+      }
     }
+  }
 }

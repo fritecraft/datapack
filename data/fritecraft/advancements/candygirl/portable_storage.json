@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:purple_shulker_box"
-        },
-        "title": {"translate":"Portable Storage"},
-        "description": {"translate":"Use shulker shells to craft a shulker box"}
+  "display": {
+    "icon": {
+      "item": "minecraft:purple_shulker_box"
     },
-    "parent": "fritecraft:candygirl/for_mother_clarence",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "shulker_box": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:shulker_box"
-                    }
-                ]
-            }
-        }
+    "title": "Stockage portatif",
+    "description": "Fabriquez une boite de shulker"
+  },
+  "parent": "fritecraft:candygirl/for_mother_clarence",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "shulker_box": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:shulker_box"
+          }
+        ]
+      }
     }
+  }
 }
