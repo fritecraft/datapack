@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_sword"
-        },
-        "title": {"translate":"Overkill"},
-        "description": {"translate":"Deal eight hearts of damage in a single blow"},
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword"
     },
-    "parent": "fritecraft:chocogirl/root",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "overkill": {
-            "trigger": "minecraft:player_hurt_entity",
-            "conditions": {
-                "damage": {
-					"dealt": {
-						"min": 16.0
-					}
-				}
-            }
+    "title": "Overkill",
+    "description": "Ingligez 20 points de dégâts en un coup.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:chocogirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "overkill": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "dealt": {
+            "min": 20
+          }
         }
+      }
     }
+  }
 }

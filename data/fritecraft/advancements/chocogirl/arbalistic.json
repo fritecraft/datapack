@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:crossbow"
     },
-    "title": {
-      "translate": "advancements.adventure.arbalistic.title"
-    },
-    "description": {
-      "translate": "advancements.adventure.arbalistic.description"
-    },
+    "title": "Arbalistique",
+    "description": "Tuez cinq créatures différentes avec un seul tir d'arbalète.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": true
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "arbalistic": {
       "trigger": "minecraft:killed_by_crossbow",

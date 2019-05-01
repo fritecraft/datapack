@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:jungle_sapling"
         },
-        "title": {"translate":"Ecologist"},
-        "description": {"translate":"Plant down all six types of sapling"}
+        "title": "Ecologist"},
+        "description": "Plant down all six types of sapling"}
     },
     "parent": "fritecraft:chocogirl/care_for_the_environment",
     "rewards": {

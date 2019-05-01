@@ -4,12 +4,8 @@
     "icon": {
       "item": "minecraft:crossbow"
     },
-    "title": {
-      "translate": "advancements.adventure.two_birds_one_arrow.title"
-    },
-    "description": {
-      "translate": "advancements.adventure.two_birds_one_arrow.description"
-    },
+    "title": "D'une flèche deux coups",
+    "description": "Tuez deux Phantoms avec une flèche perforante.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
@@ -17,7 +13,7 @@
   },
   "rewards": {
       "experience": 100
-  },	
+  },
   "criteria": {
     "two_birds": {
       "trigger": "minecraft:killed_by_crossbow",

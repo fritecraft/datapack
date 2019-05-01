@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:mossy_cobblestone"
-        },
-        "title": {"translate":"Tomb Raider"},
-        "description": {"translate":"Enter a jungle temple"}
+  "display": {
+    "icon": {
+      "item": "minecraft:mossy_cobblestone"
     },
-    "parent": "fritecraft:chocogirl/grave_robber",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "jungle_pyramid": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Jungle_Pyramid"
-            }
-        }
+    "title": "Tomb Raider",
+    "description": "Trouvez un temple de la jungle"
+  },
+  "parent": "fritecraft:chocogirl/grave_robber",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "jungle_pyramid": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Jungle_Pyramid"
+      }
     }
+  }
 }

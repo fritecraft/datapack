@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:crossbow"
     },
-    "title": {
-      "translate": "advancements.adventure.whos_the_pillager_now.title"
-    },
-    "description": {
-      "translate": "advancements.adventure.whos_the_pillager_now.description"
-    },
+    "title": "C'est qui le pillard maintenant ?",
+    "description": "Rendez la monnaie de sa pièce à un pillard.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "kill_pillager": {
       "trigger": "minecraft:killed_by_crossbow",

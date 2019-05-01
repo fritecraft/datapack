@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:vine"
-        },
-        "title": {"translate":"Tarzan"},
-        "description": {"translate":"Swing (or climb) on some vines"}
+  "display": {
+    "icon": {
+      "item": "minecraft:vine"
     },
-    "parent": "fritecraft:chocogirl/kilometre_walk",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "enter_vine": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:vine"
-            }
-        }
+    "title": "Tarzan",
+    "description": "Grimbez sur des lianes"
+  },
+  "parent": "fritecraft:chocogirl/kilometre_walk",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "enter_vine": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:vine"
+      }
     }
+  }
 }

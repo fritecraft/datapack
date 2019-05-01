@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cookie"
-        },
-        "title": {"translate":"Me Love Cookie"},
-        "description": {"translate":"Bake some cookies... and then scoff them all yourself"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cookie"
     },
-    "parent": "fritecraft:chocogirl/its_where_nutella_comes_from",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "cookie": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:cookie"
-                }
-            }
+    "title": "L'amour des cookies",
+    "description": "Cuisinez des cookies, et mangez-les."
+  },
+  "parent": "fritecraft:chocogirl/its_where_nutella_comes_from",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cookie": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:cookie"
         }
+      }
     }
+  }
 }

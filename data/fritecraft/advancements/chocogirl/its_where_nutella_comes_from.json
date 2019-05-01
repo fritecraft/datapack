@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cocoa_beans"
-        },
-        "title": {"translate":"It's where nutella comes from"},
-        "description": {"translate":"Obtain some cocoa beans from a jungle"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cocoa_beans"
     },
-    "parent": "fritecraft:chocogirl/bake_bread",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "cocoa_beans": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-					{
-						"item": "minecraft:cocoa_beans"
-					}
-				]
-            }
-        }
+    "title": "Précurseur du chocolat",
+    "description": "Trouvez des fèves de cacao."
+  },
+  "parent": "fritecraft:chocogirl/bake_bread",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cocoa_beans": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cocoa_beans"
+          }
+        ]
+      }
     }
+  }
 }

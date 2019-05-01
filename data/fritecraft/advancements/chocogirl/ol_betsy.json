@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:crossbow"
     },
-    "title": {
-      "translate": "advancements.adventure.ol_betsy.title"
-    },
-    "description": {
-      "translate": "advancements.adventure.ol_betsy.description"
-    },
+    "title": "Ma vieille Bertha",
+    "description": "Tirez à l'arbalète.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "shot_crossbow": {
       "trigger": "minecraft:shot_crossbow",
