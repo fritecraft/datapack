@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bricks"
         },
-        "title": {"translate":"Bricks!"},
-        "description": {"translate":"Fire up that clay!"}
+        "title": "Bricks!",
+        "description": "Fire up that clay!"}
     },
     "parent": "fritecraft:hamburgirl/clay_dough",
     "rewards": {

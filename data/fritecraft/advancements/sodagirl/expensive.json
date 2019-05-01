@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sea_lantern"
         },
-        "title": {"translate":"Expensive!"},
-        "description": {"translate":"Light up the area with some sea lanterns"}
+        "title": "Expensive!",
+        "description": "Light up the area with some sea lanterns"}
     },
     "parent": "fritecraft:sodagirl/glowing",
     "rewards": {

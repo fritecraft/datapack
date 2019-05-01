@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": {"translate":"Needle Sharp"},
-        "description": {"translate":"Obtain Sharpness V"},
+        "title": "Needle Sharp",
+        "description": "Obtain Sharpness V",
 		"frame": "goal"
     },
     "parent": "fritecraft:fritegirl/librarian",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wet_sponge"
         },
-        "title": {"translate":"Dry Spell"},
-        "description": {"translate":"Dry a sponge in a furnace"}
+        "title": "Dry Spell",
+        "description": "Dry a sponge in a furnace"}
     },
     "parent": "fritecraft:sodagirl/the_deep_end",
     "rewards": {

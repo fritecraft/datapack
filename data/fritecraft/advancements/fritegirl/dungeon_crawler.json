@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_bricks"
         },
-        "title": {"translate":"Dungeon Crawler"},
-        "description": {"translate":"Defeat all kinds of mobs from special structures"},
+        "title": "Dungeon Crawler",
+        "description": "Defeat all kinds of mobs from special structures",
         "frame": "goal"
     },
     "parent": "fritecraft:fritegirl/void_ender",

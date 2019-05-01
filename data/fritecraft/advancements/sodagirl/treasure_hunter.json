@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:nautilus_shell"
         },
-        "title": {"translate":"Treasure Hunter"},
-        "description": {"translate":"Fish out a piece of treasure"}
+        "title": "Treasure Hunter",
+        "description": "Fish out a piece of treasure"}
     },
     "parent": "fritecraft:sodagirl/what_a_piece_of_junk",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:prismarine"
         },
-        "title": {"translate":"Monumental"},
-        "description": {"translate":"Find an Ocean Monument"}
+        "title": "Monumental",
+        "description": "Find an Ocean Monument"}
     },
     "parent": "fritecraft:sodagirl/treasure_map",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:elytra"
         },
-        "title": {"translate":"Explorer of Worlds"},
-        "description": {"translate":"Discover every biome including special biomes"},
+        "title": "Explorer of Worlds",
+        "description": "Discover every biome including special biomes",
         "frame": "challenge"
     },
     "parent": "fritecraft:exploration/adventuring_time",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:poppy"
         },
-        "title": {"translate":"Flower Power"},
-        "description": {"translate":"Collect all types of flowers"},
+        "title": "Flower Power",
+        "description": "Collect all types of flowers",
         "frame": "challenge"
     },
     "parent": "fritecraft:nuggetsgirl/enchanted_forest",

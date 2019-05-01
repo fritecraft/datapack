@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:salmon_bucket"
         },
-        "title": {"translate":"Aquarium"},
-        "description": {"translate":"Catch all four types of fish and set them free in an aquarium"},
+        "title": "Aquarium",
+        "description": "Catch all four types of fish and set them free in an aquarium",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/tactical_fishing",

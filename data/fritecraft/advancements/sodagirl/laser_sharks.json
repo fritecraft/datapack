@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:prismarine_shard"
         },
-        "title": {"translate":"Laser Sharks!"},
-        "description": {"translate":"Defeat a Guardian"}
+        "title": "Laser Sharks!",
+        "description": "Defeat a Guardian"}
     },
     "parent": "fritecraft:sodagirl/monumental",
     "rewards": {

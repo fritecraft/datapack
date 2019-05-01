@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_ore"
         },
-        "title": {"translate":"Gold Miner"},
-        "description": {"translate":"Mine a stack of gold ore"},
+        "title": "Gold Miner",
+        "description": "Mine a stack of gold ore",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/gold_rush",

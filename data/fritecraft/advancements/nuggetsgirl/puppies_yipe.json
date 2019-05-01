@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:rotten_flesh"
         },
-        "title": {"translate":"Puppies! Yipe!"},
-        "description": {"translate":"Breed two wolves together to get a puppy!"}
+        "title": "Puppies! Yipe!",
+        "description": "Breed two wolves together to get a puppy!"}
     },
     "parent": "fritecraft:nuggetsgirl/tame_an_animal",
     "rewards": {

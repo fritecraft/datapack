@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spruce_sapling"
         },
-        "title": {"translate":"Cold Feet"},
-        "description": {"translate":"Discover every cold biome"},
+        "title": "Cold Feet",
+        "description": "Discover every cold biome",
         "frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/one_with_the_forest",

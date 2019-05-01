@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dried_kelp_block"
         },
-        "title": {"translate":"Aquatic Biofuel"},
-        "description": {"translate":"Craft a dried kelp block for use as a great fuel source"}
+        "title": "Aquatic Biofuel",
+        "description": "Craft a dried kelp block for use as a great fuel source"}
     },
     "parent": "fritecraft:sodagirl/kelp_me",
     "rewards": {

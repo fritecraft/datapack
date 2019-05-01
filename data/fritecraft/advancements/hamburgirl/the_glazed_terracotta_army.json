@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magenta_glazed_terracotta"
         },
-        "title": {"translate":"The Glazed Terracotta Army"},
-        "description": {"translate":"Craft all 16 colors of glazed terracotta"},
+        "title": "The Glazed Terracotta Army",
+        "description": "Craft all 16 colors of glazed terracotta",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/the_terracotta_army",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:furnace"
         },
-        "title": {"translate":"Hot Topic"},
-        "description": {"translate":"Construct a furnace out of eight stone blocks"}
+        "title": "Hot Topic",
+        "description": "Construct a furnace out of eight stone blocks"}
     },
     "parent": "fritecraft:soupegirl/fossil_fuel",
     "rewards": {

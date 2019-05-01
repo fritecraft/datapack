@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:tropical_fish"
         },
-        "title": {"translate":"Grinding Nemo"},
-        "description": {"translate":"Skewer a tropical fish"},
+        "title": "Grinding Nemo",
+        "description": "Skewer a tropical fish",
 		"frame": "goal"
     },
     "parent": "fritecraft:fritegirl/direct_fishing",

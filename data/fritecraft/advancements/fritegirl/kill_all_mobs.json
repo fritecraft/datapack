@@ -5,10 +5,10 @@
       "item": "minecraft:diamond_sword"
     },
     "title": {
-      "translate": "advancements.adventure.kill_all_mobs.title"
+      "advancements.adventure.kill_all_mobs.title"
     },
     "description": {
-      "translate": "advancements.adventure.kill_all_mobs.description"
+      "advancements.adventure.kill_all_mobs.description"
     },
     "frame": "challenge",
     "show_toast": true,

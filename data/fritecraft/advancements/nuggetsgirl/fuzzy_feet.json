@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magenta_carpet"
         },
-        "title": {"translate":"Fuzzy Feet"},
-        "description": {"translate":"Craft all 16 colors of carpet"},
+        "title": "Fuzzy Feet",
+        "description": "Craft all 16 colors of carpet",
 		"frame": "goal"
     },
     "parent": "fritecraft:nuggetsgirl/rainbow_collection",

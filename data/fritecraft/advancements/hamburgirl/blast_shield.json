@@ -4,8 +4,8 @@
             "item": "minecraft:shield",
 			"nbt": "{BlockEntityTag:{Base:5,Patterns:[{Pattern:hh,Color:5},{Pattern:hhb,Color:5},{Pattern:cre,Color:15},{Pattern:cre,Color:15},{Pattern:cre,Color:15}]}}"
         },
-        "title": {"translate":"Blast Shield"},
-        "description": {"translate":"Survive a creeper's blast with your shield"}
+        "title": "Blast Shield",
+        "description": "Survive a creeper's blast with your shield"}
     },
     "parent": "fritecraft:hamburgirl/keep_your_distance",
     "rewards": {

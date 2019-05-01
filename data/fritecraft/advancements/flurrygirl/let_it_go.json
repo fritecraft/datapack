@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ice"
         },
-        "title": {"translate":"Let It Go!"},
-        "description": {"translate":"Obtain boots enchanted with Frost Walker"},
+        "title": "Let It Go!",
+        "description": "Obtain boots enchanted with Frost Walker",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/old_cartoon_joke",

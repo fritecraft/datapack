@@ -4,8 +4,8 @@
             "item": "minecraft:enchanted_book",
 			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
-        "title": {"translate":"Ultimate Enchanter"},
-        "description": {"translate":"Obtain every enchantment at every level throughout your enchanting career"},
+        "title": "Ultimate Enchanter",
+        "description": "Obtain every enchantment at every level throughout your enchanting career",
 		"frame": "challenge"
     },
     "parent": "fritecraft:collection/master_enchanter",

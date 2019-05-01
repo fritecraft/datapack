@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:trident"
         },
-        "title": {"translate":"Because I'm Aquaman!"},
-        "description": {"translate":"Obtain a trident from a Drowned"},
+        "title": "Because I'm Aquaman!",
+        "description": "Obtain a trident from a Drowned",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/tridented_shield",

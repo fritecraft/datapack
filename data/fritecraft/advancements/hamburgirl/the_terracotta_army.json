@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magenta_terracotta"
         },
-        "title": {"translate":"The Terracotta Army"},
-        "description": {"translate":"Craft all 16 colors of terracotta (stained clay)"},
+        "title": "The Terracotta Army",
+        "description": "Craft all 16 colors of terracotta (stained clay)",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/clay_dough",

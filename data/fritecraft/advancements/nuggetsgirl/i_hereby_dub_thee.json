@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:name_tag"
         },
-        "title": {"translate":"I hereby dub thee..."},
-        "description": {"translate":"Obtain a name tag"}
+        "title": "I hereby dub thee...",
+        "description": "Obtain a name tag"}
     },
     "parent": "fritecraft:nuggetsgirl/root",
     "rewards": {

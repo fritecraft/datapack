@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chicken_spawn_egg"
         },
-        "title": {"translate":"Chicken Cooper"},
-        "description": {"translate":"Collect a stack of raw chicken and feathers"},
+        "title": "Chicken Cooper",
+        "description": "Collect a stack of raw chicken and feathers",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/feeding_the_chickens",

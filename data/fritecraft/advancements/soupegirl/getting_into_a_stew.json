@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:rabbit_stew"
         },
-        "title": {"translate":"Getting Into a Stew"},
-        "description": {"translate":"Make and eat some rabbit stew"}
+        "title": "Getting Into a Stew",
+        "description": "Make and eat some rabbit stew"}
     },
     "parent": "fritecraft:soupegirl/lucky_charm",
     "rewards": {

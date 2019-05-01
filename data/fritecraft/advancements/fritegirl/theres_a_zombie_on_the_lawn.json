@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sunflower"
         },
-        "title": {"translate":"There's a zombie on the lawn"},
-        "description": {"translate":"Find a sunflower plains"}
+        "title": "There's a zombie on the lawn",
+        "description": "Find a sunflower plains"}
     },
     "parent": "fritecraft:fritegirl/tarzan",
     "rewards": {

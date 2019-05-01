@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bone"
         },
-        "title": {"translate":"What a piece of junk!"},
-        "description": {"translate":"Fish out a junk item"}
+        "title": "What a piece of junk!",
+        "description": "Fish out a junk item"}
     },
     "parent": "fritecraft:sodagirl/catching_nemo",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:mycelium"
         },
-        "title": {"translate":"Mooshroom Kingdom"},
-        "description": {"translate":"Find mooshrooms on a mushroom island"}
+        "title": "Mooshroom Kingdom",
+        "description": "Find mooshrooms on a mushroom island"}
     },
     "parent": "fritecraft:hamburgirl/true_cow_tipper",
     "rewards": {

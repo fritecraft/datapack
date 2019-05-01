@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spider_eye"
         },
-        "title": {"translate":"Bane of one-shotting spiders"},
-        "description": {"translate":"Obtain Bane of Arthropods V"},
+        "title": "Bane of one-shotting spiders",
+        "description": "Obtain Bane of Arthropods V",
 		"frame": "goal"
     },
     "parent": "fritecraft:fritegirl/undead_slayer",

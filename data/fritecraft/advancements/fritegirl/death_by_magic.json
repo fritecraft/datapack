@@ -4,8 +4,8 @@
             "item": "minecraft:splash_potion",
 			"nbt": "{Potion:\"minecraft:harming\"}"
         },
-        "title": {"translate":"Death by Magic"},
-        "description": {"translate":"Kill a mob with a splash potion"}
+        "title": "Death by Magic",
+        "description": "Kill a mob with a splash potion"}
     },
     "parent": "fritecraft:fritegirl/root",
     "rewards": {

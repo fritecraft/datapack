@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_block"
         },
-        "title": {"translate":"Mineral Collection"},
-        "description": {"translate":"Craft every type of mineral block"},
+        "title": "Mineral Collection",
+        "description": "Craft every type of mineral block",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/diamond_miner",

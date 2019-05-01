@@ -5,10 +5,10 @@
       "item": "minecraft:milk_bucket"
     },
     "title": {
-      "translate": "advancements.nether.all_potions.title"
+      "advancements.nether.all_potions.title"
     },
     "description": {
-      "translate": "advancements.nether.all_potions.description"
+      "advancements.nether.all_potions.description"
     },
     "frame": "challenge",
     "show_toast": true,

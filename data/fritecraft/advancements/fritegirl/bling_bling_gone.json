@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_pickaxe"
         },
-        "title": {"translate":"Bling Bling Gone"},
-        "description": {"translate":"Completely use up a golden pickaxe, and then seriously reevaluate your life choices"},
+        "title": "Bling Bling Gone",
+        "description": "Completely use up a golden pickaxe, and then seriously reevaluate your life choices",
         "frame": "goal"
     },
     "parent": "fritecraft:fritegirl/gold_rush",

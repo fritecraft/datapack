@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sea_pickle"
         },
-        "title": {"translate":"In a Pickle"},
-        "description": {"translate":"Collect some sea pickles from a coral reef"}
+        "title": "In a Pickle",
+        "description": "Collect some sea pickles from a coral reef"}
     },
     "parent": "fritecraft:sodagirl/the_great_blocky_reef",
     "rewards": {

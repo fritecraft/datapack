@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_pickaxe"
         },
-        "title": {"translate":"Super Efficient"},
-        "description": {"translate":"Obtain Efficiency V"},
+        "title": "Super Efficient",
+        "description": "Obtain Efficiency V",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/librarian",

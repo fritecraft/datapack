@@ -5,10 +5,10 @@
       "item": "minecraft:iron_ingot"
     },
     "title": {
-      "translate": "advancements.story.smelt_iron.title"
+      "advancements.story.smelt_iron.title"
     },
     "description": {
-      "translate": "advancements.story.smelt_iron.description"
+      "advancements.story.smelt_iron.description"
     },
     "frame": "task",
     "show_toast": true,

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:prismarine_shard"
         },
-        "title": {"translate":"The Aquatic Hunter"},
-        "description": {"translate":"Hunt all types of aquatic creatures with your trident"},
+        "title": "The Aquatic Hunter",
+        "description": "Hunt all types of aquatic creatures with your trident",
         "frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/underwater_duel",

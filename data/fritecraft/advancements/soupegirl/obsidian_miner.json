@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:obsidian"
         },
-        "title": {"translate":"Obsidian Miner"},
-        "description": {"translate":"Mine a stack of obsidian. (This might take a while...)"},
+        "title": "Obsidian Miner",
+        "description": "Mine a stack of obsidian. (This might take a while...)",
 		"frame": "goal"
     },
     "parent": "fritecraft:soupegirl/enter_the_nether",

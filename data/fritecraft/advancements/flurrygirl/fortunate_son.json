@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_pickaxe"
         },
-        "title": {"translate":"Fortunate Son"},
-        "description": {"translate":"Obtain Fortune III"},
+        "title": "Fortunate Son",
+        "description": "Obtain Fortune III",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/super_efficient",

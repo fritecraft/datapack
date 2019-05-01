@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:arrow"
         },
-        "title": {"translate":"Spear Fishing"},
-        "description": {"translate":"Kill a Guardian with arrows"}
+        "title": "Spear Fishing",
+        "description": "Kill a Guardian with arrows"}
     },
     "parent": "fritecraft:sodagirl/laser_sharks",
     "rewards": {

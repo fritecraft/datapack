@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snow_block"
         },
-        "title": {"translate":"Do you want to build a snowman?"},
-        "description": {"translate":"Use a pumpkin and snow blocks to build a snow golem"}
+        "title": "Do you want to build a snowman?",
+        "description": "Use a pumpkin and snow blocks to build a snow golem"}
     },
     "parent": "fritecraft:flurrygirl/the_pie",
     "rewards": {

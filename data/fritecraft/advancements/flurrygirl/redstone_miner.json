@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:redstone_block"
         },
-        "title": {"translate":"Redstone Miner"},
-        "description": {"translate":"Mine enough redstone to craft a stack of redstone blocks"},
+        "title": "Redstone Miner",
+        "description": "Mine enough redstone to craft a stack of redstone blocks",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/whats_the_time_mr_wolf",

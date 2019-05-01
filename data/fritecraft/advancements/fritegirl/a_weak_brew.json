@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fermented_spider_eye"
         },
-        "title": {"translate":"A Weak Brew"},
-        "description": {"translate":"Brew up a potion of Weakness"}
+        "title": "A Weak Brew",
+        "description": "Brew up a potion of Weakness"}
     },
     "parent": "fritecraft:fritegirl/super_strength",
     "rewards": {

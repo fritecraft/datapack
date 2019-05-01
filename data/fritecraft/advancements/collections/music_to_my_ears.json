@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:music_disc_cat"
         },
-        "title": {"translate":"Music To My Ears"},
-        "description": {"translate":"Find a music disc"},
+        "title": "Music To My Ears",
+        "description": "Find a music disc",
         "frame": "goal"
     },
     "parent": "fritecraft:collection/i_hereby_dub_thee",

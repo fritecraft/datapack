@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_sword"
         },
-        "title": {"translate":"Direct Fishing"},
-        "description": {"translate":"Catch a fish by directly skewering it with a sword"}
+        "title": "Direct Fishing",
+        "description": "Catch a fish by directly skewering it with a sword"}
     },
     "parent": "fritecraft:fritegirl/fishy_business",
     "rewards": {

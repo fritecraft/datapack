@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_apple"
         },
-        "title": {"translate":"Ultra Hardcore"},
-        "description": {"translate":"Craft and eat a normal golden apple"}
+        "title": "Ultra Hardcore",
+        "description": "Craft and eat a normal golden apple"}
     },
     "parent": "fritecraft:fritegirl/bapple",
     "rewards": {

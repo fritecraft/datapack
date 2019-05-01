@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:apple"
         },
-        "title": {"translate":"Bapple!"},
-        "description": {"translate":"Crunch into an apple"}
+        "title": "Bapple!",
+        "description": "Crunch into an apple"}
     },
     "parent": "fritecraft:fritegirl/care_for_the_environment",
     "rewards": {

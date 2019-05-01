@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_block"
         },
-        "title": {"translate":"Master Iron Miner"},
-        "description": {"translate":"Mine enough iron to make a stack of iron blocks"},
+        "title": "Master Iron Miner",
+        "description": "Mine enough iron to make a stack of iron blocks",
 		"frame": "challenge"
     },
     "parent": "fritecraft:flurrygirl/iron_miner",

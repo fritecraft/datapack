@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cake"
         },
-        "title": {"translate":"The Lie"},
-        "description": {"translate":"Wheat, sugar, milk and eggs!"}
+        "title": "The Lie",
+        "description": "Wheat, sugar, milk and eggs!"}
     },
     "parent": "fritecraft:flurrygirl/bake_bread",
     "rewards": {

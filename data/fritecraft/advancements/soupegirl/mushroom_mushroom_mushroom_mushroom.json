@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:mushroom_stew"
         },
-        "title": {"translate":"Mushroom, Mushroom, Mushroom, Mushroom!"},
-        "description": {"translate":"Slurp some mushroom stew"}
+        "title": "Mushroom, Mushroom, Mushroom, Mushroom!",
+        "description": "Slurp some mushroom stew"}
     },
     "parent": "fritecraft:soupegirl/shrooms",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:prismarine_crystals"
         },
-        "title": {"translate":"The Deep End"},
-        "description": {"translate":"Defeat an Elder Guardian"},
+        "title": "The Deep End",
+        "description": "Defeat an Elder Guardian",
         "frame": "goal"
     },
     "parent": "fritecraft:sodagirl/laser_sharks",

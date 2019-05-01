@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:coal_block"
         },
-        "title": {"translate":"Coal Miner"},
-        "description": {"translate":"Mine a stack of coal"},
+        "title": "Coal Miner",
+        "description": "Mine a stack of coal",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/fossil_fuel",

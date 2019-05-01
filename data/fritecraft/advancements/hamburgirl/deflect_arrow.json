@@ -5,10 +5,10 @@
       "item": "minecraft:shield"
     },
     "title": {
-      "translate": "advancements.story.deflect_arrow.title"
+      "advancements.story.deflect_arrow.title"
     },
     "description": {
-      "translate": "advancements.story.deflect_arrow.description"
+      "advancements.story.deflect_arrow.description"
     },
     "frame": "task",
     "show_toast": true,

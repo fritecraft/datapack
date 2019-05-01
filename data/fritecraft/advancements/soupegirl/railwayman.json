@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:activator_rail"
         },
-        "title": {"translate":"Railwayman"},
-        "description": {"translate":"Craft a stack of all the different types of rails"},
+        "title": "Railwayman",
+        "description": "Craft a stack of all the different types of rails",
 		"frame": "goal"
     },
     "parent": "fritecraft:soupegirl/electric_rails",

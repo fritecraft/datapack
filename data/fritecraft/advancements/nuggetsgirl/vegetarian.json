@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:carrot"
         },
-        "title": {"translate":"Vegetarian"},
-        "description": {"translate":"Eat every type of fruit, vegetables, and any sort of plant matter"},
+        "title": "Vegetarian",
+        "description": "Eat every type of fruit, vegetables, and any sort of plant matter",
         "frame": "goal"
     },
     "parent": "fritecraft:nuggetsgirl/root",

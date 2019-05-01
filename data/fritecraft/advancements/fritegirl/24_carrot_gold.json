@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_carrot"
         },
-        "title": {"translate":"24 Carrot Gold"},
-        "description": {"translate":"Eat a golden carrot"}
+        "title": "24 Carrot Gold",
+        "description": "Eat a golden carrot"}
     },
     "parent": "fritecraft:fritegirl/die_potato",
     "rewards": {

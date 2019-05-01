@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:egg"
         },
-        "title": {"translate":"Egging, Dude!"},
-        "description": {"translate":"Vandalise something with eggs"}
+        "title": "Egging, Dude!",
+        "description": "Vandalise something with eggs"}
     },
     "parent": "fritecraft:nuggetsgirl/so_good",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:prismarine_bricks"
         },
-        "title": {"translate":"Fake monument"},
-        "description": {"translate":"Craft or collect all forms of prismarine blocks"}
+        "title": "Fake monument",
+        "description": "Craft or collect all forms of prismarine blocks"}
     },
     "parent": "fritecraft:sodagirl/greek_art_decor",
     "rewards": {

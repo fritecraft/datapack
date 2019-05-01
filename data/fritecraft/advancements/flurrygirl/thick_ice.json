@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:blue_ice"
         },
-        "title": {"translate":"Thick Ice!"},
-        "description": {"translate":"Craft or mine a blue ice block from an iceberg"}
+        "title": "Thick Ice!",
+        "description": "Craft or mine a blue ice block from an iceberg"}
     },
     "parent": "fritecraft:flurrygirl/spike_ice",
     "rewards": {

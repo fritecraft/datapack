@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_block"
         },
-        "title": {"translate":"Master Gold Miner"},
-        "description": {"translate":"Mine enough gold to make a stack of gold blocks"},
+        "title": "Master Gold Miner",
+        "description": "Mine enough gold to make a stack of gold blocks",
 		"frame": "challenge"
     },
     "parent": "fritecraft:flurrygirl/gold_miner",

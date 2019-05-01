@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": {"translate":"Night Runner"},
-        "description": {"translate":"Defeat all kinds of Overworld night mobs"},
+        "title": "Night Runner",
+        "description": "Defeat all kinds of Overworld night mobs",
         "frame": "goal"
     },
     "parent": "fritecraft:fritegirl/kill_a_mob",

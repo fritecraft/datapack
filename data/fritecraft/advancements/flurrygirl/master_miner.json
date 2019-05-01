@@ -4,8 +4,8 @@
             "item": "minecraft:diamond_pickaxe",
 			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
-        "title": {"translate":"Master Miner"},
-        "description": {"translate":"Create a pickaxe with all possible enchantments at max level"},
+        "title": "Master Miner",
+        "description": "Create a pickaxe with all possible enchantments at max level",
 		"frame": "challenge"
     },
     "parent": "fritecraft:flurrygirl/unbreakable",

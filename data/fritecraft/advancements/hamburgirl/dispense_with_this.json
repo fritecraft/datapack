@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dispenser"
         },
-        "title": {"translate":"Dispense With This"},
-        "description": {"translate":"Construct a dispenser"}
+        "title": "Dispense With This",
+        "description": "Construct a dispenser"}
     },
     "parent": "fritecraft:hamburgirl/space_dropper",
     "rewards": {

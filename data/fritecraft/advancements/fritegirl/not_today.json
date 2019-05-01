@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:poisonous_potato"
         },
-        "title": {"translate":"Not Today!"},
-        "description": {"translate":"Eat a poisonous potato"}
+        "title": "Not Today!",
+        "description": "Eat a poisonous potato"}
     },
     "parent": "fritecraft:fritegirl/die_potato",
     "rewards": {

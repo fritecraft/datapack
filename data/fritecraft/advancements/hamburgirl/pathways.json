@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:grass_path"
         },
-        "title": {"translate":"Pathways"},
-        "description": {"translate":"Use a shovel to create grass paths"}
+        "title": "Pathways",
+        "description": "Use a shovel to create grass paths"}
     },
     "parent": "fritecraft:hamburgirl/root",
     "rewards": {

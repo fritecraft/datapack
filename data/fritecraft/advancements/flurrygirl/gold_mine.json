@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gold_ore"
         },
-        "title": {"translate":"Gold Mine!"},
-        "description": {"translate":"Find a mineshaft on the surface of a mesa biome"}
+        "title": "Gold Mine!",
+        "description": "Find a mineshaft on the surface of a mesa biome"}
     },
     "parent": "fritecraft:flurrygirl/eeuuwww",
     "rewards": {

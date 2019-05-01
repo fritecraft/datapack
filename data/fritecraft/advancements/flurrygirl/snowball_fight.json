@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": {"translate":"Snowball Fight"},
-        "description": {"translate":"The spirit of Christmas... quickly drowned out by a battle"}
+        "title": "Snowball Fight",
+        "description": "The spirit of Christmas... quickly drowned out by a battle"}
     },
     "parent": "fritecraft:flurrygirl/root",
     "rewards": {

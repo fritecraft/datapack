@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:glowstone"
         },
-        "title": {"translate":"Glowstone Miner"},
-        "description": {"translate":"Mine or craft a stack of glowstone blocks"},
+        "title": "Glowstone Miner",
+        "description": "Mine or craft a stack of glowstone blocks",
 		"frame": "goal"
     },
     "parent": "fritecraft:soupegirl/glows_in_the_dark",

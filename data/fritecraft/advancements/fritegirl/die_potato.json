@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:potato"
         },
-        "title": {"translate":"Die, Potato!"},
-        "description": {"translate":"Squash and eat a potato"}
+        "title": "Die, Potato!",
+        "description": "Squash and eat a potato"}
     },
     "parent": "fritecraft:fritegirl/plant_seed",
     "rewards": {

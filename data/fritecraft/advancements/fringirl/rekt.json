@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_bars"
         },
-        "title": {"translate":"Rekt!"},
-        "description": {"translate":"Get killed by a natural iron golem defending its village"},
+        "title": "Rekt!",
+        "description": "Get killed by a natural iron golem defending its village",
 		"hidden": "true"
     },
     "parent": "fritecraft:fringirl/murderer",

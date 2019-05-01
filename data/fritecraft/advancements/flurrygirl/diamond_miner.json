@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_block"
         },
-        "title": {"translate":"Diamond Miner"},
-        "description": {"translate":"Mine a stack of diamonds. Good luck!"},
+        "title": "Diamond Miner",
+        "description": "Mine a stack of diamonds. Good luck!",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/diamond_clad",

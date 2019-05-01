@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:totem_of_undying"
         },
-        "title": {"translate":"Wololo!"},
-        "description": {"translate":"Defeat an Evoker"},
+        "title": "Wololo!",
+        "description": "Defeat an Evoker",
 		"frame": "goal"
     },
     "parent": "fritecraft:fringirl/ghostbuster",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:comparator"
         },
-        "title": {"translate":"Comparing Comparator"},
-        "description": {"translate":"Craft a redstone comparator"}
+        "title": "Comparing Comparator",
+        "description": "Craft a redstone comparator"}
     },
     "parent": "fritecraft:hamburgirl/quirky_quartz",
     "rewards": {

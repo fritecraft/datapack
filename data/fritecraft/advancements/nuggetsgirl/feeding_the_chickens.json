@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wheat_seeds"
         },
-        "title": {"translate":"Feeding the §mDucks§r Chickens"},
-        "description": {"translate":"Breed chickens by feeding them seeds"}
+        "title": "Feeding the §mDucks§r Chickens",
+        "description": "Breed chickens by feeding them seeds"}
     },
     "parent": "fritecraft:nuggetsgirl/egging_dude",
     "rewards": {

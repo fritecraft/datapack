@@ -5,10 +5,10 @@
       "item": "minecraft:lava_bucket"
     },
     "title": {
-      "translate": "advancements.story.lava_bucket.title"
+      "advancements.story.lava_bucket.title"
     },
     "description": {
-      "translate": "advancements.story.lava_bucket.description"
+      "advancements.story.lava_bucket.description"
     },
     "frame": "task",
     "show_toast": true,

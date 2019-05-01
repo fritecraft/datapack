@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:glass"
         },
-        "title": {"translate":"Classy Glassy"},
-        "description": {"translate":"Smelt sand in a furnace to get glass"}
+        "title": "Classy Glassy",
+        "description": "Smelt sand in a furnace to get glass"}
     },
     "parent": "fritecraft:hamburgirl/root",
     "rewards": {

@@ -4,8 +4,8 @@
             "item": "minecraft:enchanting_table",
 			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
-        "title": {"translate":"Master Enchanter"},
-        "description": {"translate":"Obtain every enchantment at their max level throughout your enchanting career"},
+        "title": "Master Enchanter",
+        "description": "Obtain every enchantment at their max level throughout your enchanting career",
 		"frame": "challenge"
     },
     "parent": "fritecraft:collection/complete_enchanter",

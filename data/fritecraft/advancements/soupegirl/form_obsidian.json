@@ -5,10 +5,10 @@
       "item": "minecraft:obsidian"
     },
     "title": {
-      "translate": "advancements.story.form_obsidian.title"
+      "advancements.story.form_obsidian.title"
     },
     "description": {
-      "translate": "advancements.story.form_obsidian.description"
+      "advancements.story.form_obsidian.description"
     },
     "frame": "task",
     "show_toast": true,

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cracked_stone_bricks"
         },
-        "title": {"translate":"Fake stronghold"},
-        "description": {"translate":"Craft or collect normal, cracked, mossy and chiseled stone bricks"}
+        "title": "Fake stronghold",
+        "description": "Craft or collect normal, cracked, mossy and chiseled stone bricks"}
     },
     "parent": "fritecraft:fritegirl/rock_collection",
     "rewards": {

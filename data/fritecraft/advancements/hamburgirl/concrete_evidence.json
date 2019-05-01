@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:light_blue_concrete"
         },
-        "title": {"translate":"Concrete Evidence"},
-        "description": {"translate":"Create concrete from concrete powder by dropping it into water"}
+        "title": "Concrete Evidence",
+        "description": "Create concrete from concrete powder by dropping it into water"}
     },
     "parent": "fritecraft:hamburgirl/rainbow_sand",
     "rewards": {

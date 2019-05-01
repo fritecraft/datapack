@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chest"
         },
-        "title": {"translate":"Are we there yet?"},
-        "description": {"translate":"Tame a donkey"}
+        "title": "Are we there yet?",
+        "description": "Tame a donkey"}
     },
     "parent": "fritecraft:nuggetsgirl/a_horse_in_shining_armor",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_boots"
         },
-        "title": {"translate":"Voyage"},
-        "description": {"translate":"A hundred kilometres!"},
+        "title": "Voyage",
+        "description": "A hundred kilometres!",
         "frame": "challenge",
 		"hidden": "true"
     },

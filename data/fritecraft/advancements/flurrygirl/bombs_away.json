@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:tnt"
         },
-        "title": {"translate":"Bombs Away!"},
-        "description": {"translate":"Use gunpowder and sand to craft TNT"}
+        "title": "Bombs Away!",
+        "description": "Use gunpowder and sand to craft TNT"}
     },
     "parent": "fritecraft:flurrygirl/blast_shield",
     "rewards": {

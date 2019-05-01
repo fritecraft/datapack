@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_pickaxe"
         },
-        "title": {"translate":"Iconic Merchandising Prop"},
-        "description": {"translate":"Create a pickaxe of the highest calibre"}
+        "title": "Iconic Merchandising Prop",
+        "description": "Create a pickaxe of the highest calibre"}
     },
     "parent": "fritecraft:flurrygirl/mine_diamond",
     "rewards": {

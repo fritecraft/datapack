@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cow_spawn_egg"
         },
-        "title": {"translate":"True Cow Tipper"},
-        "description": {"translate":"Collect a stack of raw beef and leather"},
+        "title": "True Cow Tipper",
+        "description": "Collect a stack of raw beef and leather",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/milk_does_your_body_good",

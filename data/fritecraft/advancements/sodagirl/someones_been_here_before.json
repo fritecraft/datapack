@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:leather_boots"
         },
-        "title": {"translate":"Someone's been here before..."},
-        "description": {"translate":"Fish out a ratty old pair of boots"},
+        "title": "Someone's been here before...",
+        "description": "Fish out a ratty old pair of boots",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/treasure_hunter",

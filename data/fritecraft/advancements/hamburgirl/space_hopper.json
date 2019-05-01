@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:hopper"
         },
-        "title": {"translate":"Space Hopper"},
-        "description": {"translate":"Craft a hopper for item transportation"}
+        "title": "Space Hopper",
+        "description": "Craft a hopper for item transportation"}
     },
     "parent": "fritecraft:hamburgirl/root",
     "rewards": {

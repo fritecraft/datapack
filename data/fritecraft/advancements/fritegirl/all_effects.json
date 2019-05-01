@@ -5,10 +5,10 @@
       "item": "minecraft:bucket"
     },
     "title": {
-      "translate": "advancements.nether.all_effects.title"
+      "advancements.nether.all_effects.title"
     },
     "description": {
-      "translate": "advancements.nether.all_effects.description"
+      "advancements.nether.all_effects.description"
     },
     "frame": "challenge",
     "show_toast": true,

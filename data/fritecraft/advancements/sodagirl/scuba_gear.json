@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": {"translate":"Scuba Gear"},
-        "description": {"translate":"Obtain every water related enchantment"},
+        "title": "Scuba Gear",
+        "description": "Obtain every water related enchantment",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/knocking_your_socks_off",

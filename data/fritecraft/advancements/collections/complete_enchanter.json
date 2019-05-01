@@ -3,14 +3,14 @@
         "icon": {
             "item": "minecraft:experience_bottle"
         },
-        "title": {"translate":"Complete Enchanter"},
-        "description": {"translate":"Obtain every enchantment throughout your enchanting career"},
+        "title": "Complete Enchanter",
+        "description": "Obtain every enchantment throughout your enchanting career",
 		"frame": "challenge"
     },
     "parent": "fritecraft:collection/fiery",
     "rewards": {
         "experience": 100
-    },			
+    },
     "criteria": {
         "protection": {
             "trigger": "minecraft:inventory_changed",

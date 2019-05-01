@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:acacia_log"
         },
-        "title": {"translate":"Travelling Merchant"},
-        "description": {"translate":"Travel to every type of village"},
+        "title": "Travelling Merchant",
+        "description": "Travel to every type of village",
 		"frame": "goal"
     },
     "parent": "fritecraft:exploration/trade",

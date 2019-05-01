@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": {"translate":"Wet Feet"},
-        "description": {"translate":"Discover every water biome"},
+        "title": "Wet Feet",
+        "description": "Discover every water biome",
         "frame": "goal"
     },
     "parent": "fritecraft:sodagirl/overgrown",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:jungle_leaves"
         },
-        "title": {"translate":"Lion Tamer"},
-        "description": {"translate":"Tame an Ocelot using fish"}
+        "title": "Lion Tamer",
+        "description": "Tame an Ocelot using fish"}
     },
     "parent": "fritecraft:nuggetsgirl/salmonella_poisoning",
     "rewards": {

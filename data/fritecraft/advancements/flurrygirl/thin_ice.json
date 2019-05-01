@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ice"
         },
-        "title": {"translate":"Thin Ice!"},
-        "description": {"translate":"Use a silk touch pickaxe to pick up some ice blocks"}
+        "title": "Thin Ice!",
+        "description": "Use a silk touch pickaxe to pick up some ice blocks"}
     },
     "parent": "fritecraft:flurrygirl/boaty_mcboatface",
     "rewards": {

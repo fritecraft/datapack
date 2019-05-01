@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gravel"
         },
-        "title": {"translate":"My work here is done"},
-        "description": {"translate":"Get caught in a cave-in of gravel"},
+        "title": "My work here is done",
+        "description": "Get caught in a cave-in of gravel",
 		"hidden": "true"
     },
     "parent": "fritecraft:flurrygirl/spelunker",

@@ -5,10 +5,10 @@
       "item": "minecraft:fire_charge"
     },
     "title": {
-      "translate": "advancements.nether.return_to_sender.title"
+      "advancements.nether.return_to_sender.title"
     },
     "description": {
-      "translate": "advancements.nether.return_to_sender.description"
+      "advancements.nether.return_to_sender.description"
     },
     "frame": "challenge",
     "show_toast": true,

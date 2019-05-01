@@ -5,10 +5,10 @@
       "item": "minecraft:iron_pickaxe"
     },
     "title": {
-      "translate": "advancements.story.iron_tools.title"
+      "advancements.story.iron_tools.title"
     },
     "description": {
-      "translate": "advancements.story.iron_tools.description"
+      "advancements.story.iron_tools.description"
     },
     "frame": "task",
     "show_toast": true,

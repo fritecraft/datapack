@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_shovel"
         },
-        "title": {"translate":"Even MOAR Tools"},
-        "description": {"translate":"Craft a full diamond tools set"}
+        "title": "Even MOAR Tools",
+        "description": "Craft a full diamond tools set"}
     },
     "parent": "fritecraft:flurrygirl/stabcraft",
     "rewards": {

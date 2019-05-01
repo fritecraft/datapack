@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:painting"
         },
-        "title": {"translate":"A Masterpiece!"},
-        "description": {"translate":"Put up a painting"}
+        "title": "A Masterpiece!",
+        "description": "Put up a painting"}
     },
     "parent": "fritecraft:nuggetsgirl/its_a_sign",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:red_mushroom_block"
         },
-        "title": {"translate":"Mega Mushroom"},
-        "description": {"translate":"Grow a giant mushroom and then harvest it with silk touch"}
+        "title": "Mega Mushroom",
+        "description": "Grow a giant mushroom and then harvest it with silk touch"}
     },
     "parent": "fritecraft:hamburgirl/mushroom_mushroom_mushroom_mushroom",
     "rewards": {

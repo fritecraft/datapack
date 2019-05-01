@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:filled_map"
         },
-        "title": {"translate":"X Marks the Spot"},
-        "description": {"translate":"Use a treasure map to find a Heart of the Sea in Buried Treasure"},
+        "title": "X Marks the Spot",
+        "description": "Use a treasure map to find a Heart of the Sea in Buried Treasure",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/get_ship_rekt",

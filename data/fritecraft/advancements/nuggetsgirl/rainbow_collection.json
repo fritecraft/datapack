@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:light_blue_wool"
         },
-        "title": {"translate":"Rainbow Collection"},
-        "description": {"translate":"Gather all 16 colors of wool"},
+        "title": "Rainbow Collection",
+        "description": "Gather all 16 colors of wool",
 		"frame": "goal"
     },
     "parent": "fritecraft:nuggetsgirl/sheariously",

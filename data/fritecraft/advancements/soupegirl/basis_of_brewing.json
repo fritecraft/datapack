@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:nether_wart"
         },
-        "title": {"translate":"Basis of Brewing"},
-        "description": {"translate":"Harvest some nether wart from a nether fortress"}
+        "title": "Basis of Brewing",
+        "description": "Harvest some nether wart from a nether fortress"}
     },
     "parent": "fritecraft:soupegirl/obtain_blaze_rod",
     "rewards": {

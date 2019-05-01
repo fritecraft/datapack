@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magma_block"
         },
-        "title": {"translate":"Pushed Around"},
-        "description": {"translate":"Enter a bubble column"}
+        "title": "Pushed Around",
+        "description": "Enter a bubble column"}
     },
     "parent": "fritecraft:sodagirl/dolphin_dasher",
     "rewards": {

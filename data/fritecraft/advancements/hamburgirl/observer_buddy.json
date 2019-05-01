@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:observer"
         },
-        "title": {"translate":"Observer Buddy"},
-        "description": {"translate":"Craft an observer"}
+        "title": "Observer Buddy",
+        "description": "Craft an observer"}
     },
     "parent": "fritecraft:hamburgirl/solar_power",
     "rewards": {

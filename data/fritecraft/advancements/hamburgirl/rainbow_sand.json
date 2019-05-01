@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:light_blue_concrete_powder"
         },
-        "title": {"translate":"Rainbow Sand"},
-        "description": {"translate":"Craft concrete powder using sand, gravel and dye"}
+        "title": "Rainbow Sand",
+        "description": "Craft concrete powder using sand, gravel and dye"}
     },
     "parent": "fritecraft:hamburgirl/root",
     "rewards": {

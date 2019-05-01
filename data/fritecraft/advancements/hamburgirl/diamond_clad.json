@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_helmet"
         },
-        "title": {"translate":"Diamond Clad"},
-        "description": {"translate":"A full suit of diamond armor saves even more lives"},
+        "title": "Diamond Clad",
+        "description": "A full suit of diamond armor saves even more lives",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/shiny_gear",

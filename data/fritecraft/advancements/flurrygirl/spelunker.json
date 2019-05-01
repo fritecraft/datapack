@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chainmail_helmet"
         },
-        "title": {"translate":"Spelunker"},
-        "description": {"translate":"Enter a cave"}
+        "title": "Spelunker",
+        "description": "Enter a cave"}
     },
     "parent": "fritecraft:flurrygirl/mine_stone",
     "rewards": {

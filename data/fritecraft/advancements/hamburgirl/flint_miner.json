@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:flint"
         },
-        "title": {"translate":"Flint Miner"},
-        "description": {"translate":"Mine a stack of flint"},
+        "title": "Flint Miner",
+        "description": "Mine a stack of flint",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/meet_the_flintstones",

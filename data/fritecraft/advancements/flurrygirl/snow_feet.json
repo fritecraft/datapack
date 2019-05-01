@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": {"translate":"Snow Feet"},
-        "description": {"translate":"Discover every snowy biome"},
+        "title": "Snow Feet",
+        "description": "Discover every snowy biome",
         "frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/warm_feet",

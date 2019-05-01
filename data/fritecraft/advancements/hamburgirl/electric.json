@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:redstone_lamp"
         },
-        "title": {"translate":"Electric!"},
-        "description": {"translate":"Light up the area with some redstone lamps"}
+        "title": "Electric!",
+        "description": "Light up the area with some redstone lamps"}
     },
     "parent": "fritecraft:hamburgirl/glowing",
     "rewards": {

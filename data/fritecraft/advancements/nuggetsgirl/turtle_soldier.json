@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:turtle_helmet"
         },
-        "title": {"translate":"Turtle Soldier"},
-        "description": {"translate":"Craft a full turtle shell"},
+        "title": "Turtle Soldier",
+        "description": "Craft a full turtle shell",
 		"frame": "goal"
     },
     "parent": "fritecraft:nuggetsgirl/scuttler",

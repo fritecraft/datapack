@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:tropical_fish_bucket"
         },
-        "title": {"translate":"Tropical Collection"},
-        "description": {"translate":"Collect all 22 of the common types of tropical fish"},
+        "title": "Tropical Collection",
+        "description": "Collect all 22 of the common types of tropical fish",
 		"frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/aquarium",

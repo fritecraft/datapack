@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cooked_chicken"
         },
-        "title": {"translate":"So Good"},
-        "description": {"translate":"Can't beat it, can't beat it"}
+        "title": "So Good",
+        "description": "Can't beat it, can't beat it"}
     },
     "parent": "fritecraft:nuggetsgirl/tickle_time",
     "rewards": {

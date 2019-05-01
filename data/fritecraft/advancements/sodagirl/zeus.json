@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:end_rod"
         },
-        "title": {"translate":"Zeus"},
-        "description": {"translate":"Obtain Channeling on a trident"},
+        "title": "Zeus",
+        "description": "Obtain Channeling on a trident",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/do_a_barrel_roll",

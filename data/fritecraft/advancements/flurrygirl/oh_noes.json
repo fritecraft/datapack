@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stick"
         },
-        "title": {"translate":"Aww it broke!"},
-        "description": {"translate":"Break your first tool"},
+        "title": "Aww it broke!",
+        "description": "Break your first tool",
 		"hidden": "true"
     },
     "parent": "fritecraft:flurrygirl/mine_stone",

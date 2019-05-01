@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:hay_block"
         },
-        "title": {"translate":"Hay there!"},
-        "description": {"translate":"Craft a stack of hay blocks"},
+        "title": "Hay there!",
+        "description": "Craft a stack of hay blocks",
 		"frame": "goal"
     },
     "parent": "fritecraft:nuggetsgirl/the_lie",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dark_oak_fence"
         },
-        "title": {"translate":"Titanic"},
-        "description": {"translate":"Find a shipwreck in an iceberg biome"},
+        "title": "Titanic",
+        "description": "Find a shipwreck in an iceberg biome",
 		"frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/get_ship_rekt",

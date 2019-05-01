@@ -5,10 +5,10 @@
       "item": "minecraft:cod"
     },
     "title": {
-      "translate": "advancements.husbandry.complete_catalogue.title"
+      "advancements.husbandry.complete_catalogue.title"
     },
     "description": {
-      "translate": "advancements.husbandry.complete_catalogue.description"
+      "advancements.husbandry.complete_catalogue.description"
     },
     "frame": "challenge",
     "show_toast": true,

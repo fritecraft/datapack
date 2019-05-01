@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:creeper_head"
         },
-        "title": {"translate":"Curses!"},
-        "description": {"translate":"Obtain both types of curses"},
+        "title": "Curses!",
+        "description": "Obtain both types of curses",
 		"frame": "goal"
     },
     "parent": "fritecraft:fringirl/old_cartoon_joke",

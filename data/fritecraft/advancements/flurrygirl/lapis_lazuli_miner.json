@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:lapis_block"
         },
-        "title": {"translate":"Lapis Lazuli Miner"},
-        "description": {"translate":"Mine enough lapis lazuli to craft a stack of lapis lazuli blocks"},
+        "title": "Lapis Lazuli Miner",
+        "description": "Mine enough lapis lazuli to craft a stack of lapis lazuli blocks",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/the_wrong_shade_of_blue",

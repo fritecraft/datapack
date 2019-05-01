@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sticky_piston"
         },
-        "title": {"translate":"Sticky Parts"},
-        "description": {"translate":"Craft a sticky piston so you can pull things"}
+        "title": "Sticky Parts",
+        "description": "Craft a sticky piston so you can pull things"}
     },
     "parent": "fritecraft:hamburgirl/moving_parts",
     "rewards": {

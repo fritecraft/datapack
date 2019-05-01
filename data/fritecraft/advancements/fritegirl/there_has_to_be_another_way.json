@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_nugget"
         },
-        "title": {"translate":"There has to be another way..."},
-        "description": {"translate":"Kill a zombie villager"}
+        "title": "There has to be another way...",
+        "description": "Kill a zombie villager"}
     },
     "parent": "fritecraft:fritegirl/dead_dont_die",
     "rewards": {

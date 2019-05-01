@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:structure_block"
         },
-        "title": {"translate":"Raidin' Master"},
-        "description": {"translate":"Discover every structure type"},
+        "title": "Raidin' Master",
+        "description": "Discover every structure type",
 		"frame": "challenge"
     },
     "parent": "fritecraft:exploration/secret_of_the_igloo",

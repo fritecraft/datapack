@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_ore"
         },
-        "title": {"translate":"Pick Like Silk"},
-        "description": {"translate":"Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block"},
+        "title": "Pick Like Silk",
+        "description": "Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block",
 		"frame": "challenge"
     },
     "parent": "fritecraft:flurrygirl/fortunate_son",

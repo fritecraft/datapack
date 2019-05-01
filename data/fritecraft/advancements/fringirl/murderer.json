@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_sword"
         },
-        "title": {"translate":"MURDERER!"},
-        "description": {"translate":"Kill a villager"},
+        "title": "MURDERER!",
+        "description": "Kill a villager",
 		"hidden": "true"
     },
     "parent": "fritecraft:fringirl/summon_iron_golem",

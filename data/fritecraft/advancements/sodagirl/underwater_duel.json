@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": {"translate":"Underwater Duel"},
-        "description": {"translate":"Kill a drowned using a trident from at least 30 metres"},
+        "title": "Underwater Duel",
+        "description": "Kill a drowned using a trident from at least 30 metres",
         "frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/throw_trident",

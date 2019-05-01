@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_shovel"
         },
-        "title": {"translate":"We've broken our last shovel"},
-        "description": {"translate":"Break all five types of shovels"},
+        "title": "We've broken our last shovel",
+        "description": "Break all five types of shovels",
         "frame": "challenge"
     },
     "parent": "fritecraft:hamburgirl/bling_bling_gone",

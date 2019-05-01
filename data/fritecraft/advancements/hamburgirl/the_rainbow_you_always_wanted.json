@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magenta_concrete"
         },
-        "title": {"translate":"The Rainbow You Always Wanted"},
-        "description": {"translate":"Craft all 16 colors of concrete"},
+        "title": "The Rainbow You Always Wanted",
+        "description": "Craft all 16 colors of concrete",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/concrete_evidence",

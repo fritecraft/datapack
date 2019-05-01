@@ -5,10 +5,10 @@
       "item": "minecraft:diamond_boots"
     },
     "title": {
-      "translate": "advancements.adventure.adventuring_time.title"
+      "advancements.adventure.adventuring_time.title"
     },
     "description": {
-      "translate": "advancements.adventure.adventuring_time.description"
+      "advancements.adventure.adventuring_time.description"
     },
     "frame": "challenge",
     "show_toast": true,

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:coal_block"
         },
-        "title": {"translate":"Master Coal Miner"},
-        "description": {"translate":"Mine enough coal to make a stack of coal blocks"},
+        "title": "Master Coal Miner",
+        "description": "Mine enough coal to make a stack of coal blocks",
 		"frame": "challenge"
     },
     "parent": "fritecraft:flurrygirl/coal_miner",

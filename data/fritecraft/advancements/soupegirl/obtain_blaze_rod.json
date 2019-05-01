@@ -5,10 +5,10 @@
       "item": "minecraft:blaze_rod"
     },
     "title": {
-      "translate": "advancements.nether.obtain_blaze_rod.title"
+      "advancements.nether.obtain_blaze_rod.title"
     },
     "description": {
-      "translate": "advancements.nether.obtain_blaze_rod.description"
+      "advancements.nether.obtain_blaze_rod.description"
     },
     "frame": "task",
     "show_toast": true,

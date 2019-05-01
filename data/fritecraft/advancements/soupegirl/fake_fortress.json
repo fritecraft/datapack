@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:red_nether_bricks"
         },
-        "title": {"translate":"Fake fortress"},
-        "description": {"translate":"Craft or collect all forms of nether brick, red nether brick, and nether wart blocks"}
+        "title": "Fake fortress",
+        "description": "Craft or collect all forms of nether brick, red nether brick, and nether wart blocks"}
     },
     "parent": "fritecraft:soupegirl/fake_stronghold",
     "rewards": {

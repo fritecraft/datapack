@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:quartz"
         },
-        "title": {"translate":"Quirky Quartz"},
-        "description": {"translate":"Mine Nether Quartz from the Nether"}
+        "title": "Quirky Quartz",
+        "description": "Mine Nether Quartz from the Nether"}
     },
     "parent": "fritecraft:soupegirl/repeating_repeater",
     "rewards": {

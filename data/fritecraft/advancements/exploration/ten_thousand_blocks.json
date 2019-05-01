@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_boots"
         },
-        "title": {"translate":"Ten Thousand Blocks"},
-        "description": {"translate":"A journey that long begins with a single step"},
+        "title": "Ten Thousand Blocks",
+        "description": "A journey that long begins with a single step",
         "frame": "challenge"
     },
     "parent": "fritecraft:exploration/kilometre_walk",

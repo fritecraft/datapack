@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_brick_stairs"
         },
-        "title": {"translate":"Ah, My Old Enemy..."},
-        "description": {"translate":"Craft every type of stairs"},
+        "title": "Ah, My Old Enemy...",
+        "description": "Craft every type of stairs",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/slabs_for_days",

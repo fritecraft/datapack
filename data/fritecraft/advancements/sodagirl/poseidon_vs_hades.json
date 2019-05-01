@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fire_charge"
         },
-        "title": {"translate":"Poseidon vs. Hades"},
-        "description": {"translate":"Hunt all types of nether creatures with your trident"},
+        "title": "Poseidon vs. Hades",
+        "description": "Hunt all types of nether creatures with your trident",
         "frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/underwater_duel",

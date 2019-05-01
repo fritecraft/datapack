@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:blaze_powder"
         },
-        "title": {"translate":"Fiery"},
-        "description": {"translate":"Obtain every fire related enchantment"},
+        "title": "Fiery",
+        "description": "Obtain every fire related enchantment",
 		"frame": "goal"
     },
     "parent": "fritecraft:soupegirl/scuba_gear",

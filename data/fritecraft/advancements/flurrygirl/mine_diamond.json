@@ -5,10 +5,10 @@
       "item": "minecraft:diamond"
     },
     "title": {
-      "translate": "advancements.story.mine_diamond.title"
+      "advancements.story.mine_diamond.title"
     },
     "description": {
-      "translate": "advancements.story.mine_diamond.description"
+      "advancements.story.mine_diamond.description"
     },
     "frame": "task",
     "show_toast": true,

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:allium"
         },
-        "title": {"translate":"Enchanted Forest"},
-        "description": {"translate":"Find a flower forest"}
+        "title": "Enchanted Forest",
+        "description": "Find a flower forest"}
     },
     "parent": "fritecraft:nuggetsgirl/theres_a_zombie_on_the_lawn",
     "rewards": {

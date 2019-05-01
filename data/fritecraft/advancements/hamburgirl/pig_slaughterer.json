@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:pig_spawn_egg"
         },
-        "title": {"translate":"Pig Slaughterer"},
-        "description": {"translate":"Collect a stack of raw porkchops"},
+        "title": "Pig Slaughterer",
+        "description": "Collect a stack of raw porkchops",
 		"frame": "goal"
     },
     "parent": "fritecraft:hamburgirl/when_pigs_used_to_fly",

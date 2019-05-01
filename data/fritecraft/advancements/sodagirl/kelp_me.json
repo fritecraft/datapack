@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:kelp"
         },
-        "title": {"translate":"Kelp me!"},
-        "description": {"translate":"Collect some kelp from an ocean"}
+        "title": "Kelp me!",
+        "description": "Collect some kelp from an ocean"}
     },
     "parent": "fritecraft:sodagirl/sugar_sugar",
     "rewards": {

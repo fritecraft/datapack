@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:powered_rail"
         },
-        "title": {"translate":"Electric Rails"},
-        "description": {"translate":"Making furnace minecarts completely useless"}
+        "title": "Electric Rails",
+        "description": "Making furnace minecarts completely useless"}
     },
     "parent": "fritecraft:hamburgirl/completely_useless_fuel_engine",
     "rewards": {

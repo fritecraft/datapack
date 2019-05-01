@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chiseled_sandstone"
         },
-        "title": {"translate":"Grave Robber"},
-        "description": {"translate":"Enter a pyramid in a desert"}
+        "title": "Grave Robber",
+        "description": "Enter a pyramid in a desert"}
     },
     "parent": "fritecraft:hamburgirl/kilometre_walk",
     "rewards": {

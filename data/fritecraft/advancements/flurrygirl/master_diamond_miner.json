@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_block"
         },
-        "title": {"translate":"Master Diamond Miner"},
-        "description": {"translate":"Mine enough diamond to make a stack of diamond blocks"},
+        "title": "Master Diamond Miner",
+        "description": "Mine enough diamond to make a stack of diamond blocks",
 		"frame": "challenge"
     },
     "parent": "fritecraft:flurrygirl/mineral_collection",

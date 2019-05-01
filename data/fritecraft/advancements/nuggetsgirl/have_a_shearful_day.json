@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shears"
         },
-        "title": {"translate":"Have a Shearful Day"},
-        "description": {"translate":"Use two iron ingots to craft shears"}
+        "title": "Have a Shearful Day",
+        "description": "Use two iron ingots to craft shears"}
     },
     "parent": "fritecraft:nuggetsgirl/mary_had_a_little_lamb",
     "rewards": {

@@ -5,10 +5,10 @@
       "item": "minecraft:nether_bricks"
     },
     "title": {
-      "translate": "advancements.nether.find_fortress.title"
+      "advancements.nether.find_fortress.title"
     },
     "description": {
-      "translate": "advancements.nether.find_fortress.description"
+      "advancements.nether.find_fortress.description"
     },
     "frame": "task",
     "show_toast": true,

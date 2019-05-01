@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:seagrass"
         },
-        "title": {"translate":"The sea calls you..."},
-        "description": {"translate":"Find an ocean"}
+        "title": "The sea calls you...",
+        "description": "Find an ocean"}
     },
     "parent": "fritecraft:sodagirl/just_keep_swimming",
     "rewards": {

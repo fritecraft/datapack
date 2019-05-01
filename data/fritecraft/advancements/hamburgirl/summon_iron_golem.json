@@ -5,10 +5,10 @@
       "item": "minecraft:carved_pumpkin"
     },
     "title": {
-      "translate": "advancements.adventure.summon_iron_golem.title"
+      "advancements.adventure.summon_iron_golem.title"
     },
     "description": {
-      "translate": "advancements.adventure.summon_iron_golem.description"
+      "advancements.adventure.summon_iron_golem.description"
     },
     "frame": "goal",
     "show_toast": true,

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:quartz_block"
         },
-        "title": {"translate":"Quartz Miner"},
-        "description": {"translate":"Mine enough nether quartz to craft a stack of quartz blocks"},
+        "title": "Quartz Miner",
+        "description": "Mine enough nether quartz to craft a stack of quartz blocks",
 		"frame": "goal"
     },
     "parent": "fritecraft:soupegirl/quirky_quartz",

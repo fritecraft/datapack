@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:sand"
         },
-        "title": {"translate":"Melting"},
-        "description": {"translate":"Bring a stray to a desert biome and then kill it"},
+        "title": "Melting",
+        "description": "Bring a stray to a desert biome and then kill it",
         "frame": "challenge"
     },
     "parent": "fritecraft:fritegirl/the_undead_cavalry",

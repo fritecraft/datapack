@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:redstone_block"
         },
-        "title": {"translate":"Master Engineer"},
-        "description": {"translate":"Craft a stack of all types of redstone component"},
+        "title": "Master Engineer",
+        "description": "Craft a stack of all types of redstone component",
 		"frame": "challenge"
     },
     "parent": "fritecraft:hamburgirl/engineer",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ghast_spawn_egg"
         },
-        "title": {"translate":"Ghast Slayer"},
-        "description": {"translate":"Collect a stack of ghast tears"},
+        "title": "Ghast Slayer",
+        "description": "Collect a stack of ghast tears",
 		"frame": "goal"
     },
     "parent": "fritecraft:soupegirl/bring_down_the_beast",

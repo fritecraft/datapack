@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:conduit"
         },
-        "title": {"translate":"Power of the Ocean"},
-        "description": {"translate":"Construct a Conduit in the ocean"},
+        "title": "Power of the Ocean",
+        "description": "Construct a Conduit in the ocean",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/x_marks_the_spot",

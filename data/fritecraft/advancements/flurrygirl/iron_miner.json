@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_ore"
         },
-        "title": {"translate":"Iron Miner"},
-        "description": {"translate":"Mine a stack of iron ore"},
+        "title": "Iron Miner",
+        "description": "Mine a stack of iron ore",
 		"frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/iron_man",

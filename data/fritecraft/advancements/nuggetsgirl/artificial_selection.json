@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:apple"
         },
-        "title": {"translate":"Artificial Selection"},
-        "description": {"translate":"Breed a horse and a donkey to get a mule"}
+        "title": "Artificial Selection",
+        "description": "Breed a horse and a donkey to get a mule"}
     },
     "parent": "fritecraft:nuggetsgirl/are_we_there_yet",
     "rewards": {

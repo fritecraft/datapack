@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:note_block"
         },
-        "title": {"translate":"Mozart"},
-        "description": {"translate":"Craft a note block"}
+        "title": "Mozart",
+        "description": "Craft a note block"}
     },
     "parent": "fritecraft:hamburgirl/root",
     "rewards": {

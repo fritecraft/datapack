@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_boots"
         },
-        "title": {"translate":"Like a Cat"},
-        "description": {"translate":"Obtain boots enchanted with Feather Falling"},
+        "title": "Like a Cat",
+        "description": "Obtain boots enchanted with Feather Falling",
 		"frame": "goal"
     },
     "parent": "fritecraft:nuggetsgirl/root",

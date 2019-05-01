@@ -5,10 +5,10 @@
       "item": "minecraft:enchanted_book"
     },
     "title": {
-      "translate": "advancements.story.enchant_item.title"
+      "advancements.story.enchant_item.title"
     },
     "description": {
-      "translate": "advancements.story.enchant_item.description"
+      "advancements.story.enchant_item.description"
     },
     "frame": "task",
     "show_toast": true,

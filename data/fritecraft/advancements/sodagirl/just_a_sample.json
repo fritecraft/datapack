@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fire_coral_fan"
         },
-        "title": {"translate":"Just a sample"},
-        "description": {"translate":"Collect some coral from a coral reef"}
+        "title": "Just a sample",
+        "description": "Collect some coral from a coral reef"}
     },
     "parent": "fritecraft:sodagirl/in_a_pickle",
     "rewards": {

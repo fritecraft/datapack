@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:porkchop"
         },
-        "title": {"translate":"Bacon!"},
-        "description": {"translate":"Gotta kill this pig pig pig pig"}
+        "title": "Bacon!",
+        "description": "Gotta kill this pig pig pig pig"}
     },
     "parent": "fritecraft:hamburgirl/root",
     "rewards": {

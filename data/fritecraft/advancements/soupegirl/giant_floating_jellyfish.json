@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:gunpowder"
         },
-        "title": {"translate":"Giant Floating Jellyfish"},
-        "description": {"translate":"Shoot down a ghast"}
+        "title": "Giant Floating Jellyfish",
+        "description": "Shoot down a ghast"}
     },
     "parent": "fritecraft:soupegirl/root",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snow_block"
         },
-        "title": {"translate":"Freezing"},
-        "description": {"translate":"Bring a husk to a tundra biome and then kill it"},
+        "title": "Freezing",
+        "description": "Bring a husk to a tundra biome and then kill it",
         "frame": "challenge"
     },
     "parent": "fritecraft:fritegirl/zombie_slayer",

@@ -4,8 +4,8 @@
             "item": "minecraft:splash_potion",
 			"nbt": "{Potion:\"minecraft:poison\"}"
         },
-        "title": {"translate":"Taste of your own medicine"},
-        "description": {"translate":"Kill a witch with a splash potion"},
+        "title": "Taste of your own medicine",
+        "description": "Kill a witch with a splash potion",
 		"frame": "challenge"
     },
     "parent": "fritecraft:fritegirl/witch",

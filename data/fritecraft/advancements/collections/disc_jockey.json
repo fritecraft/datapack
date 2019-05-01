@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:music_disc_chirp"
         },
-        "title": {"translate":"Disc Jockey"},
-        "description": {"translate":"Collect all 12 music discs"},
+        "title": "Disc Jockey",
+        "description": "Collect all 12 music discs",
         "frame": "challenge"
     },
     "parent": "fritecraft:collection/music_to_my_ears",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:magma_cube_spawn_egg"
         },
-        "title": {"translate":"Magma Cube Squisher"},
-        "description": {"translate":"Collect a stack of magma cream"},
+        "title": "Magma Cube Squisher",
+        "description": "Collect a stack of magma cream",
 		"frame": "goal"
     },
     "parent": "fritecraft:soupegirl/high_temperature_fluid_monster",

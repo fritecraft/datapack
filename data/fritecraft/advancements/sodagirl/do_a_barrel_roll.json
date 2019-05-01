@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": {"translate":"Do A Barrel Roll!"},
-        "description": {"translate":"Get Riptide on a trident so you can shoot yourself through the water"},
+        "title": "Do A Barrel Roll!",
+        "description": "Get Riptide on a trident so you can shoot yourself through the water",
 		"frame": "goal"
     },
     "parent": "fritecraft:sodagirl/boomerang",

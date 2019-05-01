@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bedrock"
         },
-        "title": {"translate":"Rock Bottom"},
-        "description": {"translate":"Dig down to the bottom of the world"},
+        "title": "Rock Bottom",
+        "description": "Dig down to the bottom of the world",
         "frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/iron_tools",

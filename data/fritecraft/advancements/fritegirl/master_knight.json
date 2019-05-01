@@ -4,8 +4,8 @@
             "item": "minecraft:diamond_sword",
 			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
         },
-        "title": {"translate":"Master Knight"},
-        "description": {"translate":"Create a sword with all possible enchantments at max level"},
+        "title": "Master Knight",
+        "description": "Create a sword with all possible enchantments at max level",
 		"frame": "challenge"
     },
     "parent": "fritecraft:fritegirl/unbreakable",

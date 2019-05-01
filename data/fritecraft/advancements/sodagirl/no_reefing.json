@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:dead_brain_coral_block"
         },
-        "title": {"translate":"No Reefing!"},
-        "description": {"translate":"Collect all colors of coral blocks, plants and fans (including dead ones)"},
+        "title": "No Reefing!",
+        "description": "Collect all colors of coral blocks, plants and fans (including dead ones)",
 		"frame": "challenge"
     },
     "parent": "fritecraft:sodagirl/just_a_sample",

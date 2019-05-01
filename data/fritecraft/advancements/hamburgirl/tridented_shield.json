@@ -4,8 +4,8 @@
             "item": "minecraft:shield",
 			"nbt": "{BlockEntityTag:{Base:9,Patterns:[{Pattern:ms,Color:3},{Pattern:cs,Color:9},{Pattern:tts,Color:13},{Pattern:bs,Color:3},{Pattern:bts,Color:12}]}}"
         },
-        "title": {"translate":"Tridented Shield"},
-        "description": {"translate":"Block a trident thrown by a Drowned"}
+        "title": "Tridented Shield",
+        "description": "Block a trident thrown by a Drowned"}
     },
     "parent": "fritecraft:hamburgirl/a_watery_grave",
     "rewards": {

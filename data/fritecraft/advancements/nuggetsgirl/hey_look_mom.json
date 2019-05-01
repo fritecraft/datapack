@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:turtle_egg"
         },
-        "title": {"translate":"Hey, look, Mom!"},
-        "description": {"translate":"Use sea grass to make a turtle lay some eggs"}
+        "title": "Hey, look, Mom!",
+        "description": "Use sea grass to make a turtle lay some eggs"}
     },
     "parent": "fritecraft:nuggetsgirl/poacher",
     "rewards": {

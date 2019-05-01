@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:oak_boat"
         },
-        "title": {"translate":"Boaty McBoatface"},
-        "description": {"translate":"Craft a boat for sailing on the high seas"}
+        "title": "Boaty McBoatface",
+        "description": "Craft a boat for sailing on the high seas"}
     },
     "parent": "fritecraft:sodagirl/the_sea_calls_you",
     "rewards": {

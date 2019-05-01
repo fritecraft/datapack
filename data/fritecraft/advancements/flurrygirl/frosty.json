@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": {"translate":"Frosty"},
-        "description": {"translate":"Kill a stray"}
+        "title": "Frosty",
+        "description": "Kill a stray"}
     },
     "parent": "fritecraft:flurrygirl/deflect_arrow",
     "rewards": {
