@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:totem_of_undying"
     },
-    "title": {
-      "translate": "advancements.adventure.totem_of_undying.title"
-    },
-    "description": {
-      "translate": "advancements.adventure.totem_of_undying.description"
-    },
+    "title": "Aux frontières de la mort",
+    "description": "Utilisez un totem d'immortalité pour tromper la mort.",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "used_totem": {
       "trigger": "minecraft:used_totem",

@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:soul_sand"
-        },
-        "title": {"translate":"Quicksand"},
-        "description": {"translate":"You sink like quicksand and move slow like mud"}
+  "display": {
+    "icon": {
+      "item": "minecraft:soul_sand"
     },
-    "parent": "fritecraft:aventure/root",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "soul_sand": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:soul_sand"
-            }
-        }
+    "title": "Sables mouvants",
+    "description": "Marcher dans du sable éxotique"
+  },
+  "parent": "fritecraft:aventure/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "soul_sand": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:soul_sand"
+      }
     }
+  }
 }

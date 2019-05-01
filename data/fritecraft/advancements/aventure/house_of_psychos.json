@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:dark_oak_door"
-        },
-        "title": {"translate":"House of Psychos"},
-        "description": {"translate":"Find a Woodland Mansion"}
+  "display": {
+    "icon": {
+      "item": "minecraft:dark_oak_door"
     },
-    "parent": "fritecraft:aventure/treasure_map",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "mansion": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mansion"
-            }
-        }
+    "title": "La maison des fous",
+    "description": "Trouvez un manoir d'hérétiques"
+  },
+  "parent": "fritecraft:aventure/treasure_map",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "mansion": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mansion"
+      }
     }
+  }
 }

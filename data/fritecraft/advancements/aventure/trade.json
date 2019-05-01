@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:emerald"
     },
-    "title": {
-      "translate": "advancements.adventure.trade.title"
-    },
-    "description": {
-      "translate": "advancements.adventure.trade.description"
-    },
+    "title": "Adjugé, vendu !",
+    "description": "Commercez avec un villageois.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "traded": {
       "trigger": "minecraft:villager_trade",

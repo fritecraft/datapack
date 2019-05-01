@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:bookshelf"
-        },
-        "title": {"translate":"Librarian"},
-        "description": {"translate":"Build some bookshelves for your enchanting table"}
+  "display": {
+    "icon": {
+      "item": "minecraft:bookshelf"
     },
-    "parent": "fritecraft:aventure/root",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "bookshelf": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:bookshelf"
-                    }
-                ]
-            }
-        }
+    "title": "Libraire",
+    "description": "Construisez une bibliothèque."
+  },
+  "parent": "fritecraft:aventure/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "bookshelf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bookshelf"
+          }
+        ]
+      }
     }
+  }
 }

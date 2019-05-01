@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:oak_planks"
-        },
-        "title": {"translate":"Do You Want to Trade?"},
-        "description": {"translate":"Find an NPC village"}
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_planks"
     },
-    "parent": "fritecraft:aventure/root",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "village": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Village"
-            }
-        }
+    "title": "Le Village",
+    "description": "Trouvez un village"
+  },
+  "parent": "fritecraft:aventure/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "village": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Village"
+      }
     }
+  }
 }

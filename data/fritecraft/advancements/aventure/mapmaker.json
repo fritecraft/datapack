@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:map"
-        },
-        "title": {"translate":"Mapmaker"},
-        "description": {"translate":"Craft or trade an empty map"}
+  "display": {
+    "icon": {
+      "item": "minecraft:map"
     },
-    "parent": "fritecraft:aventure/magic_book",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "map": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:map"
-                    }
-                ]
-            }
-        }
+    "title": "Cartographe",
+    "description": "Obtenez une carte."
+  },
+  "parent": "fritecraft:aventure/magic_book",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "map": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:map"
+          }
+        ]
+      }
     }
+  }
 }
