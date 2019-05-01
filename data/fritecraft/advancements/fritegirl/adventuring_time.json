@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:diamond_boots"
     },
-    "title": {
-      "advancements.adventure.adventuring_time.title"
-    },
-    "description": {
-      "advancements.adventure.adventuring_time.description"
-    },
+    "title": "Partons à l'aventure !",
+    "description": "Découvrez tous les biomes.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "minecraft:birch_forest_hills": {
       "trigger": "minecraft:location",

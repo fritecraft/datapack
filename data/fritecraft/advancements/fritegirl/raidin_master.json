@@ -1,0 +1,104 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:structure_block"
+    },
+    "title": "Pillard",
+    "description": "Explorez toutes les structures.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:exploration/secret_of_the_igloo",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "igloo": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Igloo"
+      }
+    },
+    "desert_pyramid": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Desert_Pyramid"
+      }
+    },
+    "jungle_pyramid": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Jungle_Pyramid"
+      }
+    },
+    "swamp_hut": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Swamp_Hut"
+      }
+    },
+    "village": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Village"
+      }
+    },
+    "mineshaft": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft"
+      }
+    },
+    "stronghold": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Stronghold"
+      }
+    },
+    "fortress": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Fortress"
+      }
+    },
+    "end_city": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "EndCity"
+      }
+    },
+    "monument": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Monument"
+      }
+    },
+    "mansion": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mansion"
+      }
+    },
+    "ocean_ruin": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Ocean_Ruin"
+      }
+    },
+    "shipwreck": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Shipwreck"
+      }
+    },
+    "buried_treasure": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:heart_of_the_sea"
+          }
+        ]
+      }
+    }
+  }
+}

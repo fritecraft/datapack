@@ -3,14 +3,14 @@
         "icon": {
             "item": "minecraft:acacia_log"
         },
-        "title": "Travelling Merchant",
-        "description": "Travel to every type of village",
+        "title": "Marchand ambulant",
+        "description": "Découvrez chaque type de village",
 		"frame": "goal"
     },
     "parent": "fritecraft:exploration/trade",
     "rewards": {
         "experience": 100
-    },		
+    },
     "criteria": {
         "plains": {
             "trigger": "minecraft:location",
