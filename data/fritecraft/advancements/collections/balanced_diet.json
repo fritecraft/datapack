@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:apple"
     },
-    "title": {
-      "advancements.husbandry.balanced_diet.title"
-    },
-    "description": {
-      "advancements.husbandry.balanced_diet.description"
-    },
+    "title": "Une alimentation équilibrée",
+    "description": "Mangez tout ce qui est comestible, même si ce n'est pas bon pour vous.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "apple": {
       "trigger": "minecraft:consume_item",
