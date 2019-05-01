@@ -3,13 +3,13 @@
         "icon": {
             "item": "minecraft:cake"
         },
-        "title": "The Lie",
-        "description": "Wheat, sugar, milk and eggs!"}
+        "title": "Mensonges",
+        "description": "Du blé, du sucre, du lait et des oeufs !"
     },
     "parent": "fritecraft:flurrygirl/bake_bread",
     "rewards": {
         "experience": 100
-    },	
+    },
     "criteria": {
         "cake": {
             "trigger": "minecraft:inventory_changed",

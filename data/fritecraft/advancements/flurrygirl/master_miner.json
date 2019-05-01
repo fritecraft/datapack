@@ -1,79 +1,79 @@
 {
-    "display": {
-        "icon": {
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_pickaxe",
+      "nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
+    },
+    "title": "La meilleure pioche",
+    "description": "Créez une pioche avec les meilleurs enchantements.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:flurrygirl/unbreakable",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "perfect_pickaxe_fortune": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
             "item": "minecraft:diamond_pickaxe",
-			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
-        },
-        "title": "Master Miner",
-        "description": "Create a pickaxe with all possible enchantments at max level",
-		"frame": "challenge"
-    },
-    "parent": "fritecraft:flurrygirl/unbreakable",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "perfect_pickaxe_fortune": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-                    {
-                        "item": "minecraft:diamond_pickaxe",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:efficiency",
-								"levels": 5
-							},
-							{
-								"enchantment": "minecraft:fortune",
-								"levels": 3
-							},
-							{
-								"enchantment": "minecraft:unbreaking",
-								"levels": 3
-							},
-							{
-								"enchantment": "minecraft:mending",
-								"levels": 1
-							}
-						]
-                    }
-                ]
-            }
-        },
-        "perfect_pickaxe_silk_touch": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-                    {
-                        "item": "minecraft:diamond_pickaxe",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:efficiency",
-								"levels": 5
-							},
-							{
-								"enchantment": "minecraft:silk_touch",
-								"levels": 1
-							},
-							{
-								"enchantment": "minecraft:unbreaking",
-								"levels": 3
-							},
-							{
-								"enchantment": "minecraft:mending",
-								"levels": 1
-							}
-						]
-                    }
-                ]
-            }
-        }
-    },
-    "requirements": [
-        [
-            "perfect_pickaxe_fortune",
-            "perfect_pickaxe_silk_touch"
+            "enchantments": [
+              {
+                "enchantment": "minecraft:efficiency",
+                "levels": 5
+              },
+              {
+                "enchantment": "minecraft:fortune",
+                "levels": 3
+              },
+              {
+                "enchantment": "minecraft:unbreaking",
+                "levels": 3
+              },
+              {
+                "enchantment": "minecraft:mending",
+                "levels": 1
+              }
+            ]
+          }
         ]
+      }
+    },
+    "perfect_pickaxe_silk_touch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_pickaxe",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:efficiency",
+                "levels": 5
+              },
+              {
+                "enchantment": "minecraft:silk_touch",
+                "levels": 1
+              },
+              {
+                "enchantment": "minecraft:unbreaking",
+                "levels": 3
+              },
+              {
+                "enchantment": "minecraft:mending",
+                "levels": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "perfect_pickaxe_fortune",
+      "perfect_pickaxe_silk_touch"
     ]
+  ]
 }

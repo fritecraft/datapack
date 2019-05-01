@@ -3,13 +3,13 @@
         "icon": {
             "item": "minecraft:oak_fence"
         },
-        "title": "This is Mine Now!",
-        "description": "Find an abandoned mineshaft that was not dug out by you"}
+        "title": "Optimisation",
+        "description": "Trouvez une mine abandonnée."
     },
     "parent": "fritecraft:flurrygirl/spelunker",
     "rewards": {
         "experience": 100
-    },	
+    },
     "criteria": {
         "mineshaft": {
             "trigger": "minecraft:location",

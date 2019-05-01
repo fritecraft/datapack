@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_ore"
-        },
-        "title": "Iron Miner",
-        "description": "Mine a stack of iron ore",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_ore"
     },
-    "parent": "fritecraft:flurrygirl/iron_man",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "iron": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:iron_ore",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de fer",
+    "description": "Miner un stack de minerai de fer",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:flurrygirl/iron_man",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:iron_ore",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

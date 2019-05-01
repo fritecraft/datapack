@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:bedrock"
-        },
-        "title": "Rock Bottom",
-        "description": "Dig down to the bottom of the world",
-        "frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:bedrock"
     },
-    "parent": "fritecraft:flurrygirl/iron_tools",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "bedrock_level": {
-            "trigger": "minecraft:location",
-            "conditions": {
-				"position": {
-					"y": {
-						"max": 5.5
-					}
-				}
-            }
+    "title": "Bedrock",
+    "description": "Creusez jusqu'à atteindre le point le plus bas du monde",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:flurrygirl/iron_tools",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "bedrock_level": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "position": {
+          "y": {
+            "max": 5.5
+          }
         }
+      }
     }
+  }
 }

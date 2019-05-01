@@ -1,97 +1,97 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:gold_ore"
-        },
-        "title": "Gold Mine!",
-        "description": "Find a mineshaft on the surface of a mesa biome"}
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_ore"
     },
-    "parent": "fritecraft:flurrygirl/eeuuwww",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "mesa": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mineshaft",
-                "biome": "minecraft:badlands",
-				"position": {
-					"y": {
-						"min": 64.0
-					}
-				}
-            }
-        },
-        "mesa_clear_rock": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mineshaft",
-                "biome": "minecraft:badlands_plateau",
-				"position": {
-					"y": {
-						"min": 64.0
-					}
-				}
-            }
-        },
-        "mesa_rock": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mineshaft",
-                "biome": "minecraft:wooded_badlands_plateau",
-				"position": {
-					"y": {
-						"min": 64.0
-					}
-				}
-            }
-        },
-        "mutated_mesa": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mineshaft",
-                "biome": "minecraft:eroded_badlands",
-				"position": {
-					"y": {
-						"min": 64.0
-					}
-				}
-            }
-        },
-        "mutated_mesa_clear_rock": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mineshaft",
-                "biome": "minecraft:modified_badlands_plateau",
-				"position": {
-					"y": {
-						"min": 64.0
-					}
-				}
-            }
-        },
-        "mutated_mesa_rock": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mineshaft",
-                "biome": "minecraft:modified_wooded_badlands_plateau",
-				"position": {
-					"y": {
-						"min": 64.0
-					}
-				}
-            }
+    "title": "Mine d'or !",
+    "description": "Trouvez une mine en surface dans un biome Mesa"
+  },
+  "parent": "fritecraft:flurrygirl/eeuuwww",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "mesa": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft",
+        "biome": "minecraft:badlands",
+        "position": {
+          "y": {
+            "min": 64
+          }
         }
+      }
     },
-    "requirements": [
-		[
-        "mesa",
-        "mesa_clear_rock",
-		"mesa_rock",
-		"mutated_mesa",
-		"mutated_mesa_clear_rock",
-		"mutated_mesa_rock"
-		]
+    "mesa_clear_rock": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft",
+        "biome": "minecraft:badlands_plateau",
+        "position": {
+          "y": {
+            "min": 64
+          }
+        }
+      }
+    },
+    "mesa_rock": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft",
+        "biome": "minecraft:wooded_badlands_plateau",
+        "position": {
+          "y": {
+            "min": 64
+          }
+        }
+      }
+    },
+    "mutated_mesa": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft",
+        "biome": "minecraft:eroded_badlands",
+        "position": {
+          "y": {
+            "min": 64
+          }
+        }
+      }
+    },
+    "mutated_mesa_clear_rock": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft",
+        "biome": "minecraft:modified_badlands_plateau",
+        "position": {
+          "y": {
+            "min": 64
+          }
+        }
+      }
+    },
+    "mutated_mesa_rock": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft",
+        "biome": "minecraft:modified_wooded_badlands_plateau",
+        "position": {
+          "y": {
+            "min": 64
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "mesa",
+      "mesa_clear_rock",
+      "mesa_rock",
+      "mutated_mesa",
+      "mutated_mesa_clear_rock",
+      "mutated_mesa_rock"
     ]
+  ]
 }

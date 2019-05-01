@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cobweb"
-        },
-        "title": "Eeuuwww!",
-        "description": "Get stuck in a cobweb"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cobweb"
     },
-    "parent": "fritecraft:flurrygirl/this_is_mine_now",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "cobweb": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:cobweb"
-            }
-        }
+    "title": "Berk !",
+    "description": "Emmêlez-vous dans une toile d'araignée."
+  },
+  "parent": "fritecraft:flurrygirl/this_is_mine_now",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cobweb": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:cobweb"
+      }
     }
+  }
 }

@@ -3,14 +3,14 @@
         "icon": {
             "item": "minecraft:diamond_block"
         },
-        "title": "Master Diamond Miner",
-        "description": "Mine enough diamond to make a stack of diamond blocks",
+        "title": "Mineur de diamants pro",
+        "description": "Fabriquez un stack de blocs de diamants.",
 		"frame": "challenge"
     },
     "parent": "fritecraft:flurrygirl/mineral_collection",
     "rewards": {
         "experience": 100
-    },			
+    },
     "criteria": {
         "diamond": {
             "trigger": "minecraft:inventory_changed",

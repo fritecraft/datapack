@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_ore"
-        },
-        "title": "Pick Like Silk",
-        "description": "Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_ore"
     },
-    "parent": "fritecraft:flurrygirl/fortunate_son",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "silk_touch": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_ore"
-                    }
-                ]
-            }
-        }
+    "title": "Route de la soie",
+    "description": "Utilisez l'enchantement Silk Touch pour récupérer du minerai de diamant.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:flurrygirl/fortunate_son",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "silk_touch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_ore"
+          }
+        ]
+      }
     }
+  }
 }

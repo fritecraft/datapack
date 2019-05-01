@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:packed_ice"
-        },
-        "title": "Spike Ice!",
-        "description": "Break down an ice spike using a silk touch pickaxe"}
+  "display": {
+    "icon": {
+      "item": "minecraft:packed_ice"
     },
-    "parent": "fritecraft:flurrygirl/thin_ice",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "packed_ice": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:packed_ice"
-                    }
-                ]
-            }
-        }
+    "title": "Glace éternelle",
+    "description": "Break down an ice spike using a silk touch pickaxe"
+  },
+  "parent": "fritecraft:flurrygirl/thin_ice",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "packed_ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:packed_ice"
+          }
+        ]
+      }
     }
+  }
 }

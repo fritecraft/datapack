@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:coal_block"
-        },
-        "title": "Master Coal Miner",
-        "description": "Mine enough coal to make a stack of coal blocks",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:coal_block"
     },
-    "parent": "fritecraft:flurrygirl/coal_miner",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "coal": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:coal_block",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de charbon pro",
+    "description": "Fabriquez un stack de blocs de charbon.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:flurrygirl/coal_miner",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "coal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:coal_block",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

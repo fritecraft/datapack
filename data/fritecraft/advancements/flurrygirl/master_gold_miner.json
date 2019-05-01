@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:gold_block"
-        },
-        "title": "Master Gold Miner",
-        "description": "Mine enough gold to make a stack of gold blocks",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_block"
     },
-    "parent": "fritecraft:flurrygirl/gold_miner",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "gold": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:gold_block",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur d'or pro",
+    "description": "Fabriquez un stack de blocs de charbon.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:flurrygirl/gold_miner",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "gold": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gold_block",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

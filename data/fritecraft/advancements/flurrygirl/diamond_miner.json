@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_block"
-        },
-        "title": "Diamond Miner",
-        "description": "Mine a stack of diamonds. Good luck!",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_block"
     },
-    "parent": "fritecraft:flurrygirl/diamond_clad",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "diamond": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de diamants",
+    "description": "Miner un stack de diamants.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:flurrygirl/diamond_clad",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

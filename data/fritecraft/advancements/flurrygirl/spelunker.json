@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:chainmail_helmet"
-        },
-        "title": "Spelunker",
-        "description": "Enter a cave"}
+  "display": {
+    "icon": {
+      "item": "minecraft:chainmail_helmet"
     },
-    "parent": "fritecraft:flurrygirl/mine_stone",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "enter_water": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:cave_air"
-            }
-        }
+    "title": "Spéléologue",
+    "description": "Trouvez une caverne"
+  },
+  "parent": "fritecraft:flurrygirl/mine_stone",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "enter_water": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:cave_air"
+      }
     }
+  }
 }

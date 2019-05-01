@@ -1,55 +1,55 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_shovel"
-        },
-        "title": "Even MOAR Tools",
-        "description": "Craft a full diamond tools set"}
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_shovel"
     },
-    "parent": "fritecraft:flurrygirl/stabcraft",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "diamond_pickaxe": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_pickaxe"
-                    }
-                ]
-            }
-        },
-        "diamond_axe": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_axe"
-                    }
-                ]
-            }
-        },
-        "diamond_shovel": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_shovel"
-                    }
-                ]
-            }
-        },
-        "diamond_hoe": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_hoe"
-                    }
-                ]
-            }
-        }
+    "title": "PLUS d'outils !",
+    "description": "Fabriquez un set complet d'outils en diamant."
+  },
+  "parent": "fritecraft:flurrygirl/stabcraft",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "diamond_pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_pickaxe"
+          }
+        ]
+      }
+    },
+    "diamond_axe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_axe"
+          }
+        ]
+      }
+    },
+    "diamond_shovel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_shovel"
+          }
+        ]
+      }
+    },
+    "diamond_hoe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_hoe"
+          }
+        ]
+      }
     }
+  }
 }

@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:diamond"
     },
-    "title": {
-      "advancements.story.mine_diamond.title"
-    },
-    "description": {
-      "advancements.story.mine_diamond.description"
-    },
+    "title": "Des diamants !",
+    "description": "Obtenez des diamants.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "diamond": {
       "trigger": "minecraft:inventory_changed",

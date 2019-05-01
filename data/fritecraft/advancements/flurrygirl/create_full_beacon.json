@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:beacon"
     },
-    "title": {
-      "advancements.nether.create_full_beacon.title"
-    },
-    "description": {
-      "advancements.nether.create_full_beacon.description"
-    },
+    "title": "Phare à On",
+    "description": "Créez une balise complète.",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "beacon": {
       "trigger": "minecraft:construct_beacon",

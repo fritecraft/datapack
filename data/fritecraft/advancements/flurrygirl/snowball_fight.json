@@ -3,13 +3,13 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": "Snowball Fight",
-        "description": "The spirit of Christmas... quickly drowned out by a battle"}
+        "title": "Bataille de boule de neige",
+        "description": "Inéfficace, mais amusant."
     },
     "parent": "fritecraft:flurrygirl/root",
     "rewards": {
         "experience": 100
-    },	
+    },
     "criteria": {
         "snowball": {
             "trigger": "minecraft:player_hurt_entity",

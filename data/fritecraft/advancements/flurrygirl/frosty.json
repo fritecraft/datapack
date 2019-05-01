@@ -3,13 +3,13 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": "Frosty",
-        "description": "Kill a stray"}
+        "title": "Les os glacés",
+        "description": "Tuez un Vagabond"
     },
     "parent": "fritecraft:flurrygirl/deflect_arrow",
     "rewards": {
         "experience": 100
-    },		
+    },
     "criteria": {
         "stray": {
             "trigger": "minecraft:player_killed_entity",

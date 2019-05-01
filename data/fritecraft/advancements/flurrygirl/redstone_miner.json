@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:redstone_block"
-        },
-        "title": "Redstone Miner",
-        "description": "Mine enough redstone to craft a stack of redstone blocks",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone_block"
     },
-    "parent": "fritecraft:flurrygirl/whats_the_time_mr_wolf",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "redstone_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:redstone_block",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de redstone",
+    "description": "Fabriquez un stack de blocs de redstone.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:flurrygirl/whats_the_time_mr_wolf",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "redstone_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:redstone_block",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

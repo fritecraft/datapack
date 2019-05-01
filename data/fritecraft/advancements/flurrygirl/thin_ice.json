@@ -3,13 +3,13 @@
         "icon": {
             "item": "minecraft:ice"
         },
-        "title": "Thin Ice!",
-        "description": "Use a silk touch pickaxe to pick up some ice blocks"}
+        "title": "Attention ça glisse !",
+        "description": "Obtenez de la glace normale."
     },
     "parent": "fritecraft:flurrygirl/boaty_mcboatface",
     "rewards": {
         "experience": 100
-    },	
+    },
     "criteria": {
         "ice": {
             "trigger": "minecraft:inventory_changed",

@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:gold_ore"
-        },
-        "title": "Gold Miner",
-        "description": "Mine a stack of gold ore",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_ore"
     },
-    "parent": "fritecraft:flurrygirl/gold_rush",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "gold": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:gold_ore",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur d'or",
+    "description": "Miner un stack de minerai d'or",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:flurrygirl/gold_rush",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "gold": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gold_ore",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

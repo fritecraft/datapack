@@ -1,22 +1,22 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:stick"
-        },
-        "title": "Aww it broke!",
-        "description": "Break your first tool",
-		"hidden": "true"
+  "display": {
+    "icon": {
+      "item": "minecraft:stick"
     },
-    "parent": "fritecraft:flurrygirl/mine_stone",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "break_tool": {
-            "trigger": "minecraft:item_durability_changed",
-            "conditions": {
-				"durability": 0
-            }
-        }
+    "title": "Tatoukassé !",
+    "description": "Cassez votre premier outil.",
+    "hidden": "true"
+  },
+  "parent": "fritecraft:flurrygirl/mine_stone",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "break_tool": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "durability": 0
+      }
     }
+  }
 }

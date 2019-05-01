@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:blue_ice"
-        },
-        "title": "Thick Ice!",
-        "description": "Craft or mine a blue ice block from an iceberg"}
+  "display": {
+    "icon": {
+      "item": "minecraft:blue_ice"
     },
-    "parent": "fritecraft:flurrygirl/spike_ice",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "blue_ice": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:blue_ice"
-                    }
-                ]
-            }
-        }
+    "title": "Glace Divine",
+    "description": "Obtenez de la glace sacrée."
+  },
+  "parent": "fritecraft:flurrygirl/spike_ice",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "blue_ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blue_ice"
+          }
+        ]
+      }
     }
+  }
 }

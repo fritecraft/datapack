@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_block"
-        },
-        "title": "Master Iron Miner",
-        "description": "Mine enough iron to make a stack of iron blocks",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_block"
     },
-    "parent": "fritecraft:flurrygirl/iron_miner",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "iron": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:iron_block",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de fer pro",
+    "description": "Fabriquez un stack de blocs de charbon.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:flurrygirl/iron_miner",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:iron_block",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

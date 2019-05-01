@@ -3,14 +3,14 @@
         "icon": {
             "item": "minecraft:snowball"
         },
-        "title": "Snow Feet",
-        "description": "Discover every snowy biome",
+        "title": "Polaire",
+        "description": "Explorez tous les biomes enneigés.",
         "frame": "goal"
     },
     "parent": "fritecraft:flurrygirl/warm_feet",
     "rewards": {
         "experience": 100
-    },	
+    },
     "criteria": {
         "taiga_cold": {
             "trigger": "minecraft:location",

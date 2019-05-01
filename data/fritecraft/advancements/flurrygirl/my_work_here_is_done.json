@@ -3,14 +3,14 @@
         "icon": {
             "item": "minecraft:gravel"
         },
-        "title": "My work here is done",
-        "description": "Get caught in a cave-in of gravel",
+        "title": "C'est pas grave",
+        "description": "Prennez-vous du gravier sur la tête.",
 		"hidden": "true"
     },
     "parent": "fritecraft:flurrygirl/spelunker",
     "rewards": {
         "experience": 100
-    },	
+    },
     "criteria": {
         "enter_gravel": {
             "trigger": "minecraft:enter_block",

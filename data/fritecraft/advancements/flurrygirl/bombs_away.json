@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:tnt"
-        },
-        "title": "Bombs Away!",
-        "description": "Use gunpowder and sand to craft TNT"}
+  "display": {
+    "icon": {
+      "item": "minecraft:tnt"
     },
-    "parent": "fritecraft:flurrygirl/blast_shield",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "tnt": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:tnt"
-                    }
-                ]
-            }
-        }
+    "title": "Explosifs",
+    "description": "Fabriquez du TNT."
+  },
+  "parent": "fritecraft:flurrygirl/blast_shield",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "tnt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:tnt"
+          }
+        ]
+      }
     }
+  }
 }

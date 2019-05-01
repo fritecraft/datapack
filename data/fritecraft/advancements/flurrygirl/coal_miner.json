@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:coal_block"
-        },
-        "title": "Coal Miner",
-        "description": "Mine a stack of coal",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:coal_block"
     },
-    "parent": "fritecraft:flurrygirl/fossil_fuel",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "coal": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:coal",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de charbon",
+    "description": "Minez un stack de charbon.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:flurrygirl/fossil_fuel",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "coal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:coal",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

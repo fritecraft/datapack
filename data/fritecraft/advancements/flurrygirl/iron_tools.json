@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:iron_pickaxe"
     },
-    "title": {
-      "advancements.story.iron_tools.title"
-    },
-    "description": {
-      "advancements.story.iron_tools.description"
-    },
+    "title": "Bonne pioche !",
+    "description": "Fabriquez une pioche en fer.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "iron_pickaxe": {
       "trigger": "minecraft:inventory_changed",

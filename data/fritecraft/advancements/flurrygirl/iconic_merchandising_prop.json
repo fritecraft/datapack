@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_pickaxe"
-        },
-        "title": "Iconic Merchandising Prop",
-        "description": "Create a pickaxe of the highest calibre"}
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_pickaxe"
     },
-    "parent": "fritecraft:flurrygirl/mine_diamond",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "diamond_pickaxe": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_pickaxe"
-                    }
-                ]
-            }
-        }
+    "title": "Pioche en diamant",
+    "description": "Fabriquez une pioche en diamant"
+  },
+  "parent": "fritecraft:flurrygirl/mine_diamond",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "diamond_pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_pickaxe"
+          }
+        ]
+      }
     }
+  }
 }

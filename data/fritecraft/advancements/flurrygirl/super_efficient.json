@@ -1,31 +1,31 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_pickaxe"
-        },
-        "title": "Super Efficient",
-        "description": "Obtain Efficiency V",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_pickaxe"
     },
-    "parent": "fritecraft:flurrygirl/librarian",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "efficiency": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:efficiency",
-								"levels": 5
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Super éfficace",
+    "description": "Obtenez l'enchantement Efficacité V",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:flurrygirl/librarian",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "efficiency": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:efficiency",
+                "levels": 5
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }
