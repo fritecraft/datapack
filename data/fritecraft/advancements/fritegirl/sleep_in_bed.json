@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:fringirl/root",
+  "parent": "fritecraft:fritegirl/root",
   "display": {
     "icon": {
       "item": "minecraft:red_bed"
