@@ -8,7 +8,7 @@
     "description": "Créez une épée avec tous les enchantements au niveau maximum.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:fritegirl/unbreakable",
+  "parent": "fritecraft:fritegirl/librarian",
   "rewards": {
     "experience": 1
   },

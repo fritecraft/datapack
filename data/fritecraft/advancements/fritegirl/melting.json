@@ -7,7 +7,7 @@
     "description": "Emenez un vagabond dans un désert et tuez le.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:fritegirl/the_undead_cavalry",
+  "parent": "fritecraft:fritegirl/freezing",
   "rewards": {
     "experience": 1
   },

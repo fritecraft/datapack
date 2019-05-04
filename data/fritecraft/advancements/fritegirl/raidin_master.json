@@ -7,7 +7,7 @@
     "description": "Explorez toutes les structures.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:exploration/secret_of_the_igloo",
+  "parent": "fritecraft:exploration/mapmaker",
   "rewards": {
     "experience": 1
   },

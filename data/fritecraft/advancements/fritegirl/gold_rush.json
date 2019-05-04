@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_ingot"
+    },
+    "title": "Ruée vers l'or",
+    "description": "Trouvez de l'or et créez un lingot d'or"
+  },
+  "parent": "fritecraft:fritegirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "gold_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gold_ingot"
+          }
+        ]
+      }
+    }
+  }
+}

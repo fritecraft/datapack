@@ -6,7 +6,7 @@
     "title": "Ultra Hardcore",
     "description": "Fabriquez et mangez une pomme en or normale"
   },
-  "parent": "fritecraft:fritegirl/bapple",
+  "parent": "fritecraft:fritegirl/apple",
   "rewards": {
     "experience": 1
   },

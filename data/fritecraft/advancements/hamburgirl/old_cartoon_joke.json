@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:anvil"
+    },
+    "title": "Heavy Metal",
+    "description": "Fabriquez une enclume."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "anvil": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:anvil"
+          }
+        ]
+      }
+    }
+  }
+}

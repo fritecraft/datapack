@@ -6,7 +6,7 @@
     "title": "La patate",
     "description": "Mangez une pomme de terre."
   },
-  "parent": "fritecraft:fritegirl/plant_seed",
+  "parent": "fritecraft:fritegirl/root",
   "rewards": {
     "experience": 1
   },

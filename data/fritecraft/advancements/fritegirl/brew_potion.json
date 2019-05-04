@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:fritegirl/obtain_blaze_rod",
+  "parent": "fritecraft:fritegirl/root",
   "display": {
     "icon": {
       "item": "minecraft:potion"

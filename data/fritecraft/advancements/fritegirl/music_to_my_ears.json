@@ -7,7 +7,7 @@
     "description": "Trouvez un disque.",
     "frame": "goal"
   },
-  "parent": "fritecraft:collection/i_hereby_dub_thee",
+  "parent": "fritecraft:collection/root",
   "rewards": {
     "experience": 1
   },

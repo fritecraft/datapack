@@ -7,7 +7,7 @@
     "description": "Amenez un zombie momifié dans un biome tundra biome et tuez le.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:fritegirl/zombie_slayer",
+  "parent": "fritecraft:fritegirl/night_runner",
   "rewards": {
     "experience": 1
   },

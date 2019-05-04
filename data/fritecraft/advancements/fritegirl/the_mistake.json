@@ -8,7 +8,7 @@
     "description": "Placez l'enchantement raccommodage sur une armure en or, sans trop savoir pourquoi.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:fritegirl/living_like_kings",
+  "parent": "fritecraft:fritegirl/gold_rush",
   "rewards": {
     "experience": 1
   },

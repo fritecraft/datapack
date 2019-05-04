@@ -6,7 +6,7 @@
     "title": "Il doit y avoir une autre façon...",
     "description": "Tuez un villageois zombie"
   },
-  "parent": "fritecraft:fritegirl/dead_dont_die",
+  "parent": "fritecraft:fritegirl/root",
   "rewards": {
     "experience": 1
   },

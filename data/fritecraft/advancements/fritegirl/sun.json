@@ -6,7 +6,7 @@
     "title": "Soleil",
     "description": "Trouvez des plaines à tournesol"
   },
-  "parent": "fritecraft:fritegirl/tarzan",
+  "parent": "fritecraft:fritegirl/sleep_in_bed",
   "rewards": {
     "experience": 1
   },

@@ -8,7 +8,7 @@
     "description": "Tuez une sorcière avec une potion.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:fritegirl/witch",
+  "parent": "fritecraft:fritegirl/kill_a_mob",
   "rewards": {
     "experience": 1
   },

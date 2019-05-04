@@ -7,7 +7,7 @@
     "title": "Magicien",
     "description": "Tuez un monstre en utilisant une potion"
   },
-  "parent": "fritecraft:fritegirl/root",
+  "parent": "fritecraft:fritegirl/brew_potion",
   "rewards": {
     "experience": 1
   },

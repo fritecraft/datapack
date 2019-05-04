@@ -7,7 +7,7 @@
     "description": "Trouvez toutes les malédictions",
     "frame": "goal"
   },
-  "parent": "fritecraft:fringirl/old_cartoon_joke",
+  "parent": "fritecraft:fringirl/librarian",
   "rewards": {
     "experience": 1
   },

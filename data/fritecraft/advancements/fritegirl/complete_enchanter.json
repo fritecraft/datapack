@@ -7,7 +7,7 @@
     "description": "Rencontrez chaque enchantment au moins une fois.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:collection/fiery",
+  "parent": "fritecraft:collection/librarian",
   "rewards": {
     "experience": 1
   },
