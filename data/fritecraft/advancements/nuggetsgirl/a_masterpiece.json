@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:painting"
-        },
-        "title": "A Masterpiece!",
-        "description": "Put up a painting"}
+  "display": {
+    "icon": {
+      "item": "minecraft:painting"
     },
-    "parent": "fritecraft:nuggetsgirl/its_a_sign",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "painting": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:painting"
-                    }
-                ]
-            }
-        }
+    "title": "Chef d'oeuvre !",
+    "description": "Obtenez une peinture."
+  },
+  "parent": "fritecraft:nuggetsgirl/its_a_sign",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "painting": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:painting"
+          }
+        ]
+      }
     }
+  }
 }

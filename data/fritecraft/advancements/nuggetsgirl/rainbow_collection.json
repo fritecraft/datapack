@@ -1,176 +1,176 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:light_blue_wool"
-        },
-        "title": "Rainbow Collection",
-        "description": "Gather all 16 colors of wool",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:light_blue_wool"
     },
-    "parent": "fritecraft:nuggetsgirl/sheariously",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "white_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:white_wool"
-                    }
-                ]
-            }
-        },
-        "orange_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:orange_wool"
-                    }
-                ]
-            }
-        },
-        "magenta_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:magenta_wool"
-                    }
-                ]
-            }
-        },
-        "light_blue_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:light_blue_wool"
-                    }
-                ]
-            }
-        },
-        "yellow_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:yellow_wool"
-                    }
-                ]
-            }
-        },
-        "lime_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:lime_wool"
-                    }
-                ]
-            }
-        },
-        "pink_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:pink_wool"
-                    }
-                ]
-            }
-        },
-        "gray_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:gray_wool"
-                    }
-                ]
-            }
-        },
-        "light_gray_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:light_gray_wool"
-                    }
-                ]
-            }
-        },
-        "cyan_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:cyan_wool"
-                    }
-                ]
-            }
-        },
-        "purple_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:purple_wool"
-                    }
-                ]
-            }
-        },
-        "blue_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:blue_wool"
-                    }
-                ]
-            }
-        },
-        "brown_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:brown_wool"
-                    }
-                ]
-            }
-        },
-        "green_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:green_wool"
-                    }
-                ]
-            }
-        },
-        "red_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:red_wool"
-                    }
-                ]
-            }
-        },
-        "black_wool": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:black_wool"
-                    }
-                ]
-            }
-        }
+    "title": "Arc-en-ciel de laine",
+    "description": "Obtenez les 16 couleurs de laine",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:nuggetsgirl/sheariously",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "white_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:white_wool"
+          }
+        ]
+      }
+    },
+    "orange_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:orange_wool"
+          }
+        ]
+      }
+    },
+    "magenta_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:magenta_wool"
+          }
+        ]
+      }
+    },
+    "light_blue_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_blue_wool"
+          }
+        ]
+      }
+    },
+    "yellow_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:yellow_wool"
+          }
+        ]
+      }
+    },
+    "lime_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lime_wool"
+          }
+        ]
+      }
+    },
+    "pink_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:pink_wool"
+          }
+        ]
+      }
+    },
+    "gray_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gray_wool"
+          }
+        ]
+      }
+    },
+    "light_gray_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:light_gray_wool"
+          }
+        ]
+      }
+    },
+    "cyan_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cyan_wool"
+          }
+        ]
+      }
+    },
+    "purple_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:purple_wool"
+          }
+        ]
+      }
+    },
+    "blue_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blue_wool"
+          }
+        ]
+      }
+    },
+    "brown_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brown_wool"
+          }
+        ]
+      }
+    },
+    "green_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:green_wool"
+          }
+        ]
+      }
+    },
+    "red_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_wool"
+          }
+        ]
+      }
+    },
+    "black_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:black_wool"
+          }
+        ]
+      }
     }
+  }
 }

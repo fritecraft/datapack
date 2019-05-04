@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:lead"
     },
-    "title": {
-      "advancements.husbandry.tame_an_animal.title"
-    },
-    "description": {
-      "advancements.husbandry.tame_an_animal.description"
-    },
+    "title": "Meilleurs amis pour toujours",
+    "description": "Apprivoisez un animal.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "tamed_animal": {
       "trigger": "minecraft:tame_animal",

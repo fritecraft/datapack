@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:rotten_flesh"
-        },
-        "title": "Puppies! Yipe!",
-        "description": "Breed two wolves together to get a puppy!"}
+  "display": {
+    "icon": {
+      "item": "minecraft:rotten_flesh"
     },
-    "parent": "fritecraft:nuggetsgirl/tame_an_animal",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "wolf": {
-            "trigger": "minecraft:bred_animals",
-            "conditions": {
-				"parent": {
-					"type": "minecraft:wolf"
-				},
-				"partner": {
-					"type": "minecraft:wolf"
-				}
-            }
+    "title": "Woof",
+    "description": "Obtenez un chiot en faisant se reproduire deux loups."
+  },
+  "parent": "fritecraft:nuggetsgirl/tame_an_animal",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "wolf": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:wolf"
+        },
+        "partner": {
+          "type": "minecraft:wolf"
         }
+      }
     }
+  }
 }

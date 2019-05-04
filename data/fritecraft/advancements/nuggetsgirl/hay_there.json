@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:hay_block"
-        },
-        "title": "Hay there!",
-        "description": "Craft a stack of hay blocks",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:hay_block"
     },
-    "parent": "fritecraft:nuggetsgirl/the_lie",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "hay_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:hay_block",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Moisson",
+    "description": "Fabriquez un stack de blocs de paille.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:nuggetsgirl/the_lie",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "hay_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:hay_block",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:name_tag"
-        },
-        "title": "I hereby dub thee...",
-        "description": "Obtain a name tag"}
+  "display": {
+    "icon": {
+      "item": "minecraft:name_tag"
     },
-    "parent": "fritecraft:nuggetsgirl/root",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "name_tag": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:name_tag"
-                    }
-                ]
-            }
-        }
+    "title": "Adoubement",
+    "description": "Trouvez une etiquette."
+  },
+  "parent": "fritecraft:nuggetsgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "name_tag": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:name_tag"
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:red_mushroom"
-        },
-        "title": "Super Mooshroom",
-        "description": "Breed two stubborn mooshrooms together"}
+  "display": {
+    "icon": {
+      "item": "minecraft:red_mushroom"
     },
-    "parent": "fritecraft:nuggetsgirl/mooshroom_kingdom",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "mooshroom": {
-            "trigger": "minecraft:bred_animals",
-            "conditions": {
-				"parent": {
-					"type": "minecraft:mooshroom"
-				},
-				"partner": {
-					"type": "minecraft:mooshroom"
-				}
-            }
+    "title": "Espèce protégée",
+    "description": "Faites se reproduire deux champimeuh."
+  },
+  "parent": "fritecraft:nuggetsgirl/mooshroom_kingdom",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "mooshroom": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:mooshroom"
+        },
+        "partner": {
+          "type": "minecraft:mooshroom"
         }
+      }
     }
+  }
 }

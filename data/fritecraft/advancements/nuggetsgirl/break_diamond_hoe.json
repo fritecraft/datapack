@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:diamond_hoe"
     },
-    "title": {
-      "advancements.husbandry.break_diamond_hoe.title"
-    },
-    "description": {
-      "advancements.husbandry.break_diamond_hoe.description"
-    },
+    "title": "Sérieux dévouement",
+    "description": "Utilisez complètement une houe en diamant et réévaluez vos choix de vie.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "broke_hoe": {
       "trigger": "minecraft:item_durability_changed",

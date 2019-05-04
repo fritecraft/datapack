@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cooked_chicken"
-        },
-        "title": "So Good",
-        "description": "Can't beat it, can't beat it"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cooked_chicken"
     },
-    "parent": "fritecraft:nuggetsgirl/tickle_time",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "cooked_chicken": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:cooked_chicken"
-                }
-            }
+    "title": "KFC",
+    "description": "Mangez un poulet cuit."
+  },
+  "parent": "fritecraft:nuggetsgirl/tickle_time",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cooked_chicken": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_chicken"
         }
+      }
     }
+  }
 }

@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:jungle_leaves"
-        },
-        "title": "Lion Tamer",
-        "description": "Tame an Ocelot using fish"}
+  "display": {
+    "icon": {
+      "item": "minecraft:jungle_leaves"
     },
-    "parent": "fritecraft:nuggetsgirl/salmonella_poisoning",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "tamed_animal": {
-            "trigger": "minecraft:tame_animal",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:ocelot"
-                }
-			}
+    "title": "Dresseur de lion",
+    "description": "Apprivoisez un ocelot avec du poisson."
+  },
+  "parent": "fritecraft:nuggetsgirl/salmonella_poisoning",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "tamed_animal": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:ocelot"
         }
+      }
     }
+  }
 }

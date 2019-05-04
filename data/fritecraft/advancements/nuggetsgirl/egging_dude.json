@@ -1,28 +1,28 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:egg"
-        },
-        "title": "Egging, Dude!",
-        "description": "Vandalise something with eggs"}
+  "display": {
+    "icon": {
+      "item": "minecraft:egg"
     },
-    "parent": "fritecraft:nuggetsgirl/so_good",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "egg": {
-            "trigger": "minecraft:player_hurt_entity",
-            "conditions": {
-                "damage": {
-                    "type": {
-                        "is_projectile": true,
-                        "direct_entity": {
-                            "type": "minecraft:egg"
-                        }
-                    }
-                }
+    "title": "On ne joue pas avec la nourriture !",
+    "description": "Attaquez quelque chose avec un oeuf."
+  },
+  "parent": "fritecraft:nuggetsgirl/so_good",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "egg": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "is_projectile": true,
+            "direct_entity": {
+              "type": "minecraft:egg"
             }
+          }
         }
+      }
     }
+  }
 }

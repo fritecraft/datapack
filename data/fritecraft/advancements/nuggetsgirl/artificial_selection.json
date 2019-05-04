@@ -1,29 +1,29 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:apple"
-        },
-        "title": "Artificial Selection",
-        "description": "Breed a horse and a donkey to get a mule"}
+  "display": {
+    "icon": {
+      "item": "minecraft:apple"
     },
-    "parent": "fritecraft:nuggetsgirl/are_we_there_yet",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "mule": {
-            "trigger": "minecraft:bred_animals",
-            "conditions": {
-				"parent": {
-					"type": "minecraft:horse"
-				},
-				"partner": {
-					"type": "minecraft:donkey"
-				},
-				"child": {
-					"type": "minecraft:mule"
-				}
-            }
+    "title": "Selection Artificielle",
+    "description": "Accouplez un cheval et un âne pour avoir une mule"
+  },
+  "parent": "fritecraft:nuggetsgirl/are_we_there_yet",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "mule": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:horse"
+        },
+        "partner": {
+          "type": "minecraft:donkey"
+        },
+        "child": {
+          "type": "minecraft:mule"
         }
+      }
     }
+  }
 }

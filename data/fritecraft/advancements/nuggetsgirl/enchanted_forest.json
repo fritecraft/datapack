@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:allium"
-        },
-        "title": "Enchanted Forest",
-        "description": "Find a flower forest"}
+  "display": {
+    "icon": {
+      "item": "minecraft:allium"
     },
-    "parent": "fritecraft:nuggetsgirl/theres_a_zombie_on_the_lawn",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "flower_forest": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "biome": "minecraft:flower_forest"
-            }
-        }
+    "title": "Forêt enchantée",
+    "description": "Trouvez une forêt fleurie"
+  },
+  "parent": "fritecraft:nuggetsgirl/theres_a_zombie_on_the_lawn",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "flower_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "minecraft:flower_forest"
+      }
     }
+  }
 }

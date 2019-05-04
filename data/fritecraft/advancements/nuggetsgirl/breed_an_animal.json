@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:wheat"
     },
-    "title": {
-      "advancements.husbandry.breed_an_animal.title"
-    },
-    "description": {
-      "advancements.husbandry.breed_an_animal.description"
-    },
+    "title": "Il y a de l'amour dans l'air",
+    "description": "Faites se reproduire deux animaux ensemble.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "bred": {
       "trigger": "minecraft:bred_animals",

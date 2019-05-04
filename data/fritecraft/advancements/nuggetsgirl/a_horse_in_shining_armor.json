@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_horse_armor"
-        },
-        "title": "A Horse in Shining Armor",
-        "description": "Find diamond horse armor"}
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_horse_armor"
     },
-    "parent": "fritecraft:nuggetsgirl/farrier",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "diamond_horse_armor": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_horse_armor"
-                    }
-                ]
-            }
-        }
+    "title": "Mon cheval brillant",
+    "description": "Trouvez une armure pour cheval en diamant."
+  },
+  "parent": "fritecraft:nuggetsgirl/farrier",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "diamond_horse_armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_horse_armor"
+          }
+        ]
+      }
     }
+  }
 }

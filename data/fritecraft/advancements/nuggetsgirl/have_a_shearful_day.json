@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:shears"
-        },
-        "title": "Have a Shearful Day",
-        "description": "Use two iron ingots to craft shears"}
+  "display": {
+    "icon": {
+      "item": "minecraft:shears"
     },
-    "parent": "fritecraft:nuggetsgirl/mary_had_a_little_lamb",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "shears": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:shears"
-                    }
-                ]
-            }
-        }
+    "title": "La boule à zéro",
+    "description": "Fabriquez des cisailles pour tondre un mouton."
+  },
+  "parent": "fritecraft:nuggetsgirl/mary_had_a_little_lamb",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "shears": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:shears"
+          }
+        ]
+      }
     }
+  }
 }

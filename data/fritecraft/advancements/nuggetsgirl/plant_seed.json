@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:wheat"
     },
-    "title": {
-      "advancements.husbandry.plant_seed.title"
-    },
-    "description": {
-      "advancements.husbandry.plant_seed.description"
-    },
+    "title": "Prends-en de la graine !",
+    "description": "Plantez une graine et regardez-la grandir.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "wheat": {
       "trigger": "minecraft:placed_block",

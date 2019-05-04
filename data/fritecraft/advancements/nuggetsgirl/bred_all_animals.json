@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:golden_carrot"
     },
-    "title": {
-      "advancements.husbandry.breed_all_animals.title"
-    },
-    "description": {
-      "advancements.husbandry.breed_all_animals.description"
-    },
+    "title": "Deux par deux",
+    "description": "Faites se reproduire au moins une fois chaque animal.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "minecraft:horse": {
       "trigger": "minecraft:bred_animals",

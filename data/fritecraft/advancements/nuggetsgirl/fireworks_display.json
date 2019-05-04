@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:firework_rocket"
-        },
-        "title": "Fireworks Display",
-        "description": "Use gunpowder and paper to craft fireworks"}
+  "display": {
+    "icon": {
+      "item": "minecraft:firework_rocket"
     },
-    "parent": "fritecraft:nuggetsgirl/bombs_away",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "firework_rocket": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:firework_rocket"
-                    }
-                ]
-            }
-        }
+    "title": "Bouquet final",
+    "description": "Combinez poudre explosive et papier pour faire des feux d'artifice."
+  },
+  "parent": "fritecraft:nuggetsgirl/bombs_away",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "firework_rocket": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:firework_rocket"
+          }
+        ]
+      }
     }
+  }
 }

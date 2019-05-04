@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:turtle_egg"
-        },
-        "title": "Hey, look, Mom!",
-        "description": "Use sea grass to make a turtle lay some eggs"}
+  "display": {
+    "icon": {
+      "item": "minecraft:turtle_egg"
     },
-    "parent": "fritecraft:nuggetsgirl/poacher",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "turtle": {
-            "trigger": "minecraft:bred_animals",
-            "conditions": {
-				"parent": {
-					"type": "minecraft:turtle"
-				},
-				"partner": {
-					"type": "minecraft:turtle"
-				}
-            }
+    "title": "Tortuga",
+    "description": "Faites se reproduire deux tortue en utilisant des algues."
+  },
+  "parent": "fritecraft:nuggetsgirl/poacher",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "turtle": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:turtle"
+        },
+        "partner": {
+          "type": "minecraft:turtle"
         }
+      }
     }
+  }
 }

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:written_book"
-        },
-        "title": "An amazing story!",
-        "description": "Finish writing in your book or get a book from another player"}
+  "display": {
+    "icon": {
+      "item": "minecraft:written_book"
     },
-    "parent": "fritecraft:nuggetsgirl/write_your_thoughts",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "written_book": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:written_book"
-                    }
-                ]
-            }
-        }
+    "title": "Une belle histoire",
+    "description": "Finissez un livre ou obtenez-en un terminé."
+  },
+  "parent": "fritecraft:nuggetsgirl/write_your_thoughts",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "written_book": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:written_book"
+          }
+        ]
+      }
     }
+  }
 }

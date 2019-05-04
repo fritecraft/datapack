@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:writable_book"
-        },
-        "title": "Write your thoughts",
-        "description": "Use a book, ink and a feather to craft a book and quill"}
+  "display": {
+    "icon": {
+      "item": "minecraft:writable_book"
     },
-    "parent": "fritecraft:nuggetsgirl/its_full_of_ink",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "writable_book": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:writable_book"
-                    }
-                ]
-            }
-        }
+    "title": "Journal",
+    "description": "Fabriquez un livre vierge pour y écrire ce que vous voulez."
+  },
+  "parent": "fritecraft:nuggetsgirl/its_full_of_ink",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "writable_book": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:writable_book"
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:wheat_seeds"
-        },
-        "title": "Feeding the §mDucks§r Chickens",
-        "description": "Breed chickens by feeding them seeds"}
+  "display": {
+    "icon": {
+      "item": "minecraft:wheat_seeds"
     },
-    "parent": "fritecraft:nuggetsgirl/egging_dude",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "chicken": {
-            "trigger": "minecraft:bred_animals",
-            "conditions": {
-				"parent": {
-					"type": "minecraft:chicken"
-				},
-				"partner": {
-					"type": "minecraft:chicken"
-				}
-            }
+    "title": "Nourir la volaille",
+    "description": "Faites se reproduire deux poulets."
+  },
+  "parent": "fritecraft:nuggetsgirl/egging_dude",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "chicken": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:chicken"
+        },
+        "partner": {
+          "type": "minecraft:chicken"
         }
+      }
     }
+  }
 }

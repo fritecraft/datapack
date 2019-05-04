@@ -1,30 +1,30 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_boots"
-        },
-        "title": "Like a Cat",
-        "description": "Obtain boots enchanted with Feather Falling",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_boots"
     },
-    "parent": "fritecraft:nuggetsgirl/root",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "feather_falling": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:feather_falling"
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Délicatesse",
+    "description": "Obtenez des bottes avec l'enchantement Chute Amortie",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:nuggetsgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "feather_falling": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:feather_falling"
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

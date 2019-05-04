@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:sheep_spawn_egg"
-        },
-        "title": "Mary Had a Little Lamb...",
-        "description": "Breed two sheep to get a lamb"}
+  "display": {
+    "icon": {
+      "item": "minecraft:sheep_spawn_egg"
     },
-    "parent": "fritecraft:nuggetsgirl/feeling_sheepish",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "sheep": {
-            "trigger": "minecraft:bred_animals",
-            "conditions": {
-				"parent": {
-					"type": "minecraft:sheep"
-				},
-				"partner": {
-					"type": "minecraft:sheep"
-				}
-            }
+    "title": "Bébé mouton",
+    "description": "Faites se reproduire deux moutons pour obtenir un agneau"
+  },
+  "parent": "fritecraft:nuggetsgirl/feeling_sheepish",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sheep": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:sheep"
+        },
+        "partner": {
+          "type": "minecraft:sheep"
         }
+      }
     }
+  }
 }

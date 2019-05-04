@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:chest"
-        },
-        "title": "Are we there yet?",
-        "description": "Tame a donkey"}
+  "display": {
+    "icon": {
+      "item": "minecraft:chest"
     },
-    "parent": "fritecraft:nuggetsgirl/a_horse_in_shining_armor",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "tamed_animal": {
-            "trigger": "minecraft:tame_animal",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:donkey"
-                }
-			}
+    "title": "Aneries",
+    "description": "Apprivoisez un âne."
+  },
+  "parent": "fritecraft:nuggetsgirl/a_horse_in_shining_armor",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "tamed_animal": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:donkey"
         }
+      }
     }
+  }
 }

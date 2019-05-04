@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:beetroot_seeds"
-        },
-        "title": "Chatterbox",
-        "description": "Tame a Parrot using seeds. WARNING: Do not use a cookie!"}
+  "display": {
+    "icon": {
+      "item": "minecraft:beetroot_seeds"
     },
-    "parent": "fritecraft:nuggetsgirl/feeding_the_chickens",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "tamed_animal": {
-            "trigger": "minecraft:tame_animal",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:parrot"
-                }
-			}
+    "title": "Ara",
+    "description": "Apprivoisez un perroquet avec des graines."
+  },
+  "parent": "fritecraft:nuggetsgirl/feeding_the_chickens",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "tamed_animal": {
+      "trigger": "minecraft:tame_animal",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:parrot"
         }
+      }
     }
+  }
 }

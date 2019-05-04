@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:cod"
     },
-    "title": {
-      "advancements.husbandry.complete_catalogue.title"
-    },
-    "description": {
-      "advancements.husbandry.complete_catalogue.description"
-    },
+    "title": "Un chatalogue complet",
+    "description": "Apprivoisez toutes les variantes de chat !",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "textures/entity/cat/tabby.png": {
       "trigger": "minecraft:tame_animal",
