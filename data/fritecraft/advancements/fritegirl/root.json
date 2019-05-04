@@ -3,8 +3,8 @@
     "icon": {
       "item": "minecraft:map"
     },
-    "title": "PROCHAINEMENT",
-    "description": "PROCHAINEMENT",
+    "title": "Fritegirl",
+    "description": "Des épées, des monstres, des potions, et de l'exploration",
     "frame": "task",
     "show_toast": false,
     "announce_to_chat": false,

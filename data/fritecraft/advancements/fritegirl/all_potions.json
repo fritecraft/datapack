@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:milk_bucket"
     },
-    "title": {
-      "advancements.nether.all_potions.title"
-    },
-    "description": {
-      "advancements.nether.all_potions.description"
-    },
+    "title": "Mélanges dangereux",
+    "description": "Appliquez sur vous-même tous les effets de potions en même temps.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "all_effects": {
       "trigger": "minecraft:effects_changed",

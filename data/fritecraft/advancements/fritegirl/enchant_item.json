@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:enchanted_book"
     },
-    "title": {
-      "advancements.story.enchant_item.title"
-    },
-    "description": {
-      "advancements.story.enchant_item.description"
-    },
+    "title": "Enchanté !",
+    "description": "Enchantez un objet dans la table d'enchantement.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "enchanted_item": {
       "trigger": "minecraft:enchanted_item",

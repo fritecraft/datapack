@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:fermented_spider_eye"
-        },
-        "title": "A Weak Brew",
-        "description": "Brew up a potion of Weakness"}
+  "display": {
+    "icon": {
+      "item": "minecraft:fermented_spider_eye"
     },
-    "parent": "fritecraft:fritegirl/super_strength",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "potion": {
-            "trigger": "minecraft:brewed_potion",
-            "conditions": {
-                "potion": "minecraft:weakness"
-            }
-        }
+    "title": "Manque de dynamisme ",
+    "description": "Concoctez une potion de faiblesse."
+  },
+  "parent": "fritecraft:fritegirl/super_strength",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "potion": {
+      "trigger": "minecraft:brewed_potion",
+      "conditions": {
+        "potion": "minecraft:weakness"
+      }
     }
+  }
 }

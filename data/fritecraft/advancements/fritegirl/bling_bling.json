@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_pickaxe"
+    },
+    "title": "Bling Bling",
+    "description": "Epuisez complètement une pioche en or, et réévaluez vos choix de vie.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:fritegirl/gold_rush",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "break_pickaxe": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "item": "minecraft:golden_pickaxe"
+        },
+        "durability": 0
+      }
+    }
+  }
+}

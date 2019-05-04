@@ -1,31 +1,31 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:spider_eye"
-        },
-        "title": "Bane of one-shotting spiders",
-        "description": "Obtain Bane of Arthropods V",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:spider_eye"
     },
-    "parent": "fritecraft:fritegirl/undead_slayer",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "bane_of_arthropods": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:bane_of_arthropods",
-								"levels": 5
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "One-shot les araignées",
+    "description": "Obtenez l'enchantement Fléau des arthropodes V",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:fritegirl/undead_slayer",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "bane_of_arthropods": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:bane_of_arthropods",
+                "levels": 5
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

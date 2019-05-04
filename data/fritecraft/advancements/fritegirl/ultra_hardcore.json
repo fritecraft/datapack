@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:golden_apple"
-        },
-        "title": "Ultra Hardcore",
-        "description": "Craft and eat a normal golden apple"}
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_apple"
     },
-    "parent": "fritecraft:fritegirl/bapple",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "golden_apple": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:golden_apple"
-                }
-            }
+    "title": "Ultra Hardcore",
+    "description": "Fabriquez et mangez une pomme en or normale"
+  },
+  "parent": "fritecraft:fritegirl/bapple",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "golden_apple": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:golden_apple"
         }
+      }
     }
+  }
 }

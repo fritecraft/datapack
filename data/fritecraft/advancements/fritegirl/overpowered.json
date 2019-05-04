@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:enchanted_golden_apple"
-        },
-        "title": "Overpowered",
-        "description": "Obtain a Notch Apple",
-        "frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:enchanted_golden_apple"
     },
-    "parent": "fritecraft:fritegirl/music_to_my_ears",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "golden_apple": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:enchanted_golden_apple"
-                    }
-                ]
-            }
-        }
+    "title": "OP",
+    "description": "Obtenez une pomme de Notch",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:fritegirl/music_to_my_ears",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "golden_apple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:enchanted_golden_apple"
+          }
+        ]
+      }
     }
+  }
 }

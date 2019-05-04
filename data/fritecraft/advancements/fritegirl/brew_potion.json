@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:potion"
     },
-    "title": {
-      "advancements.nether.brew_potion.title"
-    },
-    "description": {
-      "advancements.nether.brew_potion.description"
-    },
+    "title": "Apprenti chimiste",
+    "description": "Concoctez une potion.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "potion": {
       "trigger": "minecraft:brewed_potion",

@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:golden_carrot"
-        },
-        "title": "24 Carrot Gold",
-        "description": "Eat a golden carrot"}
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_carrot"
     },
-    "parent": "fritecraft:fritegirl/die_potato",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "golden_carrot": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:golden_carrot"
-                }
-            }
+    "title": "Or 24 carrote",
+    "description": "Mangez une carrote en or"
+  },
+  "parent": "fritecraft:fritegirl/die_potato",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "golden_carrot": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:golden_carrot"
         }
+      }
     }
+  }
 }

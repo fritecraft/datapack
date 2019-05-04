@@ -1,96 +1,96 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:stone_bricks"
-        },
-        "title": "Dungeon Crawler",
-        "description": "Defeat all kinds of mobs from special structures",
-        "frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:stone_bricks"
     },
-    "parent": "fritecraft:fritegirl/void_ender",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "cave_spider": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "cave_spider"
-                }
-            }
-        },
-        "silverfish": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "silverfish"
-                }
-            }
-        },
-        "guardian": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "guardian"
-                }
-            }
-        },
-        "elder_guardian": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "elder_guardian"
-                }
-            }
-        },
-        "vindicator": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "vindicator"
-                }
-            }
-        },
-        "evoker": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "evoker"
-                }
-            }
-        },
-        "vex": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "vex"
-                }
-            }
-        },
-        "blaze": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "blaze"
-                }
-            }
-        },
-        "wither_skeleton": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "wither_skeleton"
-                }
-            }
-        },
-        "shulker": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "shulker"
-                }
-            }
+    "title": "Dungeon Crawler",
+    "description": "Tuez tous les monstres de structures spéciales.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:fritegirl/void_ender",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cave_spider": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "cave_spider"
         }
+      }
+    },
+    "silverfish": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "silverfish"
+        }
+      }
+    },
+    "guardian": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "guardian"
+        }
+      }
+    },
+    "elder_guardian": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "elder_guardian"
+        }
+      }
+    },
+    "vindicator": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "vindicator"
+        }
+      }
+    },
+    "evoker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "evoker"
+        }
+      }
+    },
+    "vex": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "vex"
+        }
+      }
+    },
+    "blaze": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "blaze"
+        }
+      }
+    },
+    "wither_skeleton": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "wither_skeleton"
+        }
+      }
+    },
+    "shulker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "shulker"
+        }
+      }
     }
+  }
 }

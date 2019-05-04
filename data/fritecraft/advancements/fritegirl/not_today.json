@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:poisonous_potato"
-        },
-        "title": "Not Today!",
-        "description": "Eat a poisonous potato"}
+  "display": {
+    "icon": {
+      "item": "minecraft:poisonous_potato"
     },
-    "parent": "fritecraft:fritegirl/die_potato",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "poisonous_potato": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:poisonous_potato"
-                }
-            }
+    "title": "#PoisonChallenge",
+    "description": "Mangez une pomme de terre empoisonnée."
+  },
+  "parent": "fritecraft:fritegirl/die_potato",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "poisonous_potato": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:poisonous_potato"
         }
+      }
     }
+  }
 }

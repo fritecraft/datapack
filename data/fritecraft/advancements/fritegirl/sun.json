@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:sunflower"
+    },
+    "title": "Soleil",
+    "description": "Trouvez des plaines à tournesol"
+  },
+  "parent": "fritecraft:fritegirl/tarzan",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sunflower_plains": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "minecraft:sunflower_plains"
+      }
+    }
+  }
+}

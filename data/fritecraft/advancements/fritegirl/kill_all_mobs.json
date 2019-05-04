@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:diamond_sword"
     },
-    "title": {
-      "advancements.adventure.kill_all_mobs.title"
-    },
-    "description": {
-      "advancements.adventure.kill_all_mobs.description"
-    },
+    "title": "Monstres chassés",
+    "description": "Tuez au moins une fois chaque créature hostile.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "minecraft:cave_spider": {
       "trigger": "minecraft:player_killed_entity",

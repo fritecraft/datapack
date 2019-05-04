@@ -1,28 +1,28 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:splash_potion",
-			"nbt": "{Potion:\"minecraft:poison\"}"
-        },
-        "title": "Taste of your own medicine",
-        "description": "Kill a witch with a splash potion",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:splash_potion",
+      "nbt": "{Potion:\"minecraft:poison\"}"
     },
-    "parent": "fritecraft:fritegirl/witch",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "kill_magic": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-				"entity": {
-					"type": "witch"
-				},
-				"killing_blow": {
-					"is_magic": "true"
-				}
-            }
+    "title": "C'est celui qui dit qui est",
+    "description": "Tuez une sorcière avec une potion.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:fritegirl/witch",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "kill_magic": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "witch"
+        },
+        "killing_blow": {
+          "is_magic": "true"
         }
+      }
     }
+  }
 }

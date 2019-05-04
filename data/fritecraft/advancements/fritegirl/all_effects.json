@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:bucket"
     },
-    "title": {
-      "advancements.nether.all_effects.title"
-    },
-    "description": {
-      "advancements.nether.all_effects.description"
-    },
+    "title": "Comment en est-on arrivé là ?",
+    "description": "Appliquez sur vous-même tous les effets en même temps.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": true
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "all_effects": {
       "trigger": "minecraft:effects_changed",

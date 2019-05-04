@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:splash_potion",
-			"nbt": "{Potion:\"minecraft:harming\"}"
-        },
-        "title": "Death by Magic",
-        "description": "Kill a mob with a splash potion"}
+  "display": {
+    "icon": {
+      "item": "minecraft:splash_potion",
+      "nbt": "{Potion:\"minecraft:harming\"}"
     },
-    "parent": "fritecraft:fritegirl/root",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "kill_magic": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-				"killing_blow": {
-					"is_magic": "true",
-					"direct_entity": {
-						"type": "minecraft:potion"
-					}
-				}
-            }
+    "title": "Magicien",
+    "description": "Tuez un monstre en utilisant une potion"
+  },
+  "parent": "fritecraft:fritegirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "kill_magic": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "is_magic": "true",
+          "direct_entity": {
+            "type": "minecraft:potion"
+          }
         }
+      }
     }
+  }
 }

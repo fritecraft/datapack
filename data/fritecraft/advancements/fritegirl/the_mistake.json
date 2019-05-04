@@ -1,85 +1,85 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:golden_leggings",
-			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
-        },
-        "title": "The Mistake!",
-        "description": "Put Mending on a piece of golden armor and realise what you are doing in life",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_leggings",
+      "nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
     },
-    "parent": "fritecraft:fritegirl/living_like_kings",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "golden_helmet": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:golden_helmet",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:mending"
-							}
-						]
-                    }
-                ]
-            }
-        },
-        "golden_chestplate": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:golden_chestplate",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:mending"
-							}
-						]
-                    }
-                ]
-            }
-        },
-        "golden_leggings": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:golden_leggings",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:mending"
-							}
-						]
-                    }
-                ]
-            }
-        },
-        "golden_boots": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:golden_boots",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:mending"
-							}
-						]
-                    }
-                ]
-            }
-        }
-    },
-    "requirements": [
-        [
-            "golden_helmet",
-            "golden_chestplate",
-            "golden_leggings",
-            "golden_boots"
+    "title": "Erreur",
+    "description": "Placez l'enchantement raccommodage sur une armure en or, sans trop savoir pourquoi.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:fritegirl/living_like_kings",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "golden_helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:golden_helmet",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:mending"
+              }
+            ]
+          }
         ]
+      }
+    },
+    "golden_chestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:golden_chestplate",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:mending"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "golden_leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:golden_leggings",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:mending"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "golden_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:golden_boots",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:mending"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "golden_helmet",
+      "golden_chestplate",
+      "golden_leggings",
+      "golden_boots"
     ]
+  ]
 }

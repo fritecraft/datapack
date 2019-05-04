@@ -1,24 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:tropical_fish"
-        },
-        "title": "Grinding Nemo",
-        "description": "Skewer a tropical fish",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:tropical_fish"
     },
-    "parent": "fritecraft:fritegirl/direct_fishing",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "tropical_fish": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "tropical_fish"
-                }
-            }
+    "title": "J'ai trouvé Nemo",
+    "description": "Empalez un poisson tropical",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:fritegirl/direct_fishing",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "tropical_fish": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "tropical_fish"
         }
+      }
     }
+  }
 }

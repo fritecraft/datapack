@@ -1,37 +1,37 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:potato"
-        },
-        "title": "Die, Potato!",
-        "description": "Squash and eat a potato"}
+  "display": {
+    "icon": {
+      "item": "minecraft:potato"
     },
-    "parent": "fritecraft:fritegirl/plant_seed",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "potato": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:potato"
-                }
-            }
-        },
-        "baked_potato": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:baked_potato"
-                }
-            }
+    "title": "La patate",
+    "description": "Mangez une pomme de terre."
+  },
+  "parent": "fritecraft:fritegirl/plant_seed",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "potato": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:potato"
         }
+      }
     },
-    "requirements": [
-		[
-        "potato",
-        "baked_potato"
-		]
+    "baked_potato": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:baked_potato"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "potato",
+      "baked_potato"
     ]
+  ]
 }

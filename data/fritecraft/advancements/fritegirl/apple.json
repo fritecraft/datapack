@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:apple"
+    },
+    "title": "Pomme",
+    "description": "Mangez une pomme, tout simplement."
+  },
+  "parent": "fritecraft:fritegirl/care_for_the_environment",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "apple": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:apple"
+        }
+      }
+    }
+  }
+}

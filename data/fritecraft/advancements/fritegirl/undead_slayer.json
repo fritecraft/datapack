@@ -1,31 +1,31 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:rotten_flesh"
-        },
-        "title": "Undead Slayer",
-        "description": "Obtain Smite V",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:rotten_flesh"
     },
-    "parent": "fritecraft:fritegirl/needle_sharp",
-    "rewards": {
-        "experience": 100
-    },				
-    "criteria": {
-        "smite": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:smite",
-								"levels": 5
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Tueur de morts-vivants",
+    "description": "Obtenez l'enchantment Chatiment V",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:fritegirl/needle_sharp",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "smite": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:smite",
+                "levels": 5
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }
