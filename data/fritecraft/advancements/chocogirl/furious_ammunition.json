@@ -8,6 +8,7 @@
     "description": "Fabriquez chaque type de flèche.",
     "frame": "challenge"
   },
+  "parent": "fritecraft:chocogirl/care_for_the_environment",
   "rewards": {
     "experience": 1
   },
