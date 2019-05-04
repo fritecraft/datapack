@@ -1,61 +1,61 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:golden_shovel"
-        },
-        "title": "We've broken our last shovel",
-        "description": "Break all five types of shovels",
-        "frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_shovel"
     },
-    "parent": "fritecraft:hamburgirl/bling_bling_gone",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "wooden_shovel": {
-            "trigger": "minecraft:item_durability_changed",
-            "conditions": {
-				"item": {
-					"item": "minecraft:wooden_shovel"
-				},
-				"durability": 0
-            }
+    "title": "Pelleteuse",
+    "description": "Cassez les 5 types de pelle.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:hamburgirl/bling_bling_gone",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "wooden_shovel": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "item": "minecraft:wooden_shovel"
         },
-        "stone_shovel": {
-            "trigger": "minecraft:item_durability_changed",
-            "conditions": {
-				"item": {
-					"item": "minecraft:stone_shovel"
-				},
-				"durability": 0
-            }
+        "durability": 0
+      }
+    },
+    "stone_shovel": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "item": "minecraft:stone_shovel"
         },
-        "gold_shovel": {
-            "trigger": "minecraft:item_durability_changed",
-            "conditions": {
-				"item": {
-					"item": "minecraft:golden_shovel"
-				},
-				"durability": 0
-            }
+        "durability": 0
+      }
+    },
+    "gold_shovel": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "item": "minecraft:golden_shovel"
         },
-        "iron_shovel": {
-            "trigger": "minecraft:item_durability_changed",
-            "conditions": {
-				"item": {
-					"item": "minecraft:iron_shovel"
-				},
-				"durability": 0
-            }
+        "durability": 0
+      }
+    },
+    "iron_shovel": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "item": "minecraft:iron_shovel"
         },
-        "diamond_shovel": {
-            "trigger": "minecraft:item_durability_changed",
-            "conditions": {
-				"item": {
-					"item": "minecraft:diamond_shovel"
-				},
-				"durability": 0
-            }
-        }
+        "durability": 0
+      }
+    },
+    "diamond_shovel": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "item": "minecraft:diamond_shovel"
+        },
+        "durability": 0
+      }
     }
+  }
 }

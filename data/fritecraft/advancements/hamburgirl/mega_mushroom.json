@@ -1,52 +1,52 @@
 {
-    "display": {
-        "icon": {
+  "display": {
+    "icon": {
+      "item": "minecraft:red_mushroom_block"
+    },
+    "title": "Mega Champi",
+    "description": "Faites pousser un mega-champi et récoltez-en les blocs."
+  },
+  "parent": "fritecraft:hamburgirl/mushroom_mushroom_mushroom_mushroom",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "red_mushroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
             "item": "minecraft:red_mushroom_block"
-        },
-        "title": "Mega Mushroom",
-        "description": "Grow a giant mushroom and then harvest it with silk touch"}
+          }
+        ]
+      }
     },
-    "parent": "fritecraft:hamburgirl/mushroom_mushroom_mushroom_mushroom",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "red_mushroom": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:red_mushroom_block"
-                    }
-                ]
-            }
-        },
-        "brown_mushroom": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:brown_mushroom_block"
-                    }
-                ]
-            }
-        },
-        "mushroom_stem": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:mushroom_stem"
-                    }
-                ]
-            }
-        }
+    "brown_mushroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brown_mushroom_block"
+          }
+        ]
+      }
     },
-    "requirements": [
-		[
-        "red_mushroom",
-        "brown_mushroom",
-		"mushroom_stem"
-		]
+    "mushroom_stem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:mushroom_stem"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "red_mushroom",
+      "brown_mushroom",
+      "mushroom_stem"
     ]
+  ]
 }

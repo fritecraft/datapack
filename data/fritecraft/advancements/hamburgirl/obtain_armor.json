@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:iron_chestplate"
     },
-    "title": {
-      "advancements.story.obtain_armor.title"
-    },
-    "description": {
-      "advancements.story.obtain_armor.description"
-    },
+    "title": "Un corps d'acier",
+    "description": "Fabriquez une pièce d’armure en fer.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "iron_helmet": {
       "trigger": "minecraft:inventory_changed",

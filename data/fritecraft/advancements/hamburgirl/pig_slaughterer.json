@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:pig_spawn_egg"
-        },
-        "title": "Pig Slaughterer",
-        "description": "Collect a stack of raw porkchops",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:pig_spawn_egg"
     },
-    "parent": "fritecraft:hamburgirl/when_pigs_used_to_fly",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "porkchop": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:porkchop",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Abattoir",
+    "description": "Récoltez un stack de porc cru",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:hamburgirl/when_pigs_used_to_fly",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "porkchop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:porkchop",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

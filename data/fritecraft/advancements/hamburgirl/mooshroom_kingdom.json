@@ -1,33 +1,33 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:mycelium"
-        },
-        "title": "Mooshroom Kingdom",
-        "description": "Find mooshrooms on a mushroom island"}
+  "display": {
+    "icon": {
+      "item": "minecraft:mycelium"
     },
-    "parent": "fritecraft:hamburgirl/true_cow_tipper",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "mushroom_island_shore": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "biome": "minecraft:mushroom_field_shore"
-            }
-        },
-        "mushroom_island": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "biome": "minecraft:mushroom_fields"
-            }
-        }
+    "title": "Royaume des champimeuh",
+    "description": "Trouvez des champimeuh dans un biome champi."
+  },
+  "parent": "fritecraft:hamburgirl/true_cow_tipper",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "mushroom_island_shore": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "minecraft:mushroom_field_shore"
+      }
     },
-    "requirements": [
-		[
-        "mushroom_island",
-        "mushroom_island_shore"
-		]
+    "mushroom_island": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "minecraft:mushroom_fields"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "mushroom_island",
+      "mushroom_island_shore"
     ]
+  ]
 }

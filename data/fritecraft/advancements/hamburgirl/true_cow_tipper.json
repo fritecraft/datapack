@@ -1,38 +1,38 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cow_spawn_egg"
-        },
-        "title": "True Cow Tipper",
-        "description": "Collect a stack of raw beef and leather",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:cow_spawn_egg"
     },
-    "parent": "fritecraft:hamburgirl/milk_does_your_body_good",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "beef": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:beef",
-						"count": 64
-                    }
-                ]
-            }
-        },
-        "leather": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:leather",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Cowboy",
+    "description": "Obtenez un stack de cuir et de boeuf cru.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:hamburgirl/milk_does_your_body_good",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "beef": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:beef",
+            "count": 64
+          }
+        ]
+      }
+    },
+    "leather": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:leather",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

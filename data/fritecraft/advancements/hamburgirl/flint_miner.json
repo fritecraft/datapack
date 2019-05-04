@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:flint"
-        },
-        "title": "Flint Miner",
-        "description": "Mine a stack of flint",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:flint"
     },
-    "parent": "fritecraft:hamburgirl/meet_the_flintstones",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "flint": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:flint",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de sylex",
+    "description": "Miner un stack de sylex",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:hamburgirl/meet_the_flintstones",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "flint": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:flint",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

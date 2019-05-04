@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:sticky_piston"
-        },
-        "title": "Sticky Parts",
-        "description": "Craft a sticky piston so you can pull things"}
+  "display": {
+    "icon": {
+      "item": "minecraft:sticky_piston"
     },
-    "parent": "fritecraft:hamburgirl/moving_parts",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "sticky_piston": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:sticky_piston"
-                    }
-                ]
-            }
-        }
+    "title": "Collé !",
+    "description": "Fabriquez un piston capable de tirer des blocs."
+  },
+  "parent": "fritecraft:hamburgirl/moving_parts",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sticky_piston": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:sticky_piston"
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:comparator"
-        },
-        "title": "Comparing Comparator",
-        "description": "Craft a redstone comparator"}
+  "display": {
+    "icon": {
+      "item": "minecraft:comparator"
     },
-    "parent": "fritecraft:hamburgirl/quirky_quartz",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "comparator": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:comparator"
-                    }
-                ]
-            }
-        }
+    "title": "Comparaisons",
+    "description": "Fabriquez un comparateur."
+  },
+  "parent": "fritecraft:hamburgirl/quirky_quartz",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "comparator": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:comparator"
+          }
+        ]
+      }
     }
+  }
 }

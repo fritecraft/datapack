@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:chiseled_sandstone"
-        },
-        "title": "Grave Robber",
-        "description": "Enter a pyramid in a desert"}
+  "display": {
+    "icon": {
+      "item": "minecraft:chiseled_sandstone"
     },
-    "parent": "fritecraft:hamburgirl/kilometre_walk",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "desert_pyramid": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Desert_Pyramid"
-            }
-        }
+    "title": "Voleur des tombeaux",
+    "description": "Trouvez une pyramide dans un désert."
+  },
+  "parent": "fritecraft:hamburgirl/kilometre_walk",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "desert_pyramid": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Desert_Pyramid"
+      }
     }
+  }
 }

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:powered_rail"
-        },
-        "title": "Electric Rails",
-        "description": "Making furnace minecarts completely useless"}
+  "display": {
+    "icon": {
+      "item": "minecraft:powered_rail"
     },
-    "parent": "fritecraft:hamburgirl/completely_useless_fuel_engine",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "powered_rail": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:powered_rail"
-                    }
-                ]
-            }
-        }
+    "title": "Rails electriques",
+    "description": "Rendez les chariots à four obsolètes."
+  },
+  "parent": "fritecraft:hamburgirl/completely_useless_fuel_engine",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "powered_rail": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:powered_rail"
+          }
+        ]
+      }
     }
+  }
 }

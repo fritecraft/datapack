@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:note_block"
-        },
-        "title": "Mozart",
-        "description": "Craft a note block"}
+  "display": {
+    "icon": {
+      "item": "minecraft:note_block"
     },
-    "parent": "fritecraft:hamburgirl/root",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "noteblock": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:note_block"
-                    }
-                ]
-            }
-        }
+    "title": "Mozart",
+    "description": "Fabriquez un bloc musical."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "noteblock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:note_block"
+          }
+        ]
+      }
     }
+  }
 }

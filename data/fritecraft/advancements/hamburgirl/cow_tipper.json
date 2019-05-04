@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:leather"
-        },
-        "title": "Cow Tipper",
-        "description": "Harvest some leather"}
+  "display": {
+    "icon": {
+      "item": "minecraft:leather"
     },
-    "parent": "fritecraft:hamburgirl/root",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "leather": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:leather"
-                    }
-                ]
-            }
-        }
+    "title": "Tanneur",
+    "description": "Trouvez du cuir."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "leather": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:leather"
+          }
+        ]
+      }
     }
+  }
 }

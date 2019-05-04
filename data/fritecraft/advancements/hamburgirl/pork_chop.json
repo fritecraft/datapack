@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cooked_porkchop"
-        },
-        "title": "Pork Chop",
-        "description": "You know kung fu, how about pork chop?"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cooked_porkchop"
     },
-    "parent": "fritecraft:hamburgirl/bacon",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "cooked_porkchop": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:cooked_porkchop"
-                }
-            }
+    "title": "On steak haché",
+    "description": "Mangez du porc cuit"
+  },
+  "parent": "fritecraft:hamburgirl/bacon",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cooked_porkchop": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_porkchop"
         }
+      }
     }
+  }
 }

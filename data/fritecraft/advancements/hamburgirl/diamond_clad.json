@@ -1,56 +1,56 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_helmet"
-        },
-        "title": "Diamond Clad",
-        "description": "A full suit of diamond armor saves even more lives",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_helmet"
     },
-    "parent": "fritecraft:hamburgirl/shiny_gear",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "diamond_helmet": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_helmet"
-                    }
-                ]
-            }
-        },
-        "diamond_chestplate": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_chestplate"
-                    }
-                ]
-            }
-        },
-        "diamond_leggings": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_leggings"
-                    }
-                ]
-            }
-        },
-        "diamond_boots": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_boots"
-                    }
-                ]
-            }
-        }
+    "title": "Tank de diamants",
+    "description": "Une armure complète de diamant sauve encore plus de vies.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:hamburgirl/shiny_gear",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "diamond_helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_helmet"
+          }
+        ]
+      }
+    },
+    "diamond_chestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_chestplate"
+          }
+        ]
+      }
+    },
+    "diamond_leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_leggings"
+          }
+        ]
+      }
+    },
+    "diamond_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_boots"
+          }
+        ]
+      }
     }
+  }
 }

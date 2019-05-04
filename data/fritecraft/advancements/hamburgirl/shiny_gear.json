@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:diamond_chestplate"
     },
-    "title": {
-      "advancements.story.shiny_gear.title"
-    },
-    "description": {
-      "advancements.story.shiny_gear.description"
-    },
+    "title": "Couvrez-moi de diamants",
+    "description": "Une armure en diamant peut sauver la vie.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "diamond_helmet": {
       "trigger": "minecraft:inventory_changed",

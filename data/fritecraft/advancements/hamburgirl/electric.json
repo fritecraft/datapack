@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:redstone_lamp"
-        },
-        "title": "Electric!",
-        "description": "Light up the area with some redstone lamps"}
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone_lamp"
     },
-    "parent": "fritecraft:hamburgirl/glowing",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "redstone_lamp": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "block": "minecraft:redstone_lamp"
-            }
-        }
+    "title": "Ampoule basse consommation",
+    "description": "Illuminez une zone avec des lampes redstone."
+  },
+  "parent": "fritecraft:hamburgirl/glowing",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "redstone_lamp": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:redstone_lamp"
+      }
     }
+  }
 }

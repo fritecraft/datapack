@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:clay_ball"
-        },
-        "title": "Clay-Dough!",
-        "description": "Dig up some clay from a lake"}
+  "display": {
+    "icon": {
+      "item": "minecraft:clay_ball"
     },
-    "parent": "fritecraft:hamburgirl/root",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "clay_ball": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:clay_ball"
-                    }
-                ]
-            }
-        }
+    "title": "La méthode Agile",
+    "description": "Creusez de l'argile dans un lac ou une rivière."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "clay_ball": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:clay_ball"
+          }
+        ]
+      }
     }
+  }
 }

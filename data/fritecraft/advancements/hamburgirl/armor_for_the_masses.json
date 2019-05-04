@@ -1,72 +1,72 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_chestplate"
-        },
-        "title": "Armor for the masses",
-        "description": "Obtain every protection related enchantment",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_chestplate"
     },
-    "parent": "fritecraft:hamburgirl/like_a_cat",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "protection": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:protection"
-							}
-						]
-					}
-				]
-			}
-		},
-        "fire_protection": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:fire_protection"
-							}
-						]
-					}
-				]
-			}
-		},
-        "blast_protection": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:blast_protection"
-							}
-						]
-					}
-				]
-			}
-		},
-        "projectile_protection": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:projectile_protection"
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Protection magique",
+    "description": "Obtenez tous les enchantements de protection.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:hamburgirl/like_a_cat",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "protection": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:protection"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "fire_protection": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:fire_protection"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "blast_protection": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:blast_protection"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "projectile_protection": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:projectile_protection"
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

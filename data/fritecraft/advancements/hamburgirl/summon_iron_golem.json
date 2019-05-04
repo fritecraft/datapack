@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:carved_pumpkin"
     },
-    "title": {
-      "advancements.adventure.summon_iron_golem.title"
-    },
-    "description": {
-      "advancements.adventure.summon_iron_golem.description"
-    },
+    "title": "Agent de sécurité",
+    "description": "Invoquez un golem de fer pour défendre un village.",
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "summoned_golem": {
       "trigger": "minecraft:summoned_entity",

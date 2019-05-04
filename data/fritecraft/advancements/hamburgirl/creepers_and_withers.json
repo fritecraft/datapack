@@ -1,35 +1,35 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:chiseled_sandstone"
-        },
-        "title": "Creepers and Withers",
-        "description": "Engrave sandstone with creeper and wither patterns"}
+  "display": {
+    "icon": {
+      "item": "minecraft:chiseled_sandstone"
     },
-    "parent": "fritecraft:hamburgirl/jailhouse_block",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "sandstone": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:chiseled_sandstone"
-                    }
-                ]
-            }
-        },
-        "red_sandstone": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:chiseled_red_sandstone"
-                    }
-                ]
-            }
-        }
-	}
+    "title": "Creeper et Wither",
+    "description": "Gravez des têtes de creeper et wither sur du grès."
+  },
+  "parent": "fritecraft:hamburgirl/jailhouse_block",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:chiseled_sandstone"
+          }
+        ]
+      }
+    },
+    "red_sandstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:chiseled_red_sandstone"
+          }
+        ]
+      }
+    }
+  }
 }

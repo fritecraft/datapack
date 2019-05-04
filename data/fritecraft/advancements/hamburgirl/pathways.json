@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:grass_path"
-        },
-        "title": "Pathways",
-        "description": "Use a shovel to create grass paths"}
+  "display": {
+    "icon": {
+      "item": "minecraft:grass_path"
     },
-    "parent": "fritecraft:hamburgirl/root",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "enter_grass_path": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:grass_path"
-            }
-        }
+    "title": "La voie à suivre",
+    "description": "Utilisez une pelle pour créer un chemin."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "enter_grass_path": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:grass_path"
+      }
     }
+  }
 }

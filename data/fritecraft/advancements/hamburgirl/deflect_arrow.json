@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:shield"
     },
-    "title": {
-      "advancements.story.deflect_arrow.title"
-    },
-    "description": {
-      "advancements.story.deflect_arrow.description"
-    },
+    "title": "Pas aujourd'hui",
+    "description": "Parez une flèche avec un bouclier.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "deflected_projectile": {
       "trigger": "minecraft:entity_hurt_player",

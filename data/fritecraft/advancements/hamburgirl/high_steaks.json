@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cooked_beef"
-        },
-        "title": "High Steaks",
-        "description": "The steaks are high for this advancement!"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cooked_beef"
     },
-    "parent": "fritecraft:hamburgirl/cow_tipper",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "cooked_beef": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:cooked_beef"
-                }
-            }
+    "title": "Bifteck",
+    "description": "Mangez un steak."
+  },
+  "parent": "fritecraft:hamburgirl/cow_tipper",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cooked_beef": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:cooked_beef"
         }
+      }
     }
+  }
 }

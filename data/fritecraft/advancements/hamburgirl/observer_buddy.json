@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:observer"
-        },
-        "title": "Observer Buddy",
-        "description": "Craft an observer"}
+  "display": {
+    "icon": {
+      "item": "minecraft:observer"
     },
-    "parent": "fritecraft:hamburgirl/solar_power",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "observer": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:observer"
-                    }
-                ]
-            }
-        }
+    "title": "Mises à jour",
+    "description": "Fabriquez en observateur"
+  },
+  "parent": "fritecraft:hamburgirl/solar_power",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "observer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:observer"
+          }
+        ]
+      }
     }
+  }
 }

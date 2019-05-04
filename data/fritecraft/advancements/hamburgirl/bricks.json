@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:bricks"
-        },
-        "title": "Bricks!",
-        "description": "Fire up that clay!"}
+  "display": {
+    "icon": {
+      "item": "minecraft:bricks"
     },
-    "parent": "fritecraft:hamburgirl/clay_dough",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "brick_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:bricks"
-                    }
-                ]
-            }
-        }
+    "title": "Briques !",
+    "description": "Chauffez-moi cette argile !"
+  },
+  "parent": "fritecraft:hamburgirl/clay_dough",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "brick_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bricks"
+          }
+        ]
+      }
     }
+  }
 }

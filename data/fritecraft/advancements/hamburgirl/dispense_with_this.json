@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:dispenser"
-        },
-        "title": "Dispense With This",
-        "description": "Construct a dispenser"}
+  "display": {
+    "icon": {
+      "item": "minecraft:dispenser"
     },
-    "parent": "fritecraft:hamburgirl/space_dropper",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "dispenser": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dispenser"
-                    }
-                ]
-            }
-        }
+    "title": "Distributeur",
+    "description": "Fabriquez un distributeur"
+  },
+  "parent": "fritecraft:hamburgirl/space_dropper",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "dispenser": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dispenser"
+          }
+        ]
+      }
     }
+  }
 }

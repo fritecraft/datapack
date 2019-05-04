@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:shield",
-			"nbt": "{BlockEntityTag:{Base:0,Patterns:[{Pattern:mr,Color:11},{Pattern:bs,Color:8},{Pattern:cs,Color:7},{Pattern:ms,Color:15},{Pattern:bo,Color:8},{Pattern:hh,Color:8}]}}"
-        },
-        "title": "The Shielding",
-        "description": "A shield does no better than a locked door"}
+  "display": {
+    "icon": {
+      "item": "minecraft:shield",
+      "nbt": "{BlockEntityTag:{Base:0,Patterns:[{Pattern:mr,Color:11},{Pattern:bs,Color:8},{Pattern:cs,Color:7},{Pattern:ms,Color:15},{Pattern:bo,Color:8},{Pattern:hh,Color:8}]}}"
     },
-    "parent": "fritecraft:hamburgirl/heres_johnny",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "deflected_vindicator": {
-            "trigger": "minecraft:entity_hurt_player",
-            "conditions": {
-                "damage": {
-                    "blocked": true,
-					"source_entity": {
-						"type": "vindicator"
-					}
-                }
-            }
+    "title": "Planche protectrice",
+    "description": "Utilisez votre bouclier pour parer une attaque d'hérétique."
+  },
+  "parent": "fritecraft:hamburgirl/heres_johnny",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "deflected_vindicator": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "blocked": true,
+          "source_entity": {
+            "type": "vindicator"
+          }
         }
+      }
     }
+  }
 }

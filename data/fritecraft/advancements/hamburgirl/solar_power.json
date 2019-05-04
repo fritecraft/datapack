@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:daylight_detector"
-        },
-        "title": "Solar Power",
-        "description": "Craft a daylight sensor"}
+  "display": {
+    "icon": {
+      "item": "minecraft:daylight_detector"
     },
-    "parent": "fritecraft:hamburgirl/comparing_comparator",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "daylight_detector": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:daylight_detector"
-                    }
-                ]
-            }
-        }
+    "title": "Panneau solaire",
+    "description": "Fabriquez un détecteur de lumière."
+  },
+  "parent": "fritecraft:hamburgirl/comparing_comparator",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "daylight_detector": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:daylight_detector"
+          }
+        ]
+      }
     }
+  }
 }

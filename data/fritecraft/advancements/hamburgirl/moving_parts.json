@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:piston"
-        },
-        "title": "Moving Parts",
-        "description": "Craft a piston so you can push things"}
+  "display": {
+    "icon": {
+      "item": "minecraft:piston"
     },
-    "parent": "fritecraft:hamburgirl/root",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "piston": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:piston"
-                    }
-                ]
-            }
-        }
+    "title": "Mécanique",
+    "description": "Fabriquez un piston pour pousser des trucs."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "piston": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:piston"
+          }
+        ]
+      }
     }
+  }
 }

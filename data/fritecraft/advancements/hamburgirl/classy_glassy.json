@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:glass"
-        },
-        "title": "Classy Glassy",
-        "description": "Smelt sand in a furnace to get glass"}
+  "display": {
+    "icon": {
+      "item": "minecraft:glass"
     },
-    "parent": "fritecraft:hamburgirl/root",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "glass": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:glass"
-                    }
-                ]
-            }
-        }
+    "title": "Vers la lumière",
+    "description": "Faites fondre du sable pour obtenir du verre."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "glass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:glass"
+          }
+        ]
+      }
     }
+  }
 }
