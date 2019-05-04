@@ -6,7 +6,7 @@
     "title": "La maison des fous",
     "description": "Trouvez un manoir d'hérétiques"
   },
-  "parent": "fritecraft:aventure/treasure_map",
+  "parent": "fritecraft:fritegirl/treasure_map",
   "rewards": {
     "experience": 100
   },

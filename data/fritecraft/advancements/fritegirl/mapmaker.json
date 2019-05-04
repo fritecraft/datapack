@@ -6,7 +6,7 @@
     "title": "Cartographe",
     "description": "Obtenez une carte."
   },
-  "parent": "fritecraft:aventure/magic_book",
+  "parent": "fritecraft:fritegirl/magic_book",
   "rewards": {
     "experience": 100
   },

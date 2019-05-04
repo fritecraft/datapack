@@ -6,7 +6,7 @@
     "title": "Mort aux hérétiques !",
     "description": "Tuer un paria"
   },
-  "parent": "fritecraft:aventure/house_of_psychos",
+  "parent": "fritecraft:fritegirl/house_of_psychos",
   "rewards": {
     "experience": 100
   },

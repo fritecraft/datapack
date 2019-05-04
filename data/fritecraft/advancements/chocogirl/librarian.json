@@ -6,7 +6,7 @@
     "title": "Libraire",
     "description": "Construisez une bibliothèque."
   },
-  "parent": "fritecraft:aventure/root",
+  "parent": "fritecraft:chocogirl/root",
   "rewards": {
     "experience": 100
   },

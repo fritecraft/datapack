@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:aventure/kill_a_mob",
+  "parent": "fritecraft:fringirl/kill_a_mob",
   "display": {
     "icon": {
       "item": "minecraft:totem_of_undying"

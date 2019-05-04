@@ -7,7 +7,7 @@
     "description": "Commercez avec chaque type de villageois",
     "frame": "goal"
   },
-  "parent": "fritecraft:aventure/travelling_merchant",
+  "parent": "fritecraft:nuggetsgirl/travelling_merchant",
   "rewards": {
     "experience": 100
   },

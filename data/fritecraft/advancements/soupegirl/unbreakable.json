@@ -7,7 +7,7 @@
     "description": "Obtenez l'enchantment Raccommodage.",
     "frame": "goal"
   },
-  "parent": "fritecraft:aventure/old_cartoon_joke",
+  "parent": "fritecraft:soupegirl/old_cartoon_joke",
   "rewards": {
     "experience": 100
   },

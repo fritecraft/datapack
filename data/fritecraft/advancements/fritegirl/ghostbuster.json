@@ -6,7 +6,7 @@
     "title": "Chasseur d'esprit !",
     "description": "Tuer un Vex"
   },
-  "parent": "fritecraft:aventure/heres_johnny",
+  "parent": "fritecraft:fritegirl/heres_johnny",
   "rewards": {
     "experience": 100
   },

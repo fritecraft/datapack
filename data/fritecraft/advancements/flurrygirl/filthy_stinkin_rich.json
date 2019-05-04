@@ -7,7 +7,7 @@
     "description": "Posséder 1728 blocs d'émeraudes",
     "frame": "challenge"
   },
-  "parent": "fritecraft:aventure/filthy_rich",
+  "parent": "fritecraft:flurrygirl/filthy_rich",
   "rewards": {
     "experience": 100
   },

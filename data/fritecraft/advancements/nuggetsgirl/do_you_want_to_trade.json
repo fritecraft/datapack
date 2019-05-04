@@ -6,7 +6,7 @@
     "title": "Le Village",
     "description": "Trouvez un village"
   },
-  "parent": "fritecraft:aventure/root",
+  "parent": "fritecraft:nuggetsgirl/root",
   "rewards": {
     "experience": 100
   },
