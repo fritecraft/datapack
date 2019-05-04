@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:furnace"
-        },
-        "title": "Hot Topic",
-        "description": "Construct a furnace out of eight stone blocks"}
+  "display": {
+    "icon": {
+      "item": "minecraft:furnace"
     },
-    "parent": "fritecraft:soupegirl/fossil_fuel",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "furnace": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:furnace"
-                    }
-                ]
-            }
-        }
+    "title": "Cuisson",
+    "description": "Fabriquez un four."
+  },
+  "parent": "fritecraft:soupegirl/fossil_fuel",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "furnace": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:furnace"
+          }
+        ]
+      }
     }
+  }
 }

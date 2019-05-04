@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:glowstone"
-        },
-        "title": "Glowstone Miner",
-        "description": "Mine or craft a stack of glowstone blocks",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:glowstone"
     },
-    "parent": "fritecraft:soupegirl/glows_in_the_dark",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "glowstone": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:glowstone",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Glowstone",
+    "description": "Fabriquez un stack de glowstone.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:soupegirl/glows_in_the_dark",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "glowstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:glowstone",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

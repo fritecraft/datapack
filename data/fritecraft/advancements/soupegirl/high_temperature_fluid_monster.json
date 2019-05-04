@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:magma_cream"
-        },
-        "title": "High Temperature Fluid Monster",
-        "description": "Kill a magma cube"}
+  "display": {
+    "icon": {
+      "item": "minecraft:magma_cream"
     },
-    "parent": "fritecraft:soupegirl/the_tribal_snouts",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "magma_cube": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "magma_cube"
-                }
-            }
+    "title": "Monstre Fluide de Haute Température",
+    "description": "Tuer un cube de magma."
+  },
+  "parent": "fritecraft:soupegirl/the_tribal_snouts",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "magma_cube": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "magma_cube"
         }
+      }
     }
+  }
 }

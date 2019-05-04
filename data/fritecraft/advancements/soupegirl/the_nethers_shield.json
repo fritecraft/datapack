@@ -1,35 +1,35 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:shield",
-			"nbt": "{BlockEntityTag:{Base:4,Patterns:[{Pattern:cre,Color:15},{Pattern:cr,Color:1},{Pattern:hhb,Color:12},{Pattern:tt,Color:1},{Pattern:gru,Color:1}]}}"
-        },
-        "title": "The Nether's Shield",
-        "description": "Block some blaze fireballs"}
+  "display": {
+    "icon": {
+      "item": "minecraft:shield",
+      "nbt": "{BlockEntityTag:{Base:4,Patterns:[{Pattern:cre,Color:15},{Pattern:cr,Color:1},{Pattern:hhb,Color:12},{Pattern:tt,Color:1},{Pattern:gru,Color:1}]}}"
     },
-    "parent": "fritecraft:soupegirl/obtain_blaze_rod",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "deflected_fireball": {
-            "trigger": "minecraft:entity_hurt_player",
-            "conditions": {
-                "damage": {
-                    "blocked": true,
-					"direct_entity": {
-						"type": "small_fireball"
-					},
-					"source_entity": {
-						"type": "blaze",
-						"distance": {
-							"absolute": {
-								"min": 3.0
-							}
-						}
-					}
-                }
+    "title": "C'est tout ce que tu sais faire ?",
+    "description": "Bloquer des boules de feu de blaze."
+  },
+  "parent": "fritecraft:soupegirl/obtain_blaze_rod",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "deflected_fireball": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "blocked": true,
+          "direct_entity": {
+            "type": "small_fireball"
+          },
+          "source_entity": {
+            "type": "blaze",
+            "distance": {
+              "absolute": {
+                "min": 3
+              }
             }
+          }
         }
+      }
     }
+  }
 }

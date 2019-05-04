@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:mushroom_stew"
-        },
-        "title": "Mushroom, Mushroom, Mushroom, Mushroom!",
-        "description": "Slurp some mushroom stew"}
+  "display": {
+    "icon": {
+      "item": "minecraft:mushroom_stew"
     },
-    "parent": "fritecraft:soupegirl/shrooms",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "mushroom_stew": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:mushroom_stew"
-                }
-            }
+    "title": "Soupe OG",
+    "description": "Ingérez une soupe aux champignons"
+  },
+  "parent": "fritecraft:soupegirl/shrooms",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "mushroom_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:mushroom_stew"
         }
+      }
     }
+  }
 }

@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:blaze_spawn_egg"
-        },
-        "title": "Blaze Extinguisher",
-        "description": "Collect a stack of blaze rods",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:blaze_spawn_egg"
     },
-    "parent": "fritecraft:soupegirl/the_nethers_shield",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "blaze_rod": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:blaze_rod",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Extincteur",
+    "description": "Obtenez un stack de batons de blaze.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:soupegirl/the_nethers_shield",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "blaze_rod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blaze_rod",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

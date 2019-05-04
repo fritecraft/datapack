@@ -4,20 +4,13 @@
     "icon": {
       "item": "minecraft:fire_charge"
     },
-    "title": {
-      "advancements.nether.return_to_sender.title"
-    },
-    "description": {
-      "advancements.nether.return_to_sender.description"
-    },
+    "title": "Retour à l'envoyeur",
+    "description": "Détruisez un Ghast avec une boule de feu.",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "rewards": {
-      "experience": 100
-  },	
   "rewards": {
     "experience": 50
   },

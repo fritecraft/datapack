@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:iron_ingot"
     },
-    "title": {
-      "advancements.story.smelt_iron.title"
-    },
-    "description": {
-      "advancements.story.smelt_iron.description"
-    },
+    "title": "L'âge du fer",
+    "description": "Faites fondre du fer.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "iron": {
       "trigger": "minecraft:inventory_changed",

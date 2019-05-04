@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:magma_cube_spawn_egg"
-        },
-        "title": "Magma Cube Squisher",
-        "description": "Collect a stack of magma cream",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:magma_cube_spawn_egg"
     },
-    "parent": "fritecraft:soupegirl/high_temperature_fluid_monster",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "magma_cream": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:magma_cream",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Crème solaire",
+    "description": "Récoltez un stack de crèmes de magma.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:soupegirl/high_temperature_fluid_monster",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "magma_cream": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:magma_cream",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

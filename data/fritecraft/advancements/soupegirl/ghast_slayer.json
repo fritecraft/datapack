@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:ghast_spawn_egg"
-        },
-        "title": "Ghast Slayer",
-        "description": "Collect a stack of ghast tears",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:ghast_spawn_egg"
     },
-    "parent": "fritecraft:soupegirl/bring_down_the_beast",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "ghast_tear": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:ghast_tear",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Tristitude",
+    "description": "Obtenez un stack de larme de ghast.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:soupegirl/bring_down_the_beast",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "ghast_tear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:ghast_tear",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

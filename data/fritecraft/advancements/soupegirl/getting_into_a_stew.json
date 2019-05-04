@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:rabbit_stew"
-        },
-        "title": "Getting Into a Stew",
-        "description": "Make and eat some rabbit stew"}
+  "display": {
+    "icon": {
+      "item": "minecraft:rabbit_stew"
     },
-    "parent": "fritecraft:soupegirl/lucky_charm",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "rabbit_stew": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:rabbit_stew"
-                }
-            }
+    "title": "Voeu de Ragoût",
+    "description": "Cuisinez un ragoût de lapin."
+  },
+  "parent": "fritecraft:soupegirl/lucky_charm",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "rabbit_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:rabbit_stew"
         }
+      }
     }
+  }
 }

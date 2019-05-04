@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:beetroot_soup"
-        },
-        "title": "Souperman",
-        "description": "Beetroot soup gives you souperpowers!"}
+  "display": {
+    "icon": {
+      "item": "minecraft:beetroot_soup"
     },
-    "parent": "fritecraft:soupegirl/plant_seed",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "beetroot_soup": {
-            "trigger": "minecraft:consume_item",
-            "conditions": {
-                "item": {
-                    "item": "minecraft:beetroot_soup"
-                }
-            }
+    "title": "Souperman",
+    "description": "La soupe de navet c'est bon pour la santé."
+  },
+  "parent": "fritecraft:soupegirl/plant_seed",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "beetroot_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:beetroot_soup"
         }
+      }
     }
+  }
 }

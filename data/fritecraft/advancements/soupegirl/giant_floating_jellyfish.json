@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:gunpowder"
-        },
-        "title": "Giant Floating Jellyfish",
-        "description": "Shoot down a ghast"}
+  "display": {
+    "icon": {
+      "item": "minecraft:gunpowder"
     },
-    "parent": "fritecraft:soupegirl/root",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "ghast": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "ghast"
-                }
-            }
+    "title": "Méduse géante vollante",
+    "description": "Tuez un ghast"
+  },
+  "parent": "fritecraft:soupegirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "ghast": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "ghast"
         }
+      }
     }
+  }
 }

@@ -1,115 +1,115 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_sword"
-        },
-        "title": "Bring Down The Beast",
-        "description": "Bring down a ghast with a sword",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_sword"
     },
-    "parent": "fritecraft:soupegirl/return_to_sender",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "ghast_wood": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "ghast",
-					"distance": {
-						"absolute": {
-							"max": 5
-						}
-					}
-                },
-                "killing_blow": {
-                    "source_entity": {
-                        "nbt": "{SelectedItem:{id:\"minecraft:wooden_sword\",}}"
-                    }
-                }
+    "title": "Tranche de méduse",
+    "description": "Tuez un ghast à la hâche.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:soupegirl/return_to_sender",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "ghast_wood": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "ghast",
+          "distance": {
+            "absolute": {
+              "max": 5
             }
+          }
         },
-        "ghast_stone": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "ghast",
-					"distance": {
-						"absolute": {
-							"max": 5
-						}
-					}
-                },
-                "killing_blow": {
-                    "source_entity": {
-                        "nbt": "{SelectedItem:{id:\"minecraft:stone_sword\",}}"
-                    }
-                }
-            }
-        },
-        "ghast_iron": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "ghast",
-					"distance": {
-						"absolute": {
-							"max": 5
-						}
-					}
-                },
-                "killing_blow": {
-                    "source_entity": {
-                        "nbt": "{SelectedItem:{id:\"minecraft:iron_sword\",}}"
-                    }
-                }
-            }
-        },
-        "ghast_gold": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "ghast",
-					"distance": {
-						"absolute": {
-							"max": 5
-						}
-					}
-                },
-                "killing_blow": {
-                    "source_entity": {
-                        "nbt": "{SelectedItem:{id:\"minecraft:golden_sword\",}}"
-                    }
-                }
-            }
-        },
-        "ghast_diamond": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "ghast",
-					"distance": {
-						"absolute": {
-							"max": 5
-						}
-					}
-                },
-                "killing_blow": {
-                    "source_entity": {
-                        "nbt": "{SelectedItem:{id:\"minecraft:diamond_sword\",}}"
-                    }
-                }
-            }
+        "killing_blow": {
+          "source_entity": {
+            "nbt": "{SelectedItem:{id:\"minecraft:wooden_axe\",}}"
+          }
         }
+      }
     },
-    "requirements": [
-		[
-        "ghast_wood",
-        "ghast_stone",
-		"ghast_iron",
-		"ghast_gold",
-		"ghast_diamond"
-		]
+    "ghast_stone": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "ghast",
+          "distance": {
+            "absolute": {
+              "max": 5
+            }
+          }
+        },
+        "killing_blow": {
+          "source_entity": {
+            "nbt": "{SelectedItem:{id:\"minecraft:stone_axe\",}}"
+          }
+        }
+      }
+    },
+    "ghast_iron": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "ghast",
+          "distance": {
+            "absolute": {
+              "max": 5
+            }
+          }
+        },
+        "killing_blow": {
+          "source_entity": {
+            "nbt": "{SelectedItem:{id:\"minecraft:iron_axe\",}}"
+          }
+        }
+      }
+    },
+    "ghast_gold": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "ghast",
+          "distance": {
+            "absolute": {
+              "max": 5
+            }
+          }
+        },
+        "killing_blow": {
+          "source_entity": {
+            "nbt": "{SelectedItem:{id:\"minecraft:golden_axe\",}}"
+          }
+        }
+      }
+    },
+    "ghast_diamond": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "ghast",
+          "distance": {
+            "absolute": {
+              "max": 5
+            }
+          }
+        },
+        "killing_blow": {
+          "source_entity": {
+            "nbt": "{SelectedItem:{id:\"minecraft:diamond_axe\",}}"
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ghast_wood",
+      "ghast_stone",
+      "ghast_iron",
+      "ghast_gold",
+      "ghast_diamond"
     ]
+  ]
 }

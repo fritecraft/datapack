@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:nether_wart"
-        },
-        "title": "Basis of Brewing",
-        "description": "Harvest some nether wart from a nether fortress"}
+  "display": {
+    "icon": {
+      "item": "minecraft:nether_wart"
     },
-    "parent": "fritecraft:soupegirl/obtain_blaze_rod",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "nether_wart": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:nether_wart"
-                    }
-                ]
-            }
-        }
+    "title": "Base des concoctions",
+    "description": "Récoltez des verrues du Nether dans une forteresse."
+  },
+  "parent": "fritecraft:soupegirl/obtain_blaze_rod",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "nether_wart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_wart"
+          }
+        ]
+      }
     }
+  }
 }

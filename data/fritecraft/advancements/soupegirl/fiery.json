@@ -1,58 +1,58 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:blaze_powder"
-        },
-        "title": "Fiery",
-        "description": "Obtain every fire related enchantment",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:blaze_powder"
     },
-    "parent": "fritecraft:soupegirl/scuba_gear",
-    "rewards": {
-        "experience": 100
-    },				
-    "criteria": {
-        "fire_protection": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:fire_protection"
-							}
-						]
-					}
-				]
-			}
-		},
-        "fire_aspect": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:fire_aspect"
-							}
-						]
-					}
-				]
-			}
-		},
-        "flame": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:flame"
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Incendiaire",
+    "description": "Trouvez tous les enchantements liés au feu.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:soupegirl/scuba_gear",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "fire_protection": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:fire_protection"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "fire_aspect": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:fire_aspect"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "flame": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:flame"
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:soul_sand"
-        },
-        "title": "Quicksand",
-        "description": "You sink like quicksand and move slow like mud"}
+  "display": {
+    "icon": {
+      "item": "minecraft:soul_sand"
     },
-    "parent": "fritecraft:soupegirl/root",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "soul_sand": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:soul_sand"
-            }
-        }
+    "title": "Sables hantés",
+    "description": "Marchez dans des âmes torturées."
+  },
+  "parent": "fritecraft:soupegirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "soul_sand": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:soul_sand"
+      }
     }
+  }
 }

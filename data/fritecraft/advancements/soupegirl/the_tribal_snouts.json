@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:gold_nugget"
-        },
-        "title": "The Tribal Snouts",
-        "description": "Kill a zombie pigman"}
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_nugget"
     },
-    "parent": "fritecraft:soupegirl/root",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "zombie_pigman": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "zombie_pigman"
-                }
-            }
+    "title": "La Tribu se vengera",
+    "description": "Tuez un zombie-cochon."
+  },
+  "parent": "fritecraft:soupegirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "zombie_pigman": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "zombie_pigman"
         }
+      }
     }
+  }
 }

@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:quartz_block"
-        },
-        "title": "Quartz Miner",
-        "description": "Mine enough nether quartz to craft a stack of quartz blocks",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:quartz_block"
     },
-    "parent": "fritecraft:soupegirl/quirky_quartz",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "quartz_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:quartz_block",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de Quartz",
+    "description": "Miner assez de quartz pour fabriquer un stack de blocs.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:soupegirl/quirky_quartz",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "quartz_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:quartz_block",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:magma_block"
-        },
-        "title": "Don't Step on it!",
-        "description": "Mine some magma blocks"}
+  "display": {
+    "icon": {
+      "item": "minecraft:magma_block"
     },
-    "parent": "fritecraft:soupegirl/quicksand",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "magma": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:magma_block"
-                    }
-                ]
-            }
-        }
+    "title": "Chaud !",
+    "description": "Miner des blocs de magma."
+  },
+  "parent": "fritecraft:soupegirl/quicksand",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "magma": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:magma_block"
+          }
+        ]
+      }
     }
+  }
 }

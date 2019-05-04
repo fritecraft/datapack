@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:lava_bucket"
     },
-    "title": {
-      "advancements.story.lava_bucket.title"
-    },
-    "description": {
-      "advancements.story.lava_bucket.description"
-    },
+    "title": "Ça brûle !",
+    "description": "Remplissez un seau de lave.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "lava_bucket": {
       "trigger": "minecraft:inventory_changed",

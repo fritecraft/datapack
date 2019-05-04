@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:charcoal"
-        },
-        "title": "Renewable Energy",
-        "description": "Smelt wood trunks using charcoal to make more charcoal"}
+  "display": {
+    "icon": {
+      "item": "minecraft:charcoal"
     },
-    "parent": "fritecraft:soupegirl/hot_topic",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "charcoal": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:charcoal"
-                    }
-                ]
-            }
-        }
+    "title": "Energie renouvelable",
+    "description": "Fabriquez du charbon en utilisant du charbon."
+  },
+  "parent": "fritecraft:soupegirl/hot_topic",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "charcoal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:charcoal"
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,75 +1,75 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:red_nether_bricks"
-        },
-        "title": "Fake fortress",
-        "description": "Craft or collect all forms of nether brick, red nether brick, and nether wart blocks"}
+  "display": {
+    "icon": {
+      "item": "minecraft:red_nether_bricks"
     },
-    "parent": "fritecraft:soupegirl/fake_stronghold",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "nether_brick": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:nether_bricks"
-                    }
-                ]
-            }
-        },
-        "nether_brick_slab": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:nether_brick_slab"
-                    }
-                ]
-            }
-        },
-		"nether_brick_stairs": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:nether_brick_stairs"
-                    }
-                ]
-            }
-        },
-        "nether_brick_fence": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:nether_brick_fence"
-                    }
-                ]
-            }
-        },
-		"red_nether_brick": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:red_nether_bricks"
-                    }
-                ]
-            }
-        },
-		"nether_wart_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:nether_wart_block"
-                    }
-                ]
-            }
-        }
-	}
+    "title": "Fausse forteresse",
+    "description": "Fabriquez ou trouvez tous les blocs du Nether."
+  },
+  "parent": "fritecraft:soupegirl/fake_stronghold",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "nether_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_bricks"
+          }
+        ]
+      }
+    },
+    "nether_brick_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_brick_slab"
+          }
+        ]
+      }
+    },
+    "nether_brick_stairs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_brick_stairs"
+          }
+        ]
+      }
+    },
+    "nether_brick_fence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_brick_fence"
+          }
+        ]
+      }
+    },
+    "red_nether_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:red_nether_bricks"
+          }
+        ]
+      }
+    },
+    "nether_wart_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_wart_block"
+          }
+        ]
+      }
+    }
+  }
 }

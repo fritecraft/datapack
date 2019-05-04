@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:nether_bricks"
     },
-    "title": {
-      "advancements.nether.find_fortress.title"
-    },
-    "description": {
-      "advancements.nether.find_fortress.description"
-    },
+    "title": "Une terrible forteresse",
+    "description": "Découvrez une forteresse du Nether.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "fortress": {
       "trigger": "minecraft:location",

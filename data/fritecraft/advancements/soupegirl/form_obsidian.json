@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:obsidian"
     },
-    "title": {
-      "advancements.story.form_obsidian.title"
-    },
-    "description": {
-      "advancements.story.form_obsidian.description"
-    },
+    "title": "Ice Bucket Challenge",
+    "description": "Formez et minez un bloc d'obsidienne.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "obsidian": {
       "trigger": "minecraft:inventory_changed",
