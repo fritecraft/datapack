@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/the_acacia_king",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "dark_oak_planks": {

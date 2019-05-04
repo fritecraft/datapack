@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/overgrown",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "river": {

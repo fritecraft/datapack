@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/bring_down_the_beast",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "ghast_tear": {

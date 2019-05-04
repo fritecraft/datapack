@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fritegirl/kill_a_mob",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "spider": {

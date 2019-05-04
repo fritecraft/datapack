@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:nuggetsgirl/are_we_there_yet",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "mule": {

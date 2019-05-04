@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:sodagirl/unbreakable",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "perfect_rod": {

@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fritegirl/the_undead_cavalry",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "desert": {

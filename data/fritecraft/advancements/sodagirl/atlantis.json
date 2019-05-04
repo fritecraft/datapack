@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:sodagirl/pushed_around",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "ocean_ruin": {

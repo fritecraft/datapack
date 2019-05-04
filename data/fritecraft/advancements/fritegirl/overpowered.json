@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fritegirl/music_to_my_ears",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "golden_apple": {

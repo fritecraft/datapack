@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/clay_dough",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "white_terracotta": {

@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/for_mother_clarence",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "shulker_box": {

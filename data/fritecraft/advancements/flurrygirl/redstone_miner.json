@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:flurrygirl/whats_the_time_mr_wolf",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "redstone_block": {

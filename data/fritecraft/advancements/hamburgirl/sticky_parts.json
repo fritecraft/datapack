@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:hamburgirl/moving_parts",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "sticky_piston": {

@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/obtain_blaze_rod",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "deflected_fireball": {

@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/armor_for_the_masses",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "knockback": {

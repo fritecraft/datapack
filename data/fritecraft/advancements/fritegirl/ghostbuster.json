@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:fritegirl/heres_johnny",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "vex": {

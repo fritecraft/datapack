@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/obtain_blaze_rod",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "ender_chest": {

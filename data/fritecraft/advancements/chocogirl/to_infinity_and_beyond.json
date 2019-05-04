@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/bow_down_to_me",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "infinity": {

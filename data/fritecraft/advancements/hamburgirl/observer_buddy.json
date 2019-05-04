@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:hamburgirl/solar_power",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "observer": {

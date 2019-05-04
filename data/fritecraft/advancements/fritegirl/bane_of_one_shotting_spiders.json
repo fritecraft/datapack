@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fritegirl/undead_slayer",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "bane_of_arthropods": {

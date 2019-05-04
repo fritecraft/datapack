@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:flurrygirl/fortunate_son",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "silk_touch": {

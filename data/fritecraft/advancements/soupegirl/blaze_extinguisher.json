@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/the_nethers_shield",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "blaze_rod": {

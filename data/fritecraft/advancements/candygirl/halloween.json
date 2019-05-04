@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/torched",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "jack_o_lantern": {

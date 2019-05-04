@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:soupegirl/shrooms",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "mushroom_stew": {

@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:soupegirl/lucky_charm",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "rabbit_stew": {

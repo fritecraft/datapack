@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:fritegirl/living_like_kings",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "golden_helmet": {

@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/salmonella_poisoning",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "tropical_fish": {

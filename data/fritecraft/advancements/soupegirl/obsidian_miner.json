@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/enter_the_nether",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "obsidian": {

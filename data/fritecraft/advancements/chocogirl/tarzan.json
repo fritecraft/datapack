@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:chocogirl/kilometre_walk",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "enter_vine": {

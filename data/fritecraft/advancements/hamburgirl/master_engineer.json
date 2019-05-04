@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/engineer",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "dispenser": {

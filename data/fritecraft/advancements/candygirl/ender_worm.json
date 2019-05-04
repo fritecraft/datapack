@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/the_ender_of_ender",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "endermite": {

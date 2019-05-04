@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:flurrygirl/fossil_fuel",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "coal": {

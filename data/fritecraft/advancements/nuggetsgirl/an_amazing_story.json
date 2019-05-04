@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:nuggetsgirl/write_your_thoughts",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "written_book": {

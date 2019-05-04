@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:sodagirl/in_a_pickle",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "tube_coral": {

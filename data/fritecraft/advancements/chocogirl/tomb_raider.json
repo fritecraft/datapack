@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:chocogirl/grave_robber",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "jungle_pyramid": {

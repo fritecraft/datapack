@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:nuggetsgirl/salmonella_poisoning",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "tamed_animal": {

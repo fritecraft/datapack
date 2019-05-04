@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/slabs_for_days",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "sandstone_stairs": {

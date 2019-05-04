@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/when_pigs_used_to_fly",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "porkchop": {

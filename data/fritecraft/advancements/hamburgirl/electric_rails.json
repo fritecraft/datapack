@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:hamburgirl/completely_useless_fuel_engine",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "powered_rail": {

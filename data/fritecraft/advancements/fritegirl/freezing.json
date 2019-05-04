@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fritegirl/zombie_slayer",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "ice_flats": {

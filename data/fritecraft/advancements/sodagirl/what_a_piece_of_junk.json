@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:sodagirl/catching_nemo",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "bowl": {

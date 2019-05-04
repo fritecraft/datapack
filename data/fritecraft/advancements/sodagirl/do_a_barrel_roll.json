@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/boomerang",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "riptide": {

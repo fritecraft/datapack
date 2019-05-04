@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:fritegirl/dead_dont_die",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "zombie_villager": {

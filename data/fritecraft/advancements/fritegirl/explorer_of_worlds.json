@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:exploration/adventuring_time",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "birch_forest_hills": {

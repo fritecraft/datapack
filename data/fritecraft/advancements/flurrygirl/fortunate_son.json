@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:flurrygirl/super_efficient",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "fortune": {

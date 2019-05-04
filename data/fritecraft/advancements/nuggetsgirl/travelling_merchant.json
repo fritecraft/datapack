@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:nuggetsgirl/trade",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "plains": {

@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:soupegirl/the_tribal_snouts",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "magma_cube": {

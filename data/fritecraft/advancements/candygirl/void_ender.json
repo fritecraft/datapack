@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:candygirl/hell_hunter",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "enderman": {

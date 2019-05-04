@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:fringirl/there_has_to_be_another_way",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "rotten_flesh": {

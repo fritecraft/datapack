@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:hamburgirl/bacon",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "cooked_porkchop": {

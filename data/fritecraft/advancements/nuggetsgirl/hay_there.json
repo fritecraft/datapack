@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:nuggetsgirl/the_lie",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "hay_block": {

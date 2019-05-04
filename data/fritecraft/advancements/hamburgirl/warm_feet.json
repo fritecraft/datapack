@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/cold_feet",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "desert": {

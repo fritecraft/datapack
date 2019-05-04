@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fringirl/summon_iron_golem",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "villager": {

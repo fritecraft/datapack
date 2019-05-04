@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:sodagirl/what_a_piece_of_junk",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "bow": {

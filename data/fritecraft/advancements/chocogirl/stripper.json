@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/yay_i_got_my_wood",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "stripped_oak_log": {

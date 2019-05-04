@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:fritegirl/plant_seed",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "potato": {

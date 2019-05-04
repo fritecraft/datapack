@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:collection/complete_enchanter",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "protection": {

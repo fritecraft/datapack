@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/extrabiologist",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "purpur_block": {

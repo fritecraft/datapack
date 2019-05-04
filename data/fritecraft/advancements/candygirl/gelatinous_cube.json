@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/kill_a_mob",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "slime": {

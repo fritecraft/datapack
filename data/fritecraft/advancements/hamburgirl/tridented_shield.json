@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/a_watery_grave",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "deflected_trident": {

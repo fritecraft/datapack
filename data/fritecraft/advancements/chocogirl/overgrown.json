@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/snow_feet",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "swampland": {

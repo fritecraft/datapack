@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/keep_your_distance",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "deflected_explosion": {

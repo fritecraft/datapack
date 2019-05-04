@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fringirl/murderer",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "iron_golem": {

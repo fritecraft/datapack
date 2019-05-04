@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/x_marks_the_spot",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "conduit_power": {

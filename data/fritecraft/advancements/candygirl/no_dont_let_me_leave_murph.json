@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:candygirl/im_coming_back_murph",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "outer_pos_x": {

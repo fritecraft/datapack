@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:chocogirl/care_for_the_environment",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "oak_sapling": {

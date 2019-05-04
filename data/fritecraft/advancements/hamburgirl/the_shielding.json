@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/heres_johnny",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "deflected_vindicator": {

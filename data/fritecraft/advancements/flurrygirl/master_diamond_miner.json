@@ -9,7 +9,7 @@
     },
     "parent": "fritecraft:flurrygirl/mineral_collection",
     "rewards": {
-        "experience": 100
+        "experience": 1
     },
     "criteria": {
         "diamond": {

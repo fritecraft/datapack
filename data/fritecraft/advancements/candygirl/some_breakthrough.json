@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:candygirl/elytra",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "exhaust_elytra": {

@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:hamburgirl/glowing",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "redstone_lamp": {

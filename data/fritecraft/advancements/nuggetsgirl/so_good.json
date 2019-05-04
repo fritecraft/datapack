@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:nuggetsgirl/tickle_time",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "cooked_chicken": {

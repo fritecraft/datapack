@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:chocogirl/bake_bread",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "cocoa_beans": {

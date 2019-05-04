@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/shiny_gear",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "diamond_helmet": {

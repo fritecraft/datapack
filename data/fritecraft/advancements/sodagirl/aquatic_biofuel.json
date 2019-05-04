@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:sodagirl/kelp_me",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "dried_kelp_block": {

@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/tactical_fishing",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "cod_bucket": {

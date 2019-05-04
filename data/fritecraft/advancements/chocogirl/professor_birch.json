@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/spruce_lee",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "birch_planks": {

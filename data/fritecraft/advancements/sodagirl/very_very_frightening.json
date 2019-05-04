@@ -1,7 +1,7 @@
 {
   "parent": "fritecraft:sodagirl/throw_trident",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "display": {
     "icon": {

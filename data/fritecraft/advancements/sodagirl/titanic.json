@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/get_ship_rekt",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "iceberg": {

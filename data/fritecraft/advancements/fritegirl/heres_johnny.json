@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:fritegirl/house_of_psychos",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "vindicator": {

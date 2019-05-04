@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:candygirl/void_walker",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "outer_pos_x": {

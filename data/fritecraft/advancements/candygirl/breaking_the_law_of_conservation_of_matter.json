@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/the_melon_the_melon_the_melon",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "melon_block": {

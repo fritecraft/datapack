@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/lost_its_bark",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "oak_planks": {

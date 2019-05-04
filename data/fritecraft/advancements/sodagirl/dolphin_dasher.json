@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:sodagirl/boaty_mcboatface",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "dolphins_grace": {

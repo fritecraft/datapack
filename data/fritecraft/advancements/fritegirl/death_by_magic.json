@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:fritegirl/root",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "kill_magic": {

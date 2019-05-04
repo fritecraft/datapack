@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:exploration/secret_of_the_igloo",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "igloo": {

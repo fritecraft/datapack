@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:flurrygirl/old_cartoon_joke",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "frost_walker": {

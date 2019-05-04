@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/glows_in_the_dark",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "glowstone": {

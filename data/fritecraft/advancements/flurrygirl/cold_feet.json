@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:flurrygirl/one_with_the_forest",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "redwood_taiga_hills": {

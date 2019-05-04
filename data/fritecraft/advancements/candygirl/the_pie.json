@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/naturally_carved",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "pumpkin_pie": {

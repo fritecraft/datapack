@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:soupegirl/fossil_fuel",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "furnace": {

@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/stripper",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "oak_log": {

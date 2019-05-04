@@ -1,7 +1,7 @@
 {
   "parent": "fritecraft:sodagirl/root",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "display": {
     "icon": {

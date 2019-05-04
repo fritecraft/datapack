@@ -1,7 +1,7 @@
 {
   "parent": "fritecraft:sodagirl/kill_a_mob",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "display": {
     "icon": {

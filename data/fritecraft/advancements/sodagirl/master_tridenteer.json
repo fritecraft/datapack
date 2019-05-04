@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:sodagirl/master_fisher",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "perfect_trident_loyalty": {

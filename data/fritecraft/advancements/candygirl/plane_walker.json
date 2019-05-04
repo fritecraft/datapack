@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:candygirl/enderman_destroyer",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "overworld": {

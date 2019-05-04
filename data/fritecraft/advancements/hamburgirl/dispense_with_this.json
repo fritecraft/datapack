@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:hamburgirl/space_dropper",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "dispenser": {

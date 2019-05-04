@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/old_cartoon_joke",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "mending": {

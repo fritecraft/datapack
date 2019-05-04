@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:candygirl/dragon_breath",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "lingering_potion": {

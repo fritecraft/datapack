@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:candygirl/find_end_city",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "chorus_fruit": {

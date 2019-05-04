@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:flurrygirl/blast_shield",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "tnt": {

@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:hamburgirl/master_miner",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "perfect_suit_depth_strider": {

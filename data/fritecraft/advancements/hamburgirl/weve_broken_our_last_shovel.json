@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/bling_bling_gone",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "wooden_shovel": {

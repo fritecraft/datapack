@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/feeding_the_chickens",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "chicken": {

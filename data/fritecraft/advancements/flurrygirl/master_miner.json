@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:flurrygirl/unbreakable",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "perfect_pickaxe_fortune": {

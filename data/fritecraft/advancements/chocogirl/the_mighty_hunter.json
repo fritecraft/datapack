@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:chocogirl/sniper_duel",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "chicken": {

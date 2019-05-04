@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/scuba_gear",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "fire_protection": {

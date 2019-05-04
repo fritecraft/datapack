@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/night_runner",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "zombie_pigman": {

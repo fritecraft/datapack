@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:flurrygirl/mine_stone",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "break_tool": {

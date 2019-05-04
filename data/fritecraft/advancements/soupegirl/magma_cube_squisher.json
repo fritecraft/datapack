@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:soupegirl/high_temperature_fluid_monster",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "magma_cream": {

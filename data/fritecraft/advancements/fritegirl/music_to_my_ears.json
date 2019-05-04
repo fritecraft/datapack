@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:collection/i_hereby_dub_thee",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "music_disc_cat": {

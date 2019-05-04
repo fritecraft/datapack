@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:collection/fiery",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "protection": {

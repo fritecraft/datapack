@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:sodagirl/knocking_your_socks_off",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "respiration": {

@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:soupegirl/plant_seed",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "beetroot_soup": {

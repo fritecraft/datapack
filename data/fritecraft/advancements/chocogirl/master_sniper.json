@@ -10,7 +10,7 @@
   },
   "parent": "fritecraft:chocogirl/master_knight",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "perfect_bow_infinity": {

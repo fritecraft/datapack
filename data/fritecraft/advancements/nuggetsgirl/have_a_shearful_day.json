@@ -8,7 +8,7 @@
   },
   "parent": "fritecraft:nuggetsgirl/mary_had_a_little_lamb",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "shears": {

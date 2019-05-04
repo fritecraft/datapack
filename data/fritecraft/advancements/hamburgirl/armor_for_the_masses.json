@@ -9,7 +9,7 @@
   },
   "parent": "fritecraft:hamburgirl/like_a_cat",
   "rewards": {
-    "experience": 100
+    "experience": 1
   },
   "criteria": {
     "protection": {
