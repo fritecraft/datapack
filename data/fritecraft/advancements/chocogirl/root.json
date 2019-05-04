@@ -5,9 +5,11 @@
     },
     "title": "Chocogirl",
     "description": "Du bois, des arcs, et du chocolat",
-    "background": "minecraft:textures/block/oak_log.png",
+    "background": "minecraft:textures/block/stripped_jungle_log.png",
+    "frame": "task",
     "show_toast": false,
-    "announce_to_chat": false
+    "announce_to_chat": false,
+    "hidden": false
   },
   "criteria": {
     "wooden": {

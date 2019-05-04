@@ -4,12 +4,12 @@
       "item": "minecraft:end_stone"
     },
     "title": "Candygirl",
-    "description": "Les défis de la Déesse de la confiserie",
+    "description": "Du sucre, des elytres, et l'End",
     "frame": "task",
     "show_toast": false,
     "announce_to_chat": false,
     "hidden": false,
-    "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+    "background": "minecraft:textures/blocks/purpur_block.png"
   },
   "criteria": {
     "entered_end": {

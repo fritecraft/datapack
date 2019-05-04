@@ -5,9 +5,11 @@
     },
     "title": "Flurrygirl",
     "description": "De la neige, des cavernes, et des minerais",
-    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "background": "minecraft:textures/block/frosted_ice_0.png",
+    "frame": "task",
     "show_toast": false,
-    "announce_to_chat": false
+    "announce_to_chat": false,
+    "hidden": false
   },
   "criteria": {
     "wooden_pickaxe": {

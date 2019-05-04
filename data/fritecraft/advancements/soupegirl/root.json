@@ -4,7 +4,7 @@
       "item": "minecraft:red_nether_bricks"
     },
     "title": "Soupegirl",
-    "description": "Nether, soupe, cuissons, et tout ce qui est chaud.",
+    "description": "De la soupe, des fours, du Nether, et des trucs chauds.",
     "frame": "task",
     "show_toast": false,
     "announce_to_chat": false,

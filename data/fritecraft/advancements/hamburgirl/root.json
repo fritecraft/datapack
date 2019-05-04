@@ -5,9 +5,11 @@
     },
     "title": "Hamburgirl",
     "description": "De la viande, de la redstone, des armures, et des pelles.",
-    "background": "minecraft:textures/block/red_terracotta.png",
+    "background": "minecraft:textures/block/red_concrete_powder.png",
+    "frame": "task",
     "show_toast": false,
-    "announce_to_chat": false
+    "announce_to_chat": false,
+    "hidden": false
   },
   "criteria": {
     "leather_chestplate": {
