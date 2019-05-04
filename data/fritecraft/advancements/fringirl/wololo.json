@@ -1,24 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:totem_of_undying"
-        },
-        "title": "Wololo!",
-        "description": "Defeat an Evoker",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:totem_of_undying"
     },
-    "parent": "fritecraft:fringirl/ghostbuster",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "evoker": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "evoker"
-                }
-            }
+    "title": "Wololo !",
+    "description": "Tuez un Evocateur",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:fringirl/ghostbuster",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "evoker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "evoker"
         }
+      }
     }
+  }
 }

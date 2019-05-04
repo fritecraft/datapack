@@ -4,20 +4,16 @@
     "icon": {
       "item": "minecraft:wither_skeleton_skull"
     },
-    "title": {
-      "advancements.nether.get_wither_skull.title"
-    },
-    "description": {
-      "advancements.nether.get_wither_skull.description"
-    },
+    "title": "Emissaires",
+    "description": "Obtenez un crâne de Wither squelette.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "criteria": {
     "wither_skull": {
       "trigger": "minecraft:inventory_changed",

@@ -1,44 +1,44 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:creeper_head"
-        },
-        "title": "Curses!",
-        "description": "Obtain both types of curses",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:creeper_head"
     },
-    "parent": "fritecraft:fringirl/old_cartoon_joke",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "binding_curse": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:binding_curse"
-							}
-						]
-					}
-				]
-			}
-		},
-        "vanishing_curse": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:vanishing_curse"
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Malédiction !",
+    "description": "Trouvez toutes les malédictions",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:fringirl/old_cartoon_joke",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "binding_curse": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:binding_curse"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "vanishing_curse": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:vanishing_curse"
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,24 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_bars"
-        },
-        "title": "Rekt!",
-        "description": "Get killed by a natural iron golem defending its village",
-		"hidden": "true"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_bars"
     },
-    "parent": "fritecraft:fringirl/murderer",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "iron_golem": {
-            "trigger": "minecraft:entity_killed_player",
-            "conditions": {
-                "entity": {
-                    "type": "iron_golem"
-                }
-            }
+    "title": "Rekt !",
+    "description": "Faites-vous tuer par un golem de fer protégeant son village.",
+    "hidden": "true"
+  },
+  "parent": "fritecraft:fringirl/murderer",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "iron_golem": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "iron_golem"
         }
+      }
     }
+  }
 }

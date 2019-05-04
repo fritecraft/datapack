@@ -1,24 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:iron_sword"
-        },
-        "title": "MURDERER!",
-        "description": "Kill a villager",
-		"hidden": "true"
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_sword"
     },
-    "parent": "fritecraft:fringirl/summon_iron_golem",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "villager": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "villager"
-                }
-            }
+    "title": "ASSASSIN !",
+    "description": "Tuez un villageois",
+    "hidden": "true"
+  },
+  "parent": "fritecraft:fringirl/summon_iron_golem",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "villager": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "villager"
         }
+      }
     }
+  }
 }
