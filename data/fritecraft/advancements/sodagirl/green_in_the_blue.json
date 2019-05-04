@@ -1,42 +1,42 @@
 {
-	"display": {
-		"icon": {
-			"item": "minecraft:seagrass"
-		},
-		"title": "Thalassophobie",
-		"description": "Nager aux travers des algues"
-	},
-	"parent": "fritecraft:sodagirl/root",
-	"rewards": {
-			"experience": 100
-	},		
-	 "criteria": {
-        "seagrass": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:seagrass"
-            }
-        },
-		"tall_seagrass": {
-			"trigger": "minecraft:enter_block",
-			"conditions": {
-				"block": "minecraft:tall_seagrass"
-			}
-		},
-        "kelp": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:kelp"
-            }
-        }
+  "display": {
+    "icon": {
+      "item": "minecraft:seagrass"
     },
-	"requirements": [
-		[
-			"seagrass",
-			"tall_seagrass"
-		],
-		[
-			"kelp"
-		]
-	]
+    "title": "Thalassophobie",
+    "description": "Nager aux travers des algues"
+  },
+  "parent": "fritecraft:sodagirl/root",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "seagrass": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:seagrass"
+      }
+    },
+    "tall_seagrass": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:tall_seagrass"
+      }
+    },
+    "kelp": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:kelp"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "seagrass",
+      "tall_seagrass"
+    ],
+    [
+      "kelp"
+    ]
+  ]
 }

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:wet_sponge"
-        },
-        "title": "Dry Spell",
-        "description": "Dry a sponge in a furnace"}
+  "display": {
+    "icon": {
+      "item": "minecraft:wet_sponge"
     },
-    "parent": "fritecraft:sodagirl/the_deep_end",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "sponge": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:sponge"
-                    }
-                ]
-            }
-        }
+    "title": "Essorage rapide",
+    "description": "Séchez une éponge en la plaçant au four."
+  },
+  "parent": "fritecraft:sodagirl/the_deep_end",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sponge": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:sponge"
+          }
+        ]
+      }
     }
+  }
 }

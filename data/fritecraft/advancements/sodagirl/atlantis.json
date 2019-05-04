@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:chiseled_stone_bricks"
-        },
-        "title": "Atlantis",
-        "description": "Explore some Underwater Ruins"}
+  "display": {
+    "icon": {
+      "item": "minecraft:chiseled_stone_bricks"
     },
-    "parent": "fritecraft:sodagirl/pushed_around",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "ocean_ruin": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "ocean_ruin"
-            }
-        }
+    "title": "Atlantide",
+    "description": "Explorez des ruines sous-marines."
+  },
+  "parent": "fritecraft:sodagirl/pushed_around",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "ocean_ruin": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "ocean_ruin"
+      }
     }
+  }
 }

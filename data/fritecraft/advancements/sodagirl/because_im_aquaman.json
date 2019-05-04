@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:trident"
-        },
-        "title": "Because I'm Aquaman!",
-        "description": "Obtain a trident from a Drowned",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:trident"
     },
-    "parent": "fritecraft:sodagirl/tridented_shield",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "trident": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:trident"
-                    }
-                ]
-            }
-        }
+    "title": "Neptune",
+    "description": "Obtenez un trident",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/tridented_shield",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "trident": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:trident"
+          }
+        ]
+      }
     }
+  }
 }

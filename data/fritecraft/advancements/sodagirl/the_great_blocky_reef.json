@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:tube_coral"
-        },
-        "title": "The Great Blocky Reef",
-        "description": "Come across a coral reef in the ocean"}
+  "display": {
+    "icon": {
+      "item": "minecraft:tube_coral"
     },
-    "parent": "fritecraft:sodagirl/dolphin_dasher",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "warm_ocean": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "biome": "minecraft:warm_ocean"
-            }
-        }
+    "title": "Grande Barrière de Corail",
+    "description": "Trouvez un récif corallien."
+  },
+  "parent": "fritecraft:sodagirl/dolphin_dasher",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "warm_ocean": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "minecraft:warm_ocean"
+      }
     }
+  }
 }

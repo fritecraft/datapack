@@ -1,24 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:conduit"
-        },
-        "title": "Power of the Ocean",
-        "description": "Construct a Conduit in the ocean",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:conduit"
     },
-    "parent": "fritecraft:sodagirl/x_marks_the_spot",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "conduit_power": {
-            "trigger": "minecraft:effects_changed",
-            "conditions": {
-                "effects": {
-                    "minecraft:conduit_power": {}
-                }
-            }
+    "title": "Pouvoir de l'océan",
+    "description": "Construisez un Conduit",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/x_marks_the_spot",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "conduit_power": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "minecraft:conduit_power": {}
         }
+      }
     }
+  }
 }

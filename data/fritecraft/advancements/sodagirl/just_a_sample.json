@@ -1,239 +1,239 @@
 {
-    "display": {
-        "icon": {
+  "display": {
+    "icon": {
+      "item": "minecraft:fire_coral_fan"
+    },
+    "title": "Juste un échantillon",
+    "description": "Récoltez du corail d'un récif"
+  },
+  "parent": "fritecraft:sodagirl/in_a_pickle",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "tube_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:tube_coral"
+          }
+        ]
+      }
+    },
+    "brain_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brain_coral"
+          }
+        ]
+      }
+    },
+    "bubble_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bubble_coral"
+          }
+        ]
+      }
+    },
+    "fire_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:fire_coral"
+          }
+        ]
+      }
+    },
+    "horn_coral": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:horn_coral"
+          }
+        ]
+      }
+    },
+    "tube_coral_fan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:tube_coral_fan"
+          }
+        ]
+      }
+    },
+    "brain_coral_fan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brain_coral_fan"
+          }
+        ]
+      }
+    },
+    "bubble_coral_fan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bubble_coral_fan"
+          }
+        ]
+      }
+    },
+    "fire_coral_fan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
             "item": "minecraft:fire_coral_fan"
-        },
-        "title": "Just a sample",
-        "description": "Collect some coral from a coral reef"}
+          }
+        ]
+      }
     },
-    "parent": "fritecraft:sodagirl/in_a_pickle",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "tube_coral": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:tube_coral"
-                    }
-                ]
-            }
-        },
-        "brain_coral": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:brain_coral"
-                    }
-                ]
-            }
-        },
-        "bubble_coral": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:bubble_coral"
-                    }
-                ]
-            }
-        },
-        "fire_coral": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:fire_coral"
-                    }
-                ]
-            }
-        },
-        "horn_coral": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:horn_coral"
-                    }
-                ]
-            }
-        },
-        "tube_coral_fan": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:tube_coral_fan"
-                    }
-                ]
-            }
-        },
-        "brain_coral_fan": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:brain_coral_fan"
-                    }
-                ]
-            }
-        },
-        "bubble_coral_fan": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:bubble_coral_fan"
-                    }
-                ]
-            }
-        },
-        "fire_coral_fan": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:fire_coral_fan"
-                    }
-                ]
-            }
-        },
-        "horn_coral_fan": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:horn_coral_fan"
-                    }
-                ]
-            }
-        },
-        "tube_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:tube_coral_block"
-                    }
-                ]
-            }
-        },
-        "brain_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:brain_coral_block"
-                    }
-                ]
-            }
-        },
-        "bubble_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:bubble_coral_block"
-                    }
-                ]
-            }
-        },
-        "fire_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:fire_coral_block"
-                    }
-                ]
-            }
-        },
-        "horn_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:horn_coral_block"
-                    }
-                ]
-            }
-        },
-        "dead_tube_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dead_tube_coral_block"
-                    }
-                ]
-            }
-        },
-        "dead_brain_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dead_brain_coral_block"
-                    }
-                ]
-            }
-        },
-        "dead_bubble_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dead_bubble_coral_block"
-                    }
-                ]
-            }
-        },
-        "dead_fire_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dead_fire_coral_block"
-                    }
-                ]
-            }
-        },
-        "dead_horn_coral_block": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dead_horn_coral_block"
-                    }
-                ]
-            }
-        }
+    "horn_coral_fan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:horn_coral_fan"
+          }
+        ]
+      }
     },
-    "requirements": [
-		[
-        "tube_coral",
-        "brain_coral",
-        "bubble_coral",
-        "fire_coral",
-        "horn_coral",
-        "tube_coral_fan",
-        "brain_coral_fan",
-        "bubble_coral_fan",
-        "fire_coral_fan",
-        "horn_coral_fan",
-        "tube_coral_block",
-        "brain_coral_block",
-        "bubble_coral_block",
-        "fire_coral_block",
-        "horn_coral_block",
-        "dead_tube_coral_block",
-        "dead_brain_coral_block",
-        "dead_bubble_coral_block",
-        "dead_fire_coral_block",
-        "dead_horn_coral_block"
-		]
-	]
+    "tube_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:tube_coral_block"
+          }
+        ]
+      }
+    },
+    "brain_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:brain_coral_block"
+          }
+        ]
+      }
+    },
+    "bubble_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bubble_coral_block"
+          }
+        ]
+      }
+    },
+    "fire_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:fire_coral_block"
+          }
+        ]
+      }
+    },
+    "horn_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:horn_coral_block"
+          }
+        ]
+      }
+    },
+    "dead_tube_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dead_tube_coral_block"
+          }
+        ]
+      }
+    },
+    "dead_brain_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dead_brain_coral_block"
+          }
+        ]
+      }
+    },
+    "dead_bubble_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dead_bubble_coral_block"
+          }
+        ]
+      }
+    },
+    "dead_fire_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dead_fire_coral_block"
+          }
+        ]
+      }
+    },
+    "dead_horn_coral_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dead_horn_coral_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tube_coral",
+      "brain_coral",
+      "bubble_coral",
+      "fire_coral",
+      "horn_coral",
+      "tube_coral_fan",
+      "brain_coral_fan",
+      "bubble_coral_fan",
+      "fire_coral_fan",
+      "horn_coral_fan",
+      "tube_coral_block",
+      "brain_coral_block",
+      "bubble_coral_block",
+      "fire_coral_block",
+      "horn_coral_block",
+      "dead_tube_coral_block",
+      "dead_brain_coral_block",
+      "dead_bubble_coral_block",
+      "dead_fire_coral_block",
+      "dead_horn_coral_block"
+    ]
+  ]
 }

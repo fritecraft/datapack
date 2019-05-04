@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:sea_lantern"
-        },
-        "title": "Expensive!",
-        "description": "Light up the area with some sea lanterns"}
+  "display": {
+    "icon": {
+      "item": "minecraft:sea_lantern"
     },
-    "parent": "fritecraft:sodagirl/glowing",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "sea_lantern": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "block": "minecraft:sea_lantern"
-            }
-        }
+    "title": "Lanternes marines",
+    "description": "Illuminez une zone avec des lanternes de prismarin."
+  },
+  "parent": "fritecraft:sodagirl/glowing",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sea_lantern": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:sea_lantern"
+      }
     }
+  }
 }

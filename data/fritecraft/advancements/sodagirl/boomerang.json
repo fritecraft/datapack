@@ -1,31 +1,31 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:trident"
-        },
-        "title": "Boomerang",
-        "description": "Turn your trident into a boomerang by getting Loyalty on it",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:trident"
     },
-    "parent": "fritecraft:sodagirl/librarian",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "power": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"item": "minecraft:trident",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:loyalty"
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Boomerang",
+    "description": "Enchantez votre trident avec l'enchantement Loyauté.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/librarian",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "power": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:trident",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:loyalty"
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

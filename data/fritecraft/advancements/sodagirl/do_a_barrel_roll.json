@@ -1,31 +1,31 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:water_bucket"
-        },
-        "title": "Do A Barrel Roll!",
-        "description": "Get Riptide on a trident so you can shoot yourself through the water",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:water_bucket"
     },
-    "parent": "fritecraft:sodagirl/boomerang",
-    "rewards": {
-        "experience": 100
-    },				
-    "criteria": {
-        "riptide": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"item": "minecraft:trident",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:riptide"
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Mode Turbo",
+    "description": "Enchantez votre trident avec Impulsion pour vous propulser sous l'eau.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/boomerang",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "riptide": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:trident",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:riptide"
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

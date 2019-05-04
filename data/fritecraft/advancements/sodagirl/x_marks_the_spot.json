@@ -1,26 +1,26 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:filled_map"
-        },
-        "title": "X Marks the Spot",
-        "description": "Use a treasure map to find a Heart of the Sea in Buried Treasure",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:filled_map"
     },
-    "parent": "fritecraft:sodagirl/get_ship_rekt",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "heart_of_the_sea": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:heart_of_the_sea"
-                    }
-                ]
-            }
-        }
-	}
+    "title": "X",
+    "description": "Utilisez une carte au trésor pour trouver ... un trésor.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/get_ship_rekt",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "heart_of_the_sea": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:heart_of_the_sea"
+          }
+        ]
+      }
+    }
+  }
 }

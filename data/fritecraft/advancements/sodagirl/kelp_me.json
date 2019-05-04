@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:kelp"
-        },
-        "title": "Kelp me!",
-        "description": "Collect some kelp from an ocean"}
+  "display": {
+    "icon": {
+      "item": "minecraft:kelp"
     },
-    "parent": "fritecraft:sodagirl/sugar_sugar",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "kelp": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:kelp"
-                    }
-                ]
-            }
-        }
+    "title": "Plantes d'eau",
+    "description": "Récoltez des algues dans l'océan."
+  },
+  "parent": "fritecraft:sodagirl/sugar_sugar",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "kelp": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:kelp"
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,83 +1,83 @@
 {
-    "display": {
-        "icon": {
+  "display": {
+    "icon": {
+      "item": "minecraft:trident",
+      "nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
+    },
+    "title": "Le meilleur trident",
+    "description": "Créez un trident avec les meilleurs enchantements.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:sodagirl/master_fisher",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "perfect_trident_loyalty": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
             "item": "minecraft:trident",
-			"nbt": "{Enchantments:[{id:\"minecraft:unbreaking\",lvl:1}]}"
-        },
-        "title": "Master Tridenteer",
-        "description": "Create a trident with all possible enchantments at max level",
-		"frame": "challenge"
-    },
-    "parent": "fritecraft:sodagirl/master_fisher",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "perfect_trident_loyalty": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-                    {
-                        "item": "minecraft:trident",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:impaling",
-								"levels": 5
-							},
-							{
-								"enchantment": "minecraft:loyalty",
-								"levels": 3
-							},
-							{
-								"enchantment": "minecraft:channeling",
-								"levels": 1
-							},
-							{
-								"enchantment": "minecraft:mending",
-								"levels": 1
-							},
-							{
-								"enchantment": "minecraft:unbreaking",
-								"levels": 3
-							}
-						]
-                    }
-                ]
-            }
-        },
-        "perfect_trident_riptide": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-                    {
-                        "item": "minecraft:trident",
-						"enchantments": [
-							{
-								"enchantment": "minecraft:impaling",
-								"levels": 5
-							},
-							{
-								"enchantment": "minecraft:riptide",
-								"levels": 3
-							},
-							{
-								"enchantment": "minecraft:mending",
-								"levels": 1
-							},
-							{
-								"enchantment": "minecraft:unbreaking",
-								"levels": 3
-							}
-						]
-                    }
-                ]
-            }
-        }
-    },
-    "requirements": [
-        [
-            "perfect_trident_loyalty",
-            "perfect_trident_riptide"
+            "enchantments": [
+              {
+                "enchantment": "minecraft:impaling",
+                "levels": 5
+              },
+              {
+                "enchantment": "minecraft:loyalty",
+                "levels": 3
+              },
+              {
+                "enchantment": "minecraft:channeling",
+                "levels": 1
+              },
+              {
+                "enchantment": "minecraft:mending",
+                "levels": 1
+              },
+              {
+                "enchantment": "minecraft:unbreaking",
+                "levels": 3
+              }
+            ]
+          }
         ]
+      }
+    },
+    "perfect_trident_riptide": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:trident",
+            "enchantments": [
+              {
+                "enchantment": "minecraft:impaling",
+                "levels": 5
+              },
+              {
+                "enchantment": "minecraft:riptide",
+                "levels": 3
+              },
+              {
+                "enchantment": "minecraft:mending",
+                "levels": 1
+              },
+              {
+                "enchantment": "minecraft:unbreaking",
+                "levels": 3
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "perfect_trident_loyalty",
+      "perfect_trident_riptide"
     ]
+  ]
 }

@@ -1,20 +1,20 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:water_bucket"
-        },
-        "title": "Océan",
-        "description": "Se mouiller les pattes",
-        "background": "minecraft:textures/block/prismarine_bricks.png",
-        "show_toast": false,
-        "announce_to_chat": false
+  "display": {
+    "icon": {
+      "item": "minecraft:water_bucket"
     },
-    "criteria": {
-        "water": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:water"
-            }
-        }
+    "title": "Sodagirl",
+    "description": "De l'eau, des poissons, d'autres trucs sous l'eau, et des tridents",
+    "background": "minecraft:textures/block/prismarine_bricks.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "water": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:water"
+      }
     }
+  }
 }

@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:sponge"
-        },
-        "title": "Sponge Miner",
-        "description": "Collect a stack of sponges from ocean monuments",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:sponge"
     },
-    "parent": "fritecraft:sodagirl/dry_spell",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "sponge": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:sponge",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur d'éponges",
+    "description": "Obtenez un stack d'éponge dans des monuments.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/dry_spell",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "sponge": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:sponge",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

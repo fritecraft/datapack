@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:seagrass"
-        },
-        "title": "Tombeau sous-marin",
-        "description": "Tuer un noyé."
+  "display": {
+    "icon": {
+      "item": "minecraft:seagrass"
     },
-    "parent": "fritecraft:sodagirl/iron_belly",
-    "rewards": {
-        "experience": 100
-    },
-    "criteria": {
-        "drowned": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "drowned"
-                }
-            }
+    "title": "Tombeau sous-marin",
+    "description": "Tuer un noyé."
+  },
+  "parent": "fritecraft:sodagirl/iron_belly",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "drowned": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "drowned"
         }
+      }
     }
+  }
 }

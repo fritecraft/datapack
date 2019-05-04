@@ -1,29 +1,29 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:arrow"
-        },
-        "title": "Spear Fishing",
-        "description": "Kill a Guardian with arrows"}
+  "display": {
+    "icon": {
+      "item": "minecraft:arrow"
     },
-    "parent": "fritecraft:sodagirl/laser_sharks",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "guardian": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "killing_blow": {
-                    "is_projectile": true,
-                        "direct_entity": {
-                            "type": "minecraft:arrow"
-                        }
-                },
-                "entity": {
-                    "type": "guardian"
-                }
-            }
+    "title": "Pêche au harpon",
+    "description": "Tuez un gardien avec des flèches."
+  },
+  "parent": "fritecraft:sodagirl/laser_sharks",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "guardian": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "is_projectile": true,
+          "direct_entity": {
+            "type": "minecraft:arrow"
+          }
+        },
+        "entity": {
+          "type": "guardian"
         }
+      }
     }
+  }
 }

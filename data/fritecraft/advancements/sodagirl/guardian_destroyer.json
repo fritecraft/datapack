@@ -1,38 +1,38 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:guardian_spawn_egg"
-        },
-        "title": "Guardian Destroyer",
-        "description": "Collect a stack of prismarine shards and crystals",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:guardian_spawn_egg"
     },
-    "parent": "fritecraft:sodagirl/spear_fishing",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "prismarine_shard": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:prismarine_shard",
-						"count": 64
-                    }
-                ]
-            }
-        },
-        "prismarine_crystals": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:prismarine_crystals",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Destructeur de gardiens",
+    "description": "Obtenez un stack de fragments et cristaux prismarins.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/spear_fishing",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "prismarine_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:prismarine_shard",
+            "count": 64
+          }
+        ]
+      }
+    },
+    "prismarine_crystals": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:prismarine_crystals",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

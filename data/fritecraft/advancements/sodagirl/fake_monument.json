@@ -1,45 +1,45 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:prismarine_bricks"
-        },
-        "title": "Fake monument",
-        "description": "Craft or collect all forms of prismarine blocks"}
+  "display": {
+    "icon": {
+      "item": "minecraft:prismarine_bricks"
     },
-    "parent": "fritecraft:sodagirl/greek_art_decor",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "prismarine": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:prismarine"
-                    }
-                ]
-            }
-        },
-        "prismarine_bricks": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:prismarine_bricks"
-                    }
-                ]
-            }
-        },
-		"dark_prismarine": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:dark_prismarine"
-                    }
-                ]
-            }
-        }
-	}
+    "title": "Faux monument",
+    "description": "Fabriquez ou trouvez tous les blocs de prismarin."
+  },
+  "parent": "fritecraft:sodagirl/greek_art_decor",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "prismarine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:prismarine"
+          }
+        ]
+      }
+    },
+    "prismarine_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:prismarine_bricks"
+          }
+        ]
+      }
+    },
+    "dark_prismarine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dark_prismarine"
+          }
+        ]
+      }
+    }
+  }
 }

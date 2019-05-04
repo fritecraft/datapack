@@ -1,119 +1,109 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:bone"
-        },
-        "title": "What a piece of junk!",
-        "description": "Fish out a junk item"}
+  "display": {
+    "icon": {
+      "item": "minecraft:bone"
     },
-    "parent": "fritecraft:sodagirl/catching_nemo",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "bowl": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:bowl"
-                }
-            }
-        },
-        "leather": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:leather"
-                }
-            }
-        },
-        "leather_boots": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:leather_boots"
-                }
-            }
-        },
-        "rotten_flesh": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:rotten_flesh"
-                }
-            }
-        },
-        "stick": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:stick"
-                }
-            }
-        },
-        "string": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:string"
-                }
-            }
-        },
-        "potion": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:potion"
-                }
-            }
-        },
-        "bone": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:bone"
-                }
-            }
-        },
-        "ink_sac": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:ink_sac"
-                }
-            }
-        },
-        "tripwire_hook": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:tripwire_hook"
-                }
-            }
+    "title": "Directement à la poubelle",
+    "description": "Pêcher quelque chose de relativement décevant."
+  },
+  "parent": "fritecraft:sodagirl/catching_nemo",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "bowl": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:bowl"
         }
+      }
     },
-    "requirements": [
-		[
-        "bowl",
-		"leather",
-		"leather_boots",
-		"rotten_flesh",
-		"stick",
-		"string",
-		"potion",
-		"bone",
-		"ink_sac",
-		"tripwire_hook"
-		]
+    "leather": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:leather"
+        }
+      }
+    },
+    "leather_boots": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:leather_boots"
+        }
+      }
+    },
+    "rotten_flesh": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:rotten_flesh"
+        }
+      }
+    },
+    "stick": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:stick"
+        }
+      }
+    },
+    "string": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:string"
+        }
+      }
+    },
+    "potion": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:potion"
+        }
+      }
+    },
+    "bone": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:bone"
+        }
+      }
+    },
+    "ink_sac": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:ink_sac"
+        }
+      }
+    },
+    "tripwire_hook": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:tripwire_hook"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bowl",
+      "leather",
+      "leather_boots",
+      "rotten_flesh",
+      "stick",
+      "string",
+      "potion",
+      "bone",
+      "ink_sac",
+      "tripwire_hook"
     ]
+  ]
 }

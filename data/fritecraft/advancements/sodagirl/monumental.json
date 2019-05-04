@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:prismarine"
-        },
-        "title": "Monumental",
-        "description": "Find an Ocean Monument"}
+  "display": {
+    "icon": {
+      "item": "minecraft:prismarine"
     },
-    "parent": "fritecraft:sodagirl/treasure_map",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "monument": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Monument"
-            }
-        }
+    "title": "Temple Marin",
+    "description": "Trouvez un Monument Marin."
+  },
+  "parent": "fritecraft:sodagirl/treasure_map",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "monument": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Monument"
+      }
     }
+  }
 }

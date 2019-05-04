@@ -1,52 +1,48 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:salmon_bucket"
-        },
-        "title": "Aquarium",
-        "description": "Catch all four types of fish and set them free in an aquarium",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:salmon_bucket"
     },
-    "parent": "fritecraft:sodagirl/tactical_fishing",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "cod_bucket": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:cod_bucket"
-                }
-            }
-        },
-        "salmon_bucket": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:salmon_bucket"
-                }
-            }
-        },
-        "pufferfish_bucket": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:pufferfish_bucket"
-                }
-            }
-        },
-        "tropical_fish_bucket": {
-            "trigger": "minecraft:placed_block",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:tropical_fish_bucket"
-                }
-            }
+    "title": "Aquarium",
+    "description": "Placez des poissons dans un aquarium",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/tactical_fishing",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "cod_bucket": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:cod_bucket"
         }
+      }
+    },
+    "salmon_bucket": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:salmon_bucket"
+        }
+      }
+    },
+    "pufferfish_bucket": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:pufferfish_bucket"
+        }
+      }
+    },
+    "tropical_fish_bucket": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:tropical_fish_bucket"
+        }
+      }
     }
+  }
 }

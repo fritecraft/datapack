@@ -1,18 +1,14 @@
 {
   "parent": "fritecraft:sodagirl/fishy_business",
   "rewards": {
-      "experience": 100
-  },	  
+    "experience": 100
+  },
   "display": {
     "icon": {
       "item": "minecraft:pufferfish_bucket"
     },
-    "title": {
-      "advancements.husbandry.tactical_fishing.title"
-    },
-    "description": {
-      "advancements.husbandry.tactical_fishing.description"
-    },
+    "title": "Pêche tactique",
+    "description": "Attrapez un poisson... sans canne à pêche !",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:dark_oak_fence"
-        },
-        "title": "Titanic",
-        "description": "Find a shipwreck in an iceberg biome",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:dark_oak_fence"
     },
-    "parent": "fritecraft:sodagirl/get_ship_rekt",
-    "rewards": {
-        "experience": 100
-    },			
-    "criteria": {
-        "iceberg": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Shipwreck",
-                "biome": "minecraft:deep_frozen_ocean"
-            }
-        }
+    "title": "Titanic",
+    "description": "Trouvez une épave dans un océan gelé.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:sodagirl/get_ship_rekt",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "iceberg": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Shipwreck",
+        "biome": "minecraft:deep_frozen_ocean"
+      }
     }
+  }
 }

@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:magma_block"
-        },
-        "title": "Pushed Around",
-        "description": "Enter a bubble column"}
+  "display": {
+    "icon": {
+      "item": "minecraft:magma_block"
     },
-    "parent": "fritecraft:sodagirl/dolphin_dasher",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "enter_water": {
-            "trigger": "minecraft:enter_block",
-            "conditions": {
-                "block": "minecraft:bubble_column"
-            }
-        }
+    "title": "Eau chaude",
+    "description": "Passez dans une colonne de bulles"
+  },
+  "parent": "fritecraft:sodagirl/dolphin_dasher",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "enter_water": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:bubble_column"
+      }
     }
+  }
 }

@@ -1,25 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:leather_boots"
-        },
-        "title": "Someone's been here before...",
-        "description": "Fish out a ratty old pair of boots",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:leather_boots"
     },
-    "parent": "fritecraft:sodagirl/treasure_hunter",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "leather_boots": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:leather_boots"
-                }
-            }
+    "title": "Quelqu'un est déjà passé par ici...",
+    "description": "Pêchez une paire de bottes.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/treasure_hunter",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "leather_boots": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:leather_boots"
         }
+      }
     }
+  }
 }

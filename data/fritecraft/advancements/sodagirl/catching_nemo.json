@@ -1,25 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:tropical_fish"
-        },
-        "title": "Catching Nemo",
-        "description": "Catch a clownfish",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:tropical_fish"
     },
-    "parent": "fritecraft:sodagirl/salmonella_poisoning",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "tropical_fish": {
-            "trigger": "minecraft:fishing_rod_hooked",
-            "conditions": {
-                "item":
-                {
-                    "item": "minecraft:tropical_fish"
-                }
-            }
+    "title": "Nemo",
+    "description": "Pêchez un poisson tropical",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/salmonella_poisoning",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "tropical_fish": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "item": "minecraft:tropical_fish"
         }
+      }
     }
+  }
 }

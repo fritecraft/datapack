@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:cod"
-        },
-        "title": "Dolphin Dasher",
-        "description": "Get a speed boost from your friendly underwater companions"}
+  "display": {
+    "icon": {
+      "item": "minecraft:cod"
     },
-    "parent": "fritecraft:sodagirl/boaty_mcboatface",
-    "rewards": {
-        "experience": 100
-    },	
-    "criteria": {
-        "dolphins_grace": {
-            "trigger": "minecraft:effects_changed",
-            "conditions": {
-                "effects": {
-                    "minecraft:dolphins_grace": {}
-                }
-            }
+    "title": "Grâce aquatique",
+    "description": "Obtenez un boost de vitesse en nageant avec des dauphins"
+  },
+  "parent": "fritecraft:sodagirl/boaty_mcboatface",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "dolphins_grace": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "minecraft:dolphins_grace": {}
         }
+      }
     }
+  }
 }

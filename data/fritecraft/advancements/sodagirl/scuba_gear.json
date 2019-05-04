@@ -1,58 +1,58 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:water_bucket"
-        },
-        "title": "Scuba Gear",
-        "description": "Obtain every water related enchantment",
-		"frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:water_bucket"
     },
-    "parent": "fritecraft:sodagirl/knocking_your_socks_off",
-    "rewards": {
-        "experience": 100
-    },				
-    "criteria": {
-        "respiration": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:respiration"
-							}
-						]
-					}
-				]
-			}
-		},
-        "aqua_affinity": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:aqua_affinity"
-							}
-						]
-					}
-				]
-			}
-		},
-        "depth_strider": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-				"items": [
-					{
-						"enchantments": [
-							{
-								"enchantment": "minecraft:depth_strider"
-							}
-						]
-					}
-				]
-			}
-		}
+    "title": "Prêt pour la plongée",
+    "description": "Obtenez tous les enchantements liés à l'eau.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/knocking_your_socks_off",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "respiration": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:respiration"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "aqua_affinity": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:aqua_affinity"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "depth_strider": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "enchantments": [
+              {
+                "enchantment": "minecraft:depth_strider"
+              }
+            ]
+          }
+        ]
+      }
     }
+  }
 }

@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:spruce_fence"
-        },
-        "title": "Get Ship-rekt!",
-        "description": "Come across a sunken ship"}
+  "display": {
+    "icon": {
+      "item": "minecraft:spruce_fence"
     },
-    "parent": "fritecraft:sodagirl/atlantis",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "shipwreck": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Shipwreck"
-            }
-        }
+    "title": "Victimes de l'océan",
+    "description": "Trouvez une épave"
+  },
+  "parent": "fritecraft:sodagirl/atlantis",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "shipwreck": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Shipwreck"
+      }
     }
+  }
 }

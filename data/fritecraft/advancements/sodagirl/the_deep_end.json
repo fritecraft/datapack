@@ -1,24 +1,24 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:prismarine_crystals"
-        },
-        "title": "The Deep End",
-        "description": "Defeat an Elder Guardian",
-        "frame": "goal"
+  "display": {
+    "icon": {
+      "item": "minecraft:prismarine_crystals"
     },
-    "parent": "fritecraft:sodagirl/laser_sharks",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "elder_guardian": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "minecraft:elder_guardian"
-                }
-            }
+    "title": "Protecteurs Antiques",
+    "description": "Tuez un grand gardien",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:sodagirl/laser_sharks",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "elder_guardian": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:elder_guardian"
         }
+      }
     }
+  }
 }

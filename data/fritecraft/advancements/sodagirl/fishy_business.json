@@ -1,18 +1,14 @@
 {
   "parent": "fritecraft:sodagirl/root",
   "rewards": {
-      "experience": 100
-  },	  
+    "experience": 100
+  },
   "display": {
     "icon": {
       "item": "minecraft:fishing_rod"
     },
-    "title": {
-      "advancements.husbandry.fishy_business.title"
-    },
-    "description": {
-      "advancements.husbandry.fishy_business.description"
-    },
+    "title": "Une affaire de poisson",
+    "description": "Pêchez un poisson.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

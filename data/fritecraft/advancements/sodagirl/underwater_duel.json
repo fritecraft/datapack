@@ -1,35 +1,35 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:water_bucket"
-        },
-        "title": "Underwater Duel",
-        "description": "Kill a drowned using a trident from at least 30 metres",
-        "frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:water_bucket"
     },
-    "parent": "fritecraft:sodagirl/throw_trident",
-    "rewards": {
-        "experience": 100
-    },		
-    "criteria": {
-        "killed_drowned": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "killing_blow": {
-                    "is_projectile": true,
-					"direct_entity": {
-						"type": "minecraft:trident"
-					}
-                },
-                "entity": {
-                    "type": "minecraft:drowned",
-                    "distance": {
-                        "horizontal": {
-                            "min": 30
-                        }
-                    }
-                }
+    "title": "Duel sous-marin",
+    "description": "Tuez un noyé avec un trident à plus de 30 mètres.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:sodagirl/throw_trident",
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "killed_drowned": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "killing_blow": {
+          "is_projectile": true,
+          "direct_entity": {
+            "type": "minecraft:trident"
+          }
+        },
+        "entity": {
+          "type": "minecraft:drowned",
+          "distance": {
+            "horizontal": {
+              "min": 30
             }
+          }
         }
+      }
     }
+  }
 }

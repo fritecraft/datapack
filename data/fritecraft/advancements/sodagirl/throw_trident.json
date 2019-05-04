@@ -1,18 +1,14 @@
 {
   "parent": "fritecraft:sodagirl/kill_a_mob",
   "rewards": {
-      "experience": 100
-  },	
+    "experience": 100
+  },
   "display": {
     "icon": {
       "item": "minecraft:trident"
     },
-    "title": {
-      "advancements.adventure.throw_trident.title"
-    },
-    "description": {
-      "advancements.adventure.throw_trident.description"
-    },
+    "title": "Une blague tombée à l'eau",
+    "description": "Lancez un trident sur quelque chose. Note : lancer votre seule arme n'est pas une bonne idée.",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
