@@ -6,7 +6,7 @@
     "title": "Halloween !",
     "description": "Décorez votre jardin avec des citrouilles lanternes."
   },
-  "parent": "fritecraft:candygirl/torched",
+  "parent": "fritecraft:candygirl/pumpkins",
   "rewards": {
     "experience": 1
   },

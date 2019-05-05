@@ -6,7 +6,7 @@
     "title": "La Tarte",
     "description": "Cuisinez une tarte à la citrouille"
   },
-  "parent": "fritecraft:candygirl/naturally_carved",
+  "parent": "fritecraft:candygirl/pumpkins",
   "rewards": {
     "experience": 1
   },

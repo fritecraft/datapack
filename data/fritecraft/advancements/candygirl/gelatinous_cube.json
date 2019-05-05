@@ -6,7 +6,7 @@
     "title": "Gélatine",
     "description": "Tuez un slime"
   },
-  "parent": "fritecraft:candygirl/kill_a_mob",
+  "parent": "fritecraft:candygirl/root",
   "rewards": {
     "experience": 1
   },

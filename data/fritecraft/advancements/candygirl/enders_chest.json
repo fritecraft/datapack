@@ -6,7 +6,7 @@
     "title": "Disrupteur Dimensionnel",
     "description": "Fabriquer un coffre de l'End"
   },
-  "parent": "fritecraft:candygirl/obtain_blaze_rod",
+  "parent": "fritecraft:candygirl/root",
   "rewards": {
     "experience": 1
   },

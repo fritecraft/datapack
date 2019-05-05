@@ -6,7 +6,7 @@
     "title": "Fluorescent",
     "description": "Illuminez une zone avec des bâtons de l'End"
   },
-  "parent": "fritecraft:candygirl/glowing",
+  "parent": "fritecraft:candygirl/find_end_city",
   "rewards": {
     "experience": 1
   },

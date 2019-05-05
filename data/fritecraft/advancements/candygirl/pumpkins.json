@@ -6,7 +6,7 @@
     "title": "Cucurbitaceae",
     "description": "Récoltez des citrouilles"
   },
-  "parent": "fritecraft:candygirl/plant_seed",
+  "parent": "fritecraft:candygirl/root",
   "rewards": {
     "experience": 1
   },

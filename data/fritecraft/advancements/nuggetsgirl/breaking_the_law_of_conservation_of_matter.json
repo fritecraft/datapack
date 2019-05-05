@@ -6,7 +6,7 @@
     "title": "Conservation de la masse",
     "description": "Fabriquer une pastèque, qui ne donnera probablement pas autant de tranches une fois cassée..."
   },
-  "parent": "fritecraft:candygirl/the_melon_the_melon_the_melon",
+  "parent": "fritecraft:nuggetsgirl/plant_seed",
   "rewards": {
     "experience": 1
   },
