@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:end_stone"
+    },
+    "title": "Le Néant",
+    "description": "Entrez dans une dimension spatiale",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "fritecraft:candygirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_end"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ]
+  ]
+}

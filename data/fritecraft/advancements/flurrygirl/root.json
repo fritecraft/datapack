@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:cobblestone"
+      "item": "minecraft:light_blue_concrete"
     },
     "title": "Flurrygirl",
     "description": "De la neige, des cavernes, et des minerais",
@@ -12,64 +12,19 @@
     "hidden": false
   },
   "criteria": {
-    "wooden_pickaxe": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:wooden_pickaxe"
-          }
-        ]
-      }
+    "killed_something": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {}
     },
-    "stone_pickaxe": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:stone_pickaxe"
-          }
-        ]
-      }
-    },
-    "iron_pickaxe": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:iron_pickaxe"
-          }
-        ]
-      }
-    },
-    "diamond_pickaxe": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:diamond_pickaxe"
-          }
-        ]
-      }
-    },
-    "golden_pickaxe": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:golden_pickaxe"
-          }
-        ]
-      }
+    "killed_by_something": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {}
     }
   },
   "requirements": [
     [
-      "wooden_pickaxe",
-      "stone_pickaxe",
-      "iron_pickaxe",
-      "diamond_pickaxe",
-      "golden_pickaxe"
+      "killed_something",
+      "killed_by_something"
     ]
   ]
 }

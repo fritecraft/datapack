@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:water_bucket"
+    },
+    "title": "H2O",
+    "description": "Tous à l'eau !",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "fritecraft:sodagirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "water": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "minecraft:water"
+      }
+    }
+  }
+}

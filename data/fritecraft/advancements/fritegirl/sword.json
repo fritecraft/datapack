@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:map"
+    },
+    "title": "Tranchant",
+    "description": "Obtenez une épée.",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "fritecraft:fritegirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "killed_something": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {}
+    },
+    "killed_by_something": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "killed_something",
+      "killed_by_something"
+    ]
+  ]
+}

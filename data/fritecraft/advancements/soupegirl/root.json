@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:red_nether_bricks"
+      "item": "minecraft:orange_concrete"
     },
     "title": "Soupegirl",
     "description": "De la soupe, des fours, du Nether, et des trucs chauds.",
@@ -12,16 +12,19 @@
     "background": "minecraft:textures/block/orange_concrete_powder.png"
   },
   "criteria": {
-    "entered_nether": {
-      "trigger": "minecraft:changed_dimension",
-      "conditions": {
-        "to": "minecraft:the_nether"
-      }
+    "killed_something": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {}
+    },
+    "killed_by_something": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {}
     }
   },
   "requirements": [
     [
-      "entered_nether"
+      "killed_something",
+      "killed_by_something"
     ]
   ]
 }

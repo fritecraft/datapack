@@ -1,0 +1,78 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_axe"
+    },
+    "title": "Plus efficace que les mains",
+    "description": "Obtenez une hâche.",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "fritecraft:chocogirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "wooden": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:wooden_axe"
+          }
+        ]
+      }
+    },
+    "golden": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:golden_axe"
+          }
+        ]
+      }
+    },
+    "stone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:stone_axe"
+          }
+        ]
+      }
+    },
+    "iron": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:iron_axe"
+          }
+        ]
+      }
+    },
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_axe"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wooden",
+      "golden",
+      "stone",
+      "iron",
+      "diamond"
+    ]
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:hay_block"
+      "item": "minecraft:blue_concrete"
     },
     "title": "Nuggetsgirl",
     "description": "Des animaux, des cultures, et des décorations",
@@ -12,14 +12,19 @@
     "background": "minecraft:textures/block/farmland.png"
   },
   "criteria": {
-    "consumed_item": {
-      "trigger": "minecraft:consume_item",
+    "killed_something": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {}
+    },
+    "killed_by_something": {
+      "trigger": "minecraft:entity_killed_player",
       "conditions": {}
     }
   },
   "requirements": [
     [
-      "consumed_item"
+      "killed_something",
+      "killed_by_something"
     ]
   ]
 }

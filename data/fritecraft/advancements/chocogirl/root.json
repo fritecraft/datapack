@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:iron_axe"
+      "item": "minecraft:brown_concrete"
     },
     "title": "Chocogirl",
     "description": "Du bois, des arcs, et du chocolat",
@@ -12,64 +12,19 @@
     "hidden": false
   },
   "criteria": {
-    "wooden": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:wooden_axe"
-          }
-        ]
-      }
+    "killed_something": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {}
     },
-    "golden": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:golden_axe"
-          }
-        ]
-      }
-    },
-    "stone": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:stone_axe"
-          }
-        ]
-      }
-    },
-    "iron": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:iron_axe"
-          }
-        ]
-      }
-    },
-    "diamond": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:diamond_axe"
-          }
-        ]
-      }
+    "killed_by_something": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {}
     }
   },
   "requirements": [
     [
-      "wooden",
-      "golden",
-      "stone",
-      "iron",
-      "diamond"
+      "killed_something",
+      "killed_by_something"
     ]
   ]
 }

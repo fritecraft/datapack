@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "title": "Nether",
+    "description": "Entrez dans une dimension infernale.",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "fritecraft:soupegirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ]
+}

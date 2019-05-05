@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:water_bucket"
+      "item": "minecraft:lime_concrete"
     },
     "title": "Sodagirl",
     "description": "De l'eau, des poissons, et des tridents",
@@ -12,11 +12,19 @@
     "hidden": false
   },
   "criteria": {
-    "water": {
-      "trigger": "minecraft:enter_block",
-      "conditions": {
-        "block": "minecraft:water"
-      }
+    "killed_something": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {}
+    },
+    "killed_by_something": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {}
     }
-  }
+  },
+  "requirements": [
+    [
+      "killed_something",
+      "killed_by_something"
+    ]
+  ]
 }
