@@ -7,7 +7,7 @@
     "description": "Obtenez des bottes vous permettant de créer de la glace.",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/old_cartoon_joke",
+  "parent": "fritecraft:flurrygirl/root",
   "rewards": {
     "experience": 1
   },

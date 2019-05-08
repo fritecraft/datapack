@@ -8,7 +8,7 @@
     "description": "Créez une pioche avec les meilleurs enchantements.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:flurrygirl/unbreakable",
+  "parent": "fritecraft:flurrygirl/fortunate_son",
   "rewards": {
     "experience": 1
   },

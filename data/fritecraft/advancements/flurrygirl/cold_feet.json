@@ -7,7 +7,7 @@
     "description": "Trouvez tous les biomes frais.",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/one_with_the_forest",
+  "parent": "fritecraft:flurrygirl/root",
   "rewards": {
     "experience": 1
   },

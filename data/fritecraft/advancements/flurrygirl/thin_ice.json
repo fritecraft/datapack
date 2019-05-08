@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
+  "display": {
+    "icon": {
+      "item": "minecraft:ice"
+    },
+    "title": "Attention ça glisse !",
+    "description": "Obtenez de la glace normale."
+  },
+  "parent": "fritecraft:flurrygirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
             "item": "minecraft:ice"
-        },
-        "title": "Attention ça glisse !",
-        "description": "Obtenez de la glace normale."
-    },
-    "parent": "fritecraft:flurrygirl/boaty_mcboatface",
-    "rewards": {
-        "experience": 1
-    },
-    "criteria": {
-        "ice": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:ice"
-                    }
-                ]
-            }
-        }
+          }
+        ]
+      }
     }
+  }
 }

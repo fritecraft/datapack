@@ -1,28 +1,28 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:snowball"
-        },
-        "title": "Bataille de boule de neige",
-        "description": "Inéfficace, mais amusant."
+  "display": {
+    "icon": {
+      "item": "minecraft:snowball"
     },
-    "parent": "fritecraft:flurrygirl/root",
-    "rewards": {
-        "experience": 1
-    },
-    "criteria": {
-        "snowball": {
-            "trigger": "minecraft:player_hurt_entity",
-            "conditions": {
-                "damage": {
-                    "type": {
-                        "is_projectile": true,
-                        "direct_entity": {
-                            "type": "minecraft:snowball"
-                        }
-                    }
-                }
+    "title": "Bataille de boule de neige",
+    "description": "Inéfficace, mais amusant."
+  },
+  "parent": "fritecraft:flurrygirl/secret_of_the_igloo",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "snowball": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "is_projectile": true,
+            "direct_entity": {
+              "type": "minecraft:snowball"
             }
+          }
         }
+      }
     }
+  }
 }

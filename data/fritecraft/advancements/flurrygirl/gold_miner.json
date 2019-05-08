@@ -7,7 +7,7 @@
     "description": "Miner un stack de minerai d'or",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/gold_rush",
+  "parent": "fritecraft:flurrygirl/pickaxe",
   "rewards": {
     "experience": 1
   },

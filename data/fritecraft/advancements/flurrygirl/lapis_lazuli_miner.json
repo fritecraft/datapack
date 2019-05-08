@@ -7,7 +7,7 @@
     "description": "Fabriquez un stack de blocs de Lapis.",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/the_wrong_shade_of_blue",
+  "parent": "fritecraft:flurrygirl/pickaxe",
   "rewards": {
     "experience": 1
   },

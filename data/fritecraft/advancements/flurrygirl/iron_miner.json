@@ -7,7 +7,7 @@
     "description": "Miner un stack de minerai de fer",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/iron_man",
+  "parent": "fritecraft:flurrygirl/pickaxe",
   "rewards": {
     "experience": 1
   },

@@ -1,27 +1,27 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:diamond_block"
-        },
-        "title": "Mineur de diamants pro",
-        "description": "Fabriquez un stack de blocs de diamants.",
-		"frame": "challenge"
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_block"
     },
-    "parent": "fritecraft:flurrygirl/mineral_collection",
-    "rewards": {
-        "experience": 1
-    },
-    "criteria": {
-        "diamond": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:diamond_block",
-						"count": 64
-                    }
-                ]
-            }
-        }
+    "title": "Mineur de diamants pro",
+    "description": "Fabriquez un stack de blocs de diamants.",
+    "frame": "challenge"
+  },
+  "parent": "fritecraft:flurrygirl/mineral_collection",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_block",
+            "count": 64
+          }
+        ]
+      }
     }
+  }
 }

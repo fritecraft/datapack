@@ -7,7 +7,7 @@
     "description": "Creusez jusqu'à atteindre le point le plus bas du monde",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/iron_tools",
+  "parent": "fritecraft:flurrygirl/spelunker",
   "rewards": {
     "experience": 1
   },

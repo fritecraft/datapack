@@ -6,7 +6,7 @@
     "title": "PLUS d'outils !",
     "description": "Fabriquez un set complet d'outils en diamant."
   },
-  "parent": "fritecraft:flurrygirl/stabcraft",
+  "parent": "fritecraft:flurrygirl/iconic_merchandising_prop",
   "rewards": {
     "experience": 1
   },

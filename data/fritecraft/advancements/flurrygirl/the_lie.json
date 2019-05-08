@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
+  "display": {
+    "icon": {
+      "item": "minecraft:cake"
+    },
+    "title": "Mensonges",
+    "description": "Du blé, du sucre, du lait et des oeufs !"
+  },
+  "parent": "fritecraft:flurrygirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "cake": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
             "item": "minecraft:cake"
-        },
-        "title": "Mensonges",
-        "description": "Du blé, du sucre, du lait et des oeufs !"
-    },
-    "parent": "fritecraft:flurrygirl/bake_bread",
-    "rewards": {
-        "experience": 1
-    },
-    "criteria": {
-        "cake": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:cake"
-                    }
-                ]
-            }
-        }
+          }
+        ]
+      }
     }
+  }
 }

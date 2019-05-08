@@ -1,23 +1,23 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:snowball"
-        },
-        "title": "Les os glacés",
-        "description": "Tuez un Vagabond"
+  "display": {
+    "icon": {
+      "item": "minecraft:snowball"
     },
-    "parent": "fritecraft:flurrygirl/deflect_arrow",
-    "rewards": {
-        "experience": 1
-    },
-    "criteria": {
-        "stray": {
-            "trigger": "minecraft:player_killed_entity",
-            "conditions": {
-                "entity": {
-                    "type": "stray"
-                }
-            }
+    "title": "Les os glacés",
+    "description": "Tuez un Vagabond"
+  },
+  "parent": "fritecraft:flurrygirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "stray": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "stray"
         }
+      }
     }
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:flurrygirl/summon_wither",
+  "parent": "fritecraft:flurrygirl/mineral_collection",
   "display": {
     "icon": {
       "item": "minecraft:beacon"

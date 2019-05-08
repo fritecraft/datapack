@@ -6,7 +6,7 @@
     "title": "On fait un bonhomme de neige ?",
     "description": "Créez un bonhomme de neige."
   },
-  "parent": "fritecraft:flurrygirl/the_pie",
+  "parent": "fritecraft:flurrygirl/root",
   "rewards": {
     "experience": 1
   },

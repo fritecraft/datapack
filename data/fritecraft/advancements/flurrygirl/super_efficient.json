@@ -7,7 +7,7 @@
     "description": "Obtenez l'enchantement Efficacité V",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/librarian",
+  "parent": "fritecraft:flurrygirl/iconic_merchandising_prop",
   "rewards": {
     "experience": 1
   },

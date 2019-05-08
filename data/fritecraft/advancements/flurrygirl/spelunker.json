@@ -6,7 +6,7 @@
     "title": "Spéléologue",
     "description": "Trouvez une caverne"
   },
-  "parent": "fritecraft:flurrygirl/mine_stone",
+  "parent": "fritecraft:flurrygirl/root",
   "rewards": {
     "experience": 1
   },

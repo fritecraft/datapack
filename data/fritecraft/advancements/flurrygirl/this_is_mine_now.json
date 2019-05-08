@@ -1,21 +1,21 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:oak_fence"
-        },
-        "title": "Optimisation",
-        "description": "Trouvez une mine abandonnée."
+  "display": {
+    "icon": {
+      "item": "minecraft:root"
     },
-    "parent": "fritecraft:flurrygirl/spelunker",
-    "rewards": {
-        "experience": 1
-    },
-    "criteria": {
-        "mineshaft": {
-            "trigger": "minecraft:location",
-            "conditions": {
-                "feature": "Mineshaft"
-            }
-        }
+    "title": "Optimisation",
+    "description": "Trouvez une mine abandonnée."
+  },
+  "parent": "fritecraft:flurrygirl/spelunker",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "mineshaft": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "Mineshaft"
+      }
     }
+  }
 }

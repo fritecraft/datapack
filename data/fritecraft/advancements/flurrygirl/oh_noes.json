@@ -7,7 +7,7 @@
     "description": "Cassez votre premier outil.",
     "hidden": "true"
   },
-  "parent": "fritecraft:flurrygirl/mine_stone",
+  "parent": "fritecraft:flurrygirl/pickaxe",
   "rewards": {
     "experience": 1
   },

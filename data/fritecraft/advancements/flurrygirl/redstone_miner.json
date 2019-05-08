@@ -7,7 +7,7 @@
     "description": "Fabriquez un stack de blocs de redstone.",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/whats_the_time_mr_wolf",
+  "parent": "fritecraft:flurrygirl/pickaxe",
   "rewards": {
     "experience": 1
   },

@@ -6,7 +6,7 @@
     "title": "Explosifs",
     "description": "Fabriquez du TNT."
   },
-  "parent": "fritecraft:flurrygirl/blast_shield",
+  "parent": "fritecraft:flurrygirl/pickaxe",
   "rewards": {
     "experience": 1
   },
