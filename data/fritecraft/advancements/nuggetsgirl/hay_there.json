@@ -7,7 +7,7 @@
     "description": "Fabriquez un stack de blocs de paille.",
     "frame": "goal"
   },
-  "parent": "fritecraft:nuggetsgirl/the_lie",
+  "parent": "fritecraft:nuggetsgirl/root",
   "rewards": {
     "experience": 1
   },

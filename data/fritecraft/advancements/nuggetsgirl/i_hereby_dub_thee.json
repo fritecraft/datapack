@@ -6,7 +6,7 @@
     "title": "Adoubement",
     "description": "Trouvez une etiquette."
   },
-  "parent": "fritecraft:nuggetsgirl/root",
+  "parent": "fritecraft:nuggetsgirl/breed_an_animal",
   "rewards": {
     "experience": 1
   },

@@ -6,7 +6,7 @@
     "title": "Mon cheval brillant",
     "description": "Trouvez une armure pour cheval en diamant."
   },
-  "parent": "fritecraft:nuggetsgirl/farrier",
+  "parent": "fritecraft:nuggetsgirl/cowboy",
   "rewards": {
     "experience": 1
   },

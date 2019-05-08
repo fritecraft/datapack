@@ -7,7 +7,7 @@
     "description": "Fabriquez les 16 couleurs de tapis.",
     "frame": "goal"
   },
-  "parent": "fritecraft:nuggetsgirl/rainbow_collection",
+  "parent": "fritecraft:nuggetsgirl/a_masterpiece",
   "rewards": {
     "experience": 1
   },

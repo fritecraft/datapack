@@ -6,7 +6,7 @@
     "title": "Bébé mouton",
     "description": "Faites se reproduire deux moutons pour obtenir un agneau"
   },
-  "parent": "fritecraft:nuggetsgirl/feeling_sheepish",
+  "parent": "fritecraft:nuggetsgirl/breed_an_animal",
   "rewards": {
     "experience": 1
   },

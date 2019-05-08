@@ -6,7 +6,7 @@
     "title": "Chef d'oeuvre !",
     "description": "Obtenez une peinture."
   },
-  "parent": "fritecraft:nuggetsgirl/its_a_sign",
+  "parent": "fritecraft:nuggetsgirl/root",
   "rewards": {
     "experience": 1
   },

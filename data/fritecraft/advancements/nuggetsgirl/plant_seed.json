@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:nuggetsgirl/root",
+  "parent": "fritecraft:nuggetsgirl/hoe",
   "display": {
     "icon": {
       "item": "minecraft:wheat"

@@ -6,7 +6,7 @@
     "title": "Bouquet final",
     "description": "Combinez poudre explosive et papier pour faire des feux d'artifice."
   },
-  "parent": "fritecraft:nuggetsgirl/bombs_away",
+  "parent": "fritecraft:nuggetsgirl/root",
   "rewards": {
     "experience": 1
   },

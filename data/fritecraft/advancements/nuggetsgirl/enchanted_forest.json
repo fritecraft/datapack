@@ -6,7 +6,7 @@
     "title": "Forêt enchantée",
     "description": "Trouvez une forêt fleurie"
   },
-  "parent": "fritecraft:nuggetsgirl/theres_a_zombie_on_the_lawn",
+  "parent": "fritecraft:nuggetsgirl/root",
   "rewards": {
     "experience": 1
   },

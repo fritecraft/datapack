@@ -6,7 +6,7 @@
     "title": "Espèce protégée",
     "description": "Faites se reproduire deux champimeuh."
   },
-  "parent": "fritecraft:nuggetsgirl/mooshroom_kingdom",
+  "parent": "fritecraft:nuggetsgirl/breed_animal",
   "rewards": {
     "experience": 1
   },

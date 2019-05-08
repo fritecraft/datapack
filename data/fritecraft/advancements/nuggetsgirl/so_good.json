@@ -6,7 +6,7 @@
     "title": "KFC",
     "description": "Mangez un poulet cuit."
   },
-  "parent": "fritecraft:nuggetsgirl/tickle_time",
+  "parent": "fritecraft:nuggetsgirl/root",
   "rewards": {
     "experience": 1
   },
