@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:chocogirl/kill_a_mob",
+  "parent": "fritecraft:chocogirl/bow",
   "display": {
     "icon": {
       "item": "minecraft:bow"

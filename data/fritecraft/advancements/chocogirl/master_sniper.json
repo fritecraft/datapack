@@ -8,7 +8,7 @@
     "description": "Obtenir un arc avec les meilleurs enchantements possibles",
     "frame": "challenge"
   },
-  "parent": "fritecraft:chocogirl/master_knight",
+  "parent": "fritecraft:chocogirl/knocking_your_socks_off",
   "rewards": {
     "experience": 1
   },

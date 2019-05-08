@@ -6,7 +6,7 @@
     "title": "Respect de l'environnement",
     "description": "Plantez une pousse d'arbre"
   },
-  "parent": "fritecraft:chocogirl/root",
+  "parent": "fritecraft:chocogirl/axe",
   "rewards": {
     "experience": 1
   },

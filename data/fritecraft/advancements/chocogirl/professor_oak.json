@@ -7,7 +7,7 @@
     "description": "Fabriquez chaque objet possible à partir de chêne",
     "frame": "goal"
   },
-  "parent": "fritecraft:chocogirl/lost_its_bark",
+  "parent": "fritecraft:chocogirl/barking_mad",
   "rewards": {
     "experience": 1
   },

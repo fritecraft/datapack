@@ -6,7 +6,7 @@
     "title": "Tomb Raider",
     "description": "Trouvez un temple de la jungle"
   },
-  "parent": "fritecraft:chocogirl/grave_robber",
+  "parent": "fritecraft:chocogirl/tarzan",
   "rewards": {
     "experience": 1
   },

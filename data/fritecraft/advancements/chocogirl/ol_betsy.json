@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:chocogirl/root",
+  "parent": "fritecraft:chocogirl/bow",
   "display": {
     "icon": {
       "item": "minecraft:crossbow"

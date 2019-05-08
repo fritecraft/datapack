@@ -6,7 +6,7 @@
     "title": "Gueule de bois",
     "description": "Fabriquez un bloc de bois"
   },
-  "parent": "fritecraft:chocogirl/root",
+  "parent": "fritecraft:chocogirl/axe",
   "rewards": {
     "experience": 1
   },

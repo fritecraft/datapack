@@ -7,7 +7,7 @@
     "description": "Obtenez un arc avec l'enchanement Infinité",
     "frame": "goal"
   },
-  "parent": "fritecraft:chocogirl/bow_down_to_me",
+  "parent": "fritecraft:chocogirl/bow",
   "rewards": {
     "experience": 1
   },

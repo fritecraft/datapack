@@ -6,7 +6,7 @@
     "title": "Précurseur du chocolat",
     "description": "Trouvez des fèves de cacao."
   },
-  "parent": "fritecraft:chocogirl/bake_bread",
+  "parent": "fritecraft:chocogirl/rot",
   "rewards": {
     "experience": 1
   },

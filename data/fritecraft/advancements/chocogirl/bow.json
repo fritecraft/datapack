@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_axe"
+    },
+    "title": "Archer",
+    "description": "Obtenez un arc.",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "fritecraft:chocogirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "bow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bow"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "title": "La Menace Fantome",
+    "description": "Il faut dormir la nuit !"
+  },
+  "parent": "fritecraft:chocorigirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "phantom": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "phantom"
+          }
+        }
+      }
+    }
+  }
+}

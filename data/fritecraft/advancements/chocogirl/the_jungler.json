@@ -7,7 +7,7 @@
     "description": "Fabriquez chaque objet possible à partir d'acajou",
     "frame": "goal"
   },
-  "parent": "fritecraft:chocogirl/lost_its_bark",
+  "parent": "fritecraft:chocogirl/professor_birch",
   "rewards": {
     "experience": 1
   },

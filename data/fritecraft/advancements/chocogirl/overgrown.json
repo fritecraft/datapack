@@ -7,7 +7,7 @@
     "description": "Explorez chaque biome du type Envahi",
     "frame": "goal"
   },
-  "parent": "fritecraft:chocogirl/snow_feet",
+  "parent": "fritecraft:chocogirl/one_with_the_forest",
   "rewards": {
     "experience": 1
   },

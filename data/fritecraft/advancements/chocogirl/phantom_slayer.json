@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:phantom_spawn_egg"
+    },
+    "title": "Exterminateur de Phantoms",
+    "description": "Obtenez un stack de membranes.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:combat/the_phantom_menace",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "phantom_membrane": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:phantom_membrane",
+            "count": 64
+          }
+        ]
+      }
+    }
+  }
+}

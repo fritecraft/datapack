@@ -6,7 +6,7 @@
     "title": "Tarzan",
     "description": "Grimbez sur des lianes"
   },
-  "parent": "fritecraft:chocogirl/kilometre_walk",
+  "parent": "fritecraft:chocogirl/one_with_the_forest",
   "rewards": {
     "experience": 1
   },

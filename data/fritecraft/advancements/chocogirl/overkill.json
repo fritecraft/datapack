@@ -7,7 +7,7 @@
     "description": "Ingligez 20 points de dégâts en un coup.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:chocogirl/root",
+  "parent": "fritecraft:chocogirl/bow",
   "rewards": {
     "experience": 1
   },

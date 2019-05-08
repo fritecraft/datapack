@@ -6,7 +6,7 @@
     "title": "Entretien des haies",
     "description": "Utilisez des cisailles pour obtenir des feuilles"
   },
-  "parent": "fritecraft:chocogirl/have_a_shearful_day",
+  "parent": "fritecraft:chocogirl/tarzan",
   "rewards": {
     "experience": 1
   },

@@ -7,7 +7,7 @@
     "description": "Explorez chaque biome du type forêt",
     "frame": "goal"
   },
-  "parent": "fritecraft:chocogirl/kilometre_walk",
+  "parent": "fritecraft:chocogirl/root",
   "rewards": {
     "experience": 1
   },

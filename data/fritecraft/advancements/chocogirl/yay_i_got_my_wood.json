@@ -7,7 +7,7 @@
     "description": "Trouvez les 6 types de bûches",
     "frame": "goal"
   },
-  "parent": "fritecraft:chocogirl/lost_its_bark",
+  "parent": "fritecraft:chocogirl/axe",
   "rewards": {
     "experience": 1
   },

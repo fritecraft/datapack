@@ -7,7 +7,7 @@
     "description": "Obtenez les enchantements Frappe et Recul",
     "frame": "goal"
   },
-  "parent": "fritecraft:chocogirl/armor_for_the_masses",
+  "parent": "fritecraft:chocogirl/to_infinity_and_beyond",
   "rewards": {
     "experience": 1
   },

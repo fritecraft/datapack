@@ -8,7 +8,7 @@
     "description": "Fabriquez chaque type de flèche.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:chocogirl/care_for_the_environment",
+  "parent": "fritecraft:chocogirl/poison_dart",
   "rewards": {
     "experience": 1
   },

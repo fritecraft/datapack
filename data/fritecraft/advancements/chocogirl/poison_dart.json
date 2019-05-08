@@ -7,7 +7,7 @@
     "title": "Flèches empoisonnées",
     "description": "Fabriquez des flèches empoisonnées"
   },
-  "parent": "fritecraft:chocogirl/noxious_fumes",
+  "parent": "fritecraft:chocogirl/bow",
   "rewards": {
     "experience": 1
   },
