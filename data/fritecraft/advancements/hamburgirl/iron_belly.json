@@ -6,7 +6,7 @@
     "title": "Estomac d'acier",
     "description": "Stoppez la faim en mangeant de la chair putréfiée"
   },
-  "parent": "fritecraft:fringirl/there_has_to_be_another_way",
+  "parent": "fritecraft:fringirl/root",
   "rewards": {
     "experience": 1
   },

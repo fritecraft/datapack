@@ -6,7 +6,7 @@
     "title": "La méthode Agile",
     "description": "Creusez de l'argile dans un lac ou une rivière."
   },
-  "parent": "fritecraft:hamburgirl/root",
+  "parent": "fritecraft:hamburgirl/shovel",
   "rewards": {
     "experience": 1
   },

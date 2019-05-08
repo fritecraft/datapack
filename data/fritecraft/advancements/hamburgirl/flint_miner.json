@@ -7,7 +7,7 @@
     "description": "Miner un stack de sylex",
     "frame": "goal"
   },
-  "parent": "fritecraft:hamburgirl/meet_the_flintstones",
+  "parent": "fritecraft:hamburgirl/shovel",
   "rewards": {
     "experience": 1
   },

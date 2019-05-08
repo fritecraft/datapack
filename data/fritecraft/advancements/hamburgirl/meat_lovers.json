@@ -7,7 +7,7 @@
     "description": "Mangez toutes les viandes.",
     "frame": "goal"
   },
-  "parent": "fritecraft:hamburgirl/vegetarian",
+  "parent": "fritecraft:hamburgirl/pork_chop",
   "rewards": {
     "experience": 1
   },

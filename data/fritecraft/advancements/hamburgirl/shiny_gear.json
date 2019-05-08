@@ -1,5 +1,5 @@
 {
-  "parent": "fritecraft:hamburgirl/mine_diamond",
+  "parent": "fritecraft:hamburgirl/obtain_armor",
   "display": {
     "icon": {
       "item": "minecraft:diamond_chestplate"

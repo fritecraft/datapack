@@ -6,7 +6,7 @@
     "title": "Creeper et Wither",
     "description": "Gravez des têtes de creeper et wither sur du grès."
   },
-  "parent": "fritecraft:hamburgirl/jailhouse_block",
+  "parent": "fritecraft:hamburgirl/grave_robber",
   "rewards": {
     "experience": 1
   },

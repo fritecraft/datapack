@@ -6,7 +6,7 @@
     "title": "Mega Champi",
     "description": "Faites pousser un mega-champi et récoltez-en les blocs."
   },
-  "parent": "fritecraft:hamburgirl/mushroom_mushroom_mushroom_mushroom",
+  "parent": "fritecraft:soupegirl/mushroom_mushroom_mushroom_mushroom",
   "rewards": {
     "experience": 1
   },

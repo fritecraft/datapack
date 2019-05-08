@@ -6,7 +6,7 @@
     "title": "Ampoule basse consommation",
     "description": "Illuminez une zone avec des lampes redstone."
   },
-  "parent": "fritecraft:hamburgirl/glowing",
+  "parent": "fritecraft:hamburgirl/redstone_miner",
   "rewards": {
     "experience": 1
   },

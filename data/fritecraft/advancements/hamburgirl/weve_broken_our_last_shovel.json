@@ -7,7 +7,7 @@
     "description": "Cassez les 5 types de pelle.",
     "frame": "challenge"
   },
-  "parent": "fritecraft:hamburgirl/bling_bling_gone",
+  "parent": "fritecraft:hamburgirl/shovel",
   "rewards": {
     "experience": 1
   },

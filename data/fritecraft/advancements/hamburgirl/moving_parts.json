@@ -6,7 +6,7 @@
     "title": "Mécanique",
     "description": "Fabriquez un piston pour pousser des trucs."
   },
-  "parent": "fritecraft:hamburgirl/root",
+  "parent": "fritecraft:hamburgirl/redstone_miner",
   "rewards": {
     "experience": 1
   },

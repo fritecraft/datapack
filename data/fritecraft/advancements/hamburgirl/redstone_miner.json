@@ -3,11 +3,11 @@
     "icon": {
       "item": "minecraft:redstone_block"
     },
-    "title": "Mineur de redstone",
-    "description": "Fabriquez un stack de blocs de redstone.",
+    "title": "Redstone",
+    "description": "Obtenez un stack de redstone.",
     "frame": "goal"
   },
-  "parent": "fritecraft:flurrygirl/pickaxe",
+  "parent": "fritecraft:hamburgirl/root",
   "rewards": {
     "experience": 1
   },
@@ -17,7 +17,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:redstone_block",
+            "item": "minecraft:redstone",
             "count": 64
           }
         ]

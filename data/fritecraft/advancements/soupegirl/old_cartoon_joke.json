@@ -6,7 +6,7 @@
     "title": "Heavy Metal",
     "description": "Fabriquez une enclume."
   },
-  "parent": "fritecraft:hamburgirl/root",
+  "parent": "fritecraft:soupegirl/root",
   "rewards": {
     "experience": 1
   },

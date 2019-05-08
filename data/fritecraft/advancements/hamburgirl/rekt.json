@@ -7,7 +7,7 @@
     "description": "Faites-vous tuer par un golem de fer protégeant son village.",
     "hidden": "true"
   },
-  "parent": "fritecraft:fringirl/murderer",
+  "parent": "fritecraft:fringirl/summon_iron_golem",
   "rewards": {
     "experience": 1
   },

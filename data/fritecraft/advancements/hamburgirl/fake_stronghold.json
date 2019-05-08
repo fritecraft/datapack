@@ -6,7 +6,7 @@
     "title": "Créateur de bastion",
     "description": "Fabriquez ou trouvez chaque type de briques de pierre."
   },
-  "parent": "fritecraft:fritegirl/rock_collection",
+  "parent": "fritecraft:hamburgirl/root",
   "rewards": {
     "experience": 1
   },

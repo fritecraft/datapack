@@ -6,7 +6,7 @@
     "title": "Mozart",
     "description": "Fabriquez un bloc musical."
   },
-  "parent": "fritecraft:hamburgirl/root",
+  "parent": "fritecraft:hamburgirl/observer_buddy",
   "rewards": {
     "experience": 1
   },

@@ -7,7 +7,7 @@
     "description": "Obtenez tous les enchantements de protection.",
     "frame": "goal"
   },
-  "parent": "fritecraft:hamburgirl/like_a_cat",
+  "parent": "fritecraft:hamburgirl/diamond_clad",
   "rewards": {
     "experience": 1
   },

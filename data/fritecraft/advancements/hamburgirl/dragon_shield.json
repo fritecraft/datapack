@@ -7,7 +7,7 @@
     "title": "Dovahkiin",
     "description": "Tentez de bloquer une attaque du dragon"
   },
-  "parent": "fritecraft:candygirl/root",
+  "parent": "fritecraft:candygirl/blast_shield",
   "rewards": {
     "experience": 1
   },

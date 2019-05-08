@@ -6,7 +6,7 @@
     "title": "Vers la lumière",
     "description": "Faites fondre du sable pour obtenir du verre."
   },
-  "parent": "fritecraft:hamburgirl/root",
+  "parent": "fritecraft:hamburgirl/shovel",
   "rewards": {
     "experience": 1
   },

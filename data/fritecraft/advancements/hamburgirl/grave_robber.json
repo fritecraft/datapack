@@ -6,7 +6,7 @@
     "title": "Voleur des tombeaux",
     "description": "Trouvez une pyramide dans un désert."
   },
-  "parent": "fritecraft:hamburgirl/kilometre_walk",
+  "parent": "fritecraft:hamburgirl/root",
   "rewards": {
     "experience": 1
   },

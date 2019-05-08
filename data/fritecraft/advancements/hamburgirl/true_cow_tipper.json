@@ -7,7 +7,7 @@
     "description": "Obtenez un stack de cuir et de boeuf cru.",
     "frame": "goal"
   },
-  "parent": "fritecraft:hamburgirl/milk_does_your_body_good",
+  "parent": "fritecraft:hamburgirl/high_steaks",
   "rewards": {
     "experience": 1
   },

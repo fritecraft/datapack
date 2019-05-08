@@ -6,7 +6,7 @@
     "title": "Distributeur",
     "description": "Fabriquez un distributeur"
   },
-  "parent": "fritecraft:hamburgirl/space_dropper",
+  "parent": "fritecraft:hamburgirl/redstone_miner",
   "rewards": {
     "experience": 1
   },

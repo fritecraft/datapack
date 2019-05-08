@@ -7,7 +7,7 @@
     "title": "Pas aujourd'hui, méduse.",
     "description": "Bloquez une boule de feu de ghast."
   },
-  "parent": "fritecraft:hamburgirl/giant_floating_jellyfish",
+  "parent": "fritecraft:hamburgirl/deflect_arrow",
   "rewards": {
     "experience": 1
   },

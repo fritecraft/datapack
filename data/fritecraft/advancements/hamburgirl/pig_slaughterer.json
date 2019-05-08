@@ -7,7 +7,7 @@
     "description": "Récoltez un stack de porc cru",
     "frame": "goal"
   },
-  "parent": "fritecraft:hamburgirl/when_pigs_used_to_fly",
+  "parent": "fritecraft:hamburgirl/bacon",
   "rewards": {
     "experience": 1
   },

@@ -1,25 +1,25 @@
 {
-    "display": {
-        "icon": {
-            "item": "minecraft:bread"
-        },
-        "title": {"translate":"Bake Bread"},
-        "description": {"translate":"Grow wheat and use it to bake bread"}
+  "display": {
+    "icon": {
+      "item": "minecraft:bread"
     },
-    "parent": "fritecraft:husbandry/plant_seed",
-	"rewards": {
-		"function": "bc_rewards:farming/bake_bread"
-    },		
-    "criteria": {
-        "bread": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:bread"
-                    }
-                ]
-            }
-        }
+    "title": "Pain",
+    "description": "Faites cuir du pain."
+  },
+  "parent": "fritecraft:husbandry/bacon",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "bread": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bread"
+          }
+        ]
+      }
     }
+  }
 }

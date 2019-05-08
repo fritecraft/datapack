@@ -6,7 +6,7 @@
     "title": "Entonnoir",
     "description": "Fabriquez une machine capable de transporter des objets."
   },
-  "parent": "fritecraft:hamburgirl/root",
+  "parent": "fritecraft:hamburgirl/dispense_with_this",
   "rewards": {
     "experience": 1
   },

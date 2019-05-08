@@ -7,7 +7,7 @@
     "title": "Surf",
     "description": "Bloquez une attaque au trident avec votre bouclier."
   },
-  "parent": "fritecraft:hamburgirl/a_watery_grave",
+  "parent": "fritecraft:hamburgirl/the_shielding",
   "rewards": {
     "experience": 1
   },

@@ -7,7 +7,7 @@
     "title": "Planche protectrice",
     "description": "Utilisez votre bouclier pour parer une attaque d'hérétique."
   },
-  "parent": "fritecraft:hamburgirl/heres_johnny",
+  "parent": "fritecraft:hamburgirl/blast_shield",
   "rewards": {
     "experience": 1
   },

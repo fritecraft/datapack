@@ -6,7 +6,7 @@
     "title": "Comparaisons",
     "description": "Fabriquez un comparateur."
   },
-  "parent": "fritecraft:hamburgirl/quirky_quartz",
+  "parent": "fritecraft:hamburgirl/redstone_miner",
   "rewards": {
     "experience": 1
   },

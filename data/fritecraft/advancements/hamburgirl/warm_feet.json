@@ -7,7 +7,7 @@
     "description": "Explorez tous les biomes arides.",
     "frame": "goal"
   },
-  "parent": "fritecraft:hamburgirl/cold_feet",
+  "parent": "fritecraft:hamburgirl/root",
   "rewards": {
     "experience": 1
   },

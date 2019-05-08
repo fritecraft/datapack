@@ -6,7 +6,7 @@
     "title": "Rails electriques",
     "description": "Rendez les chariots à four obsolètes."
   },
-  "parent": "fritecraft:hamburgirl/completely_useless_fuel_engine",
+  "parent": "fritecraft:hamburgirl/redstone_miner",
   "rewards": {
     "experience": 1
   },

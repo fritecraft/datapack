@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:redstone_block"
+    },
+    "title": "Ressources d'ingénieur",
+    "description": "Fabriquez un stack de blocs de redstone.",
+    "frame": "goal"
+  },
+  "parent": "fritecraft:hamburgirl/redstone_miner",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "redstone_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:redstone_block",
+            "count": 64
+          }
+        ]
+      }
+    }
+  }
+}

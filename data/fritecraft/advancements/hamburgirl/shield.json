@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:shield"
+    },
+    "title": "Levez vos boucliers !",
+    "description": "Obtenez un bouclier."
+  },
+  "parent": "fritecraft:hamburgirl/root",
+  "rewards": {
+    "experience": 1
+  },
+  "criteria": {
+    "bread": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:shield"
+          }
+        ]
+      }
+    }
+  }
+}

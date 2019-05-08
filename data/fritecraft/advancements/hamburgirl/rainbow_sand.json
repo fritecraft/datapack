@@ -6,7 +6,7 @@
     "title": "Sable coloré",
     "description": "Fabriquez de la poudre de béton avec du sable, gravier, et teinture."
   },
-  "parent": "fritecraft:hamburgirl/root",
+  "parent": "fritecraft:hamburgirl/shovel",
   "rewards": {
     "experience": 1
   },

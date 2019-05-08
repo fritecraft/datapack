@@ -6,7 +6,7 @@
     "title": "Mannequin",
     "description": "Fabriquez un porte-armure."
   },
-  "parent": "fritecraft:hamburgirl/a_masterpiece",
+  "parent": "fritecraft:hamburgirl/shinny_gear",
   "rewards": {
     "experience": 1
   },
