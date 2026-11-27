@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:fisherman/5_prismarine_crystals_x2",
+    "fritecraft:fisherman/5_nautilus_shell"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

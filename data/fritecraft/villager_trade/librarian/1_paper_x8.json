@@ -1,0 +1,14 @@
+{
+  "gives": {
+    "id": "minecraft:paper",
+    "count": 8
+  },
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 8
+  },
+  "max_uses": 1,
+  "reputation_discount": 0.05,
+  "xp": 2,
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:weaponsmith/1_emerald_enchanted_iron_sword",
+    "fritecraft:weaponsmith/1_emerald_iron_axe",
+    "fritecraft:weaponsmith/1_bow",
+    "fritecraft:weaponsmith/1_achat_coal"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

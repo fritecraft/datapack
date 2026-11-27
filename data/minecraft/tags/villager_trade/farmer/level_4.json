@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:farmer/4_emerald_suspicious_stew",
+    "fritecraft:farmer/4_cake",
+    "fritecraft:farmer/4_hay_block_x2"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

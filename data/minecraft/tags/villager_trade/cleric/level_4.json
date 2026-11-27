@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:cleric/4_emerald_experience_bottle",
+    "fritecraft:cleric/4_phantom_membrane"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

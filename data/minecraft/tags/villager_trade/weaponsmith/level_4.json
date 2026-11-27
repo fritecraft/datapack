@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:weaponsmith/4_diamond_axe"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

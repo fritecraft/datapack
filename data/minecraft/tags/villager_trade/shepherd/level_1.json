@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:shepherd/1_shears",
+    "fritecraft:shepherd/1_white_dye_x4",
+    "fritecraft:shepherd/1_lead_x2",
+    "fritecraft:shepherd/1_achat_white_dye"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

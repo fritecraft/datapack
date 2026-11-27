@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:leatherworker/5_saddle",
+    "fritecraft:leatherworker/5_diamond_horse_armor"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:cartographer/2_emerald_and_compass_village_plains_map",
+    "fritecraft:cartographer/2_emerald_and_compass_village_savanna_map",
+    "fritecraft:cartographer/2_emerald_and_compass_village_desert_map",
+    "fritecraft:cartographer/2_emerald_and_compass_village_taiga_map",
+    "fritecraft:cartographer/2_emerald_and_compass_village_snowy_map",
+    "fritecraft:cartographer/2_achat_ink_sac"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

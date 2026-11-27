@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:cartographer/3_emerald_and_compass_ocean_monument_map",
+    "fritecraft:cartographer/3_emerald_and_compass_buried_trial_chambers_map",
+    "fritecraft:cartographer/3_emerald_and_compass_explorer_jungle_map",
+    "fritecraft:cartographer/3_emerald_and_compass_explorer_swamp_map",
+    "fritecraft:cartographer/3_achat_compass"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

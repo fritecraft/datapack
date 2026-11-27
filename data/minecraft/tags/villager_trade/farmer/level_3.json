@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:farmer/3_melon_slice_x8",
+    "fritecraft:farmer/3_sweet_berries_x8",
+    "fritecraft:farmer/3_cocoa_beans_x8",
+    "fritecraft:farmer/3_achat_melon_slice"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

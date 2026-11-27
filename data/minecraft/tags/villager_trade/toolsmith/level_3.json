@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:toolsmith/3_diamond_hoe",
+    "fritecraft:toolsmith/3_shield",
+    "fritecraft:toolsmith/3_achat_diamond"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

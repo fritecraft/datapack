@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:farmer/1_bread_x8",
+    "fritecraft:farmer/1_apple_x4",
+    "fritecraft:farmer/1_carrot_x8",
+    "fritecraft:farmer/1_achat_wheat"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:cartographer/5_emerald_and_compass_woodland_mansion_map",
+    "fritecraft:cartographer/5_emerald_and_compass_ocean_monument_map"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

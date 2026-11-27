@@ -1,0 +1,14 @@
+{
+  "gives": {
+    "id": "minecraft:emerald",
+    "count": 6
+  },
+  "wants": {
+    "id": "minecraft:compass",
+    "count": 1
+  },
+  "max_uses": 2,
+  "reputation_discount": 0.0,
+  "xp": 16,
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

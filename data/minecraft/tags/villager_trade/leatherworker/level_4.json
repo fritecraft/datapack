@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:leatherworker/4_emerald_dyed_leather_horse_armor",
+    "fritecraft:leatherworker/4_book_x2"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

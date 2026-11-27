@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:leatherworker/2_leather_x8",
+    "fritecraft:leatherworker/2_emerald_dyed_leather_leggings",
+    "fritecraft:leatherworker/2_emerald_dyed_leather_chestplate",
+    "fritecraft:leatherworker/2_achat_rabbit_hide"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

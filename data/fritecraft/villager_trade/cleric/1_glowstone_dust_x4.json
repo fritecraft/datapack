@@ -1,0 +1,14 @@
+{
+  "gives": {
+    "id": "minecraft:glowstone_dust",
+    "count": 4
+  },
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 4
+  },
+  "max_uses": 4,
+  "reputation_discount": 0.05,
+  "xp": 2,
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

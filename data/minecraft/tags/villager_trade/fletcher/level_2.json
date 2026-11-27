@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:fletcher/2_bow",
+    "fritecraft:fletcher/2_string_x10",
+    "fritecraft:fletcher/2_achat_feather"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

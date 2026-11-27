@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:shepherd/2_red_dye_x4",
+    "fritecraft:shepherd/2_blue_dye_x4",
+    "fritecraft:shepherd/2_yellow_dye_x4",
+    "fritecraft:shepherd/2_green_dye_x4",
+    "fritecraft:shepherd/2_achat_red_dye"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

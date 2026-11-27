@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:mason/5_amethyst_block",
+    "fritecraft:mason/5_stonecutter",
+    "fritecraft:mason/5_lantern_x2"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

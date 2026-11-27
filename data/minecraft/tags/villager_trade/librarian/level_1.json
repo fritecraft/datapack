@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:librarian/1_emerald_and_book_enchanted_book",
+    "fritecraft:librarian/1_bookshelf",
+    "fritecraft:librarian/1_paper_x8",
+    "fritecraft:librarian/1_achat_paper"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

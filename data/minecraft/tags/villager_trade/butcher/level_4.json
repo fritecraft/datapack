@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:butcher/4_golden_carrot_x4",
+    "fritecraft:butcher/4_cooked_salmon_x6",
+    "fritecraft:butcher/4_cooked_cod_x6"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}

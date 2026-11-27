@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "fritecraft:armorer/3_lantern_x2",
+    "fritecraft:armorer/3_flint_and_steel",
+    "fritecraft:armorer/3_campfire",
+    "fritecraft:armorer/3_achat_gold_ingot"
+  ],
+  "_commentaire": "Généré par outils/generer_echanges.py (dépôt friteshop) : ne pas modifier à la main, relancer le générateur."
+}
